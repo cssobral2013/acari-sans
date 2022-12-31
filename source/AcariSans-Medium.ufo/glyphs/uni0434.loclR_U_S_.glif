@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0434.loclRUS" format="2">
+  <advance width="1163"/>
+  <outline>
+    <contour>
+      <point x="1095" y="-307" type="line"/>
+      <point x="899" y="-307" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="-307" type="line"/>
+      <point x="13" y="-307" type="line"/>
+      <point x="13" y="149" type="line"/>
+      <point x="139" y="149" type="line"/>
+      <point x="206" y="224"/>
+      <point x="260" y="465"/>
+      <point x="260" y="616" type="qcurve" smooth="yes"/>
+      <point x="260" y="999" type="line"/>
+      <point x="975" y="999" type="line"/>
+      <point x="975" y="149" type="line"/>
+      <point x="1095" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="779" y="149" type="line"/>
+      <point x="779" y="851" type="line"/>
+      <point x="455" y="851" type="line"/>
+      <point x="455" y="617" type="line" smooth="yes"/>
+      <point x="455" y="278"/>
+      <point x="343" y="149" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

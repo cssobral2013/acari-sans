@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="2">
+  <advance width="1671"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="1538" y="0" type="line"/>
+      <point x="936" y="0" type="line"/>
+      <point x="936" y="205" type="line"/>
+      <point x="1110" y="224"/>
+      <point x="1299" y="507"/>
+      <point x="1299" y="703" type="qcurve" smooth="yes"/>
+      <point x="1299" y="803"/>
+      <point x="1239" y="977"/>
+      <point x="1189" y="1026" type="qcurve"/>
+      <point x="1121" y="1097"/>
+      <point x="931" y="1180"/>
+      <point x="835" y="1180" type="qcurve" smooth="yes"/>
+      <point x="708" y="1180"/>
+      <point x="497" y="1060"/>
+      <point x="370" y="845"/>
+      <point x="370" y="703" type="qcurve" smooth="yes"/>
+      <point x="370" y="486"/>
+      <point x="565" y="214"/>
+      <point x="733" y="205" type="qcurve"/>
+      <point x="733" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="131" y="225" type="line"/>
+      <point x="382" y="225" type="line"/>
+      <point x="275" y="323"/>
+      <point x="135" y="590"/>
+      <point x="135" y="722" type="qcurve" smooth="yes"/>
+      <point x="135" y="908"/>
+      <point x="322" y="1220"/>
+      <point x="639" y="1407"/>
+      <point x="835" y="1407" type="qcurve" smooth="yes"/>
+      <point x="976" y="1407"/>
+      <point x="1253" y="1285"/>
+      <point x="1349" y="1188" type="qcurve"/>
+      <point x="1433" y="1100"/>
+      <point x="1534" y="847"/>
+      <point x="1534" y="714" type="qcurve" smooth="yes"/>
+      <point x="1534" y="577"/>
+      <point x="1409" y="312"/>
+      <point x="1309" y="214" type="qcurve"/>
+      <point x="1538" y="214" type="line"/>
+    </contour>
+  </outline>
+</glyph>

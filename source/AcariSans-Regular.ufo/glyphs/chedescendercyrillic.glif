@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedescendercyrillic" format="2">
+  <advance width="1077"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="1045" y="-238" type="line"/>
+      <point x="895" y="-238" type="line"/>
+      <point x="895" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+      <point x="757" y="433" type="line"/>
+      <point x="735" y="390"/>
+      <point x="647" y="303"/>
+      <point x="520" y="243"/>
+      <point x="444" y="243" type="qcurve" smooth="yes"/>
+      <point x="322" y="243"/>
+      <point x="170" y="358"/>
+      <point x="98" y="552"/>
+      <point x="98" y="671" type="qcurve" smooth="yes"/>
+      <point x="98" y="999" type="line"/>
+      <point x="249" y="999" type="line"/>
+      <point x="249" y="668" type="line" smooth="yes"/>
+      <point x="249" y="542"/>
+      <point x="342" y="372"/>
+      <point x="456" y="372" type="qcurve" smooth="yes"/>
+      <point x="542" y="372"/>
+      <point x="678" y="466"/>
+      <point x="757" y="614"/>
+      <point x="757" y="693" type="qcurve" smooth="yes"/>
+      <point x="757" y="999" type="line"/>
+      <point x="908" y="999" type="line"/>
+      <point x="908" y="168" type="line"/>
+      <point x="1045" y="168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

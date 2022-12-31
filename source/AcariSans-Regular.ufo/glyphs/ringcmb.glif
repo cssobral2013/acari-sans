@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcmb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="-316" y="999" name="_t.ringcmb_1"/>
+  <outline>
+    <contour>
+      <point x="-317" y="1079" type="qcurve" smooth="yes"/>
+      <point x="-408" y="1079"/>
+      <point x="-520" y="1202"/>
+      <point x="-520" y="1282" type="qcurve" smooth="yes"/>
+      <point x="-520" y="1371"/>
+      <point x="-399" y="1486"/>
+      <point x="-317" y="1486" type="qcurve" smooth="yes"/>
+      <point x="-235" y="1486"/>
+      <point x="-113" y="1369"/>
+      <point x="-113" y="1282" type="qcurve" smooth="yes"/>
+      <point x="-113" y="1195"/>
+      <point x="-235" y="1079"/>
+    </contour>
+    <contour>
+      <point x="-317" y="1182" type="qcurve" smooth="yes"/>
+      <point x="-275" y="1182"/>
+      <point x="-217" y="1239"/>
+      <point x="-217" y="1283" type="qcurve" smooth="yes"/>
+      <point x="-217" y="1324"/>
+      <point x="-272" y="1381"/>
+      <point x="-317" y="1381" type="qcurve" smooth="yes"/>
+      <point x="-361" y="1381"/>
+      <point x="-415" y="1327"/>
+      <point x="-415" y="1283" type="qcurve" smooth="yes"/>
+      <point x="-415" y="1238"/>
+      <point x="-359" y="1182"/>
+    </contour>
+  </outline>
+</glyph>

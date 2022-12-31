@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="651"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="548" y="1062" type="line"/>
+      <point x="458" y="1062" type="line"/>
+      <point x="512" y="1245" type="line" smooth="yes"/>
+      <point x="526" y="1290"/>
+      <point x="553" y="1382"/>
+      <point x="566" y="1428" type="qcurve"/>
+      <point x="756" y="1428" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="-20" type="qcurve" smooth="yes"/>
+      <point x="309" y="-20"/>
+      <point x="204" y="123"/>
+      <point x="204" y="258" type="qcurve" smooth="yes"/>
+      <point x="204" y="883" type="line"/>
+      <point x="49" y="883" type="line"/>
+      <point x="49" y="986" type="line"/>
+      <point x="204" y="986" type="line"/>
+      <point x="204" y="1205" type="line"/>
+      <point x="332" y="1334" type="line"/>
+      <point x="332" y="986" type="line"/>
+      <point x="584" y="986" type="line"/>
+      <point x="584" y="883" type="line"/>
+      <point x="332" y="883" type="line"/>
+      <point x="332" y="244" type="line" smooth="yes"/>
+      <point x="332" y="164"/>
+      <point x="396" y="84"/>
+      <point x="453" y="84" type="qcurve" smooth="yes"/>
+      <point x="483" y="84"/>
+      <point x="531" y="93"/>
+      <point x="552" y="102" type="qcurve"/>
+      <point x="552" y="-3" type="line"/>
+      <point x="538" y="-8"/>
+      <point x="475" y="-20"/>
+    </contour>
+  </outline>
+</glyph>
