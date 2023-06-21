@@ -15,14 +15,14 @@ sfntRevision: 0x00011020
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 467 -1401554168 15490425]
+XUID: [1021 467 -1401554168 15547248]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1480856841
-ModificationTime: 1686780922
+ModificationTime: 1687305742
 PfmFamily: 81
 TTFWeight: 200
 TTFWidth: 5
@@ -57,36 +57,36 @@ OS2XHeight: 1039
 OS2Vendor: 'AMSP'
 OS2CodePages: 20000197.00000000
 OS2UnicodeRanges: 2000020f.00000001.00000000.00000000
-Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "AcariSans-Regular-Single Substitution lookup 3" { "AcariSans-Regular-Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "AcariSans-Regular-Single Substitution lookup 2" { "AcariSans-Regular-Single Substitution lookup 2 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 23" { "'locl' Localized Forms in Latin lookup 23-1" ("loclTRK") } ['locl' ('latn' <'AZE ' 'CRT ' 'KAZ ' 'TAT ' 'TRK ' > ) ]
+Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4" { "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5" { "'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
+Lookup: 6 0 0 "AcariSans-Regular-'ccmp' Glyph Composition/Decomposition lookup 4" { "AcariSans-Regular-'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "AcariSans-Regular-'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6" { "'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 8" { "'locl' Localized Forms in Cyrillic lookup 8 subtable"  } ['locl' ('cyrl' <'SRB ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 9" { "'locl' Localized Forms in Cyrillic lookup 9 subtable"  } ['locl' ('cyrl' <'MKD ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 10" { "'locl' Localized Forms in Cyrillic lookup 10 subtable"  } ['locl' ('cyrl' <'BGR ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 11" { "'locl' Localized Forms in Cyrillic lookup 11 subtable"  } ['locl' ('cyrl' <'RUS ' > ) ]
-Lookup: 6 0 0 "'ordn' Ordinals lookup 12" { "'ordn' Ordinals lookup 12 contextual 0"  "'ordn' Ordinals lookup 12 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'ordn' Ordinals lookup 13" { "'ordn' Ordinals lookup 13 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 14" { "'liga' Standard Ligatures lookup 14 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 15" { "'salt' Stylistic Alternatives lookup 15 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Style Set 1 lookup 16" { "'ss01' Style Set 1 lookup 16 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss03' Style Set 3 lookup 17" { "'ss03' Style Set 3 lookup 17 subtable"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Style Set 2 lookup 18" { "'ss02' Style Set 2 lookup 18 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 19" { "'sups' Superscript lookup 19 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'hist' Historical Forms lookup 20" { "'hist' Historical Forms lookup 20 subtable"  } ['hist' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 21" { "'sinf' Scientific Inferiors lookup 21 subtable"  } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript lookup 22" { "'subs' Subscript lookup 22 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 257 0 0 "'cpsp' Capital Spacing lookup 0" { "'cpsp' Capital Spacing lookup 0 subtable"  } ['cpsp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 1" { "'mark' Mark Positioning lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 3" { "'kern' Horizontal Kerning lookup 3 per glyph data 0"  "'kern' Horizontal Kerning lookup 3 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "AcariSans-Regular-'ordn' Ordinals lookup 12" { "AcariSans-Regular-'ordn' Ordinals lookup 12 contextual 0"  "AcariSans-Regular-'ordn' Ordinals lookup 12 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ordn' Ordinals lookup 13" { "'ordn' Ordinals lookup 13 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 14" { "'liga' Standard Ligatures lookup 14 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 15" { "'salt' Stylistic Alternatives lookup 15 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set 1 lookup 16" { "'ss01' Style Set 1 lookup 16 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Style Set 3 lookup 17" { "'ss03' Style Set 3 lookup 17 subtable"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set 2 lookup 18" { "'ss02' Style Set 2 lookup 18 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 19" { "'sups' Superscript lookup 19 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'hist' Historical Forms lookup 20" { "'hist' Historical Forms lookup 20 subtable"  } ['hist' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 21" { "'sinf' Scientific Inferiors lookup 21 subtable"  } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 22" { "'subs' Subscript lookup 22 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Kerning Horizontal in Latin lookup 0" { "'kern' Kerning Horizontal in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Kerning Horizontal lookup 1" { "'kern' Kerning Horizontal lookup 1 subtable"  } ['kern' ('cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 6 8 "'kern' Horizontal Kerning lookup 3 kerning class 1"
+KernClass2: 6 8 "'kern' Kerning Horizontal lookup 1 subtable"
  25 V uni040E uni0423 uni0474
  55 A L uni0410 uni0466 uni0468 uni2206 uni0414.1 uni041B.1
  37 W Wcircumflex Wgrave Wacute Wdieresis
@@ -100,35 +100,82 @@ KernClass2: 6 8 "'kern' Horizontal Kerning lookup 3 kerning class 1"
  125 uni0435 uni0437 uni043E uni0441 uni0444 uni0450 uni0451 uni0467 uni0473 uni0479 uni0433.1 uni0434.1 uni0437.loclSRB uni043B.1
  447 a c d e f g i j l o q s u cent ae ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis cacute cdotaccent ccaron dcaron dcroat emacron edotaccent eogonek ecaron gbreve gdotaccent uni0123 omacron ohungarumlaut oe umacron uhungarumlaut uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni0430 uni1EBD uni1EBF uni1EC1 uni1EC5 uni1ED1 uni1ED3 uni1ED7 partialdiff infinity
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} -164 {} -123 {} -164 {} 0 {} 0 {} 0 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} -61 {} 0 {} -164 {} 0 {} 0 {} 0 {} -246 {} -184 {} -184 {} 0 {} 0 {} 0 {} 0 {} -184 {} 0 {} 0 {} 0 {}
-ChainSub2: coverage "'ordn' Ordinals lookup 12 contextual 1" 0 0 0 1
+ChainSub2: coverage "AcariSans-Regular-'ordn' Ordinals lookup 12 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
   BCoverage: 49 zero one two three four five six seven eight nine
  1
-  SeqLookup: 0 "Single Substitution lookup 3"
+  SeqLookup: 0 "AcariSans-Regular-Single Substitution lookup 3"
 EndFPST
-ChainSub2: coverage "'ordn' Ordinals lookup 12 contextual 0" 0 0 0 1
+ChainSub2: coverage "AcariSans-Regular-'ordn' Ordinals lookup 12 contextual 0" 0 0 0 1
  1 1 0
   Coverage: 3 A a
   BCoverage: 49 zero one two three four five six seven eight nine
  1
-  SeqLookup: 0 "Single Substitution lookup 3"
+  SeqLookup: 0 "AcariSans-Regular-Single Substitution lookup 3"
 EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1" 0 0 0 1
+ChainSub2: coverage "AcariSans-Regular-'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1" 0 0 0 1
  1 0 2
   Coverage: 3 i j
   FCoverage: 23 uni031B uni0327 uni0328
   FCoverage: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0312
  1
-  SeqLookup: 0 "Single Substitution lookup 2"
+  SeqLookup: 0 "AcariSans-Regular-Single Substitution lookup 2"
 EndFPST
-ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0" 0 0 0 1
+ChainSub2: coverage "AcariSans-Regular-'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0" 0 0 0 1
  1 0 1
   Coverage: 3 i j
   FCoverage: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0312
  1
-  SeqLookup: 0 "Single Substitution lookup 2"
+  SeqLookup: 0 "AcariSans-Regular-Single Substitution lookup 2"
 EndFPST
+MacFeat: 0 0 0
+MacName: 0 0 24 "All Typographic Features"
+MacName: 0 1 24 "Fonctions typographiques"
+MacName: 0 2 33 "Alle typografischen M\232glichkeiten"
+MacName: 0 3 21 "Funzioni Tipografiche"
+MacName: 0 4 28 "Alle typografische kenmerken"
+MacSetting: 0
+MacName: 0 0 17 "All Type Features"
+MacName: 0 1 31 "Toutes fonctions typographiques"
+MacName: 0 2 23 "Alle Auszeichnungsarten"
+MacName: 0 3 17 "Tutte le Funzioni"
+MacName: 0 4 18 "Alle typekenmerken"
+MacFeat: 1 0 0
+MacName: 0 0 9 "Ligatures"
+MacName: 0 1 9 "Ligatures"
+MacName: 0 2 9 "Ligaturen"
+MacName: 0 3 8 "Legature"
+MacName: 0 4 9 "Ligaturen"
+MacSetting: 2
+MacName: 0 0 16 "Common Ligatures"
+MacName: 0 1 18 "Ligatures Usuelles"
+MacName: 0 2 17 "Normale Ligaturen"
+MacName: 0 3 19 "Legature pi\235 Comuni"
+MacName: 0 4 28 "Gemeenschappelijke Ligaturen"
+MacFeat: 10 1 0
+MacName: 0 0 17 "Vertical Position"
+MacName: 0 1 18 "Position Verticale"
+MacName: 0 4 17 "Verticale positie"
+MacSetting: 0
+MacName: 0 0 24 "Normal Vertical Position"
+MacName: 0 1 26 "Position Verticale Normale"
+MacName: 0 2 6 "Normal"
+MacName: 0 3 17 "Posizione Normale"
+MacName: 0 4 25 "Normale verticale positie"
+MacSetting: 1
+MacName: 0 0 9 "Superiors"
+MacName: 0 1 19 "Position Sup\216rieure"
+MacName: 0 2 12 "Hochgestellt"
+MacName: 0 3 5 "Apice"
+MacName: 0 4 11 "Superieuren"
+MacSetting: 2
+MacName: 0 0 9 "Inferiors"
+MacName: 0 1 19 "Position Inf\216rieure"
+MacName: 0 2 12 "Tiefgestellt"
+MacName: 0 3 6 "Pedice"
+MacName: 0 4 11 "Inferieuren"
+EndMacFeatures
 TtTable: prep
 SVTCA[y-axis]
 MPPEM
@@ -4001,7 +4048,8 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 54 27 9
-AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable"
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65586 760
 
 StartChar: .notdef
@@ -7175,9 +7223,10 @@ SplineSet
  358 419 l 1,10,-1
  940 419 l 1,8,-1
 EndSplineSet
+Substitution2: "AcariSans-Regular-Single Substitution lookup 3 subtable" ordfeminine
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" ordfeminine
 Substitution2: "Single Substitution lookup 3 subtable" ordfeminine
 Substitution2: "Single Substitution lookup 2 subtable" ordfeminine
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: B
@@ -7289,7 +7338,6 @@ SplineSet
  338 103 l 1,35,-1
  660 103 l 2,28,29
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: C
@@ -7372,7 +7420,6 @@ SplineSet
  1236 168 1236 168 1092.5 74 c 128,-1,30
  949 -20 949 -20 761 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: D
@@ -7449,7 +7496,6 @@ SplineSet
  343 104 l 1,19,-1
  541 104 l 2,9,10
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: E
@@ -7517,7 +7563,6 @@ SplineSet
  1131 101 l 1,11,-1
  1131 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: F
@@ -7577,8 +7622,7 @@ SplineSet
  343 664 l 1,9,-1
  343 0 l 1,0,-1
 EndSplineSet
-Kerns2: 722 -102 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 720 -102 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 506 -102 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 422 -102 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 36 -102 "'kern' Horizontal Kerning lookup 3 per glyph data 0"
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+Kerns2: 506 -102 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 422 -102 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -102 "'kern' Kerning Horizontal in Latin lookup 0 subtable"
 EndChar
 
 StartChar: G
@@ -7861,7 +7905,6 @@ SplineSet
  1197 156 1197 156 1075 72 c 0,38,39
  942 -20 942 -20 761 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: H
@@ -7921,7 +7964,6 @@ SplineSet
  1219 1413 l 1,11,-1
  1219 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: I
@@ -7959,7 +8001,6 @@ SplineSet
  342 1413 l 1,3,-1
  342 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: J
@@ -8025,7 +8066,6 @@ SplineSet
  910 498 l 2,16,17
  910 -20 910 -20 495 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: K
@@ -8084,7 +8124,6 @@ SplineSet
  791 866 l 1,11,-1
  1346 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: L
@@ -8130,7 +8169,6 @@ SplineSet
  949 101 l 1,5,-1
  949 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: M
@@ -8198,7 +8236,6 @@ SplineSet
  1528 1413 l 1,12,-1
  1528 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: N
@@ -8253,7 +8290,6 @@ SplineSet
  1182 1413 l 1,9,-1
  1182 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: O
@@ -8334,9 +8370,10 @@ SplineSet
  444 187 444 187 533 143 c 1,34,35
  628 91 628 91 760 91 c 0,16,17
 EndSplineSet
+Substitution2: "AcariSans-Regular-Single Substitution lookup 3 subtable" ordmasculine
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" ordmasculine
 Substitution2: "Single Substitution lookup 3 subtable" ordmasculine
 Substitution2: "Single Substitution lookup 2 subtable" ordmasculine
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: P
@@ -8411,7 +8448,6 @@ SplineSet
  343 758 l 1,20,-1
  604 758 l 2,11,12
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Q
@@ -8504,7 +8540,6 @@ SplineSet
  444 187 444 187 533 143 c 1,38,39
  628 91 628 91 760 91 c 0,19,20
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: R
@@ -8592,7 +8627,6 @@ SplineSet
  345 762 l 1,25,-1
  637 762 l 1,15,16
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: S
@@ -8704,7 +8738,6 @@ SplineSet
  809 40 809 40 732.5 12 c 128,-1,59
  656 -16 656 -16 567 -16 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: T
@@ -8754,7 +8787,6 @@ SplineSet
  689 1328 l 1,7,-1
  689 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: U
@@ -8819,7 +8851,6 @@ SplineSet
  1147 293 1147 293 1037 148 c 0,18,19
  909 -20 909 -20 673 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: V
@@ -8868,7 +8899,6 @@ SplineSet
  1233 1413 l 1,6,-1
  718 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: W
@@ -8929,7 +8959,6 @@ SplineSet
  1872 1413 l 1,12,-1
  1485 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: X
@@ -8988,7 +9017,6 @@ SplineSet
  672 707 l 1,11,-1
  1133 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Y
@@ -9041,7 +9069,6 @@ SplineSet
  714 553 l 1,8,-1
  714 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Z
@@ -9107,7 +9134,6 @@ SplineSet
  1167 105 l 1,9,-1
  1167 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: bracketleft
@@ -9688,6 +9714,8 @@ SplineSet
  204 167 204 167 263 117 c 128,-1,37
  322 67 322 67 418 67 c 0,27,28
 EndSplineSet
+Substitution2: "AcariSans-Regular-Single Substitution lookup 3 subtable" ordfeminine
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" ordfeminine
 Substitution2: "Single Substitution lookup 3 subtable" ordfeminine
 Substitution2: "Single Substitution lookup 2 subtable" ordfeminine
 EndChar
@@ -10808,9 +10836,10 @@ SplineSet
  299 997 l 1,7,-1
  299 0 l 1,4,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" i.loclTRK
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" dotlessi
 Substitution2: "Single Substitution lookup 2 subtable" dotlessi
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 23-1" i.loclTRK
 EndChar
 
 StartChar: j
@@ -10941,6 +10970,7 @@ SplineSet
  249 -374 249 -374 194.5 -407 c 128,-1,20
  140 -440 140 -440 52 -440 c 0,4,5
 EndSplineSet
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" uni0237
 Substitution2: "Single Substitution lookup 2 subtable" uni0237
 EndChar
 
@@ -11486,6 +11516,8 @@ SplineSet
  218 324 218 324 316 208 c 0,30,31
  424 82 424 82 577 82 c 0,16,17
 EndSplineSet
+Substitution2: "AcariSans-Regular-Single Substitution lookup 3 subtable" ordmasculine
+Substitution2: "AcariSans-Regular-Single Substitution lookup 2 subtable" ordmasculine
 Substitution2: "Single Substitution lookup 3 subtable" ordmasculine
 Substitution2: "Single Substitution lookup 2 subtable" ordmasculine
 EndChar
@@ -13604,7 +13636,7 @@ EndChar
 StartChar: ordfeminine
 Encoding: 170 170 108
 Width: 810
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14607,7 +14639,7 @@ EndChar
 StartChar: twosuperior
 Encoding: 178 178 116
 Width: 898
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -14683,7 +14715,7 @@ EndChar
 StartChar: threesuperior
 Encoding: 179 179 117
 Width: 906
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15037,7 +15069,7 @@ EndChar
 StartChar: cedilla
 Encoding: 184 184 122
 Width: 584
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -15109,7 +15141,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-3" 277 -500 basemark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15140,7 +15171,7 @@ EndChar
 StartChar: onesuperior
 Encoding: 185 185 123
 Width: 1042
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15192,7 +15223,7 @@ EndChar
 StartChar: ordmasculine
 Encoding: 186 186 124
 Width: 862
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -15467,7 +15498,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 791 427 0
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Aacute
@@ -15489,7 +15519,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1039 427 0
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Acircumflex
@@ -15579,7 +15608,6 @@ SplineSet
  358 419 l 1,16,-1
  940 419 l 1,14,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Atilde
@@ -15601,7 +15629,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1076 392 0
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Adieresis
@@ -15623,7 +15650,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1064 317 0
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Aring
@@ -15730,7 +15756,6 @@ SplineSet
  358 419 l 1,35,-1
  940 419 l 1,33,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: AE
@@ -15827,7 +15852,6 @@ SplineSet
  355 421 l 1,19,-1
  821 421 l 1,16,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ccedilla
@@ -15849,7 +15873,6 @@ LayerCount: 2
 Fore
 Refer: 403 807 N 1 0 0 1 1047 2 0
 Refer: 38 67 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Egrave
@@ -15871,7 +15894,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 822 427 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Eacute
@@ -15893,7 +15915,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1070 427 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ecircumflex
@@ -15981,7 +16002,6 @@ SplineSet
  1131 101 l 1,17,-1
  1131 0 l 1,6,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Edieresis
@@ -16003,7 +16023,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1095 317 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Igrave
@@ -16025,7 +16044,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 427 427 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Iacute
@@ -16047,7 +16065,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 675 427 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Icircumflex
@@ -16069,7 +16086,6 @@ LayerCount: 2
 Fore
 Refer: 388 770 N 1 0 0 1 681 453 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Idieresis
@@ -16091,7 +16107,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 700 317 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Eth
@@ -16193,7 +16208,6 @@ SplineSet
  371 113 l 1,27,-1
  566 113 l 2,13,14
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ntilde
@@ -16215,7 +16229,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1132 392 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ograve
@@ -16237,7 +16250,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 905 427 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Oacute
@@ -16259,7 +16271,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1153 427 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ocircumflex
@@ -16360,7 +16371,6 @@ SplineSet
  444 187 444 187 533 143 c 1,40,41
  628 91 628 91 760 91 c 0,22,23
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Otilde
@@ -16382,7 +16392,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1189 392 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Odieresis
@@ -16404,7 +16413,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1177 317 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: multiply
@@ -16833,7 +16841,6 @@ SplineSet
  500 154 l 1,45,46
  605 88 605 88 757 88 c 0,37,38
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ugrave
@@ -16855,7 +16862,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 817 427 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Uacute
@@ -16877,7 +16883,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1065 427 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Ucircumflex
@@ -16899,7 +16904,6 @@ LayerCount: 2
 Fore
 Refer: 388 770 N 1 0 0 1 1070 453 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Udieresis
@@ -16988,7 +16992,6 @@ SplineSet
  1147 293 1147 293 1037 148 c 0,26,27
  909 -20 909 -20 673 -20 c 0,8,9
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Yacute
@@ -17010,7 +17013,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1050 427 0
 Refer: 60 89 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Thorn
@@ -17093,7 +17095,6 @@ SplineSet
  345 557 l 1,24,-1
  610 557 l 2,15,16
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: germandbls
@@ -19437,7 +19438,6 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 -1 0 0
 Refer: 390 772 N 1 0 0 1 1084 414 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: amacron
@@ -19470,7 +19470,6 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 -1 0 0
 Refer: 391 774 N 1 0 0 1 1069 414 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: abreve
@@ -19600,7 +19599,6 @@ SplineSet
  1272 -347 l 1,30,31
  1203 -453 1203 -453 1075 -453 c 0,11,12
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: aogonek
@@ -19844,7 +19842,6 @@ SplineSet
  1236 168 1236 168 1092.5 74 c 128,-1,34
  949 -20 949 -20 761 -20 c 0,4,5
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: cacute
@@ -20001,7 +19998,6 @@ LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 -1 0 0
 Refer: 392 775 N 1 0 0 1 1002 414 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: cdotaccent
@@ -20203,7 +20199,6 @@ SplineSet
  1236 168 1236 168 1092.5 74 c 128,-1,36
  949 -20 949 -20 761 -20 c 0,6,7
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ccaron
@@ -20327,7 +20322,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1144 469 0
 Refer: 39 68 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: dcaron
@@ -20752,7 +20746,6 @@ SplineSet
  371 113 l 1,27,-1
  566 113 l 2,13,14
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: dcroat
@@ -21108,7 +21101,6 @@ LayerCount: 2
 Fore
 Refer: 390 772 N 1 0 0 1 1116 353 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: emacron
@@ -21193,7 +21185,6 @@ LayerCount: 2
 Fore
 Refer: 392 775 N 1 0 0 1 923 317 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: edotaccent
@@ -21333,7 +21324,6 @@ SplineSet
  1193 -347 l 1,31,32
  1124 -453 1124 -453 996 -453 c 0,12,13
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: eogonek
@@ -21542,7 +21532,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1075 469 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ecaron
@@ -21627,7 +21616,6 @@ LayerCount: 2
 Fore
 Refer: 391 774 N 1 0 0 1 1180 408 0
 Refer: 42 71 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: gbreve
@@ -21673,7 +21661,6 @@ LayerCount: 2
 Fore
 Refer: 392 775 N 1 0 0 1 1002 317 0
 Refer: 42 71 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: gdotaccent
@@ -21717,7 +21704,6 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 998 -20 0
 Refer: 42 71 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0123
@@ -21780,7 +21766,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 388 770 S 1 0 0 1 633 430 0
+Refer: 388 770 N 1 0 0 1 633 430 0
 Refer: 75 104 N 1 0 0 1 -1 0 0
 EndChar
 
@@ -21880,7 +21866,6 @@ SplineSet
  342 751 l 1,23,-1
  1104 751 l 1,20,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: hbar
@@ -21996,7 +21981,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 712 392 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: itilde
@@ -22039,7 +22023,6 @@ LayerCount: 2
 Fore
 Refer: 390 772 N 1 0 0 1 721 353 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: imacron
@@ -22191,7 +22174,6 @@ SplineSet
  408 -347 l 1,23,24
  339 -453 339 -453 211 -453 c 0,4,5
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: iogonek
@@ -22255,13 +22237,12 @@ SplineSet
  342 1413 l 1,7,-1
  342 0 l 1,4,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: dotlessi
 Encoding: 305 305 240
 Width: 473
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -22304,7 +22285,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 -1 0 0
 Refer: 45 74 N 1 0 0 1 568 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ij
@@ -22335,7 +22315,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 388 770 S 1 0 0 1 1260 453 0
+Refer: 388 770 N 1 0 0 1 1260 453 0
 Refer: 45 74 N 1 0 0 1 -1 0 0
 EndChar
 
@@ -22369,7 +22349,6 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 1024 0 0
 Refer: 46 75 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0137
@@ -22460,7 +22439,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 979 427 0
 Refer: 47 76 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: lacute
@@ -22493,7 +22471,6 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 825 0 0
 Refer: 47 76 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni013C
@@ -22576,7 +22553,6 @@ SplineSet
  865 1413 l 1,9,-1
  667 1046 l 1,6,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: lcaron
@@ -22894,7 +22870,6 @@ SplineSet
  964 101 l 1,13,-1
  964 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: lslash
@@ -23000,7 +22975,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1095 427 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: nacute
@@ -23033,7 +23007,6 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 942 0 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0146
@@ -23066,7 +23039,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1100 469 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ncaron
@@ -23177,7 +23149,6 @@ SplineSet
  1182 -194 1182 -194 1121 -282 c 128,-1,21
  1060 -370 1060 -370 921 -370 c 2,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: eng
@@ -23329,7 +23300,6 @@ LayerCount: 2
 Fore
 Refer: 390 772 N 1 0 0 1 1199 353 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: omacron
@@ -23414,7 +23384,6 @@ LayerCount: 2
 Fore
 Refer: 396 779 N 1 0 0 1 1317 417 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ohungarumlaut
@@ -23895,7 +23864,6 @@ SplineSet
  258 442 258 442 375 271 c 0,41,42
  508 79 508 79 757 79 c 0,27,28
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: oe
@@ -24061,7 +24029,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 949 427 0
 Refer: 53 82 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: racute
@@ -24104,7 +24071,6 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 901 -2 0
 Refer: 53 82 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0157
@@ -24137,7 +24103,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 983 469 0
 Refer: 53 82 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: rcaron
@@ -24180,7 +24145,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 945 427 0
 Refer: 54 83 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: sacute
@@ -24268,7 +24232,6 @@ Refer: 54 83 N 1 0 0 1 -1 0 0
 Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" uni0218
 Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" uni0218
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0218
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: scedilla
@@ -24314,7 +24277,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 949 469 0
 Refer: 54 83 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: scaron
@@ -24358,7 +24320,6 @@ Fore
 Refer: 403 807 N 1 0 0 1 916 22 0
 Refer: 55 84 N 1 0 0 1 -1 0 0
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021A
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0163
@@ -24451,7 +24412,6 @@ SplineSet
  689 1328 l 1,13,-1
  689 0 l 1,6,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: tcaron
@@ -24638,7 +24598,6 @@ SplineSet
  689 659 l 1,15,-1
  689 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: tbar
@@ -24780,7 +24739,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1101 392 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: utilde
@@ -24823,7 +24781,6 @@ LayerCount: 2
 Fore
 Refer: 390 772 N 1 0 0 1 1111 353 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: umacron
@@ -24908,7 +24865,6 @@ LayerCount: 2
 Fore
 Refer: 395 778 N 1 0 0 1 993 469 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uring
@@ -24951,7 +24907,6 @@ LayerCount: 2
 Fore
 Refer: 396 779 N 1 0 0 1 1230 417 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uhungarumlaut
@@ -25073,7 +25028,6 @@ SplineSet
  883 -386 883 -386 851 -413 c 0,45,46
  805 -446 805 -446 734 -449 c 2,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uogonek
@@ -25212,7 +25166,6 @@ LayerCount: 2
 Fore
 Refer: 388 770 N 1 0 0 1 1381 453 0
 Refer: 58 87 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: wcircumflex
@@ -25255,7 +25208,6 @@ LayerCount: 2
 Fore
 Refer: 388 770 N 1 0 0 1 1055 453 0
 Refer: 60 89 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ycircumflex
@@ -25298,7 +25250,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1075 317 0
 Refer: 60 89 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: Zacute
@@ -25320,7 +25271,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1047 427 0
 Refer: 61 90 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: zacute
@@ -25363,7 +25313,6 @@ LayerCount: 2
 Fore
 Refer: 392 775 N 1 0 0 1 899 317 0
 Refer: 61 90 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: zdotaccent
@@ -25469,7 +25418,6 @@ SplineSet
  1167 105 l 1,15,-1
  1167 0 l 1,6,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: zcaron
@@ -25596,7 +25544,7 @@ EndChar
 StartChar: longs
 Encoding: 383 383 318
 Width: 696
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -26388,7 +26336,6 @@ LayerCount: 2
 Fore
 Refer: 316 381 N 1 0 0 1 1410 0 0
 Refer: 39 68 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01C5
@@ -26400,7 +26347,6 @@ LayerCount: 2
 Fore
 Refer: 317 382 N 1 0 0 1 1410 0 0
 Refer: 39 68 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01C6
@@ -26423,7 +26369,6 @@ LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 1029 0 0
 Refer: 47 76 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01C8
@@ -26435,7 +26380,6 @@ LayerCount: 2
 Fore
 Refer: 77 106 N 1 0 0 1 1029 0 0
 Refer: 47 76 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01C9
@@ -26458,7 +26402,6 @@ LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 1408 0 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01CB
@@ -26470,7 +26413,6 @@ LayerCount: 2
 Fore
 Refer: 77 106 N 1 0 0 1 1408 0 0
 Refer: 49 78 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01CC
@@ -26503,7 +26445,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1044 469 0
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01CE
@@ -26546,7 +26487,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 680 469 0
 Refer: 44 73 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01D0
@@ -26589,7 +26529,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1157 469 0
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01D2
@@ -26632,7 +26571,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1069 469 0
 Refer: 56 85 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01D4
@@ -26675,7 +26613,6 @@ LayerCount: 2
 Fore
 Refer: 390 772 N 1 0 0 1 1111 647 0
 Refer: 155 220 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01D6
@@ -26718,7 +26655,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1065 721 0
 Refer: 155 220 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01D8
@@ -26761,7 +26697,6 @@ LayerCount: 2
 Fore
 Refer: 397 780 N 1 0 0 1 1069 763 0
 Refer: 155 220 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01DA
@@ -26804,7 +26739,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 817 721 0
 Refer: 155 220 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01DC
@@ -27078,7 +27012,6 @@ SplineSet
  343 104 l 1,29,-1
  541 104 l 2,19,20
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01F2
@@ -27314,7 +27247,6 @@ SplineSet
  2222 92 l 1,29,-1
  2222 0 l 1,20,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni01F3
@@ -27925,7 +27857,7 @@ EndChar
 StartChar: uni0218
 Encoding: 536 536 363
 Width: 1105
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -27941,13 +27873,12 @@ LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 804 -16 0
 Refer: 54 83 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0219
 Encoding: 537 537 364
 Width: 854
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -27968,19 +27899,18 @@ EndChar
 StartChar: uni021A
 Encoding: 538 538 365
 Width: 1260
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
 Refer: 402 806 N 1 0 0 1 867 0 0
 Refer: 55 84 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni021B
 Encoding: 539 539 366
 Width: 642
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -28001,7 +27931,7 @@ EndChar
 StartChar: uni0237
 Encoding: 567 567 367
 Width: 487
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -29456,7 +29386,7 @@ EndChar
 StartChar: gravecomb
 Encoding: 768 768 386
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29485,7 +29415,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -145 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29500,7 +29429,7 @@ EndChar
 StartChar: acutecomb
 Encoding: 769 769 387
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29529,7 +29458,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -342 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29544,7 +29472,7 @@ EndChar
 StartChar: uni0302
 Encoding: 770 770 388
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29574,7 +29502,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -325 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29591,7 +29518,7 @@ EndChar
 StartChar: tildecomb
 Encoding: 771 771 389
 Width: 1
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29659,7 +29586,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -436 1056 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29686,7 +29612,7 @@ EndChar
 StartChar: uni0304
 Encoding: 772 772 390
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29722,7 +29648,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -418 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29737,7 +29662,7 @@ EndChar
 StartChar: uni0306
 Encoding: 774 774 391
 Width: 1
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29790,7 +29715,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -405 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29813,7 +29737,7 @@ EndChar
 StartChar: uni0307
 Encoding: 775 775 392
 Width: 1
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29849,7 +29773,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -269 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29864,7 +29787,7 @@ EndChar
 StartChar: uni0308
 Encoding: 776 776 393
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29905,7 +29828,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -420 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29925,7 +29847,7 @@ EndChar
 StartChar: hookabovecomb
 Encoding: 777 777 394
 Width: 17
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -29966,7 +29888,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -300 1022 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29994,7 +29915,7 @@ EndChar
 StartChar: uni030A
 Encoding: 778 778 395
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30055,7 +29976,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -316 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30083,7 +30003,7 @@ EndChar
 StartChar: uni030B
 Encoding: 779 779 396
 Width: 0
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30124,7 +30044,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -547 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30144,7 +30063,7 @@ EndChar
 StartChar: uni030C
 Encoding: 780 780 397
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30173,7 +30092,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -327 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30190,7 +30108,7 @@ EndChar
 StartChar: uni030F
 Encoding: 783 783 398
 Width: 0
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30231,7 +30149,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -342 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30251,7 +30168,7 @@ EndChar
 StartChar: uni0312
 Encoding: 786 786 399
 Width: 0
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30280,7 +30197,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -291 1035 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30360,7 +30276,7 @@ EndChar
 StartChar: dotbelowcomb
 Encoding: 803 803 401
 Width: 1
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30396,7 +30312,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-1" -269 -561 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30411,7 +30326,7 @@ EndChar
 StartChar: uni0326
 Encoding: 806 806 402
 Width: 0
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30440,9 +30355,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-3" -244 -459 basemark 0
-AnchorPoint: "Anchor-3" -177 0 mark 0
-AnchorPoint: "Anchor-0" -177 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30457,7 +30369,7 @@ EndChar
 StartChar: uni0327
 Encoding: 807 807 403
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30529,9 +30441,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-3" -285 -500 basemark 0
-AnchorPoint: "Anchor-3" -262 0 mark 0
-AnchorPoint: "Anchor-0" -262 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30560,7 +30469,7 @@ EndChar
 StartChar: uni0328
 Encoding: 808 808 404
 Width: 0
-GlyphClass: 4
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -30617,7 +30526,6 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
-AnchorPoint: "Anchor-2" -169 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -30800,7 +30708,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 822 427 0
 Refer: 427 1045 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0401
@@ -30822,7 +30729,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1095 317 0
 Refer: 427 1045 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0402
@@ -31024,7 +30930,6 @@ SplineSet
  1376 73 1376 73 1310.5 28.5 c 128,-1,39
  1245 -16 1245 -16 1163 -16 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0403
@@ -31046,7 +30951,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1002 427 0
 Refer: 425 1043 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0404
@@ -31147,7 +31051,6 @@ SplineSet
  1194 157 1194 157 1050.5 68.5 c 128,-1,33
  907 -20 907 -20 721 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0405
@@ -31158,7 +31061,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 54 83 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0406
@@ -31196,7 +31098,6 @@ SplineSet
  342 1413 l 1,3,-1
  342 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0407
@@ -31218,7 +31119,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 700 317 0
 Refer: 412 1030 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0408
@@ -31229,7 +31129,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 45 74 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0409
@@ -31627,7 +31526,6 @@ SplineSet
  1263 97 l 1,39,-1
  1524 97 l 2,31,32
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040A
@@ -31730,7 +31628,6 @@ SplineSet
  1219 97 l 1,28,-1
  1484 97 l 2,20,21
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040B
@@ -31851,7 +31748,6 @@ SplineSet
  1520 673 1520 673 1520 381 c 2,23,-1
  1520 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040C
@@ -31873,7 +31769,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1035 427 0
 Refer: 432 1050 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040D
@@ -31895,7 +31790,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 847 427 0
 Refer: 430 1048 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040E
@@ -31990,7 +31884,6 @@ SplineSet
  1032 1413 l 1,25,26
  720 708 720 708 409 0 c 1,17,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni040F
@@ -32052,7 +31945,6 @@ SplineSet
  777 0 l 1,11,-1
  777 -308 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0410
@@ -32063,7 +31955,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0411
@@ -32157,7 +32048,6 @@ SplineSet
  340 103 l 1,25,-1
  660 103 l 2,14,15
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0412
@@ -32168,7 +32058,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0413
@@ -32214,13 +32103,12 @@ SplineSet
  340 1325 l 1,5,-1
  340 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0414
 Encoding: 1044 1044 426
 Width: 1444
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -32304,8 +32192,7 @@ Substitution2: "'ss02' Style Set 2 lookup 18 subtable" uni0414.1
 Substitution2: "'ss03' Style Set 3 lookup 17 subtable" uni0431.loclSRB
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 10 subtable" uni0414.1
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 9 subtable" uni0414.loclSRB
-Substitution2: "'locl' Localized Forms in Cyrillic lookup 8 subtable" uni0414.loclSRB
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+Substitution2: "'locl' Localized Forms in Cyrillic lookup 8 subtable" uni0431.loclSRB
 EndChar
 
 StartChar: uni0415
@@ -32373,7 +32260,6 @@ SplineSet
  1131 101 l 1,11,-1
  1131 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0416
@@ -32467,7 +32353,6 @@ SplineSet
  1565 693 1565 693 1575 665 c 2,34,-1
  1809 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0417
@@ -32587,7 +32472,6 @@ SplineSet
  980 189 980 189 851 83 c 0,53,54
  728 -20 728 -20 526 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0418
@@ -32642,7 +32526,6 @@ SplineSet
  1182 1413 l 1,9,-1
  1182 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0419
@@ -32664,7 +32547,6 @@ LayerCount: 2
 Fore
 Refer: 391 774 N 1 0 0 1 1126 408 0
 Refer: 430 1048 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041A
@@ -32733,13 +32615,12 @@ SplineSet
  896 692 896 692 907 665 c 2,20,-1
  1141 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041B
 Encoding: 1051 1051 433
 Width: 1491
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 MPPEM
@@ -33040,8 +32921,7 @@ Substitution2: "'ss02' Style Set 2 lookup 18 subtable" uni041B.1
 Substitution2: "'ss03' Style Set 3 lookup 17 subtable" uni0414.loclSRB
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 10 subtable" uni041B.1
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 9 subtable" uni041B.loclSRB
-Substitution2: "'locl' Localized Forms in Cyrillic lookup 8 subtable" uni041B.loclSRB
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+Substitution2: "'locl' Localized Forms in Cyrillic lookup 8 subtable" uni0414.loclSRB
 EndChar
 
 StartChar: uni041C
@@ -33052,7 +32932,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041D
@@ -33063,7 +32942,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 43 72 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041E
@@ -33074,7 +32952,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041F
@@ -33124,7 +33001,6 @@ SplineSet
  1216 1413 l 1,7,-1
  1216 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0420
@@ -33135,7 +33011,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0421
@@ -33146,7 +33021,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0422
@@ -33157,7 +33031,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0423
@@ -33208,7 +33081,6 @@ SplineSet
  1032 1413 l 1,7,-1
  409 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0424
@@ -33305,7 +33177,6 @@ SplineSet
  1062 1206 1062 1206 887 1206 c 1,32,-1
  887 228 l 1,25,26
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0425
@@ -33316,7 +33187,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0426
@@ -33413,7 +33283,6 @@ SplineSet
  1357 92 l 1,11,-1
  1357 -233 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0427
@@ -33483,7 +33352,6 @@ SplineSet
  1093 1413 l 1,20,-1
  1093 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0428
@@ -33541,7 +33409,6 @@ SplineSet
  1500 1413 l 1,11,-1
  1500 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0429
@@ -33648,7 +33515,6 @@ SplineSet
  1642 92 l 1,15,-1
  1642 -233 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042A
@@ -33740,7 +33606,6 @@ SplineSet
  555 97 l 1,22,-1
  819 97 l 2,13,14
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042B
@@ -33834,7 +33699,6 @@ SplineSet
  342 97 l 1,24,-1
  604 97 l 2,16,17
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042C
@@ -33917,7 +33781,6 @@ SplineSet
  343 97 l 1,20,-1
  604 97 l 2,12,13
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042D
@@ -34018,13 +33881,12 @@ SplineSet
  1275 398 1275 398 1128 198 c 0,32,33
  968 -20 968 -20 660 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042E
 Encoding: 1070 1070 452
 Width: 1855
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 MPPEM
@@ -34328,7 +34190,6 @@ EndSplineSet
 Substitution2: "'ss02' Style Set 2 lookup 18 subtable" uni042E.1
 Substitution2: "'ss03' Style Set 3 lookup 17 subtable" uni041B.loclSRB
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 10 subtable" uni042E.1
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042F
@@ -34414,7 +34275,6 @@ SplineSet
  439 769 439 769 569 762 c 1,24,-1
  861 762 l 1,15,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0430
@@ -34525,7 +34385,6 @@ SplineSet
  257 301 257 301 329 190 c 0,44,45
  415 62 415 62 586 62 c 0,30,31
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Cyrillic lookup 9 subtable" uni0431.loclSRB
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 8 subtable" uni0431.loclSRB
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0431.loclSRB
 EndChar
@@ -34533,7 +34392,7 @@ EndChar
 StartChar: uni0432
 Encoding: 1074 1074 456
 Width: 1065
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34656,7 +34515,7 @@ EndChar
 StartChar: uni0433
 Encoding: 1075 1075 457
 Width: 772
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34706,7 +34565,7 @@ EndChar
 StartChar: uni0434
 Encoding: 1076 1076 458
 Width: 1056
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -34899,7 +34758,7 @@ EndChar
 StartChar: uni0436
 Encoding: 1078 1078 460
 Width: 1447
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35001,7 +34860,7 @@ EndChar
 StartChar: uni0437
 Encoding: 1079 1079 461
 Width: 936
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35120,7 +34979,7 @@ EndChar
 StartChar: uni0438
 Encoding: 1080 1080 462
 Width: 1147
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35181,7 +35040,7 @@ EndChar
 StartChar: uni0439
 Encoding: 1081 1081 463
 Width: 1124
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -35194,7 +35053,7 @@ EndChar
 StartChar: uni043A
 Encoding: 1082 1082 464
 Width: 960
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35272,7 +35131,7 @@ EndChar
 StartChar: uni043B
 Encoding: 1083 1083 465
 Width: 1070
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35494,7 +35353,7 @@ EndChar
 StartChar: uni043F
 Encoding: 1087 1087 469
 Width: 1147
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35568,7 +35427,7 @@ EndChar
 StartChar: uni0442
 Encoding: 1090 1090 472
 Width: 874
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35819,7 +35678,7 @@ EndChar
 StartChar: uni0446
 Encoding: 1094 1094 476
 Width: 1174
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -35956,7 +35815,7 @@ EndChar
 StartChar: uni0448
 Encoding: 1096 1096 478
 Width: 1527
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36018,7 +35877,7 @@ EndChar
 StartChar: uni0449
 Encoding: 1097 1097 479
 Width: 1554
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36092,7 +35951,7 @@ EndChar
 StartChar: uni044A
 Encoding: 1098 1098 480
 Width: 1110
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36186,7 +36045,7 @@ EndChar
 StartChar: uni044B
 Encoding: 1099 1099 481
 Width: 1377
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36280,7 +36139,7 @@ EndChar
 StartChar: uni044C
 Encoding: 1100 1100 482
 Width: 991
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -36466,7 +36325,7 @@ EndChar
 StartChar: uni044E
 Encoding: 1102 1102 484
 Width: 1415
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 MPPEM
@@ -37170,7 +37029,7 @@ EndChar
 StartChar: uni0453
 Encoding: 1107 1107 489
 Width: 755
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -38163,7 +38022,7 @@ EndChar
 StartChar: uni045D
 Encoding: 1117 1117 499
 Width: 1124
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -38362,7 +38221,6 @@ SplineSet
  568 97 l 1,29,-1
  831 97 l 2,21,22
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0463
@@ -38799,7 +38657,6 @@ SplineSet
  1582 157 1582 157 1438.5 68.5 c 128,-1,42
  1295 -20 1295 -20 1110 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0465
@@ -39293,7 +39150,6 @@ SplineSet
  500 825 l 1,14,-1
  796 825 l 1,12,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0467
@@ -39471,7 +39327,6 @@ SplineSet
  843 825 l 1,22,-1
  1139 825 l 1,20,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0469
@@ -39668,7 +39523,6 @@ SplineSet
  485 1186 485 1186 578.5 1057 c 128,-1,35
  672 928 672 928 774 791 c 1,31,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni046B
@@ -39917,7 +39771,6 @@ SplineSet
  810 1185 810 1185 903 1057 c 128,-1,40
  996 929 996 929 1098 791 c 1,36,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni046D
@@ -40230,7 +40083,6 @@ SplineSet
  249 436 249 436 370 271 c 0,33,34
  504 88 504 88 757 88 c 0,26,27
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0473
@@ -40605,7 +40457,6 @@ SplineSet
  2413 997 l 1,43,-1
  1892 -432 l 1,36,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0479
@@ -40958,7 +40809,6 @@ SplineSet
  340 1325 l 1,7,-1
  340 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0491
@@ -41079,7 +40929,6 @@ SplineSet
  374 717 l 1,13,-1
  374 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0493
@@ -41307,7 +41156,6 @@ SplineSet
  1871 163 l 1,38,-1
  1871 -239 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0497
@@ -41610,7 +41458,6 @@ SplineSet
  1203 163 l 1,24,-1
  1203 -239 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni049B
@@ -41870,7 +41717,6 @@ SplineSet
  1337 163 l 1,15,-1
  1337 -239 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04A3
@@ -41995,7 +41841,6 @@ SplineSet
  714 553 l 1,8,-1
  714 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04AF
@@ -42122,7 +41967,6 @@ SplineSet
  714 347 l 1,16,-1
  714 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04B1
@@ -42268,7 +42112,6 @@ SplineSet
  1131 163 l 1,15,-1
  1131 -239 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04B3
@@ -42425,7 +42268,6 @@ SplineSet
  1204 163 l 1,24,-1
  1204 -239 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04B7
@@ -42612,7 +42454,6 @@ SplineSet
  1174 569 1174 569 1174 380 c 2,20,-1
  1174 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04BB
@@ -42722,7 +42563,6 @@ SplineSet
  342 1413 l 1,3,-1
  342 0 l 1,0,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04CF
@@ -42861,7 +42701,6 @@ SplineSet
  256 435 256 435 378 269 c 0,33,34
  512 88 512 88 763 88 c 0,26,27
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04D9
@@ -42987,7 +42826,6 @@ LayerCount: 2
 Fore
 Refer: 430 1048 N 1 0 0 1 -1 0 0
 Refer: 390 772 N 1 0 0 1 1141 414 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04E3
@@ -43109,7 +42947,6 @@ SplineSet
  249 436 249 436 370 271 c 0,33,34
  504 88 504 88 757 88 c 0,26,27
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04E9
@@ -43278,7 +43115,6 @@ SplineSet
  1032 1413 l 1,11,-1
  409 0 l 1,4,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni04EF
@@ -43399,7 +43235,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 1127 427 0
 Refer: 58 87 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: wgrave
@@ -43442,7 +43277,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1375 427 0
 Refer: 58 87 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: wacute
@@ -43485,7 +43319,6 @@ LayerCount: 2
 Fore
 Refer: 393 776 N 1 0 0 1 1400 317 0
 Refer: 58 87 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: wdieresis
@@ -44141,7 +43974,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1281 607 0
 Refer: 129 194 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EA5
@@ -44184,7 +44016,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 1163 567 0
 Refer: 129 194 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EA7
@@ -44269,7 +44100,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1077 862 0
 Refer: 129 194 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EAB
@@ -44354,7 +44184,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1035 818 0
 Refer: 193 258 N 1 0 0 1 0 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EAF
@@ -44397,7 +44226,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 787 818 0
 Refer: 193 258 N 1 0 0 1 0 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EB1
@@ -44482,7 +44310,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1071 783 0
 Refer: 193 258 N 1 0 0 1 0 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EB5
@@ -44808,7 +44635,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1107 392 0
 Refer: 40 69 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EBD
@@ -44851,7 +44677,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1341 627 0
 Refer: 137 202 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EBF
@@ -44894,7 +44719,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 1213 691 0
 Refer: 137 202 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EC1
@@ -44979,7 +44803,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1107 862 0
 Refer: 137 202 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EC5
@@ -45382,7 +45205,6 @@ LayerCount: 2
 Fore
 Refer: 387 769 N 1 0 0 1 1403 627 0
 Refer: 147 212 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1ED1
@@ -45425,7 +45247,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 1335 627 0
 Refer: 147 212 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1ED3
@@ -45510,7 +45331,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1189 862 0
 Refer: 147 212 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1ED7
@@ -46099,7 +45919,6 @@ LayerCount: 2
 Fore
 Refer: 386 768 N 1 0 0 1 802 427 0
 Refer: 60 89 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: ygrave
@@ -46226,7 +46045,6 @@ LayerCount: 2
 Fore
 Refer: 389 771 N 1 0 0 1 1087 392 0
 Refer: 60 89 N 1 0 0 1 -1 0 0
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni1EF9
@@ -46448,7 +46266,7 @@ SplineSet
  430 1413 l 1,3,-1
  221 959 l 1,0,-1
 EndSplineSet
-Kerns2: 719 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 718 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 717 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 715 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 702 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 696 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 613 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 609 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 607 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 595 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 591 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 589 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 587 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 454 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 349 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 347 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 345 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 343 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 341 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 339 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 304 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 298 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 274 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 272 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 268 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 226 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 224 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 222 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 218 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 216 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 214 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 210 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 208 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 206 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 204 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 202 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 198 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 187 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 186 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 185 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 184 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 183 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 181 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 180 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 179 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 178 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 177 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 175 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 170 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 169 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 168 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 167 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 166 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 165 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 100 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 88 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 86 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 84 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 82 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 79 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 77 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 76 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 74 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 73 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 72 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 71 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 70 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 68 -143 "'kern' Horizontal Kerning lookup 3 per glyph data 0"
+Kerns2: 702 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 696 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 613 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 609 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 607 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 595 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 591 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 589 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 587 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 454 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 349 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 347 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 345 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 343 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 341 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 339 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 304 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 298 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 274 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 272 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 268 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 226 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 224 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 222 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 218 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 216 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 214 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 210 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 208 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 206 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 204 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 202 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 198 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 187 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 186 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 185 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 184 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 183 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 181 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 180 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 179 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 178 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 177 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 175 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 170 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 169 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 168 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 167 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 166 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 165 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 100 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 88 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 86 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 84 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 82 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 79 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 77 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 76 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 74 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 73 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 72 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 71 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 70 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 68 -143 "'kern' Kerning Horizontal in Latin lookup 0 subtable"
 EndChar
 
 StartChar: quotesinglbase
@@ -46530,7 +46348,7 @@ SplineSet
  557 1413 l 1,7,-1
  670 959 l 1,4,-1
 EndSplineSet
-Kerns2: 722 -164 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 720 -164 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 506 -164 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 422 -164 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 45 -41 "'kern' Horizontal Kerning lookup 3 per glyph data 0" 36 -164 "'kern' Horizontal Kerning lookup 3 per glyph data 0"
+Kerns2: 506 -164 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 422 -164 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 45 -41 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -164 "'kern' Kerning Horizontal in Latin lookup 0 subtable"
 EndChar
 
 StartChar: quotedblright
@@ -47622,7 +47440,7 @@ EndChar
 StartChar: uni2070
 Encoding: 8304 8304 668
 Width: 876
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47708,7 +47526,7 @@ EndChar
 StartChar: uni2074
 Encoding: 8308 8308 669
 Width: 878
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47786,7 +47604,7 @@ EndChar
 StartChar: uni2075
 Encoding: 8309 8309 670
 Width: 912
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47890,7 +47708,7 @@ EndChar
 StartChar: uni2076
 Encoding: 8310 8310 671
 Width: 911
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -47987,7 +47805,7 @@ EndChar
 StartChar: uni2077
 Encoding: 8311 8311 672
 Width: 908
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48039,7 +47857,7 @@ EndChar
 StartChar: uni2078
 Encoding: 8312 8312 673
 Width: 907
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48164,7 +47982,7 @@ EndChar
 StartChar: uni2079
 Encoding: 8313 8313 674
 Width: 911
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48253,7 +48071,7 @@ EndChar
 StartChar: uni2080
 Encoding: 8320 8320 675
 Width: 876
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48339,7 +48157,7 @@ EndChar
 StartChar: uni2081
 Encoding: 8321 8321 676
 Width: 1042
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48391,7 +48209,7 @@ EndChar
 StartChar: uni2082
 Encoding: 8322 8322 677
 Width: 898
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48467,7 +48285,7 @@ EndChar
 StartChar: uni2083
 Encoding: 8323 8323 678
 Width: 906
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48586,7 +48404,7 @@ EndChar
 StartChar: uni2084
 Encoding: 8324 8324 679
 Width: 878
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48664,7 +48482,7 @@ EndChar
 StartChar: uni2085
 Encoding: 8325 8325 680
 Width: 912
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48768,7 +48586,7 @@ EndChar
 StartChar: uni2086
 Encoding: 8326 8326 681
 Width: 911
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48865,7 +48683,7 @@ EndChar
 StartChar: uni2087
 Encoding: 8327 8327 682
 Width: 908
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -48917,7 +48735,7 @@ EndChar
 StartChar: uni2088
 Encoding: 8328 8328 683
 Width: 907
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49042,7 +48860,7 @@ EndChar
 StartChar: uni2089
 Encoding: 8329 8329 684
 Width: 911
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49270,7 +49088,7 @@ EndChar
 StartChar: uni20B1
 Encoding: 8369 8369 686
 Width: 1348
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 MPPEM
@@ -49391,9 +49209,6 @@ NPUSHB
  30
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 1 0 basechar 0
-AnchorPoint: "Anchor-1" 655 1411 basechar 0
-AnchorPoint: "Anchor-0" 655 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -49431,7 +49246,7 @@ EndChar
 StartChar: uni20B3
 Encoding: 8371 8371 687
 Width: 1295
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49514,9 +49329,6 @@ NPUSHB
  31
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 1331 0 basechar 0
-AnchorPoint: "Anchor-1" 672 1411 basechar 0
-AnchorPoint: "Anchor-0" 672 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -49560,7 +49372,7 @@ EndChar
 StartChar: uni20B4
 Encoding: 8372 8372 688
 Width: 1244
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -49640,9 +49452,6 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 1 0 basechar 0
-AnchorPoint: "Anchor-1" 634 1411 basechar 0
-AnchorPoint: "Anchor-0" 634 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -49860,11 +49669,11 @@ EndChar
 StartChar: uni2116
 Encoding: 8470 8470 691
 Width: 2300
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 74
+ 79
  2
  1
  5
@@ -49875,6 +49684,12 @@ NPUSHB
  4
  2
  76
+ 3
+ 1
+ 2
+ 5
+ 2
+ 133
  0
  5
  0
@@ -49893,12 +49708,12 @@ NPUSHB
  6
  4
  105
- 3
- 1
- 2
- 2
- 26
- 77
+ 0
+ 9
+ 0
+ 0
+ 9
+ 87
  0
  9
  9
@@ -49908,10 +49723,9 @@ NPUSHB
  1
  2
  0
+ 9
  0
- 27
- 0
- 78
+ 79
  27
  26
  11
@@ -49937,13 +49751,10 @@ NPUSHB
  18
  16
  12
- 7
+ 6
  26
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 2002 348 basechar 0
-AnchorPoint: "Anchor-1" 1873 1170 basechar 0
-AnchorPoint: "Anchor-0" 1873 348 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -51315,7 +51126,7 @@ EndChar
 StartChar: fi
 Encoding: 64257 64257 709
 Width: 1000
-GlyphClass: 3
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
@@ -51398,7 +51209,7 @@ EndChar
 StartChar: fl
 Encoding: 64258 64258 710
 Width: 1013
-GlyphClass: 3
+GlyphClass: 1
 Flags: W
 TtInstrs:
 MPPEM
@@ -51810,11 +51621,11 @@ EndChar
 StartChar: c.001
 Encoding: 65537 -1 711
 Width: 993
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 46
+ 49
  28
  27
  13
@@ -51825,15 +51636,19 @@ NPUSHB
  1
  76
  0
- 2
- 2
  1
- 97
  0
+ 2
+ 3
  1
- 1
- 33
- 77
+ 2
+ 105
+ 0
+ 3
+ 0
+ 0
+ 3
+ 89
  0
  3
  3
@@ -51842,10 +51657,9 @@ NPUSHB
  4
  1
  0
+ 3
  0
- 32
- 0
- 78
+ 81
  1
  0
  25
@@ -51859,7 +51673,7 @@ NPUSHB
  1
  30
  5
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -51893,11 +51707,11 @@ EndChar
 StartChar: f_f
 Encoding: 65538 -1 712
 Width: 1240
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 66
+ 71
  22
  1
  7
@@ -51913,39 +51727,44 @@ NPUSHB
  4
  3
  76
- 10
+ 2
  1
- 7
- 7
- 5
- 97
+ 0
+ 1
+ 0
+ 134
  6
  1
  5
+ 10
+ 1
+ 7
+ 4
  5
- 31
- 77
- 9
- 3
+ 7
+ 105
+ 11
+ 8
  2
+ 4
  1
  1
  4
- 95
+ 87
  11
  8
  2
  4
  4
- 28
- 77
+ 1
+ 95
+ 9
+ 3
  2
  1
- 0
- 0
- 27
- 0
- 78
+ 4
+ 1
+ 79
  43
  42
  38
@@ -51962,7 +51781,7 @@ NPUSHB
  17
  16
  12
- 7
+ 6
  31
 CALL
 EndTTInstrs
@@ -52013,11 +51832,11 @@ EndChar
 StartChar: f_f_i
 Encoding: 65539 -1 713
 Width: 1535
-GlyphClass: 3
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 67
+ 73
  26
  25
  20
@@ -52026,41 +51845,47 @@ NPUSHB
  9
  1
  76
- 11
+ 4
+ 2
+ 2
+ 0
  1
- 9
- 9
- 7
- 97
+ 0
+ 134
  8
  1
  7
+ 11
+ 1
+ 9
+ 6
  7
- 31
- 77
- 5
+ 9
+ 105
+ 13
+ 12
+ 10
  3
- 2
+ 6
  1
  1
  6
- 95
+ 87
  13
  12
  10
  3
  6
  6
- 28
- 77
- 4
+ 1
+ 95
+ 5
+ 3
  2
- 2
- 0
- 0
- 27
- 0
- 78
+ 1
+ 6
+ 1
+ 79
  37
  37
  37
@@ -52083,7 +51908,7 @@ NPUSHB
  17
  16
  14
- 7
+ 6
  31
 CALL
 EndTTInstrs
@@ -52139,16 +51964,11 @@ EndChar
 StartChar: f_f_l
 Encoding: 65540 -1 714
 Width: 1541
-GlyphClass: 3
+GlyphClass: 1
 Flags: W
 TtInstrs:
-MPPEM
-PUSHB_1
- 12
-LT
-IF
 NPUSHB
- 17
+ 105
  52
  41
  34
@@ -52166,145 +51986,44 @@ NPUSHB
  4
  3
  76
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 17
- 52
- 41
- 34
- 5
+ 6
+ 1
  4
- 2
- 1
- 46
- 1
  11
- 3
- 47
- 1
  0
  11
- 3
- 76
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 17
- 52
- 41
- 34
- 5
  4
- 2
- 1
- 46
- 1
- 11
- 3
- 47
- 1
  0
- 4
- 3
- 76
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 17
- 52
- 41
- 34
- 5
- 4
- 2
- 1
- 46
- 1
- 11
- 3
- 47
- 1
- 0
- 11
- 3
- 76
-ELSE
-NPUSHB
- 17
- 52
- 41
- 34
- 5
- 4
- 2
- 1
- 46
- 1
- 11
- 3
- 47
- 1
- 0
- 4
- 3
- 76
-EIF
-EIF
-EIF
-EIF
-MPPEM
-PUSHB_1
- 12
-LT
-IF
-NPUSHB
- 45
- 12
- 1
- 1
- 1
- 9
- 97
+ 128
  10
  1
  9
+ 12
+ 1
+ 1
+ 2
  9
- 31
- 77
- 7
- 5
- 2
- 3
- 3
- 2
- 95
+ 1
+ 105
  15
  13
  8
  3
  2
+ 7
+ 5
  2
- 28
- 77
- 6
- 1
+ 3
+ 11
+ 2
+ 3
+ 103
+ 0
+ 11
  4
- 4
- 27
- 77
+ 0
+ 11
+ 89
  0
  11
  11
@@ -52313,215 +52032,9 @@ NPUSHB
  14
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 41
- 12
- 1
- 1
- 1
- 9
- 97
- 10
- 1
- 9
- 9
- 31
- 77
- 7
- 5
- 2
- 3
- 3
- 2
- 95
- 15
- 13
- 8
- 3
- 2
- 2
- 28
- 77
- 0
- 11
  11
  0
- 95
- 6
- 4
- 14
- 3
- 0
- 0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 45
- 12
- 1
- 1
- 1
- 9
- 97
- 10
- 1
- 9
- 9
- 31
- 77
- 7
- 5
- 2
- 3
- 3
- 2
- 95
- 15
- 13
- 8
- 3
- 2
- 2
- 28
- 77
- 6
- 1
- 4
- 4
- 27
- 77
- 0
- 11
- 11
- 0
- 97
- 14
- 1
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 41
- 12
- 1
- 1
- 1
- 9
- 97
- 10
- 1
- 9
- 9
- 31
- 77
- 7
- 5
- 2
- 3
- 3
- 2
- 95
- 15
- 13
- 8
- 3
- 2
- 2
- 28
- 77
- 0
- 11
- 11
- 0
- 95
- 6
- 4
- 14
- 3
- 0
- 0
- 27
- 0
- 78
-ELSE
-NPUSHB
- 45
- 12
- 1
- 1
- 1
- 9
- 97
- 10
- 1
- 9
- 9
- 31
- 77
- 7
- 5
- 2
- 3
- 3
- 2
- 95
- 15
- 13
- 8
- 3
- 2
- 2
- 28
- 77
- 6
- 1
- 4
- 4
- 27
- 77
- 0
- 11
- 11
- 0
- 97
- 14
- 1
- 0
- 0
- 32
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 39
+ 81
  49
  49
  1
@@ -52559,7 +52072,7 @@ NPUSHB
  1
  48
  16
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -52622,11 +52135,11 @@ EndChar
 StartChar: g.ss01
 Encoding: 65541 -1 715
 Width: 1141
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 75
+ 79
  24
  11
  2
@@ -52641,30 +52154,35 @@ NPUSHB
  76
  0
  4
+ 3
+ 6
+ 3
  4
- 28
- 77
- 0
  6
- 6
- 3
- 97
+ 128
  0
  3
+ 0
+ 6
+ 5
  3
- 33
- 77
+ 6
+ 105
  8
  1
  5
- 5
- 2
- 97
  0
  2
+ 1
+ 5
  2
- 32
- 77
+ 105
+ 0
+ 1
+ 0
+ 0
+ 1
+ 89
  0
  1
  1
@@ -52673,10 +52191,9 @@ NPUSHB
  7
  1
  0
+ 1
  0
- 30
- 0
- 78
+ 81
  33
  32
  1
@@ -52700,7 +52217,7 @@ NPUSHB
  1
  31
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -52747,69 +52264,45 @@ EndChar
 StartChar: i.loclTRK
 Encoding: 65542 -1 716
 Width: 496
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-MPPEM
-PUSHB_1
- 24
-LT
-IF
 NPUSHB
- 21
+ 35
  0
+ 3
+ 0
+ 2
+ 0
+ 3
+ 2
+ 128
+ 0
+ 2
+ 2
+ 132
+ 0
+ 1
  0
  0
  1
+ 87
+ 0
+ 1
+ 1
+ 0
  95
  0
- 1
- 1
- 26
- 77
- 0
- 3
- 3
- 28
- 77
- 0
- 2
- 2
- 27
- 2
- 78
-ELSE
-NPUSHB
- 21
- 0
- 0
  0
  1
- 95
  0
- 1
- 1
- 26
- 77
- 0
- 3
- 3
- 2
- 95
- 0
- 2
- 2
- 27
- 2
- 78
-EIF
-PUSHB_7
+ 79
  17
  17
  17
  16
  4
- 7
+ 6
  26
 CALL
 EndTTInstrs
@@ -52832,11 +52325,11 @@ EndChar
 StartChar: gbreve.ss01
 Encoding: 65543 -1 717
 Width: 1128
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 102
+ 106
  40
  27
  2
@@ -52849,6 +52342,20 @@ NPUSHB
  6
  2
  76
+ 3
+ 1
+ 1
+ 2
+ 1
+ 133
+ 0
+ 8
+ 7
+ 10
+ 7
+ 8
+ 10
+ 128
  0
  2
  11
@@ -52858,38 +52365,29 @@ NPUSHB
  2
  0
  105
- 3
- 1
- 1
- 1
- 26
- 77
  0
- 8
- 8
- 28
- 77
+ 7
  0
  10
+ 9
+ 7
  10
- 7
- 97
- 0
- 7
- 7
- 33
- 77
+ 105
  13
  1
  9
- 9
- 6
- 97
  0
  6
+ 5
+ 9
  6
- 32
- 77
+ 105
+ 0
+ 5
+ 4
+ 4
+ 5
+ 89
  0
  5
  5
@@ -52898,10 +52396,9 @@ NPUSHB
  12
  1
  4
+ 5
  4
- 30
- 4
- 78
+ 81
  49
  48
  17
@@ -52937,7 +52434,7 @@ NPUSHB
  1
  15
  14
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -52997,11 +52494,11 @@ EndChar
 StartChar: gdotaccent.ss01
 Encoding: 65544 -1 718
 Width: 1132
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 87
+ 89
  28
  15
  2
@@ -53015,41 +52512,44 @@ NPUSHB
  2
  76
  0
- 0
- 0
- 1
- 95
- 0
- 1
- 1
- 26
- 77
- 0
  6
- 6
- 28
- 77
- 0
- 8
+ 5
  8
  5
- 97
+ 6
+ 8
+ 128
+ 0
+ 1
+ 0
  0
  5
+ 1
+ 0
+ 103
+ 0
  5
- 33
- 77
+ 0
+ 8
+ 7
+ 5
+ 8
+ 105
  10
  1
  7
- 7
- 4
- 97
  0
  4
+ 3
+ 7
  4
- 32
- 77
+ 105
+ 0
+ 3
+ 2
+ 2
+ 3
+ 89
  0
  3
  3
@@ -53058,10 +52558,9 @@ NPUSHB
  9
  1
  2
+ 3
  2
- 30
- 2
- 78
+ 81
  37
  36
  5
@@ -53087,7 +52586,7 @@ NPUSHB
  17
  16
  11
- 7
+ 6
  24
 CALL
 EndTTInstrs
@@ -53139,11 +52638,11 @@ EndChar
 StartChar: uni0123.ss01
 Encoding: 65545 -1 719
 Width: 1141
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 12
+ 91
  28
  15
  2
@@ -53156,52 +52655,47 @@ NPUSHB
  4
  2
  76
-MPPEM
-PUSHB_1
- 47
-LT
-IF
-NPUSHB
- 51
- 0
  0
  1
- 5
+ 0
  1
+ 133
+ 0
  0
  5
+ 0
+ 133
+ 0
+ 6
+ 5
+ 8
+ 5
+ 6
+ 8
  128
  0
- 1
- 1
- 26
- 77
- 0
- 6
- 6
- 28
- 77
+ 5
  0
  8
+ 7
+ 5
  8
- 5
- 97
- 0
- 5
- 5
- 33
- 77
+ 105
  10
  1
  7
- 7
- 4
- 97
  0
  4
+ 3
+ 7
  4
- 32
- 77
+ 105
+ 0
+ 3
+ 2
+ 2
+ 3
+ 89
  0
  3
  3
@@ -53210,64 +52704,9 @@ NPUSHB
  9
  1
  2
- 2
- 30
- 2
- 78
-ELSE
-NPUSHB
- 48
- 0
- 1
- 0
- 1
- 133
- 0
- 0
- 5
- 0
- 133
- 0
- 6
- 6
- 28
- 77
- 0
- 8
- 8
- 5
- 97
- 0
- 5
- 5
- 33
- 77
- 10
- 1
- 7
- 7
- 4
- 97
- 0
- 4
- 4
- 32
- 77
- 0
- 3
  3
  2
- 97
- 9
- 1
- 2
- 2
- 30
- 2
- 78
-EIF
-NPUSHB
- 27
+ 81
  37
  36
  5
@@ -53293,7 +52732,7 @@ NPUSHB
  17
  16
  11
- 7
+ 6
  24
 CALL
 EndTTInstrs
@@ -53345,42 +52784,47 @@ EndChar
 StartChar: uni0414.1
 Encoding: 65546 -1 720
 Width: 1462
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 46
+ 51
  13
  1
  3
  4
  1
  76
- 2
+ 0
+ 4
+ 3
+ 4
+ 133
+ 7
+ 6
+ 5
+ 3
+ 3
+ 0
  1
  0
  3
- 0
- 83
- 0
- 4
- 4
- 26
- 77
+ 1
+ 103
  7
  6
  5
  3
  3
  3
- 1
- 95
  0
+ 95
+ 2
  1
- 1
- 27
- 1
- 78
+ 0
+ 3
+ 0
+ 79
  12
  12
  12
@@ -53394,7 +52838,7 @@ NPUSHB
  17
  16
  8
- 7
+ 6
  28
 CALL
 EndTTInstrs
@@ -53421,47 +52865,49 @@ SplineSet
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 11 subtable" uni0414
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni0414.loclSRB uni0414
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0414.loclSRB
 Encoding: 65547 -1 721
 Width: 1444
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 46
- 2
+ 49
+ 0
+ 4
+ 0
+ 6
+ 3
+ 4
+ 6
+ 103
+ 8
+ 7
+ 5
+ 3
+ 3
+ 0
  1
  0
  3
- 0
- 83
- 0
- 6
- 6
- 4
- 95
- 0
- 4
- 4
- 26
- 77
+ 1
+ 103
  8
  7
  5
  3
  3
  3
- 1
- 95
  0
+ 95
+ 2
  1
- 1
- 27
- 1
- 78
+ 0
+ 3
+ 0
+ 79
  15
  15
  15
@@ -53476,7 +52922,7 @@ NPUSHB
  17
  16
  9
- 7
+ 6
  29
 CALL
 EndTTInstrs
@@ -53507,17 +52953,16 @@ SplineSet
  372 213 372 213 304 85 c 1,22,-1
  1090 85 l 1,15,-1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041B.1
 Encoding: 65548 -1 722
 Width: 1321
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 24
+ 22
  2
  1
  0
@@ -53526,21 +52971,19 @@ NPUSHB
  76
  0
  2
+ 0
  2
- 26
- 77
+ 133
  1
  1
  0
  0
- 27
- 0
- 78
+ 118
  17
  18
  16
  3
- 7
+ 6
  25
 CALL
 EndTTInstrs
@@ -53558,22 +53001,16 @@ SplineSet
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 11 subtable" uni041B
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni041B.loclSRB uni041B
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni041B.loclSRB
 Encoding: 65549 -1 723
 Width: 1491
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-MPPEM
-PUSHB_1
- 12
-LT
-IF
 NPUSHB
- 10
+ 60
  5
  1
  1
@@ -53584,99 +53021,28 @@ NPUSHB
  1
  2
  76
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 10
- 5
- 1
- 1
- 4
+ 0
  3
  1
  0
  1
- 2
- 76
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 10
- 5
- 1
- 1
- 4
  3
- 1
- 3
- 1
- 2
- 76
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 10
- 5
- 1
- 1
- 4
- 3
- 1
  0
- 1
- 2
- 76
-ELSE
-NPUSHB
- 10
- 5
- 1
- 1
- 4
- 3
- 1
- 3
- 1
- 2
- 76
-EIF
-EIF
-EIF
-EIF
-MPPEM
-PUSHB_1
- 12
-LT
-IF
-NPUSHB
- 27
- 0
- 4
- 4
- 2
- 95
+ 128
  0
  2
- 2
- 26
- 77
  0
+ 4
+ 1
+ 2
+ 4
+ 103
+ 0
+ 1
  3
- 3
- 27
- 77
+ 0
+ 1
+ 89
  0
  1
  1
@@ -53685,143 +53051,9 @@ NPUSHB
  5
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 23
- 0
- 4
- 4
- 2
- 95
- 0
- 2
- 2
- 26
- 77
- 0
- 1
  1
  0
- 97
- 3
- 5
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 27
- 0
- 4
- 4
- 2
- 95
- 0
- 2
- 2
- 26
- 77
- 0
- 3
- 3
- 27
- 77
- 0
- 1
- 1
- 0
- 97
- 5
- 1
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 23
- 0
- 4
- 4
- 2
- 95
- 0
- 2
- 2
- 26
- 77
- 0
- 1
- 1
- 0
- 97
- 3
- 5
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-NPUSHB
- 27
- 0
- 4
- 4
- 2
- 95
- 0
- 2
- 2
- 26
- 77
- 0
- 3
- 3
- 27
- 77
- 0
- 1
- 1
- 0
- 97
- 5
- 1
- 0
- 0
- 32
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 17
+ 81
  1
  0
  17
@@ -53837,7 +53069,7 @@ NPUSHB
  1
  22
  6
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -53861,22 +53093,40 @@ SplineSet
  558 491 558 491 497 257 c 0,21,22
  425 -20 425 -20 239 -20 c 0,0,1
 EndSplineSet
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni042E.1
 Encoding: 65550 -1 724
 Width: 1855
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-MPPEM
-PUSHB_1
- 12
-LT
-IF
 NPUSHB
- 41
+ 78
+ 0
+ 3
+ 5
+ 7
+ 5
+ 3
+ 7
+ 128
+ 0
+ 2
+ 6
+ 0
+ 6
+ 2
+ 0
+ 128
+ 0
+ 5
+ 0
+ 7
+ 4
+ 5
+ 7
+ 105
  0
  4
  0
@@ -53885,26 +53135,13 @@ NPUSHB
  4
  1
  103
- 0
- 3
- 3
- 26
- 77
- 0
- 7
- 7
- 5
- 97
- 0
- 5
- 5
- 31
- 77
- 0
+ 9
+ 1
+ 6
  2
- 2
- 27
- 77
+ 0
+ 6
+ 89
  9
  1
  6
@@ -53914,199 +53151,9 @@ NPUSHB
  8
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 37
- 0
- 4
- 0
- 1
- 6
- 4
- 1
- 103
- 0
- 3
- 3
- 26
- 77
- 0
- 7
- 7
- 5
- 97
- 0
- 5
- 5
- 31
- 77
- 9
- 1
- 6
  6
  0
- 97
- 2
- 8
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 41
- 0
- 4
- 0
- 1
- 6
- 4
- 1
- 103
- 0
- 3
- 3
- 26
- 77
- 0
- 7
- 7
- 5
- 97
- 0
- 5
- 5
- 31
- 77
- 0
- 2
- 2
- 27
- 77
- 9
- 1
- 6
- 6
- 0
- 97
- 8
- 1
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 37
- 0
- 4
- 0
- 1
- 6
- 4
- 1
- 103
- 0
- 3
- 3
- 26
- 77
- 0
- 7
- 7
- 5
- 97
- 0
- 5
- 5
- 31
- 77
- 9
- 1
- 6
- 6
- 0
- 97
- 2
- 8
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-NPUSHB
- 41
- 0
- 4
- 0
- 1
- 6
- 4
- 1
- 103
- 0
- 3
- 3
- 26
- 77
- 0
- 7
- 7
- 5
- 97
- 0
- 5
- 5
- 31
- 77
- 0
- 2
- 2
- 27
- 77
- 9
- 1
- 6
- 6
- 0
- 97
- 8
- 1
- 0
- 0
- 32
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 27
+ 81
  26
  25
  1
@@ -54132,7 +53179,7 @@ NPUSHB
  1
  24
  10
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54170,17 +53217,16 @@ SplineSet
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 11 subtable" uni042E
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni042E
-Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
 EndChar
 
 StartChar: uni0431.loclSRB
 Encoding: 65551 -1 725
 Width: 1150
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 51
+ 55
  46
  20
  19
@@ -54191,15 +53237,20 @@ NPUSHB
  1
  76
  0
- 2
- 2
  1
- 97
  0
+ 2
+ 3
  1
+ 2
+ 105
+ 5
  1
- 31
- 77
+ 3
+ 0
+ 0
+ 3
+ 89
  5
  1
  3
@@ -54209,10 +53260,9 @@ NPUSHB
  4
  1
  0
+ 3
  0
- 32
- 0
- 78
+ 81
  37
  36
  1
@@ -54230,7 +53280,7 @@ NPUSHB
  1
  35
  6
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54280,11 +53330,11 @@ EndChar
 StartChar: uni0432.1
 Encoding: 65552 -1 726
 Width: 1157
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 74
+ 78
  39
  1
  4
@@ -54304,6 +53354,14 @@ NPUSHB
  4
  128
  0
+ 1
+ 0
+ 6
+ 5
+ 1
+ 6
+ 105
+ 0
  5
  0
  4
@@ -54311,29 +53369,25 @@ NPUSHB
  5
  4
  105
+ 8
+ 1
+ 3
  0
- 6
- 6
- 1
- 97
  0
- 1
- 1
- 31
- 77
+ 3
+ 89
  8
  1
  3
  3
  0
- 98
+ 97
  7
  1
  0
+ 3
  0
- 32
- 0
- 78
+ 81
  29
  28
  1
@@ -54357,7 +53411,7 @@ NPUSHB
  1
  27
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54415,37 +53469,42 @@ EndChar
 StartChar: uni0432.loclSRB
 Encoding: 65553 -1 727
 Width: 1061
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 68
- 0
- 2
- 3
- 6
- 3
- 2
- 114
+ 72
  8
  1
  3
+ 4
+ 2
+ 2
+ 3
+ 114
+ 0
+ 1
+ 0
+ 4
+ 3
+ 1
+ 4
+ 103
+ 0
+ 2
  0
  6
  5
- 3
+ 2
  6
- 103
+ 104
+ 9
+ 1
+ 5
  0
- 4
- 4
- 1
- 95
  0
- 1
- 1
- 28
- 77
+ 5
+ 87
  9
  1
  5
@@ -54455,10 +53514,9 @@ NPUSHB
  7
  1
  0
+ 5
  0
- 27
- 0
- 78
+ 79
  31
  30
  20
@@ -54486,7 +53544,7 @@ NPUSHB
  1
  18
  10
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54533,11 +53591,11 @@ EndChar
 StartChar: uni0433.1
 Encoding: 65554 -1 728
 Width: 873
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 47
+ 50
  47
  46
  30
@@ -54549,15 +53607,19 @@ NPUSHB
  1
  76
  0
- 1
- 1
  2
- 97
  0
+ 1
+ 3
  2
- 2
- 33
- 77
+ 1
+ 105
+ 0
+ 3
+ 0
+ 0
+ 3
+ 89
  0
  3
  3
@@ -54566,10 +53628,9 @@ NPUSHB
  4
  1
  0
+ 3
  0
- 32
- 0
- 78
+ 81
  1
  0
  43
@@ -54583,7 +53644,7 @@ NPUSHB
  1
  50
  5
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54630,7 +53691,7 @@ EndChar
 StartChar: uni0433.loclSRB
 Encoding: 65555 -1 729
 Width: 907
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -54641,11 +53702,11 @@ EndChar
 StartChar: uni0434.1
 Encoding: 65556 -1 730
 Width: 1137
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 75
+ 79
  24
  11
  2
@@ -54660,30 +53721,35 @@ NPUSHB
  76
  0
  4
+ 3
+ 6
+ 3
  4
- 28
- 77
- 0
  6
- 6
- 3
- 97
+ 128
  0
  3
+ 0
+ 6
+ 5
  3
- 33
- 77
+ 6
+ 105
  8
  1
  5
- 5
- 2
- 97
  0
  2
+ 1
+ 5
  2
- 32
- 77
+ 105
+ 0
+ 1
+ 0
+ 0
+ 1
+ 89
  0
  1
  1
@@ -54692,10 +53758,9 @@ NPUSHB
  7
  1
  0
+ 1
  0
- 30
- 0
- 78
+ 81
  33
  32
  1
@@ -54719,7 +53784,7 @@ NPUSHB
  1
  31
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54768,11 +53833,11 @@ EndChar
 StartChar: uni0434.loclSRB
 Encoding: 65557 -1 731
 Width: 1137
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 75
+ 79
  24
  11
  2
@@ -54787,30 +53852,35 @@ NPUSHB
  76
  0
  4
+ 3
+ 6
+ 3
  4
- 28
- 77
- 0
  6
- 6
- 3
- 97
+ 128
  0
  3
+ 0
+ 6
+ 5
  3
- 33
- 77
+ 6
+ 105
  8
  1
  5
- 5
- 2
- 97
  0
  2
+ 1
+ 5
  2
- 32
- 77
+ 105
+ 0
+ 1
+ 0
+ 0
+ 1
+ 89
  0
  1
  1
@@ -54819,10 +53889,9 @@ NPUSHB
  7
  1
  0
+ 1
  0
- 30
- 0
- 78
+ 81
  33
  32
  1
@@ -54846,7 +53915,7 @@ NPUSHB
  1
  31
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -54893,11 +53962,22 @@ EndChar
 StartChar: uni0436.1
 Encoding: 65558 -1 732
 Width: 1400
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 56
+ 64
+ 0
+ 8
+ 6
+ 8
+ 133
+ 10
+ 1
+ 6
+ 7
+ 6
+ 133
  11
  1
  5
@@ -54907,35 +53987,32 @@ NPUSHB
  5
  1
  128
- 9
- 1
- 7
- 3
- 1
- 1
- 0
- 7
- 1
- 103
- 0
- 8
- 8
- 26
- 77
- 10
- 1
- 6
- 6
- 28
- 77
  4
  2
  2
  0
+ 1
  0
- 27
- 0
- 78
+ 134
+ 9
+ 1
+ 7
+ 5
+ 1
+ 7
+ 87
+ 9
+ 1
+ 7
+ 7
+ 1
+ 95
+ 3
+ 1
+ 1
+ 7
+ 1
+ 79
  31
  30
  29
@@ -54952,7 +54029,7 @@ NPUSHB
  36
  16
  12
- 7
+ 6
  31
 CALL
 EndTTInstrs
@@ -55000,7 +54077,14 @@ GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 52
+ 60
+ 10
+ 8
+ 2
+ 6
+ 7
+ 6
+ 133
  11
  1
  5
@@ -55010,31 +54094,32 @@ NPUSHB
  5
  1
  128
- 9
- 1
- 7
- 3
- 1
- 1
- 0
- 7
- 1
- 103
- 10
- 8
- 2
- 6
- 6
- 28
- 77
  4
  2
  2
  0
+ 1
  0
- 27
- 0
- 78
+ 134
+ 9
+ 1
+ 7
+ 5
+ 1
+ 7
+ 87
+ 9
+ 1
+ 7
+ 7
+ 1
+ 95
+ 3
+ 1
+ 1
+ 7
+ 1
+ 79
  31
  30
  29
@@ -55051,7 +54136,7 @@ NPUSHB
  36
  16
  12
- 7
+ 6
  31
 CALL
 EndTTInstrs
@@ -55093,7 +54178,7 @@ EndChar
 StartChar: uni0436.loclSRB
 Encoding: 65560 -1 734
 Width: 1400
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -55103,11 +54188,11 @@ EndChar
 StartChar: uni0437.1
 Encoding: 65561 -1 735
 Width: 915
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 12
+ 74
  33
  32
  2
@@ -55120,13 +54205,6 @@ NPUSHB
  2
  2
  76
-MPPEM
-PUSHB_1
- 30
-LT
-IF
-NPUSHB
- 38
  0
  6
  3
@@ -55136,46 +54214,13 @@ NPUSHB
  2
  128
  0
- 3
- 0
- 2
- 1
- 3
- 2
- 103
+ 5
  0
  4
+ 3
+ 5
  4
- 5
- 97
- 0
- 5
- 5
- 33
- 77
- 0
- 1
- 1
- 0
- 98
- 7
- 1
- 0
- 0
- 30
- 0
- 78
-ELSE
-NPUSHB
- 35
- 0
- 6
- 3
- 2
- 3
- 6
- 2
- 128
+ 105
  0
  3
  0
@@ -55186,26 +54231,21 @@ NPUSHB
  103
  0
  1
+ 0
+ 0
+ 1
+ 89
+ 0
+ 1
+ 1
+ 0
+ 97
  7
  1
  0
  1
  0
- 102
- 0
- 4
- 4
- 5
- 97
- 0
- 5
- 5
- 33
- 4
- 78
-EIF
-NPUSHB
- 21
+ 81
  1
  0
  45
@@ -55225,7 +54265,7 @@ NPUSHB
  1
  52
  8
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -55275,7 +54315,7 @@ EndChar
 StartChar: uni0437.loclSRB
 Encoding: 65562 -1 736
 Width: 912
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -55285,11 +54325,11 @@ EndChar
 StartChar: uni0438.1
 Encoding: 65563 -1 737
 Width: 1124
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 46
+ 54
  20
  1
  2
@@ -55299,14 +54339,23 @@ NPUSHB
  3
  1
  1
+ 2
  1
- 28
- 77
+ 133
  0
  4
+ 2
+ 0
+ 2
  4
- 27
- 77
+ 0
+ 128
+ 0
+ 2
+ 4
+ 0
+ 2
+ 89
  0
  2
  2
@@ -55315,10 +54364,9 @@ NPUSHB
  5
  1
  0
+ 2
  0
- 32
- 0
- 78
+ 81
  1
  0
  19
@@ -55334,7 +54382,7 @@ NPUSHB
  1
  23
  6
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -55370,7 +54418,7 @@ EndChar
 StartChar: uni0438.loclSRB
 Encoding: 65564 -1 738
 Width: 1215
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -55391,23 +54439,40 @@ EndChar
 StartChar: uni0439.1
 Encoding: 65565 -1 739
 Width: 1140
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_6
+NPUSHB
+ 84
  37
  1
  6
  5
  1
  76
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 38
+ 3
+ 1
+ 1
+ 2
+ 1
+ 133
+ 7
+ 1
+ 5
+ 0
+ 6
+ 0
+ 5
+ 6
+ 128
+ 0
+ 8
+ 6
+ 4
+ 6
+ 8
+ 4
+ 128
  0
  2
  9
@@ -55417,23 +54482,12 @@ NPUSHB
  2
  0
  105
- 3
- 1
- 1
- 1
- 26
- 77
- 7
- 1
- 5
- 5
- 28
- 77
  0
+ 6
  8
- 8
- 27
- 77
+ 4
+ 6
+ 89
  0
  6
  6
@@ -55442,54 +54496,9 @@ NPUSHB
  10
  1
  4
- 4
- 32
- 4
- 78
-ELSE
-NPUSHB
- 38
- 0
- 2
- 9
- 1
- 0
- 5
- 2
- 0
- 105
- 3
- 1
- 1
- 1
- 26
- 77
- 7
- 1
- 5
- 5
- 8
- 95
- 0
- 8
- 8
- 27
- 77
- 0
- 6
  6
  4
- 97
- 10
- 1
- 4
- 4
- 32
- 4
- 78
-EIF
-NPUSHB
- 29
+ 81
  18
  17
  1
@@ -55517,7 +54526,7 @@ NPUSHB
  1
  16
  11
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -55560,16 +54569,27 @@ SplineSet
  614 -23 614 -23 529 -23 c 0,17,18
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 11 subtable" uni0439
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0439
 EndChar
 
 StartChar: uni043A.1
 Encoding: 65566 -1 740
 Width: 960
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 43
+ 50
+ 0
+ 3
+ 5
+ 3
+ 133
+ 0
+ 5
+ 4
+ 5
+ 133
  0
  6
  4
@@ -55578,31 +54598,28 @@ NPUSHB
  6
  1
  128
- 0
- 4
- 0
- 1
- 0
- 4
- 1
- 103
- 0
- 3
- 3
- 26
- 77
- 0
- 5
- 5
- 28
- 77
  2
  1
  0
+ 1
  0
- 27
+ 134
  0
- 78
+ 4
+ 6
+ 1
+ 4
+ 87
+ 0
+ 4
+ 4
+ 1
+ 95
+ 0
+ 1
+ 4
+ 1
+ 79
  17
  19
  17
@@ -55611,7 +54628,7 @@ NPUSHB
  36
  16
  7
- 7
+ 6
  29
 CALL
 EndTTInstrs
@@ -55644,11 +54661,17 @@ EndChar
 StartChar: uni043A.loclSRB
 Encoding: 65567 -1 741
 Width: 960
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 39
+ 46
+ 5
+ 1
+ 3
+ 4
+ 3
+ 133
  0
  6
  4
@@ -55657,27 +54680,28 @@ NPUSHB
  6
  1
  128
- 0
- 4
- 0
- 1
- 0
- 4
- 1
- 103
- 5
- 1
- 3
- 3
- 28
- 77
  2
  1
  0
+ 1
  0
- 27
+ 134
  0
- 78
+ 4
+ 6
+ 1
+ 4
+ 87
+ 0
+ 4
+ 4
+ 1
+ 95
+ 0
+ 1
+ 4
+ 1
+ 79
  17
  19
  17
@@ -55686,7 +54710,7 @@ NPUSHB
  36
  16
  7
- 7
+ 6
  29
 CALL
 EndTTInstrs
@@ -55717,11 +54741,11 @@ EndChar
 StartChar: uni043B.1
 Encoding: 65568 -1 742
 Width: 961
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 24
+ 22
  2
  1
  0
@@ -55730,21 +54754,19 @@ NPUSHB
  76
  0
  2
+ 0
  2
- 28
- 77
+ 133
  1
  1
  0
  0
- 27
- 0
- 78
+ 118
  17
  18
  16
  3
- 7
+ 6
  25
 CALL
 EndTTInstrs
@@ -55767,11 +54789,11 @@ EndChar
 StartChar: uni043B.loclSRB
 Encoding: 65569 -1 743
 Width: 1070
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 54
+ 60
  4
  1
  1
@@ -55783,20 +54805,27 @@ NPUSHB
  2
  76
  0
- 4
- 4
- 2
- 95
+ 3
+ 1
+ 0
+ 1
+ 3
+ 0
+ 128
  0
  2
- 2
- 28
- 77
  0
+ 4
+ 1
+ 2
+ 4
+ 103
+ 0
+ 1
  3
- 3
- 27
- 77
+ 0
+ 1
+ 89
  0
  1
  1
@@ -55805,10 +54834,9 @@ NPUSHB
  5
  1
  0
+ 1
  0
- 32
- 0
- 78
+ 81
  1
  0
  16
@@ -55824,7 +54852,7 @@ NPUSHB
  1
  22
  6
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -55855,75 +54883,54 @@ EndChar
 StartChar: uni043F.1
 Encoding: 65570 -1 744
 Width: 1129
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_6
+NPUSHB
+ 44
  15
  1
  0
  1
  1
  76
-MPPEM
-PUSHB_1
- 30
-LT
-IF
-NPUSHB
- 18
  0
- 1
- 1
  3
- 97
  4
  1
+ 4
  3
- 3
- 28
- 77
+ 1
+ 128
  2
  1
  0
- 0
- 27
- 0
- 78
-ELSE
-NPUSHB
- 22
- 0
- 3
- 3
- 28
- 77
- 0
  1
+ 0
+ 134
+ 0
+ 4
+ 3
  1
  4
+ 89
+ 0
+ 4
+ 4
+ 1
  97
  0
- 4
- 4
- 33
- 77
- 2
  1
- 0
- 0
- 27
- 0
- 78
-EIF
-PUSHB_8
+ 4
+ 1
+ 81
  35
  17
  20
  36
  16
  5
- 7
+ 6
  27
 CALL
 EndTTInstrs
@@ -55958,52 +54965,31 @@ EndChar
 StartChar: uni043F.loclSRB
 Encoding: 65571 -1 745
 Width: 1238
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_6
+NPUSHB
+ 54
  19
  1
  2
  3
  1
  76
-MPPEM
-PUSHB_1
- 30
-LT
-IF
-NPUSHB
- 26
- 0
- 1
- 0
  0
  5
- 1
- 0
- 103
- 0
- 3
- 3
- 5
- 97
  6
- 1
+ 3
+ 6
  5
- 5
- 28
- 77
+ 3
+ 128
  4
  1
  2
+ 3
  2
- 27
- 2
- 78
-ELSE
-NPUSHB
- 30
+ 134
  0
  1
  0
@@ -56013,30 +54999,21 @@ NPUSHB
  0
  103
  0
+ 6
  5
- 5
- 28
- 77
- 0
- 3
  3
  6
+ 89
+ 0
+ 6
+ 6
+ 3
  97
  0
+ 3
  6
- 6
- 33
- 77
- 4
- 1
- 2
- 2
- 27
- 2
- 78
-EIF
-NPUSHB
- 10
+ 3
+ 81
  35
  17
  20
@@ -56045,7 +55022,7 @@ NPUSHB
  17
  16
  7
- 7
+ 6
  29
 CALL
 EndTTInstrs
@@ -56083,10 +55060,11 @@ EndChar
 StartChar: uni0442.1
 Encoding: 65572 -1 746
 Width: 1732
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_7
+NPUSHB
+ 52
  32
  26
  2
@@ -56094,245 +55072,40 @@ PUSHB_7
  1
  1
  76
-MPPEM
-PUSHB_1
- 10
-LT
-IF
-NPUSHB
- 21
- 3
- 1
- 1
- 1
+ 0
  5
- 97
- 7
  6
- 2
+ 1
+ 6
  5
- 5
- 28
- 77
+ 1
+ 128
  4
  2
  2
  0
+ 1
  0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 12
-LT
-IF
-NPUSHB
- 31
- 3
- 1
- 1
- 1
- 6
- 97
- 0
- 6
- 6
- 33
- 77
- 3
- 1
- 1
- 1
- 5
- 97
+ 134
  7
  1
- 5
- 5
- 28
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 20
-LT
-IF
-NPUSHB
- 21
- 3
- 1
- 1
- 1
- 5
- 97
- 7
  6
- 2
  5
- 5
- 28
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 31
- 3
- 1
- 1
  1
  6
- 97
- 0
- 6
- 6
- 33
- 77
- 3
- 1
- 1
- 1
- 5
- 97
- 7
- 1
- 5
- 5
- 28
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 26
-LT
-IF
-NPUSHB
- 21
- 3
- 1
- 1
- 1
- 5
- 97
- 7
- 6
- 2
- 5
- 5
- 28
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 30
-LT
-IF
-NPUSHB
- 31
- 3
- 1
- 1
- 1
- 6
- 97
- 0
- 6
- 6
- 33
- 77
- 3
- 1
- 1
- 1
- 5
- 97
- 7
- 1
- 5
- 5
- 28
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-ELSE
-NPUSHB
- 25
- 0
- 5
- 5
- 28
- 77
- 3
- 1
- 1
- 1
- 6
- 97
+ 89
  7
  1
  6
  6
- 33
- 77
- 4
- 2
- 2
- 0
- 0
- 27
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 11
+ 1
+ 97
+ 3
+ 1
+ 1
+ 6
+ 1
+ 81
  35
  35
  17
@@ -56342,7 +55115,7 @@ NPUSHB
  36
  16
  8
- 7
+ 6
  30
 CALL
 EndTTInstrs
@@ -56388,7 +55161,7 @@ EndChar
 StartChar: uni0442.loclSRB
 Encoding: 65573 -1 747
 Width: 1743
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 PUSHB_2
@@ -56409,78 +55182,48 @@ EndChar
 StartChar: uni0446.1
 Encoding: 65574 -1 748
 Width: 1158
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_6
+NPUSHB
+ 47
  7
  1
  4
  3
  1
  76
-MPPEM
-PUSHB_1
- 30
-LT
-IF
-NPUSHB
- 24
- 0
- 0
- 4
- 0
- 83
  5
  1
  3
+ 4
  3
- 28
- 77
+ 133
+ 0
  6
  1
+ 0
+ 6
+ 89
+ 0
  4
- 4
- 1
- 97
  2
  1
  1
+ 0
+ 4
  1
- 32
- 1
- 78
-ELSE
-NPUSHB
- 25
+ 105
+ 0
+ 6
+ 6
+ 0
+ 95
+ 0
  0
  6
  0
- 0
- 6
- 0
- 99
- 5
- 1
- 3
- 3
- 28
- 77
- 0
- 4
- 4
- 1
- 97
- 2
- 1
- 1
- 1
- 32
- 1
- 78
-EIF
-NPUSHB
- 10
+ 79
  19
  21
  36
@@ -56489,7 +55232,7 @@ NPUSHB
  17
  16
  7
- 7
+ 6
  29
 CALL
 EndTTInstrs
@@ -56529,34 +55272,81 @@ EndChar
 StartChar: uni0446.loclSRB
 Encoding: 65575 -1 749
 Width: 1174
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
+MPPEM
+PUSHB_1
+ 9
+LT
+IF
 NPUSHB
- 32
- 0
- 0
- 1
- 0
- 134
+ 30
  4
  1
  2
+ 3
  2
- 28
- 77
+ 133
+ 0
+ 0
+ 1
+ 1
+ 0
+ 113
+ 5
+ 1
+ 3
+ 1
+ 1
+ 3
+ 87
  5
  1
  3
  3
  1
- 96
+ 95
  0
  1
+ 3
  1
- 27
+ 79
+ELSE
+NPUSHB
+ 29
+ 4
  1
- 78
+ 2
+ 3
+ 2
+ 133
+ 0
+ 0
+ 1
+ 0
+ 134
+ 5
+ 1
+ 3
+ 1
+ 1
+ 3
+ 87
+ 5
+ 1
+ 3
+ 3
+ 1
+ 95
+ 0
+ 1
+ 3
+ 1
+ 79
+EIF
+NPUSHB
+ 9
  17
  17
  17
@@ -56564,7 +55354,7 @@ NPUSHB
  17
  16
  6
- 7
+ 6
  28
 CALL
 EndTTInstrs
@@ -56590,10 +55380,11 @@ EndChar
 StartChar: uni0448.1
 Encoding: 65576 -1 750
 Width: 1753
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_7
+NPUSHB
+ 65
  35
  2
  2
@@ -56601,106 +55392,41 @@ PUSHB_7
  2
  1
  76
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 22
  6
  4
  2
  2
+ 3
  2
- 28
- 77
+ 133
+ 0
+ 7
+ 3
+ 0
+ 3
+ 7
+ 0
+ 128
+ 5
+ 1
+ 3
+ 7
+ 0
+ 3
+ 89
  5
  1
  3
  3
- 0
- 98
- 7
- 1
- 8
- 3
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 28
-LT
-IF
-NPUSHB
- 30
- 6
- 4
- 2
- 2
- 2
  0
  97
- 7
- 1
- 8
- 3
- 0
- 0
- 32
- 77
- 5
- 1
- 3
- 3
- 0
- 98
- 7
- 1
- 8
- 3
- 0
- 0
- 32
- 0
- 78
-ELSE
-NPUSHB
- 26
- 6
- 4
- 2
- 2
- 2
- 7
- 95
- 0
- 7
- 7
- 27
- 77
- 5
- 1
- 3
- 3
- 0
- 98
  1
  8
  2
  0
+ 3
  0
- 32
- 0
- 78
-EIF
-EIF
-NPUSHB
- 23
+ 81
  1
  0
  34
@@ -56722,7 +55448,7 @@ NPUSHB
  1
  37
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -56767,7 +55493,7 @@ EndChar
 StartChar: uni0448.loclSRB
 Encoding: 65577 -1 751
 Width: 1743
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -56778,11 +55504,11 @@ EndChar
 StartChar: uni0449.1
 Encoding: 65578 -1 752
 Width: 1757
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 49
+ 55
  15
  7
  2
@@ -56790,34 +55516,40 @@ NPUSHB
  4
  1
  76
- 0
- 9
- 0
- 0
- 9
- 0
- 99
  8
  6
  2
  4
+ 5
  4
- 28
- 77
+ 133
+ 0
+ 9
+ 1
+ 0
+ 9
+ 89
  7
  1
  5
- 5
- 1
- 97
  3
  2
  2
  1
+ 0
+ 5
  1
- 32
- 1
- 78
+ 105
+ 0
+ 9
+ 9
+ 0
+ 95
+ 0
+ 0
+ 9
+ 0
+ 79
  48
  47
  19
@@ -56830,7 +55562,7 @@ NPUSHB
  17
  16
  10
- 7
+ 6
  31
 CALL
 EndTTInstrs
@@ -56880,36 +55612,87 @@ EndChar
 StartChar: uni0449.loclSRB
 Encoding: 65579 -1 753
 Width: 1554
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
+MPPEM
+PUSHB_1
+ 9
+LT
+IF
 NPUSHB
- 36
- 0
- 0
- 1
- 0
- 134
+ 33
  6
  4
  2
  2
+ 3
  2
- 28
- 77
+ 133
+ 0
+ 0
+ 1
+ 1
+ 0
+ 113
+ 7
+ 5
+ 2
+ 3
+ 1
+ 1
+ 3
+ 87
  7
  5
  2
  3
  3
  1
- 96
+ 95
  0
  1
+ 3
  1
- 27
+ 79
+ELSE
+NPUSHB
+ 32
+ 6
+ 4
+ 2
+ 2
+ 3
+ 2
+ 133
+ 0
+ 0
  1
- 78
+ 0
+ 134
+ 7
+ 5
+ 2
+ 3
+ 1
+ 1
+ 3
+ 87
+ 7
+ 5
+ 2
+ 3
+ 3
+ 1
+ 95
+ 0
+ 1
+ 3
+ 1
+ 79
+EIF
+NPUSHB
+ 11
  17
  17
  17
@@ -56919,7 +55702,7 @@ NPUSHB
  17
  16
  8
- 7
+ 6
  30
 CALL
 EndTTInstrs
@@ -56949,17 +55732,25 @@ EndChar
 StartChar: uni044A.1
 Encoding: 65580 -1 754
 Width: 1170
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 60
+ 64
  10
  1
  4
  5
  1
  76
+ 0
+ 2
+ 0
+ 1
+ 3
+ 2
+ 1
+ 103
  0
  3
  0
@@ -56968,16 +55759,13 @@ NPUSHB
  3
  5
  105
- 0
+ 7
  1
- 1
- 2
- 95
+ 4
  0
- 2
- 2
- 28
- 77
+ 0
+ 4
+ 89
  7
  1
  4
@@ -56987,10 +55775,9 @@ NPUSHB
  6
  1
  0
+ 4
  0
- 32
- 0
- 78
+ 81
  23
  22
  1
@@ -57012,7 +55799,7 @@ NPUSHB
  1
  21
  8
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -57058,10 +55845,11 @@ EndChar
 StartChar: uni044B.1
 Encoding: 65581 -1 755
 Width: 1423
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_7
+NPUSHB
+ 73
  34
  8
  2
@@ -57069,13 +55857,20 @@ PUSHB_7
  6
  1
  76
-MPPEM
-PUSHB_1
- 12
-LT
-IF
-NPUSHB
- 32
+ 4
+ 1
+ 1
+ 2
+ 1
+ 133
+ 0
+ 3
+ 5
+ 0
+ 5
+ 3
+ 0
+ 128
  0
  2
  0
@@ -57084,17 +55879,13 @@ NPUSHB
  2
  6
  105
- 4
+ 8
  1
- 1
- 1
- 28
- 77
+ 5
+ 3
  0
- 3
- 3
- 27
- 77
+ 5
+ 89
  8
  1
  5
@@ -57104,163 +55895,9 @@ NPUSHB
  7
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 28
- 0
- 2
- 0
- 6
- 5
- 2
- 6
- 105
- 4
- 1
- 1
- 1
- 28
- 77
- 8
- 1
- 5
  5
  0
- 97
- 3
- 7
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 32
- 0
- 2
- 0
- 6
- 5
- 2
- 6
- 105
- 4
- 1
- 1
- 1
- 28
- 77
- 0
- 3
- 3
- 27
- 77
- 8
- 1
- 5
- 5
- 0
- 97
- 7
- 1
- 0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 28
- 0
- 2
- 0
- 6
- 5
- 2
- 6
- 105
- 4
- 1
- 1
- 1
- 28
- 77
- 8
- 1
- 5
- 5
- 0
- 97
- 3
- 7
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-NPUSHB
- 32
- 0
- 2
- 0
- 6
- 5
- 2
- 6
- 105
- 4
- 1
- 1
- 1
- 28
- 77
- 0
- 3
- 3
- 27
- 77
- 8
- 1
- 5
- 5
- 0
- 97
- 7
- 1
- 0
- 0
- 32
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 25
+ 81
  25
  24
  1
@@ -57284,7 +55921,7 @@ NPUSHB
  1
  19
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -57330,11 +55967,11 @@ EndChar
 StartChar: uni044C.1
 Encoding: 65582 -1 756
 Width: 1128
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 54
+ 60
  29
  7
  2
@@ -57343,6 +55980,11 @@ NPUSHB
  1
  76
  0
+ 1
+ 2
+ 1
+ 133
+ 0
  2
  0
  4
@@ -57350,11 +55992,13 @@ NPUSHB
  2
  4
  105
+ 6
+ 1
+ 3
  0
- 1
- 1
- 28
- 77
+ 0
+ 3
+ 89
  6
  1
  3
@@ -57364,10 +56008,9 @@ NPUSHB
  5
  1
  0
+ 3
  0
- 32
- 0
- 78
+ 81
  20
  19
  1
@@ -57387,7 +56030,7 @@ NPUSHB
  1
  18
  7
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -57427,10 +56070,11 @@ EndChar
 StartChar: uni044E.1
 Encoding: 65583 -1 757
 Width: 1417
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_7
+NPUSHB
+ 80
  8
  6
  2
@@ -57438,13 +56082,11 @@ PUSHB_7
  3
  1
  76
-MPPEM
-PUSHB_1
- 12
-LT
-IF
-NPUSHB
- 41
+ 0
+ 2
+ 4
+ 2
+ 133
  0
  3
  6
@@ -57454,119 +56096,28 @@ NPUSHB
  5
  128
  0
- 2
- 2
- 26
- 77
- 0
- 6
- 6
- 4
- 97
- 0
- 4
- 4
- 33
- 77
- 0
- 1
- 1
- 27
- 77
- 8
  1
  5
- 5
  0
- 97
- 7
+ 5
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 16
-LT
-IF
-NPUSHB
- 37
- 0
- 3
- 6
- 5
- 6
- 3
- 5
  128
  0
- 2
- 2
- 26
- 77
+ 4
  0
  6
+ 3
+ 4
  6
- 4
- 97
- 0
- 4
- 4
- 33
- 77
+ 105
  8
  1
  5
- 5
- 0
- 97
  1
- 7
- 2
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 22
-LT
-IF
-NPUSHB
- 41
- 0
- 3
- 6
  5
- 6
- 3
- 5
- 128
- 0
- 2
- 2
- 26
- 77
- 0
- 6
- 6
- 4
- 97
- 0
- 4
- 4
- 33
- 77
- 0
- 1
- 1
- 27
- 77
+ 89
  8
  1
  5
@@ -57576,105 +56127,9 @@ NPUSHB
  7
  1
  0
- 0
- 32
- 0
- 78
-ELSE
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 37
- 0
- 3
- 6
- 5
- 6
- 3
- 5
- 128
- 0
- 2
- 2
- 26
- 77
- 0
- 6
- 6
- 4
- 97
- 0
- 4
- 4
- 33
- 77
- 8
- 1
- 5
  5
  0
- 97
- 1
- 7
- 2
- 0
- 0
- 32
- 0
- 78
-ELSE
-NPUSHB
- 41
- 0
- 3
- 6
- 5
- 6
- 3
- 5
- 128
- 0
- 2
- 2
- 26
- 77
- 0
- 6
- 6
- 4
- 97
- 0
- 4
- 4
- 33
- 77
- 0
- 1
- 1
- 27
- 77
- 8
- 1
- 5
- 5
- 0
- 97
- 7
- 1
- 0
- 0
- 32
- 0
- 78
-EIF
-EIF
-EIF
-EIF
-NPUSHB
- 25
+ 81
  29
  28
  1
@@ -57698,7 +56153,7 @@ NPUSHB
  1
  27
  9
- 7
+ 6
  22
 CALL
 EndTTInstrs
@@ -57746,11 +56201,11 @@ EndChar
 StartChar: uni0453.loclMKD
 Encoding: 65584 -1 758
 Width: 929
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
 NPUSHB
- 69
+ 10
  55
  54
  38
@@ -57761,6 +56216,60 @@ NPUSHB
  5
  1
  76
+MPPEM
+PUSHB_1
+ 9
+LT
+IF
+NPUSHB
+ 44
+ 0
+ 1
+ 0
+ 3
+ 1
+ 112
+ 0
+ 0
+ 3
+ 0
+ 133
+ 0
+ 3
+ 0
+ 2
+ 6
+ 3
+ 2
+ 104
+ 0
+ 6
+ 0
+ 5
+ 7
+ 6
+ 5
+ 105
+ 0
+ 7
+ 4
+ 4
+ 7
+ 89
+ 0
+ 7
+ 7
+ 4
+ 97
+ 8
+ 1
+ 4
+ 7
+ 4
+ 81
+ELSE
+NPUSHB
+ 43
  0
  1
  0
@@ -57780,15 +56289,19 @@ NPUSHB
  2
  104
  0
- 5
- 5
  6
- 97
  0
+ 5
+ 7
  6
- 6
- 33
- 77
+ 5
+ 105
+ 0
+ 7
+ 4
+ 4
+ 7
+ 89
  0
  7
  7
@@ -57797,10 +56310,12 @@ NPUSHB
  8
  1
  4
+ 7
  4
- 32
- 4
- 78
+ 81
+EIF
+NPUSHB
+ 19
  9
  8
  51
@@ -57818,7 +56333,7 @@ NPUSHB
  17
  16
  9
- 7
+ 6
  26
 CALL
 EndTTInstrs
@@ -57873,47 +56388,47 @@ EndChar
 StartChar: uni045D.1
 Encoding: 65585 -1 759
 Width: 1147
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 TtInstrs:
-PUSHB_6
+NPUSHB
+ 66
  24
  1
  4
  3
  1
  76
-MPPEM
-PUSHB_1
- 24
-LT
-IF
-NPUSHB
- 36
- 0
  0
  1
- 3
+ 0
  1
+ 133
+ 0
  0
  3
- 128
  0
- 1
- 1
- 26
- 77
+ 133
  5
  1
  3
+ 4
  3
- 28
- 77
+ 133
  0
  6
+ 4
+ 2
+ 4
  6
- 27
- 77
+ 2
+ 128
+ 0
+ 4
+ 6
+ 2
+ 4
+ 89
  0
  4
  4
@@ -57922,52 +56437,9 @@ NPUSHB
  7
  1
  2
- 2
- 32
- 2
- 78
-ELSE
-NPUSHB
- 36
- 0
- 0
- 1
- 3
- 1
- 0
- 3
- 128
- 0
- 1
- 1
- 26
- 77
- 5
- 1
- 3
- 3
- 6
- 95
- 0
- 6
- 6
- 27
- 77
- 0
- 4
  4
  2
- 97
- 7
- 1
- 2
- 2
- 32
- 2
- 78
-EIF
-NPUSHB
- 19
+ 81
  5
  4
  23
@@ -57985,7 +56457,7 @@ NPUSHB
  17
  16
  8
- 7
+ 6
  24
 CALL
 EndTTInstrs
@@ -58019,6 +56491,7 @@ SplineSet
  618 -23 618 -23 532 -23 c 0,4,5
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 11 subtable" uni045D
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045D
 EndChar
 EndChars
 EndSplineFont

@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1480856841
-ModificationTime: 1686781784
+ModificationTime: 1687305415
 PfmFamily: 81
 TTFWeight: 800
 TTFWidth: 5
@@ -57,12 +57,12 @@ OS2XHeight: 1039
 OS2Vendor: 'AMSP'
 OS2CodePages: 20000197.00000000
 OS2UnicodeRanges: 2000020f.00000001.00000000.00000000
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 21" { } ['locl' ('latn' <'AZE ' 'CRT ' 'KAZ ' 'TAT ' 'TRK ' > ) ]
 Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4" { "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'RUS ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5" { "'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6" { "'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 8" { "'locl' Localized Forms in Cyrillic lookup 8 subtable"  } ['locl' ('cyrl' <'SRB ' > ) ]
@@ -3997,7 +3997,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 135 27 9
+WinInfo: 108 27 9
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable"
 BeginChars: 65580 755
 
@@ -11359,7 +11361,6 @@ SplineSet
  591 1413 l 1,7,-1
  537 1178 l 1,4,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" i.loclTRK
 Substitution2: "Single Substitution lookup 2 subtable" dotlessi
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" i.loclTRK
 EndChar
