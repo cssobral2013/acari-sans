@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-ExtraBold.woff2') format('woff2'),
+        url('AcariSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Bold.woff2') format('woff2'),
+        url('AcariSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-BoldItalic.woff2') format('woff2'),
+        url('AcariSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-ExtraLightItalic.woff2') format('woff2'),
+        url('AcariSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Light.woff2') format('woff2'),
+        url('AcariSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-ExtraLight.woff2') format('woff2'),
+        url('AcariSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Italic.woff2') format('woff2'),
+        url('AcariSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('AcariSans-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-LightItalic.woff2') format('woff2'),
+        url('AcariSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Medium.woff2') format('woff2'),
+        url('AcariSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-MediumItalic.woff2') format('woff2'),
+        url('AcariSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-SemiBold.woff2') format('woff2'),
+        url('AcariSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-SemiBoldItalic.woff2') format('woff2'),
+        url('AcariSans-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Regular.woff2') format('woff2'),
+        url('AcariSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
