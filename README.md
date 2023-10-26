@@ -12,10 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-A continuation of the development of HK Grotesk Cyrillic font
-
-Acari Sans (named after a fish native from Central and South America, also referred to as 'cascudo')  
-is forked from Hanken Grotesk Version 1.045, last version that supports Cyrillic. The first modifications are duplexed tabular numerals, and fixed some glyphs.  
+Acari Sans (named after a fish native from Central and South America, also referred to as 'cascudo') is forked from Hanken Grotesk Version 1.045, last version that supports Cyrillic. The first modifications were duplexed tabular numerals, and fixing of some glyphs.  
 In the new versions of Acari Sans (starting from v.1.070), the UPM value has been changed to 2048, which creates an entirely new geometry of glyphs. The H-height is now 1448 and the x-height is 1064. The Acari Sans family is based on 3 masters (Light, Bold, Black) with which are created the following weights: Light=300, Regular=400, Medium=500, SemiBold=600, Bold=700, ExtraBold=800, Black=900.  
 
 ![Sample Image](documentation/Acari_Sans_950x475_01.png)
