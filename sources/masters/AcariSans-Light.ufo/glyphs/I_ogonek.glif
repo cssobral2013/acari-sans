@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="589"/>
+  <unicode hex="012E"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0328" xOffset="521.216"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+>uni0328</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="2">
+  <advance width="1176"/>
+  <unicode hex="01A1"/>
+  <anchor x="588.8" y="1191.94" name="top"/>
+  <outline>
+    <component base="o" xOffset="4"/>
+    <component base="uni031B" xOffset="1360.9" yOffset="-351.232"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni031B</string>
+  </dict>
+  </lib>
+</glyph>

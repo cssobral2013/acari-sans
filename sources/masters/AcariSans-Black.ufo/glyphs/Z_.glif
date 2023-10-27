@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="1302"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="1233.92" y="0" type="line" name=".dv00"/>
+      <point x="1233.92" y="261.12" type="line" name=".dv05"/>
+      <point x="464.896" y="261.12" type="line"/>
+      <point x="1233.92" y="1242.09" type="line"/>
+      <point x="1233.92" y="1447.91" type="line" name=".av01"/>
+      <point x="97.28" y="1447.91" type="line" name=".dv06"/>
+      <point x="97.28" y="1178.6" type="line" name=".dv07"/>
+      <point x="825.344" y="1178.6" type="line"/>
+      <point x="51.2" y="196.608" type="line"/>
+      <point x="51.2" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv00</string>
+      <key>point2</key>
+      <string>.dv05</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv07</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

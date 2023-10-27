@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A" format="2">
+  <advance width="1272"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="733.184" y="-20.48" type="line" smooth="yes"/>
+      <point x="883.712" y="-20.48"/>
+      <point x="1008.64" y="26.624"/>
+      <point x="1095.68" y="105.472" type="curve" smooth="yes"/>
+      <point x="1182.72" y="184.32"/>
+      <point x="1226.75" y="291.84"/>
+      <point x="1226.75" y="407.552" type="curve" name=".sh01"/>
+      <point x="1224.7" y="619.52"/>
+      <point x="1136.64" y="756.736"/>
+      <point x="963.584" y="820.224" type="curve" smooth="yes"/>
+      <point x="904.192" y="841.728"/>
+      <point x="833.536" y="851.968"/>
+      <point x="752.64" y="851.968" type="curve" smooth="yes" name=".dv06"/>
+      <point x="665.6" y="851.968"/>
+      <point x="596.992" y="831.488"/>
+      <point x="512" y="779.264" type="curve" name=".iv01"/>
+      <point x="512" y="1022.98" type="line"/>
+      <point x="-14.336" y="1022.98" type="line" name=".dv04"/>
+      <point x="-14.336" y="815.104" type="line" name=".dv03"/>
+      <point x="257.024" y="815.104" type="line" name=".sh02"/>
+      <point x="257.024" y="479.232" type="line" smooth="yes"/>
+      <point x="257.024" y="154.624"/>
+      <point x="417.792" y="-20.48"/>
+      <point x="721.92" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
+    </contour>
+    <contour>
+      <point x="716.8" y="219.136" type="curve" smooth="yes" name=".dv02"/>
+      <point x="592.896" y="219.136"/>
+      <point x="512" y="292.864"/>
+      <point x="512" y="415.744" type="curve" smooth="yes" name=".sh03"/>
+      <point x="512" y="531.456"/>
+      <point x="580.608" y="611.328"/>
+      <point x="718.848" y="611.328" type="curve" smooth="yes" name=".dv05"/>
+      <point x="843.776" y="611.328"/>
+      <point x="925.696" y="515.072"/>
+      <point x="925.696" y="414.72" type="curve" smooth="yes" name=".ah01"/>
+      <point x="925.696" y="296.96"/>
+      <point x="850.944" y="219.136"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv05</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>.iv01</string>
+      <key>point1</key>
+      <string>.dv05</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>delta</key>
+      <integer>3</integer>
+      <key>ppm1</key>
+      <integer>22</integer>
+      <key>ppm2</key>
+      <integer>23</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>delta</key>
+      <integer>2</integer>
+      <key>ppm1</key>
+      <integer>9</integer>
+      <key>ppm2</key>
+      <integer>21</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ah01</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>lsb</string>
+      <key>point2</key>
+      <string>.sh02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.sh02</string>
+      <key>point2</key>
+      <string>.iv01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.iv01</string>
+      <key>point2</key>
+      <string>.sh03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

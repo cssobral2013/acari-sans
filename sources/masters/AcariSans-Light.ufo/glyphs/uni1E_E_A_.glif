@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EEA" format="2">
+  <advance width="1382"/>
+  <unicode hex="1EEA"/>
+  <anchor x="825.344" y="0" name="ogonek"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="gravecomb" xOffset="844.8" yOffset="425.984"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Uhorn+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC0" format="2">
+  <advance width="1275"/>
+  <unicode hex="1EC0"/>
+  <outline>
+    <component base="Ecircumflex"/>
+    <component base="gravecomb" xOffset="919.1" yOffset="425"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ecircumflex+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

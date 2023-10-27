@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="1381"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="797.696" y="0" type="line" name=".av03"/>
+      <point x="1385.47" y="1447.91" type="line" name=".av01"/>
+      <point x="1063.94" y="1447.91" type="line"/>
+      <point x="693.248" y="486.4" type="line" name=".iv01"/>
+      <point x="320.512" y="1447.91" type="line" name=".av02"/>
+      <point x="-4.096" y="1447.91" type="line"/>
+      <point x="585.728" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>.iv01</string>
+      <key>point1</key>
+      <string>.av03</string>
+      <key>point2</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

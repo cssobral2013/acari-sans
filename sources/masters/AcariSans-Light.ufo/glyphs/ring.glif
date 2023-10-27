@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <advance width="526"/>
+  <unicode hex="02DA"/>
+  <anchor x="262.144" y="1191.94" name="_top"/>
+  <outline>
+    <contour>
+      <point x="262.144" y="1132.54" type="curve" smooth="yes"/>
+      <point x="379.904" y="1132.54"/>
+      <point x="464.896" y="1216.51"/>
+      <point x="464.896" y="1334.27" type="curve" smooth="yes"/>
+      <point x="464.896" y="1452.03"/>
+      <point x="379.904" y="1536"/>
+      <point x="262.144" y="1536" type="curve" smooth="yes"/>
+      <point x="144.384" y="1536"/>
+      <point x="61.44" y="1452.03"/>
+      <point x="61.44" y="1334.27" type="curve" smooth="yes"/>
+      <point x="61.44" y="1216.51"/>
+      <point x="144.384" y="1132.54"/>
+    </contour>
+    <contour>
+      <point x="262.144" y="1229.82" type="curve" smooth="yes"/>
+      <point x="203.776" y="1229.82"/>
+      <point x="159.744" y="1275.9"/>
+      <point x="159.744" y="1334.27" type="curve" smooth="yes"/>
+      <point x="159.744" y="1392.64"/>
+      <point x="203.776" y="1438.72"/>
+      <point x="262.144" y="1438.72" type="curve" smooth="yes"/>
+      <point x="320.512" y="1438.72"/>
+      <point x="364.544" y="1392.64"/>
+      <point x="364.544" y="1334.27" type="curve" smooth="yes"/>
+      <point x="364.544" y="1275.9"/>
+      <point x="320.512" y="1229.82"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="262.144" y="0"/>
+  <guideline angle="0" x="0" y="1310.72"/>
+  <guideline angle="0" x="0" y="1372.16"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=61</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=61</string>
+  </dict>
+  </lib>
+</glyph>

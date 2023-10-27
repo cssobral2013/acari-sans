@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041A" format="2">
+  <advance width="1413"/>
+  <unicode hex="041A"/>
+  <anchor x="630.784" y="1617.92" name="top"/>
+  <outline>
+    <contour>
+      <point x="1362.94" y="0" type="line"/>
+      <point x="1094.66" y="602.112" type="line" smooth="yes"/>
+      <point x="1019.9" y="770.048"/>
+      <point x="941.056" y="854.016"/>
+      <point x="858.112" y="854.016" type="curve"/>
+      <point x="1290.24" y="1444.86" type="line"/>
+      <point x="942.08" y="1444.86" type="line"/>
+      <point x="600.064" y="922.624" type="line"/>
+      <point x="446.464" y="922.624" type="line"/>
+      <point x="446.464" y="1444.86" type="line"/>
+      <point x="186.368" y="1444.86" type="line"/>
+      <point x="186.368" y="0" type="line"/>
+      <point x="446.464" y="0" type="line"/>
+      <point x="446.464" y="679.936" type="line"/>
+      <point x="677.888" y="679.936" type="line" smooth="yes"/>
+      <point x="782.336" y="679.936"/>
+      <point x="840.704" y="570.368"/>
+      <point x="870.4" y="484.352" type="curve" smooth="yes"/>
+      <point x="1040.38" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="630.784" y="0"/>
+</glyph>

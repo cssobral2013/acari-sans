@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED1" format="2">
+  <advance width="1158"/>
+  <unicode hex="1ED1"/>
+  <outline>
+    <component base="o" xOffset="2"/>
+    <component base="uni0302" xOffset="894.976"/>
+    <component base="acutecomb" xOffset="976.896" yOffset="420.864"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

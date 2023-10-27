@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="1157"/>
+  <unicode hex="01B0"/>
+  <anchor x="573.44" y="1191.94" name="top"/>
+  <anchor x="984.064" y="0" name="ogonek"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni031B" xOffset="1342.46" yOffset="-366.592"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni031B</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

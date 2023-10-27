@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="1134"/>
+  <unicode hex="0053"/>
+  <anchor x="560.128" y="1617.92" name="top"/>
+  <outline>
+    <contour>
+      <point x="94.208" y="360.448" type="line"/>
+      <point x="135.168" y="113.664"/>
+      <point x="344.064" y="-16.384"/>
+      <point x="582.656" y="-16.384" type="curve" smooth="yes"/>
+      <point x="827.392" y="-16.384"/>
+      <point x="1022.98" y="139.264"/>
+      <point x="1022.98" y="394.24" type="curve" smooth="yes"/>
+      <point x="1022.98" y="635.904"/>
+      <point x="823.296" y="729.088"/>
+      <point x="637.952" y="816.128" type="curve" smooth="yes"/>
+      <point x="476.16" y="891.904"/>
+      <point x="324.608" y="962.56"/>
+      <point x="324.608" y="1123.33" type="curve" smooth="yes"/>
+      <point x="324.608" y="1260.54"/>
+      <point x="438.272" y="1349.63"/>
+      <point x="569.344" y="1349.63" type="curve" smooth="yes"/>
+      <point x="695.296" y="1349.63"/>
+      <point x="800.768" y="1291.26"/>
+      <point x="862.208" y="1180.67" type="curve"/>
+      <point x="962.56" y="1250.3" type="line"/>
+      <point x="873.472" y="1396.74"/>
+      <point x="741.376" y="1468.42"/>
+      <point x="570.368" y="1468.42" type="curve" smooth="yes"/>
+      <point x="362.496" y="1468.42"/>
+      <point x="190.464" y="1323.01"/>
+      <point x="190.464" y="1108.99" type="curve" smooth="yes"/>
+      <point x="190.464" y="887.808"/>
+      <point x="378.88" y="798.72"/>
+      <point x="560.128" y="713.728" type="curve" smooth="yes"/>
+      <point x="727.04" y="634.88"/>
+      <point x="887.808" y="559.104"/>
+      <point x="887.808" y="384" type="curve" smooth="yes"/>
+      <point x="887.808" y="192.512"/>
+      <point x="762.88" y="107.52"/>
+      <point x="582.656" y="107.52" type="curve" smooth="yes"/>
+      <point x="401.408" y="107.52"/>
+      <point x="243.712" y="210.944"/>
+      <point x="222.208" y="400.384" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="560.128" y="0"/>
+</glyph>

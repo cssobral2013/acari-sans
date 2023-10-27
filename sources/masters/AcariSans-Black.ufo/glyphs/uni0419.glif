@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0419" format="2">
+  <advance width="1539"/>
+  <unicode hex="0419"/>
+  <outline>
+    <contour>
+      <point x="777.216" y="1590.27" type="curve" smooth="yes" name=".dv01"/>
+      <point x="994.304" y="1590.27"/>
+      <point x="1102.85" y="1668.1"/>
+      <point x="1102.85" y="1867.78" type="curve" name=".dh03"/>
+      <point x="912.384" y="1867.78" type="line" name=".sv01"/>
+      <point x="912.384" y="1785.86"/>
+      <point x="859.136" y="1750.02"/>
+      <point x="777.216" y="1750.02" type="curve" smooth="yes" name=".dv02"/>
+      <point x="686.08" y="1750.02"/>
+      <point x="641.024" y="1788.93"/>
+      <point x="641.024" y="1867.78" type="curve" name=".sv02"/>
+      <point x="449.536" y="1867.78" type="line" name=".ih01"/>
+      <point x="449.536" y="1683.46"/>
+      <point x="544.768" y="1590.27"/>
+    </contour>
+    <contour>
+      <point x="1361.92" y="0" type="line" name=".av01"/>
+      <point x="1361.92" y="1443.84" type="line" name=".sh01"/>
+      <point x="1029.12" y="1443.84" type="line"/>
+      <point x="929.792" y="1258.5"/>
+      <point x="742.4" y="905.216"/>
+      <point x="466.944" y="382.976" type="curve" name=".sh02"/>
+      <point x="471.04" y="456.704" type="line" name=".ih03"/>
+      <point x="468.992" y="441.344"/>
+      <point x="467.968" y="429.056"/>
+      <point x="467.968" y="420.864" type="curve"/>
+      <point x="467.968" y="1443.84" type="line" name=".dh02"/>
+      <point x="177.152" y="1443.84" type="line" name=".dh01"/>
+      <point x="177.152" y="0" type="line" name=".av02"/>
+      <point x="509.952" y="0" type="line"/>
+      <point x="1072.13" y="1060.86" type="line" name=".sh03"/>
+      <point x="1069.06" y="1038.34" type="line"/>
+      <point x="1068.03" y="1027.07" type="line" name=".sh04"/>
+      <point x="1070.08" y="1039.36"/>
+      <point x="1071.1" y="1051.65"/>
+      <point x="1071.1" y="1063.94" type="curve" name=".ih02"/>
+      <point x="1071.1" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.sv01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>double</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.sv01</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.sv01</string>
+      <key>point2</key>
+      <string>.dh03</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolateh</string>
+      <key>point</key>
+      <string>.ih01</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ih01</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolateh</string>
+      <key>point</key>
+      <string>.ih02</string>
+      <key>point1</key>
+      <string>.sv01</string>
+      <key>point2</key>
+      <string>.dh03</string>
+      <key>align</key>
+      <string>double</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ih02</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.dh02</string>
+      <key>point2</key>
+      <string>.sh02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolateh</string>
+      <key>point</key>
+      <string>.ih03</string>
+      <key>point1</key>
+      <string>.ih01</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ih02</string>
+      <key>point2</key>
+      <string>.sh03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ih02</string>
+      <key>point2</key>
+      <string>.sh04</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

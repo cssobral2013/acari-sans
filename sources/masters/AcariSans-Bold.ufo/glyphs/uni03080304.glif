@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080304" format="2">
+  <anchor x="-430.08" y="1191.94" name="_top"/>
+  <outline>
+    <component base="uni0308" yOffset="-43.008"/>
+    <component base="uni0304" xOffset="27.648" yOffset="275.456"/>
+  </outline>
+  <guideline angle="90" x="-286.208" y="0"/>
+  <guideline angle="90" x="287.232" y="0"/>
+  <guideline angle="90" x="-0.512" y="0"/>
+  <guideline angle="0" x="0" y="1529.86"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

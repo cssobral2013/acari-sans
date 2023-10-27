@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="656"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="41.96" y="1254.4" type="line"/>
+      <point x="614.376" y="1254.4" type="line"/>
+      <point x="614.376" y="1438.72" type="line"/>
+      <point x="41.96" y="1438.72" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=41</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=41</string>
+  </dict>
+  </lib>
+</glyph>

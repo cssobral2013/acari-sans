@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D8" format="2">
+  <advance width="1566"/>
+  <unicode hex="04D8"/>
+  <outline>
+    <contour>
+      <point x="796.672" y="-20.48" type="line" smooth="yes" name=".dv01"/>
+      <point x="945.152" y="-20.48"/>
+      <point x="1073.15" y="13.312"/>
+      <point x="1179.65" y="80.896" type="curve" smooth="yes"/>
+      <point x="1284.1" y="146.432"/>
+      <point x="1363.97" y="237.568"/>
+      <point x="1418.24" y="353.28" type="curve" smooth="yes"/>
+      <point x="1470.46" y="462.848"/>
+      <point x="1496.06" y="581.632"/>
+      <point x="1496.06" y="709.632" type="curve" smooth="yes"/>
+      <point x="1496.06" y="738.304" type="line" smooth="yes"/>
+      <point x="1496.06" y="868.352"/>
+      <point x="1469.44" y="988.16"/>
+      <point x="1417.22" y="1098.75" type="curve"/>
+      <point x="1358.85" y="1215.49"/>
+      <point x="1278.98" y="1305.6"/>
+      <point x="1176.58" y="1368.06" type="curve" smooth="yes"/>
+      <point x="1068.03" y="1434.62"/>
+      <point x="941.056" y="1468.42"/>
+      <point x="796.672" y="1468.42" type="curve" smooth="yes"/>
+      <point x="783.36" y="1468.42" type="line" smooth="yes" name=".dv04"/>
+      <point x="517.12" y="1468.42"/>
+      <point x="321.536" y="1363.97"/>
+      <point x="198.656" y="1183.74" type="curve"/>
+      <point x="455.68" y="1043.46" type="line"/>
+      <point x="522.24" y="1155.07"/>
+      <point x="631.808" y="1211.39"/>
+      <point x="783.36" y="1211.39" type="curve" smooth="yes" name=".dv03"/>
+      <point x="901.12" y="1211.39"/>
+      <point x="993.28" y="1176.58"/>
+      <point x="1061.89" y="1105.92" type="curve" smooth="yes"/>
+      <point x="1124.35" y="1039.36"/>
+      <point x="1163.26" y="946.176"/>
+      <point x="1177.6" y="827.392" type="curve"/>
+      <point x="73.728" y="827.392" type="line" name=".dv06"/>
+      <point x="70.656" y="787.456"/>
+      <point x="69.632" y="748.544"/>
+      <point x="69.632" y="711.68" type="curve" smooth="yes"/>
+      <point x="69.632" y="649.216"/>
+      <point x="75.776" y="588.8"/>
+      <point x="89.088" y="528.384" type="curve" smooth="yes"/>
+      <point x="102.4" y="464.896"/>
+      <point x="121.856" y="405.504"/>
+      <point x="149.504" y="350.208" type="curve" smooth="yes"/>
+      <point x="205.824" y="234.496"/>
+      <point x="285.696" y="143.36"/>
+      <point x="390.144" y="78.848" type="curve" smooth="yes"/>
+      <point x="498.688" y="12.288"/>
+      <point x="625.664" y="-20.48"/>
+      <point x="770.048" y="-20.48" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="783.36" y="235.52" type="curve" smooth="yes" name=".dv02"/>
+      <point x="604.16" y="235.52"/>
+      <point x="498.688" y="310.272"/>
+      <point x="441.344" y="424.96" type="curve" smooth="yes"/>
+      <point x="412.672" y="482.304"/>
+      <point x="394.24" y="545.792"/>
+      <point x="385.024" y="614.4" type="curve" name=".dv05"/>
+      <point x="1181.7" y="614.4" type="line"/>
+      <point x="1145.86" y="361.472"/>
+      <point x="1012.74" y="235.52"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv05</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
