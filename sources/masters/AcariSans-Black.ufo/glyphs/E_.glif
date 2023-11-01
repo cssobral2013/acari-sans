@@ -2,7 +2,8 @@
 <glyph name="E" format="2">
   <advance width="1277"/>
   <unicode hex="0045"/>
-  <anchor x="688" y="1617.92" name="top"/>
+  <anchor x="663" y="1617.92" name="top"/>
+  <anchor x="1147" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="1146.88" y="0" type="line" name=".dv01"/>
@@ -19,7 +20,7 @@
       <point x="177.152" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="688" y="0"/>
+  <guideline angle="90" name="vertical" x="663" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

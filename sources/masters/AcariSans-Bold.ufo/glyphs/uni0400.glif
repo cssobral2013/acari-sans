@@ -2,9 +2,10 @@
 <glyph name="uni0400" format="2">
   <advance width="1275"/>
   <unicode hex="0400"/>
+  <anchor x="1149" y="0" name="ogonek"/>
   <outline>
     <component base="uni0415"/>
-    <component base="gravecomb" xOffset="832.512" yOffset="425.984"/>
+    <component base="gravecomb" xOffset="820.432" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>

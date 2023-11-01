@@ -4,51 +4,32 @@
   <unicode hex="00BA"/>
   <outline>
     <contour>
-      <point x="530.432" y="728.064" type="line" smooth="yes" name=".dv01"/>
-      <point x="679.936" y="728.064"/>
-      <point x="808.96" y="819.2"/>
-      <point x="866.304" y="956.416" type="curve" smooth="yes"/>
-      <point x="883.712" y="998.4"/>
-      <point x="892.928" y="1043.46"/>
-      <point x="892.928" y="1091.58" type="curve" smooth="yes" name=".sh01"/>
-      <point x="892.928" y="1105.92" type="line" smooth="yes"/>
-      <point x="892.928" y="1201.15"/>
-      <point x="855.04" y="1292.29"/>
-      <point x="788.48" y="1360.9" type="curve" smooth="yes"/>
-      <point x="721.92" y="1429.5"/>
-      <point x="628.736" y="1468.42"/>
-      <point x="530.432" y="1468.42" type="curve" smooth="yes"/>
-      <point x="522.24" y="1468.42" type="line" smooth="yes" name=".dv04"/>
-      <point x="415.744" y="1468.42"/>
-      <point x="322.56" y="1428.48"/>
-      <point x="254.976" y="1360.9" type="curve" smooth="yes"/>
-      <point x="187.392" y="1293.31"/>
-      <point x="150.528" y="1204.22"/>
-      <point x="149.504" y="1106.94" type="curve" name=".sh02"/>
-      <point x="149.504" y="1090.56" type="line" smooth="yes"/>
-      <point x="149.504" y="996.352"/>
-      <point x="188.416" y="905.216"/>
-      <point x="254.976" y="836.608" type="curve" smooth="yes"/>
-      <point x="321.536" y="768"/>
-      <point x="414.72" y="728.064"/>
-      <point x="514.048" y="728.064" type="curve" smooth="yes"/>
+      <point x="526.336" y="728.064" type="curve" smooth="yes" name=".dv01"/>
+      <point x="743.096" y="728.064"/>
+      <point x="892.928" y="881.244"/>
+      <point x="892.928" y="1102.85" type="curve" smooth="yes"/>
+      <point x="892.928" y="1316.3"/>
+      <point x="740.388" y="1468.42"/>
+      <point x="526.336" y="1468.42" type="curve" smooth="yes"/>
+      <point x="307.469" y="1468.42"/>
+      <point x="149.504" y="1315.17"/>
+      <point x="149.504" y="1102.85" type="curve" smooth="yes" name=".sh02"/>
+      <point x="149.504" y="874.58"/>
+      <point x="296.82" y="728.064"/>
     </contour>
     <contour>
-      <point x="522.24" y="887.808" type="curve" smooth="yes" name=".dv02"/>
-      <point x="392.192" y="887.808"/>
-      <point x="332.8" y="971.776"/>
-      <point x="332.8" y="1098.75" type="curve" smooth="yes" name=".sh03"/>
-      <point x="332.8" y="1162.24"/>
-      <point x="348.16" y="1213.44"/>
-      <point x="377.856" y="1252.35" type="curve" smooth="yes"/>
-      <point x="407.552" y="1291.26"/>
-      <point x="455.68" y="1310.72"/>
-      <point x="522.24" y="1309.7" type="curve" smooth="yes" name=".dv03"/>
-      <point x="658.432" y="1309.7"/>
-      <point x="709.632" y="1218.56"/>
-      <point x="709.632" y="1098.75" type="curve" smooth="yes" name=".ah01"/>
-      <point x="709.632" y="975.872"/>
-      <point x="656.384" y="887.808"/>
+      <point x="526.336" y="887.808" type="curve" smooth="yes" name=".dv02"/>
+      <point x="410.044" y="887.808"/>
+      <point x="332.7" y="973.746"/>
+      <point x="332.8" y="1102.85" type="curve" smooth="yes" name=".sh03"/>
+      <point x="332.894" y="1224.23"/>
+      <point x="412.863" y="1309.7"/>
+      <point x="526.336" y="1309.7" type="curve" smooth="yes" name=".dv03"/>
+      <point x="635.5" y="1309.7"/>
+      <point x="709.632" y="1226.04"/>
+      <point x="709.632" y="1102.85" type="curve" smooth="yes" name=".ah01"/>
+      <point x="709.632" y="971.757"/>
+      <point x="638.075" y="887.808"/>
     </contour>
   </outline>
   <lib>
@@ -67,16 +48,6 @@
     </dict>
     <dict>
       <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
       <string>alignh</string>
       <key>point</key>
       <string>lsb</string>
@@ -88,18 +59,6 @@
       <string>alignh</string>
       <key>point</key>
       <string>.ah01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.ah01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>round</key>
-      <string>true</string>
       <key>align</key>
       <string>round</string>
     </dict>

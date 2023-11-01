@@ -7,7 +7,8 @@
   <key>capHeight</key>
   <integer>1448</integer>
   <key>copyright</key>
-  <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/). HK Grotesk is a trademark of Alfredo Marco Pradil. Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
+Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
@@ -28,11 +29,51 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>diacritics.1913</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1913</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1618</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1616</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1487</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1487</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>H-height</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>1448</integer>
+    <integer>1451</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1192</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1192</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -42,7 +83,17 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>1067</integer>
+    <integer>1064</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>subscript.500</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>500</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -52,7 +103,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>-0</integer>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -85,25 +136,26 @@
   <key>openTypeHheaLineGap</key>
   <integer>27</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/). HK Grotesk is a trademark of Alfredo Marco Pradil.  Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
+Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>openTypeNameDesigner</key>
-  <string>Alfredo Marco Pradil and Stefan Peev (font) &amp; Cristiano Sobral (main changes)</string>
+  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic version) &amp; Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
-  <string>http://behance.net/pradil and http://www.contextbg.net/</string>
+  <string>http://behance.net/pradil and https://localfonts.eu/</string>
   <key>openTypeNameLicense</key>
   <string>This font is released under the SIL Open Font License, version 1.1.</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Alfredo Marco Pradil and Stefan Peev (font) &amp; Cristiano Sobral (main changes)</string>
+  <string>The Acari Sans Project Authors</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>https://hanken.co and http://www.contextbg.net/</string>
+  <string>https://hanken.co and https://localfonts.eu/</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Acari Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.070</string>
+  <string>Version 1.072</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -111,7 +163,6 @@
     <integer>2</integer>
     <integer>4</integer>
     <integer>7</integer>
-    <integer>8</integer>
     <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
@@ -159,7 +210,7 @@
   <key>openTypeOS2TypoDescender</key>
   <integer>-499</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>27</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -203,6 +254,20 @@
   <string>Acari Sans Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>230</integer>
+    <integer>146</integer>
+    <integer>180</integer>
+    <integer>210</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>122</integer>
+    <integer>96</integer>
+    <integer>172</integer>
+    <integer>210</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
@@ -220,8 +285,8 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>70</integer>
+  <integer>72</integer>
   <key>xHeight</key>
-  <integer>1023</integer>
+  <integer>1064</integer>
 </dict>
 </plist>

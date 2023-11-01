@@ -2,14 +2,19 @@
 <glyph name="eogonek" format="2">
   <advance width="1081"/>
   <unicode hex="0119"/>
+  <anchor x="549.888" y="1191.94" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni0328" xOffset="835.584"/>
+    <component base="uni0328" xOffset="816.696"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>e+>~uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

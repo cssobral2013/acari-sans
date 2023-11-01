@@ -1,58 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="florin" format="2">
-  <advance width="1047"/>
+  <advance width="993"/>
   <unicode hex="0192"/>
   <outline>
     <contour>
+      <point x="48.128" y="-235.52" type="curve" name=".dv02"/>
       <point x="48.128" y="-467.968" type="line" name=".dv01"/>
-      <point x="432.128" y="-467.968"/>
-      <point x="626.688" y="-285.696"/>
-      <point x="626.688" y="43.008" type="curve" smooth="yes" name=".sh01"/>
-      <point x="626.688" y="793.6" type="line" name=".dv05"/>
-      <point x="939.008" y="793.6" type="line"/>
-      <point x="939.008" y="1022.98" type="line"/>
-      <point x="626.688" y="1022.98" type="line" name=".dv06"/>
-      <point x="626.688" y="1139.71" type="line" smooth="yes" name=".dh02"/>
-      <point x="626.688" y="1216.51"/>
-      <point x="667.648" y="1249.28"/>
-      <point x="713.728" y="1249.28" type="curve" smooth="yes" name=".dv03"/>
-      <point x="753.664" y="1249.28"/>
-      <point x="766.976" y="1242.11"/>
-      <point x="797.696" y="1218.56" type="curve"/>
-      <point x="832.512" y="1186.82" type="line"/>
-      <point x="859.136" y="1217.54" type="line"/>
-      <point x="891.904" y="1257.47"/>
-      <point x="924.672" y="1292.29"/>
-      <point x="957.44" y="1332.22" type="curve"/>
-      <point x="984.064" y="1362.94" type="line"/>
-      <point x="934.912" y="1402.88"/>
-      <point x="894.976" y="1432.58"/>
-      <point x="851.968" y="1453.06" type="curve" smooth="yes"/>
-      <point x="830.464" y="1463.3"/>
-      <point x="808.96" y="1470.46"/>
-      <point x="788.48" y="1474.56" type="curve" smooth="yes"/>
-      <point x="768" y="1478.66"/>
-      <point x="738.304" y="1481.73"/>
-      <point x="700.416" y="1481.73" type="curve" smooth="yes" name=".dv04"/>
-      <point x="662.528" y="1481.73"/>
-      <point x="625.664" y="1473.54"/>
-      <point x="590.848" y="1458.18" type="curve" smooth="yes"/>
-      <point x="513.024" y="1424.38"/>
-      <point x="453.632" y="1358.85"/>
-      <point x="417.792" y="1273.86" type="curve"/>
-      <point x="402.432" y="1233.92"/>
-      <point x="394.24" y="1192.96"/>
+      <point x="441.335" y="-467.968"/>
+      <point x="673.688" y="-278.175"/>
+      <point x="673.688" y="43.008" type="curve" smooth="yes" name=".sh01"/>
+      <point x="673.688" y="793.6" type="line" name=".dv05"/>
+      <point x="940.763" y="793.6" type="line"/>
+      <point x="940.763" y="1022.98" type="line"/>
+      <point x="673.688" y="1022.98" type="line" name=".dv06"/>
+      <point x="673.688" y="1123.59" type="line" smooth="yes" name=".dh02"/>
+      <point x="673.688" y="1189.54"/>
+      <point x="707.873" y="1233.16"/>
+      <point x="786.027" y="1233.16" type="curve" smooth="yes" name=".dv03"/>
+      <point x="817.224" y="1233.16"/>
+      <point x="854.776" y="1216.66"/>
+      <point x="880.623" y="1192" type="curve"/>
+      <point x="976.555" y="1426.28" type="line"/>
+      <point x="927.821" y="1460.39"/>
+      <point x="839.977" y="1481.64"/>
+      <point x="747.416" y="1481.73" type="curve" smooth="yes" name=".dv04"/>
+      <point x="534.056" y="1481.92"/>
+      <point x="394.24" y="1350.17"/>
       <point x="394.24" y="1148.93" type="curve" smooth="yes" name=".dh01"/>
       <point x="394.24" y="1022.98" type="line" name=".sv01"/>
       <point x="211.968" y="1022.98" type="line"/>
       <point x="211.968" y="793.6" type="line" name=".sv02"/>
       <point x="394.24" y="793.6" type="line" name=".sh02"/>
-      <point x="394.24" y="43.008" type="line"/>
-      <point x="381.952" y="-191.488"/>
-      <point x="328.704" y="-227.328"/>
-      <point x="48.128" y="-235.52" type="curve" name=".dv02"/>
+      <point x="394.24" y="43.008" type="line" smooth="yes"/>
+      <point x="394.24" y="-123.595"/>
+      <point x="255.157" y="-235.52"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="1327"/>
+  <guideline angle="67.7317" x="881.147" y="1193"/>
+  <guideline angle="0" x="0" y="1426"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>
@@ -125,7 +111,7 @@
       <key>point2</key>
       <string>.sh01</string>
       <key>align</key>
-      <string>center</string>
+      <string>double</string>
     </dict>
     <dict>
       <key>code</key>

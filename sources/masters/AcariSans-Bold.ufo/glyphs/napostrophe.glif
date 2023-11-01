@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="1365"/>
+  <advance width="1380"/>
   <unicode hex="0149"/>
   <outline>
-    <component base="n" xOffset="168.96"/>
     <component base="uni02BC" xOffset="-102.4"/>
+    <component base="n" xOffset="168.96" yOffset="5.82077e-14"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eng" format="2">
-  <advance width="1489"/>
+  <advance width="1487"/>
   <unicode hex="014A"/>
   <outline>
     <contour>
@@ -29,4 +29,13 @@
   </outline>
   <guideline angle="90" x="1052.67" y="0"/>
   <guideline angle="300.461" x="695.296" y="1020.93"/>
+  <guideline angle="300.447" x="436" y="1021"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=N</string>
+  </dict>
+  </lib>
 </glyph>

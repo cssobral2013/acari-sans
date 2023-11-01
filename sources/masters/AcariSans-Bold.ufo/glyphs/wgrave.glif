@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="2">
-  <advance width="1501"/>
+  <advance width="1560"/>
   <unicode hex="1E81"/>
   <outline>
-    <component base="w" xOffset="-1.024"/>
-    <component base="gravecomb" xOffset="900.096"/>
+    <component base="w"/>
+    <component base="gravecomb" xOffset="926.72"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

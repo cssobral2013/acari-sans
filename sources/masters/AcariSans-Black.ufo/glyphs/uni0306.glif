@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306" format="2">
   <unicode hex="0306"/>
+  <anchor x="-412" y="1192" name="_top"/>
   <outline>
-    <contour>
-      <point x="-411.648" y="1170.43" type="curve" smooth="yes" name=".dv00"/>
-      <point x="-178.176" y="1170.43"/>
-      <point x="-86.016" y="1270.78"/>
-      <point x="-86.016" y="1446.91" type="curve" name=".sh00"/>
-      <point x="-273.408" y="1446.91" type="line" name=".sv00"/>
-      <point x="-273.408" y="1363.97"/>
-      <point x="-333.824" y="1326.08"/>
-      <point x="-411.648" y="1326.08" type="curve" smooth="yes" name=".dv09"/>
-      <point x="-503.808" y="1326.08"/>
-      <point x="-549.888" y="1366.02"/>
-      <point x="-549.888" y="1446.91" type="curve" name=".sv03"/>
-      <point x="-738.304" y="1446.91" type="line" name=".sh06"/>
-      <point x="-738.304" y="1255.42"/>
-      <point x="-629.76" y="1170.43"/>
-    </contour>
+    <component base="breve" xOffset="-825.344" yOffset="-0.484985"/>
   </outline>
   <lib>
   <dict>
@@ -25,83 +11,9 @@
   <array>
     <dict>
       <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.dv09</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.sv00</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>double</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.sv00</string>
-      <key>point2</key>
-      <string>.sv03</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
       <string>alignh</string>
       <key>point</key>
       <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>.sv00</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sv00</string>
-      <key>point2</key>
-      <string>.sh00</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>lsb</string>
-      <key>point2</key>
-      <string>.sh06</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh06</string>
-      <key>point2</key>
-      <string>.sv03</string>
-      <key>round</key>
-      <string>true</string>
       <key>align</key>
       <string>round</string>
     </dict>

@@ -3,21 +3,6 @@
   <unicode hex="0306"/>
   <anchor x="-440.32" y="1191.94" name="_top"/>
   <outline>
-    <contour>
-      <point x="-439.296" y="1211.39" type="curve" smooth="yes"/>
-      <point x="-224.256" y="1211.39"/>
-      <point x="-116.736" y="1303.55"/>
-      <point x="-116.736" y="1487.87" type="curve"/>
-      <point x="-292.864" y="1487.87" type="line"/>
-      <point x="-292.864" y="1400.83"/>
-      <point x="-356.352" y="1357.82"/>
-      <point x="-439.296" y="1357.82" type="curve" smooth="yes"/>
-      <point x="-522.24" y="1357.82"/>
-      <point x="-586.752" y="1397.76"/>
-      <point x="-586.752" y="1487.87" type="curve"/>
-      <point x="-762.88" y="1487.87" type="line"/>
-      <point x="-762.88" y="1303.55"/>
-      <point x="-655.36" y="1211.39"/>
-    </contour>
+    <component base="breve" xOffset="-805.541" yOffset="-0.872"/>
   </outline>
 </glyph>

@@ -4,28 +4,29 @@
   <unicode hex="0075"/>
   <anchor x="594.944" y="1191.94" name="top"/>
   <anchor x="1068.03" y="0" name="ogonek"/>
+  <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <contour>
-      <point x="510.976" y="-23.552" type="curve" smooth="yes"/>
-      <point x="622.592" y="-23.552"/>
-      <point x="735.232" y="21.504"/>
-      <point x="814.08" y="119.808" type="curve"/>
+      <point x="510.976" y="-19.552" type="curve" smooth="yes"/>
+      <point x="622.592" y="-19.552"/>
+      <point x="735.232" y="25.504"/>
+      <point x="814.08" y="123.808" type="curve"/>
       <point x="814.08" y="0" type="line"/>
       <point x="1068.03" y="0" type="line"/>
       <point x="1068.03" y="1063.94" type="line"/>
       <point x="814.08" y="1063.94" type="line"/>
-      <point x="814.08" y="535.552" type="line" smooth="yes"/>
-      <point x="814.08" y="365.568"/>
-      <point x="764.928" y="214.016"/>
-      <point x="568.32" y="214.016" type="curve" smooth="yes"/>
-      <point x="416.768" y="214.016"/>
-      <point x="375.808" y="308.224"/>
-      <point x="375.808" y="445.44" type="curve" smooth="yes"/>
+      <point x="814.08" y="539.552" type="line" smooth="yes"/>
+      <point x="814.08" y="369.568"/>
+      <point x="764.928" y="218.016"/>
+      <point x="568.32" y="218.016" type="curve" smooth="yes"/>
+      <point x="416.768" y="218.016"/>
+      <point x="375.808" y="312.224"/>
+      <point x="375.808" y="449.44" type="curve" smooth="yes"/>
       <point x="375.808" y="1063.94" type="line"/>
       <point x="122.88" y="1063.94" type="line"/>
-      <point x="122.88" y="439.296" type="line" smooth="yes"/>
-      <point x="122.88" y="200.704"/>
-      <point x="241.664" y="-23.552"/>
+      <point x="122.88" y="443.296" type="line" smooth="yes"/>
+      <point x="122.88" y="204.704"/>
+      <point x="241.664" y="-19.552"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="594.944" y="0"/>

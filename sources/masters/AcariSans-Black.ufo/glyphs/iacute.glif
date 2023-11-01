@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="2">
-  <advance width="532"/>
+  <advance width="540"/>
   <unicode hex="00ED"/>
+  <anchor x="410" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acutecomb" xOffset="679.696" yOffset="3.51563e-05"/>
+    <component base="acutecomb" xOffset="683.696" yOffset="3.51563e-05"/>
   </outline>
   <lib>
   <dict>

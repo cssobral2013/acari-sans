@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
-  <advance width="1041"/>
+  <advance width="1066"/>
   <unicode hex="01FB"/>
+  <anchor x="513.024" y="1191.94" name="top"/>
+  <anchor x="916" y="0" name="ogonek"/>
+  <anchor x="513.024" y="-150" name="bottom"/>
   <outline>
-    <component base="a" xOffset="-1.024"/>
-    <component base="uni030A" xOffset="828.416" yOffset="23.552"/>
-    <component base="acutecomb" xOffset="843.776" yOffset="489.472"/>
+    <component base="a"/>
+    <component base="uni030A0301" xOffset="838" yOffset="108"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni030A0301</string>
+  </dict>
+  </lib>
 </glyph>

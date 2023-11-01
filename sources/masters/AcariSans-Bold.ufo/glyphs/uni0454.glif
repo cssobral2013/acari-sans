@@ -3,36 +3,14 @@
   <advance width="1014"/>
   <unicode hex="0454"/>
   <outline>
-    <contour>
-      <point x="556.032" y="-20.48" type="curve" smooth="yes"/>
-      <point x="763.904" y="-20.48"/>
-      <point x="922.624" y="94.208"/>
-      <point x="991.232" y="289.792" type="curve"/>
-      <point x="755.712" y="384" type="line"/>
-      <point x="728.064" y="277.504"/>
-      <point x="651.264" y="214.016"/>
-      <point x="548.864" y="214.016" type="curve" smooth="yes"/>
-      <point x="412.672" y="214.016"/>
-      <point x="343.04" y="304.128"/>
-      <point x="318.464" y="430.08" type="curve"/>
-      <point x="674.816" y="430.08" type="line"/>
-      <point x="674.816" y="617.472" type="line"/>
-      <point x="316.416" y="617.472" type="line"/>
-      <point x="338.944" y="748.544"/>
-      <point x="411.648" y="845.824"/>
-      <point x="548.864" y="845.824" type="curve" smooth="yes"/>
-      <point x="648.192" y="845.824"/>
-      <point x="727.04" y="789.504"/>
-      <point x="755.712" y="675.84" type="curve"/>
-      <point x="1002.5" y="777.216" type="line"/>
-      <point x="923.648" y="967.68"/>
-      <point x="760.832" y="1081.34"/>
-      <point x="553.984" y="1081.34" type="curve" smooth="yes"/>
-      <point x="239.616" y="1081.34"/>
-      <point x="54.272" y="835.584"/>
-      <point x="54.272" y="530.432" type="curve" smooth="yes"/>
-      <point x="54.272" y="244.736"/>
-      <point x="220.16" y="-20.48"/>
-    </contour>
+    <component base="uni044D" xScale="-1" yScale="-1" xOffset="1013.86" yOffset="1060.86"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|uni044D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|uni044D</string>
+  </dict>
+  </lib>
 </glyph>

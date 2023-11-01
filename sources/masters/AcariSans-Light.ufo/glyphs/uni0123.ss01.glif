@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0123.ss01" format="2">
-  <advance width="1174"/>
+  <advance width="1181"/>
   <outline>
     <contour>
       <point x="680.96" y="1161.22" type="line"/>
@@ -56,6 +56,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=q</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|l</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>

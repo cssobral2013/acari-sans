@@ -8,9 +8,7 @@
       <point x="972.8" y="-20.48"/>
       <point x="1111.04" y="47.104"/>
       <point x="1209.34" y="173.056" type="curve"/>
-      <point x="1154.05" y="227.328"/>
-      <point x="1098.75" y="280.576"/>
-      <point x="1042.43" y="333.824" type="curve"/>
+      <point x="1042.43" y="333.824" type="line"/>
       <point x="984.064" y="259.072"/>
       <point x="912.384" y="229.376"/>
       <point x="809.984" y="229.376" type="curve" smooth="yes" name=".dv02"/>
@@ -21,34 +19,35 @@
       <point x="1050.62" y="669.696" type="line"/>
       <point x="467.968" y="669.696" type="line" name=".dv06"/>
       <point x="464.896" y="705.536"/>
-      <point x="463.872" y="729.088"/>
-      <point x="463.872" y="742.4" type="curve" smooth="yes"/>
-      <point x="463.872" y="748.544"/>
+      <point x="464.872" y="721.714"/>
+      <point x="464.872" y="742.4" type="curve" smooth="yes"/>
+      <point x="464.872" y="757.351"/>
       <point x="464.896" y="771.072"/>
       <point x="467.968" y="808.96" type="curve" name=".dv07"/>
       <point x="963.584" y="808.96" type="line"/>
       <point x="1050.62" y="1012.74" type="line"/>
       <point x="505.856" y="1012.74" type="line" name=".dv08"/>
       <point x="562.176" y="1147.9"/>
-      <point x="656.384" y="1220.61"/>
-      <point x="808.96" y="1220.61" type="curve" smooth="yes" name=".dv03"/>
-      <point x="911.36" y="1220.61"/>
-      <point x="990.208" y="1186.82"/>
-      <point x="1046.53" y="1119.23" type="curve"/>
-      <point x="1222.66" y="1256.45" type="line"/>
-      <point x="1123.33" y="1394.69"/>
-      <point x="978.944" y="1470.46"/>
-      <point x="807.936" y="1470.46" type="curve" smooth="yes" name=".dv04"/>
-      <point x="521.216" y="1470.46"/>
+      <point x="656.384" y="1218.61"/>
+      <point x="808.96" y="1218.61" type="curve" smooth="yes" name=".dv03"/>
+      <point x="911.36" y="1218.61"/>
+      <point x="990.208" y="1184.82"/>
+      <point x="1046.53" y="1117.23" type="curve"/>
+      <point x="1222.66" y="1254.45" type="line"/>
+      <point x="1123.33" y="1392.69"/>
+      <point x="978.944" y="1468.46"/>
+      <point x="807.936" y="1468.46" type="curve" smooth="yes" name=".dv04"/>
+      <point x="521.216" y="1468.46"/>
       <point x="349.184" y="1290.24"/>
       <point x="274.432" y="1012.74" type="curve" name=".sv01"/>
       <point x="169.984" y="1012.74" type="line" name=".dv10"/>
       <point x="81.92" y="801.792" type="line" name=".sv02"/>
       <point x="244.736" y="801.792" type="line" name=".dv09"/>
-      <point x="245.76" y="776.192" type="line"/>
-      <point x="243.712" y="723.968" type="line"/>
-      <point x="243.712" y="698.368"/>
-      <point x="245.76" y="673.792"/>
+      <point x="243.063" y="777.459"/>
+      <point x="241.746" y="749.92"/>
+      <point x="241.746" y="726.969" type="curve" smooth="yes"/>
+      <point x="241.746" y="701.369"/>
+      <point x="243.321" y="679.052"/>
       <point x="245.76" y="658.432" type="curve" name=".sv03"/>
       <point x="169.984" y="658.432" type="line"/>
       <point x="81.92" y="456.704" type="line" name=".sv04"/>

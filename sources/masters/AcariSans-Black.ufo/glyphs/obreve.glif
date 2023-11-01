@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="2">
-  <advance width="1176"/>
+  <advance width="1156"/>
   <unicode hex="014F"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0306" xOffset="990" yOffset="-0.0639648"/>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

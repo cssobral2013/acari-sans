@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.loclBGR" format="2">
-  <advance width="1211"/>
+  <advance width="1178"/>
+  <outline>
+    <contour>
+      <point x="559" y="-440" type="curve" smooth="yes" name=".dv01"/>
+      <point x="862.341" y="-440"/>
+      <point x="1043.01" y="-275.759"/>
+      <point x="1043" y="0" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1042.98" y="1039.04" type="line" name=".sh01"/>
+      <point x="767" y="1039.04" type="line" name=".sh02"/>
+      <point x="767" y="949.062" type="line" name=".iv01"/>
+      <point x="693.244" y="1032.73"/>
+      <point x="584.15" y="1059.06"/>
+      <point x="477" y="1059.06" type="curve" smooth="yes"/>
+      <point x="223.811" y="1059.06"/>
+      <point x="54" y="843.053"/>
+      <point x="54" y="522.531" type="curve" smooth="yes" name=".dh01"/>
+      <point x="54" y="211.685"/>
+      <point x="227.811" y="5.08065"/>
+      <point x="487" y="5" type="curve" smooth="yes" name=".dv05"/>
+      <point x="592.4" y="4.9672"/>
+      <point x="696.013" y="31.4859"/>
+      <point x="767" y="115" type="curve" name=".iv02"/>
+      <point x="767" y="0" type="line" smooth="yes" name=".dh03"/>
+      <point x="767" y="-137.861"/>
+      <point x="704.24" y="-200"/>
+      <point x="565" y="-200" type="curve" smooth="yes" name=".dv02"/>
+      <point x="449.569" y="-200"/>
+      <point x="346.277" y="-147.553"/>
+      <point x="307" y="-69" type="curve"/>
+      <point x="98" y="-219" type="line"/>
+      <point x="206.191" y="-366.002"/>
+      <point x="360.55" y="-440"/>
+    </contour>
+    <contour>
+      <point x="562" y="259" type="curve" smooth="yes" name=".dv06"/>
+      <point x="421.625" y="258.903"/>
+      <point x="330.889" y="365.952"/>
+      <point x="331" y="531.531" type="curve" smooth="yes" name=".dh02"/>
+      <point x="331.113" y="700.112"/>
+      <point x="422.3" y="810.062"/>
+      <point x="562" y="810.062" type="curve" smooth="yes" name=".dv03"/>
+      <point x="699.754" y="810.062"/>
+      <point x="790" y="699.816"/>
+      <point x="790" y="531.531" type="curve" smooth="yes" name=".sh03"/>
+      <point x="790" y="363.727"/>
+      <point x="702.467" y="259.097"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=q</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|l</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

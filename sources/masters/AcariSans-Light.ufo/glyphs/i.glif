@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="492"/>
+  <advance width="511"/>
   <unicode hex="0069"/>
+  <anchor x="325" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="186.368" y="0" type="line"/>
-      <point x="319.488" y="0" type="line"/>
-      <point x="319.488" y="1021.95" type="line"/>
-      <point x="186.368" y="1021.95" type="line"/>
+      <point x="176.629" y="1259.52" type="line"/>
+      <point x="334.299" y="1259.52" type="line"/>
+      <point x="334.299" y="1447.91" type="line"/>
+      <point x="176.629" y="1447.91" type="line"/>
     </contour>
     <contour>
-      <point x="176.128" y="1259.52" type="line"/>
-      <point x="332.8" y="1259.52" type="line"/>
-      <point x="332.8" y="1446.91" type="line"/>
-      <point x="176.128" y="1446.91" type="line"/>
+      <point x="185.2" y="0" type="line"/>
+      <point x="325.488" y="0" type="line"/>
+      <point x="325.488" y="1063.94" type="line"/>
+      <point x="185.2" y="1063.94" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="255" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=176</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

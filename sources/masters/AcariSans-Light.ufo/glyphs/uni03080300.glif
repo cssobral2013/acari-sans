@@ -2,13 +2,7 @@
 <glyph name="uni03080300" format="2">
   <anchor x="-425.984" y="1191.94" name="_top"/>
   <outline>
-    <component base="uni0308" yOffset="-48.128"/>
-    <component base="gravecomb" xOffset="-280.576" yOffset="256"/>
+    <component base="grave" xOffset="-824.496" yOffset="228.064"/>
+    <component base="uni0308" xOffset="-3.79687" yOffset="-48.128"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
 </glyph>

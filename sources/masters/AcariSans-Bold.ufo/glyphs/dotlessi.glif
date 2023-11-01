@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="528"/>
+  <advance width="550"/>
   <unicode hex="0131"/>
-  <anchor x="264.192" y="1191.94" name="top"/>
+  <anchor x="275.192" y="1191.94" name="top"/>
+  <anchor x="400" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="148.48" y="0" type="line"/>
-      <point x="379.904" y="0" type="line"/>
-      <point x="379.904" y="1063.94" type="line"/>
-      <point x="148.48" y="1063.94" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="1064" type="line"/>
+      <point x="150" y="1064" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="264.192" y="0"/>
+  <guideline angle="90" name="vertical" x="275.192" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=148</string>
+  <string>=150</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=148</string>
+  <string>=150</string>
   </dict>
   </lib>
 </glyph>

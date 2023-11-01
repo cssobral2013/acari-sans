@@ -1,113 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2085" format="2">
-  <advance width="900"/>
+  <advance width="939"/>
   <unicode hex="2085"/>
   <outline>
-    <contour>
-      <point x="448.512" y="-939.008" type="curve" smooth="yes" name=".dv01"/>
-      <point x="632.832" y="-939.008"/>
-      <point x="780.288" y="-795.648"/>
-      <point x="780.288" y="-610.304" type="curve" smooth="yes" name=".dh02"/>
-      <point x="780.288" y="-438.272"/>
-      <point x="651.264" y="-297.984"/>
-      <point x="476.16" y="-297.984" type="curve" smooth="yes" name=".dv06"/>
-      <point x="394.24" y="-297.984"/>
-      <point x="324.608" y="-318.464"/>
-      <point x="267.264" y="-379.904" type="curve"/>
-      <point x="324.608" y="-44.032" type="line" name=".dv03"/>
-      <point x="718.848" y="-44.032" type="line"/>
-      <point x="718.848" y="43.008" type="line"/>
-      <point x="245.76" y="43.008" type="line" name=".dv04"/>
-      <point x="160.768" y="-443.392" type="line"/>
-      <point x="246.784" y="-487.424" type="line"/>
-      <point x="295.936" y="-413.696"/>
-      <point x="369.664" y="-381.952"/>
-      <point x="456.704" y="-381.952" type="curve" smooth="yes" name=".dv05"/>
-      <point x="591.872" y="-381.952"/>
-      <point x="677.888" y="-476.16"/>
-      <point x="677.888" y="-610.304" type="curve" smooth="yes" name=".dh01"/>
-      <point x="677.888" y="-747.52"/>
-      <point x="585.728" y="-851.968"/>
-      <point x="445.44" y="-851.968" type="curve" smooth="yes" name=".dv02"/>
-      <point x="315.392" y="-851.968"/>
-      <point x="239.616" y="-766.976"/>
-      <point x="215.04" y="-645.12" type="curve"/>
-      <point x="185.344" y="-654.336"/>
-      <point x="154.624" y="-662.528"/>
-      <point x="124.928" y="-673.792" type="curve"/>
-      <point x="157.696" y="-833.536"/>
-      <point x="285.696" y="-939.008"/>
-    </contour>
+    <component base="uni2075" xOffset="-0.435646" yOffset="-1400.42"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv05</string>
-      <key>point2</key>
-      <string>.dv06</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dh02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh01</string>
-      <key>delta</key>
-      <integer>3</integer>
-      <key>ppm1</key>
-      <integer>22</integer>
-      <key>ppm2</key>
-      <integer>23</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh01</string>
-      <key>delta</key>
-      <integer>2</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>21</integer>
-    </dict>
-  </array>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2075</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2075</string>
   </dict>
   </lib>
 </glyph>

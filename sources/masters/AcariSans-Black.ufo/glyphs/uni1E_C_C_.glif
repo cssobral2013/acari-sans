@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECC" format="2">
-  <advance width="1565"/>
+  <advance width="1570"/>
   <unicode hex="1ECC"/>
+  <anchor x="785" y="1617.92" name="top"/>
+  <anchor x="1546" y="1448" name="horn"/>
+  <anchor x="956.392" y="0" name="ogonek"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="1075.41"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

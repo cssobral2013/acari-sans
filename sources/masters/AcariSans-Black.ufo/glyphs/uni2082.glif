@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2082" format="2">
-  <advance width="879"/>
+  <advance width="896"/>
   <unicode hex="2082"/>
+  <outline>
+    <component base="twosuperior" xOffset="-0.954275" yOffset="-1399.58"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=twosuperior</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=twosuperior</string>
+  </dict>
+  </lib>
 </glyph>

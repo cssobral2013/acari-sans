@@ -7,22 +7,16 @@
       <point x="533.504" y="0" type="line" name=".av01"/>
       <point x="533.504" y="583.68" type="line" name=".dv05"/>
       <point x="713.728" y="583.68" type="line" smooth="yes"/>
-      <point x="849.92" y="583.68"/>
-      <point x="967.68" y="615.424"/>
-      <point x="1064.96" y="677.888" type="curve" smooth="yes"/>
-      <point x="1162.24" y="740.352"/>
-      <point x="1219.58" y="833.536"/>
+      <point x="959.613" y="583.68"/>
+      <point x="1200.49" y="689.174"/>
       <point x="1235.97" y="957.44" type="curve" name=".dv03"/>
       <point x="1335.3" y="957.44" type="line"/>
       <point x="1335.3" y="1074.18" type="line"/>
       <point x="1235.97" y="1074.18" type="line" name=".dv04"/>
-      <point x="1218.56" y="1197.06"/>
-      <point x="1160.19" y="1290.24"/>
-      <point x="1062.91" y="1352.7" type="curve" smooth="yes"/>
-      <point x="965.632" y="1415.17"/>
-      <point x="848.896" y="1446.91"/>
-      <point x="713.728" y="1446.91" type="curve" smooth="yes" name=".dv02"/>
-      <point x="245.76" y="1446.91" type="line"/>
+      <point x="1199.31" y="1339.46"/>
+      <point x="957.455" y="1447.91"/>
+      <point x="713.728" y="1447.91" type="curve" smooth="yes" name=".dv02"/>
+      <point x="245.76" y="1447.91" type="line"/>
       <point x="245.76" y="1074.18" type="line" name=".sv01"/>
       <point x="130.048" y="1074.18" type="line"/>
       <point x="130.048" y="957.44" type="line" name=".sv02"/>
@@ -32,9 +26,9 @@
     <contour>
       <point x="942.08" y="1074.18" type="curve" name=".sv03"/>
       <point x="533.504" y="1074.18" type="line"/>
-      <point x="533.504" y="1173.5" type="line" name=".dh01"/>
-      <point x="713.728" y="1173.5" type="line" smooth="yes" name=".dv01"/>
-      <point x="845.824" y="1173.5"/>
+      <point x="533.504" y="1174.5" type="line" name=".dh01"/>
+      <point x="713.728" y="1174.5" type="line" smooth="yes" name=".dv01"/>
+      <point x="845.824" y="1174.5"/>
       <point x="916.48" y="1142.78"/>
     </contour>
     <contour>

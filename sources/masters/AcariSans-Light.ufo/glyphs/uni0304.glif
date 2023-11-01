@@ -5,12 +5,14 @@
   <outline>
     <contour>
       <point x="-718.848" y="1267.71" type="line"/>
-      <point x="-171.008" y="1267.71" type="line"/>
-      <point x="-171.008" y="1389.57" type="line"/>
-      <point x="-718.848" y="1389.57" type="line"/>
+      <point x="-170.848" y="1267.71" type="line"/>
+      <point x="-170.848" y="1389.71" type="line"/>
+      <point x="-718.848" y="1389.71" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="-718.848" y="0"/>
   <guideline angle="90" x="-171.008" y="0"/>
-  <guideline angle="90" x="-444.416" y="0"/>
+  <guideline angle="90" name="vertical" x="-444.416" y="0"/>
+  <guideline angle="0" x="0" y="1390"/>
+  <guideline angle="0" x="0" y="1268"/>
 </glyph>

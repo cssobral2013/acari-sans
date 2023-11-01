@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="-251" y="-150" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="-175.104" y="-343.04" type="line" name=".dv01"/>
-      <point x="-175.104" y="-155.648" type="line" name=".dv02"/>
-      <point x="-331.776" y="-155.648" type="line" name=".dh01"/>
-      <point x="-331.776" y="-343.04" type="line"/>
-    </contour>
+    <component base="dotaccent" xOffset="-511.185" yOffset="-1576.87"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
+  <guideline angle="0" x="0" y="-150"/>
 </glyph>

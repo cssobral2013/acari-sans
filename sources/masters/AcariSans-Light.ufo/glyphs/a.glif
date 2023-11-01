@@ -3,6 +3,9 @@
   <advance width="1066"/>
   <unicode hex="0061"/>
   <anchor x="513.024" y="1191.94" name="top"/>
+  <anchor x="916" y="0" name="ogonek"/>
+  <anchor x="513" y="1372" name="center"/>
+  <anchor x="513.024" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="421.888" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
@@ -13,16 +16,16 @@
       <point x="916.48" y="0" type="line"/>
       <point x="916.48" y="654.336" type="line" smooth="yes" name=".dh03"/>
       <point x="916.48" y="911.36"/>
-      <point x="777.216" y="1081.34"/>
-      <point x="513.024" y="1081.34" type="curve" smooth="yes" name=".dv06"/>
-      <point x="352.256" y="1081.34"/>
-      <point x="220.16" y="1017.86"/>
-      <point x="125.952" y="885.76" type="curve"/>
-      <point x="219.136" y="807.936" type="line"/>
-      <point x="289.792" y="913.408"/>
-      <point x="397.312" y="968.704"/>
-      <point x="524.288" y="968.704" type="curve" smooth="yes" name=".dv05"/>
-      <point x="747.52" y="968.704"/>
+      <point x="777.216" y="1084.34"/>
+      <point x="513.024" y="1084.34" type="curve" smooth="yes" name=".dv06"/>
+      <point x="352.256" y="1084.34"/>
+      <point x="220.16" y="1020.86"/>
+      <point x="125.952" y="888.76" type="curve"/>
+      <point x="219.136" y="810.936" type="line"/>
+      <point x="289.792" y="916.408"/>
+      <point x="397.312" y="971.704"/>
+      <point x="524.288" y="971.704" type="curve" smooth="yes" name=".dv05"/>
+      <point x="747.52" y="971.704"/>
       <point x="799.744" y="788.48"/>
       <point x="799.744" y="600.064" type="curve" name=".av01"/>
       <point x="561.152" y="600.064" type="line" smooth="yes" name=".dv04"/>

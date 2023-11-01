@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="2">
-  <advance width="589"/>
+  <advance width="590"/>
   <unicode hex="012E"/>
+  <anchor x="294.912" y="1617.92" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="uni0328" xOffset="521.216"/>
+    <component base="uni0328" xOffset="522.696"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+>uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

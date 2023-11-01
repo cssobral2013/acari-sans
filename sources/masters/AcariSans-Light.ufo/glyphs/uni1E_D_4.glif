@@ -3,16 +3,19 @@
   <advance width="1574"/>
   <unicode hex="1ED4"/>
   <anchor x="908.288" y="0" name="ogonek"/>
+  <anchor x="1546" y="1448" name="horn"/>
   <outline>
-    <component base="Ocircumflex"/>
-    <component base="hookabovecomb" xOffset="1062.46" yOffset="425"/>
+    <component base="O"/>
+    <component base="uni03020309" xOffset="1182" yOffset="395.264"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Ocircumflex+hookabovecomb</string>
+  <string>O+uni03020309</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

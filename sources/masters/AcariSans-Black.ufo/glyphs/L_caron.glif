@@ -3,14 +3,7 @@
   <advance width="1142"/>
   <unicode hex="013D"/>
   <outline>
-    <contour>
-      <point x="1085.44" y="0" type="line" name=".dv01"/>
-      <point x="1085.44" y="276.48" type="line" name=".dv02"/>
-      <point x="466.944" y="276.48" type="line"/>
-      <point x="466.944" y="1446.91" type="line" name=".sv01"/>
-      <point x="177.152" y="1446.91" type="line" name=".dh01"/>
-      <point x="177.152" y="0" type="line"/>
-    </contour>
+    <component base="L"/>
     <contour>
       <point x="866.304" y="961.536" type="line" name=".dv03"/>
       <point x="1104.9" y="1446.91" type="line"/>
@@ -26,39 +19,9 @@
       <key>code</key>
       <string>doublev</string>
       <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
       <string>.dv03</string>
       <key>point2</key>
       <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv04</string>
-      <key>point2</key>
-      <string>.sv01</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.sv01</string>
       <key>round</key>
       <string>true</string>
     </dict>

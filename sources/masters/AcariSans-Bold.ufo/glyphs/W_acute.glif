@@ -3,7 +3,17 @@
   <advance width="2051"/>
   <unicode hex="1E82"/>
   <outline>
-    <component base="W" xOffset="-1.024"/>
-    <component base="acutecomb" xOffset="1418.24" yOffset="421.888"/>
+    <component base="W"/>
+    <component base="acutecomb" xOffset="1438.7" yOffset="425.984"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

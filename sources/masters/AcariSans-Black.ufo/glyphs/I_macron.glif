@@ -2,10 +2,10 @@
 <glyph name="Imacron" format="2">
   <advance width="644"/>
   <unicode hex="012A"/>
-  <anchor x="321.536" y="1617.92" name="top"/>
+  <anchor x="467" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="uni0304" xOffset="747.984" yOffset="384"/>
+    <component base="uni0304" xOffset="752.536" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>

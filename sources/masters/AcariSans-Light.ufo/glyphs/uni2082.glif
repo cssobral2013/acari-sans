@@ -3,140 +3,21 @@
   <advance width="879"/>
   <unicode hex="2082"/>
   <outline>
-    <contour>
-      <point x="765.952" y="-925.696" type="line" name=".dv01"/>
-      <point x="765.952" y="-841.728" type="line" name=".dv02"/>
-      <point x="224.256" y="-841.728" type="line" name=".sh03"/>
-      <point x="258.048" y="-817.152"/>
-      <point x="294.912" y="-796.672"/>
-      <point x="327.68" y="-771.072" type="curve" smooth="yes"/>
-      <point x="494.592" y="-645.12"/>
-      <point x="717.824" y="-443.392"/>
-      <point x="717.824" y="-216.064" type="curve" smooth="yes" name=".sh04"/>
-      <point x="717.824" y="-44.032"/>
-      <point x="600.064" y="56.32"/>
-      <point x="432.128" y="56.32" type="curve" smooth="yes" name=".dv04"/>
-      <point x="243.712" y="56.32"/>
-      <point x="141.312" y="-82.944"/>
-      <point x="141.312" y="-260.096" type="curve" name=".sh01"/>
-      <point x="238.592" y="-269.312" type="line" name=".sh02"/>
-      <point x="241.664" y="-146.432"/>
-      <point x="300.032" y="-33.792"/>
-      <point x="436.224" y="-33.792" type="curve" smooth="yes" name=".dv03"/>
-      <point x="553.984" y="-33.792"/>
-      <point x="613.376" y="-109.568"/>
-      <point x="613.376" y="-223.232" type="curve" smooth="yes" name=".ah01"/>
-      <point x="613.376" y="-460.8"/>
-      <point x="280.576" y="-716.8"/>
-      <point x="96.256" y="-831.488" type="curve"/>
-      <point x="96.256" y="-925.696" type="line"/>
-    </contour>
+    <component base="twosuperior" yOffset="-1400.01"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=twosuperior</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=twosuperior</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>
       <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
       <string>alignh</string>
       <key>point</key>
       <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>.ah01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>lsb</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh01</string>
-      <key>point2</key>
-      <string>.sh02</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh02</string>
-      <key>point2</key>
-      <string>.sh03</string>
-      <key>align</key>
-      <string>right</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.ah01</string>
-      <key>delta</key>
-      <integer>3</integer>
-      <key>ppm1</key>
-      <integer>22</integer>
-      <key>ppm2</key>
-      <integer>23</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.ah01</string>
-      <key>delta</key>
-      <integer>2</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>21</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.ah01</string>
-      <key>point2</key>
-      <string>.sh04</string>
-      <key>round</key>
-      <string>true</string>
       <key>align</key>
       <string>round</string>
     </dict>

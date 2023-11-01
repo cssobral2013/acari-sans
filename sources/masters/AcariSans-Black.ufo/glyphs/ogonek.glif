@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
-  <advance width="581"/>
+  <advance width="558"/>
   <unicode hex="02DB"/>
   <outline>
-    <component base="uni0328" xOffset="580.608"/>
+    <contour>
+      <point x="284.355" y="0.12" type="line"/>
+      <point x="132.124" y="-75.2645"/>
+      <point x="58.4581" y="-176.15"/>
+      <point x="58.4581" y="-282.313" type="curve" smooth="yes" name=".dh04"/>
+      <point x="58.4581" y="-383.708"/>
+      <point x="129.803" y="-461.824"/>
+      <point x="278.324" y="-461.824" type="curve" smooth="yes" name=".dv01"/>
+      <point x="371.849" y="-461.824"/>
+      <point x="448.52" y="-418.503"/>
+      <point x="506.676" y="-332.8" type="curve"/>
+      <point x="372.532" y="-240.64" type="line"/>
+      <point x="347.541" y="-277.085"/>
+      <point x="312.488" y="-296.96"/>
+      <point x="273.204" y="-296.96" type="curve" smooth="yes" name=".dv07"/>
+      <point x="240.866" y="-296.96"/>
+      <point x="217.64" y="-277.085"/>
+      <point x="217.64" y="-230.188" type="curve" smooth="yes" name=".dh03"/>
+      <point x="217.64" y="-151.144"/>
+      <point x="289.335" y="-69.6011"/>
+      <point x="422.854" y="0" type="curve" name=".av00"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av00</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv07</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh04</string>
+      <key>point2</key>
+      <string>.dh03</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.dh03</string>
+      <key>delta</key>
+      <integer>-2</integer>
+      <key>ppm1</key>
+      <integer>9</integer>
+      <key>ppm2</key>
+      <integer>21</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.dh03</string>
+      <key>delta</key>
+      <integer>-3</integer>
+      <key>ppm1</key>
+      <integer>22</integer>
+      <key>ppm2</key>
+      <integer>23</integer>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>

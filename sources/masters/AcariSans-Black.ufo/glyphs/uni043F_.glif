@@ -1,42 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043F" format="2">
-  <advance width="1210"/>
+  <advance width="1242"/>
   <unicode hex="043F"/>
   <outline>
     <contour>
       <point x="1100.8" y="0" type="line" name=".av01"/>
-      <point x="1100.8" y="611.328" type="line" smooth="yes" name=".sh01"/>
-      <point x="1100.8" y="721.92"/>
-      <point x="1070.08" y="831.488"/>
-      <point x="1006.59" y="911.36" type="curve" smooth="yes"/>
-      <point x="943.104" y="991.232"/>
-      <point x="847.872" y="1041.41"/>
-      <point x="721.92" y="1040.38" type="curve" smooth="yes" name=".dv02"/>
-      <point x="602.112" y="1039.36"/>
-      <point x="503.808" y="1004.54"/>
-      <point x="425.984" y="917.504" type="curve" name=".iv01"/>
-      <point x="425.984" y="1022.98" type="line" name=".sh03"/>
-      <point x="141.312" y="1022.98" type="line" name=".sh02"/>
+      <point x="1100.8" y="1064.28" type="line" name=".sh01"/>
+      <point x="141.312" y="1063.98" type="line" name=".sh02"/>
       <point x="141.312" y="0" type="line" name=".av02"/>
       <point x="425.984" y="0" type="line" name=".sh04"/>
-      <point x="425.984" y="559.104" type="line" smooth="yes"/>
-      <point x="425.984" y="613.376"/>
-      <point x="454.656" y="669.696"/>
-      <point x="499.712" y="711.68" type="curve" smooth="yes"/>
-      <point x="544.768" y="753.664"/>
-      <point x="604.16" y="779.264"/>
-      <point x="661.504" y="779.264" type="curve" smooth="yes" name=".dv01"/>
-      <point x="727.04" y="778.24"/>
-      <point x="762.88" y="760.832"/>
-      <point x="784.384" y="727.04" type="curve" smooth="yes"/>
-      <point x="804.864" y="694.272"/>
-      <point x="815.104" y="644.096"/>
-      <point x="815.104" y="575.488" type="curve" smooth="yes" name=".ah01"/>
+      <point x="425.984" y="856.554" type="line"/>
+      <point x="815.104" y="856.554" type="line" name=".ah01"/>
       <point x="815.104" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>
@@ -52,28 +35,6 @@
       <string>alignv</string>
       <key>point</key>
       <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv01</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
       <key>align</key>
       <string>round</string>
     </dict>
@@ -113,29 +74,7 @@
       <key>point2</key>
       <string>.sh02</string>
       <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh02</string>
-      <key>point2</key>
-      <string>.sh03</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh03</string>
-      <key>point2</key>
-      <string>.sh04</string>
-      <key>align</key>
-      <string>round</string>
+      <string>right</string>
     </dict>
   </array>
   </dict>

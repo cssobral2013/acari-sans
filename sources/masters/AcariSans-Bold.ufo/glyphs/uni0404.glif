@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0404" format="2">
-  <advance width="1423"/>
+  <advance width="1454"/>
   <unicode hex="0404"/>
   <outline>
-    <component base="uni042D" xScale="-1" yScale="-1" xOffset="1421.08" yOffset="1449.98"/>
+    <contour>
+      <point x="1405" y="1052" type="line"/>
+      <point x="1287.22" y="1318.77"/>
+      <point x="1060.07" y="1467.81"/>
+      <point x="771" y="1468" type="curve" smooth="yes"/>
+      <point x="348.105" y="1468.28"/>
+      <point x="71.2068" y="1173.98"/>
+      <point x="71.0001" y="724" type="curve" smooth="yes"/>
+      <point x="70.7927" y="272.305"/>
+      <point x="344.773" y="-19.7315"/>
+      <point x="769" y="-20" type="curve" smooth="yes"/>
+      <point x="1060.33" y="-20.1844"/>
+      <point x="1282.07" y="124.259"/>
+      <point x="1403" y="393" type="curve"/>
+      <point x="1159" y="490" type="line"/>
+      <point x="1107" y="314.004"/>
+      <point x="977.085" y="226.841"/>
+      <point x="767" y="227" type="curve" smooth="yes"/>
+      <point x="526.398" y="227.182"/>
+      <point x="373.833" y="361.297"/>
+      <point x="337" y="605" type="curve"/>
+      <point x="918" y="605" type="line"/>
+      <point x="918" y="844" type="line"/>
+      <point x="340" y="844" type="line"/>
+      <point x="378.851" y="1089.38"/>
+      <point x="530.258" y="1222.16"/>
+      <point x="771" y="1222" type="curve" smooth="yes"/>
+      <point x="968.305" y="1221.87"/>
+      <point x="1091.82" y="1137.11"/>
+      <point x="1163" y="953" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>

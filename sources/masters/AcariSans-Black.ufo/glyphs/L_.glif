@@ -3,6 +3,7 @@
   <advance width="1097"/>
   <unicode hex="004C"/>
   <anchor x="322" y="1617.92" name="top"/>
+  <anchor x="887" y="783" name="center"/>
   <outline>
     <contour>
       <point x="1085.44" y="0" type="line" name=".dv01"/>
@@ -14,6 +15,7 @@
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="322" y="0"/>
+  <guideline angle="90" x="1085" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

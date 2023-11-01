@@ -4,9 +4,10 @@
   <unicode hex="1ECD"/>
   <anchor x="586" y="1191.94" name="top"/>
   <anchor x="723.04" y="0" name="ogonek"/>
+  <anchor x="1227" y="1064" name="horn"/>
   <outline>
     <component base="o"/>
-    <component base="dotbelowcomb" xOffset="862.48"/>
+    <component base="dotbelowcomb" xOffset="862.152"/>
   </outline>
   <lib>
   <dict>
@@ -14,6 +15,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>o+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

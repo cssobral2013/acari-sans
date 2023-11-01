@@ -2,14 +2,16 @@
 <glyph name="Agrave" format="2">
   <advance width="1376"/>
   <unicode hex="00C0"/>
+  <anchor x="1363" y="0" name="ogonek"/>
+  <anchor x="688" y="1555" name="center"/>
   <outline>
     <component base="A"/>
     <component base="gravecomb" xOffset="836.608" yOffset="425.984"/>
   </outline>
+  <guideline angle="0" x="0" y="1619"/>
+  <guideline angle="0" x="0" y="1913"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+gravecomb</string>
   <key>public.markColor</key>

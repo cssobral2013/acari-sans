@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EDF" format="2">
-  <advance width="1176"/>
+  <advance width="1263"/>
   <unicode hex="1EDF"/>
-  <anchor x="588.8" y="1191.94" name="top"/>
+  <anchor x="723.04" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="847.072"/>
+    <component base="hookabovecomb" xOffset="896" yOffset="93.936"/>
   </outline>
   <lib>
   <dict>
@@ -13,6 +13,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>ohorn+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

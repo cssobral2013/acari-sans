@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-  <advance width="499"/>
+  <advance width="500"/>
   <unicode hex="00EE"/>
+  <anchor x="320" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0302" xOffset="644.096" yOffset="-30.72"/>
+    <component base="uni0302" xOffset="644.832" yOffset="-30.72"/>
   </outline>
   <lib>
   <dict>

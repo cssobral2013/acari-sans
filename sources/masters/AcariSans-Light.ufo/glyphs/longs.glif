@@ -4,6 +4,7 @@
   <unicode hex="017F"/>
   <outline>
     <contour>
+      <point x="232.448" y="0" type="line"/>
       <point x="360.448" y="0" type="line" name=".av01"/>
       <point x="360.448" y="1198.08" type="line" smooth="yes" name=".dh01"/>
       <point x="360.448" y="1297.41"/>
@@ -23,7 +24,6 @@
       <point x="37.888" y="1061.89" type="line" name=".dv04"/>
       <point x="37.888" y="958.464" type="line" name=".dv03"/>
       <point x="232.448" y="958.464" type="line" name=".sh02"/>
-      <point x="232.448" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

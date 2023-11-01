@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-  <advance width="1421"/>
+  <advance width="1523"/>
   <unicode hex="044B"/>
+  <anchor x="1272.83" y="1191.94" name="top"/>
+  <anchor x="1343" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="526.336" y="0" type="line" smooth="yes"/>
-      <point x="746.496" y="0"/>
-      <point x="924.672" y="93.184"/>
-      <point x="924.672" y="335.872" type="curve" smooth="yes"/>
-      <point x="924.672" y="633.856"/>
-      <point x="761.858" y="695.296"/>
-      <point x="495.616" y="695.296" type="curve" smooth="yes"/>
-      <point x="315.392" y="695.296" type="line"/>
-      <point x="315.392" y="1063.94" type="line"/>
-      <point x="186.368" y="1063.94" type="line"/>
-      <point x="186.368" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="542.72" y="103.424" type="curve" smooth="yes"/>
-      <point x="315.392" y="103.424" type="line"/>
-      <point x="315.392" y="590.848" type="line"/>
-      <point x="542.72" y="590.848" type="line" smooth="yes"/>
-      <point x="710.656" y="590.848"/>
-      <point x="791.552" y="513.024"/>
-      <point x="791.552" y="344.064" type="curve" smooth="yes"/>
-      <point x="791.552" y="177.152"/>
-      <point x="706.56" y="103.424"/>
-    </contour>
-    <contour>
-      <point x="1250.3" y="0" type="line"/>
-      <point x="1250.3" y="1063.94" type="line"/>
-      <point x="1117.18" y="1063.94" type="line"/>
-      <point x="1117.18" y="0" type="line"/>
-    </contour>
+    <component base="uni044C"/>
+    <component base="dotlessi" xOffset="1023"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni044C_dotlessi</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

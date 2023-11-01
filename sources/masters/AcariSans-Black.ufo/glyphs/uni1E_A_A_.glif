@@ -2,9 +2,21 @@
 <glyph name="uni1EAA" format="2">
   <advance width="1388"/>
   <unicode hex="1EAA"/>
+  <anchor x="1390" y="0" name="ogonek"/>
+  <anchor x="696" y="1550" name="center"/>
+  <anchor x="696.32" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni0302" xOffset="1010.69" yOffset="420.864"/>
-    <component base="tildecomb" xOffset="1142.78" yOffset="815.104"/>
+    <component base="uni03020303" xOffset="1075.32" yOffset="405.504"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03020303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0307" format="2">
   <unicode hex="0307"/>
-  <anchor x="-306.176" y="1191.94" name="_top"/>
+  <anchor x="-306" y="1192" name="_top"/>
   <outline>
-    <contour>
-      <point x="-437.248" y="1234.94" type="line"/>
-      <point x="-175.104" y="1234.94" type="line"/>
-      <point x="-175.104" y="1465.34" type="line"/>
-      <point x="-437.248" y="1465.34" type="line"/>
-    </contour>
+    <component base="dotaccent" xOffset="-596.848" yOffset="-0.344"/>
   </outline>
 </glyph>

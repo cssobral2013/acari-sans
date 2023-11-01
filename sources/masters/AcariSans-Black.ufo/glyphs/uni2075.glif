@@ -1,59 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2075" format="2">
-  <advance width="825"/>
+  <advance width="925"/>
   <unicode hex="2075"/>
   <outline>
     <contour>
-      <point x="413.696" y="484.352" type="line" smooth="yes"/>
-      <point x="502.784" y="484.352"/>
-      <point x="592.896" y="522.24"/>
-      <point x="663.552" y="587.776" type="curve" smooth="yes"/>
-      <point x="734.208" y="652.288"/>
-      <point x="778.24" y="738.304"/>
-      <point x="777.216" y="827.392" type="curve"/>
-      <point x="777.216" y="840.704" type="line" smooth="yes" name=".dh02"/>
-      <point x="777.216" y="884.736"/>
-      <point x="768" y="925.696"/>
-      <point x="750.592" y="965.632" type="curve"/>
-      <point x="692.224" y="1091.58"/>
-      <point x="563.2" y="1178.62"/>
-      <point x="434.176" y="1178.62" type="curve" smooth="yes" name=".dv06"/>
-      <point x="372.736" y="1178.62"/>
-      <point x="331.776" y="1166.34"/>
-      <point x="283.648" y="1146.88" type="curve"/>
-      <point x="312.32" y="1260.54" type="line" name=".dv03"/>
-      <point x="735.232" y="1260.54" type="line"/>
-      <point x="735.232" y="1462.27" type="line"/>
-      <point x="160.768" y="1462.27" type="line" name=".dv04"/>
-      <point x="66.56" y="939.008" type="line"/>
-      <point x="146.432" y="923.648"/>
-      <point x="204.8" y="912.384"/>
-      <point x="240.64" y="905.216" type="curve"/>
-      <point x="270.336" y="950.272"/>
-      <point x="334.848" y="979.968"/>
-      <point x="389.12" y="979.968" type="curve" smooth="yes" name=".dv05"/>
-      <point x="438.272" y="979.968"/>
-      <point x="478.208" y="965.632"/>
-      <point x="509.952" y="937.984" type="curve" smooth="yes"/>
-      <point x="540.672" y="910.336"/>
-      <point x="557.056" y="875.52"/>
-      <point x="556.032" y="834.56" type="curve" name=".dh01"/>
-      <point x="556.032" y="754.688"/>
-      <point x="478.208" y="683.008"/>
-      <point x="392.192" y="683.008" type="curve" smooth="yes" name=".dv02"/>
-      <point x="346.112" y="683.008"/>
-      <point x="307.2" y="698.368"/>
-      <point x="275.456" y="728.064" type="curve" smooth="yes"/>
-      <point x="248.832" y="752.64"/>
-      <point x="229.376" y="788.48"/>
-      <point x="218.112" y="836.608" type="curve"/>
-      <point x="40.96" y="794.624" type="line"/>
-      <point x="65.536" y="668.672"/>
-      <point x="162.816" y="555.008"/>
-      <point x="281.6" y="506.88" type="curve" smooth="yes"/>
-      <point x="318.464" y="491.52"/>
-      <point x="357.376" y="484.352"/>
-      <point x="397.312" y="484.352" type="curve" smooth="yes" name=".dv01"/>
+      <point x="447.312" y="922.352" type="curve" smooth="yes" name=".dv01"/>
+      <point x="673.394" y="922.352"/>
+      <point x="827.216" y="1065.79"/>
+      <point x="827.216" y="1276.62" type="curve" smooth="yes"/>
+      <point x="827.216" y="1478.98"/>
+      <point x="688.342" y="1616.62"/>
+      <point x="484.176" y="1616.62" type="curve" smooth="yes" name=".dv06"/>
+      <point x="431.39" y="1616.62"/>
+      <point x="391.214" y="1608.15"/>
+      <point x="333.648" y="1584.88" type="curve"/>
+      <point x="362.32" y="1698.54" type="line" name=".dv03"/>
+      <point x="785.232" y="1698.54" type="line"/>
+      <point x="785.232" y="1900.27" type="line"/>
+      <point x="210.768" y="1900.27" type="line" name=".dv04"/>
+      <point x="116.56" y="1377.01" type="line"/>
+      <point x="290.64" y="1343.22" type="line"/>
+      <point x="323.442" y="1392.98"/>
+      <point x="373.038" y="1417.95"/>
+      <point x="439.12" y="1417.97" type="curve" smooth="yes" name=".dv05"/>
+      <point x="543.607" y="1417.99"/>
+      <point x="606.032" y="1363.61"/>
+      <point x="606.032" y="1272.56" type="curve" smooth="yes" name=".dh01"/>
+      <point x="606.032" y="1180.47"/>
+      <point x="541.748" y="1121.01"/>
+      <point x="442.192" y="1121.01" type="curve" smooth="yes" name=".dv02"/>
+      <point x="357.387" y="1121"/>
+      <point x="290.184" y="1180.3"/>
+      <point x="268.112" y="1274.61" type="curve"/>
+      <point x="90.96" y="1232.62" type="line"/>
+      <point x="130.151" y="1035.81"/>
+      <point x="260.454" y="922.352"/>
     </contour>
   </outline>
   <lib>
@@ -87,16 +68,6 @@
       <string>.dv05</string>
       <key>point2</key>
       <string>.dv06</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dh02</string>
       <key>round</key>
       <string>true</string>
     </dict>

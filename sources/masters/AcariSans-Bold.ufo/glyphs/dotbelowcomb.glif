@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="-276" y="-150" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="-145.408" y="-380.928" type="line"/>
-      <point x="-145.408" y="-150.528" type="line"/>
-      <point x="-407.552" y="-150.528" type="line"/>
-      <point x="-407.552" y="-380.928" type="line"/>
-    </contour>
+    <component base="dotaccent" xOffset="-567.152" yOffset="-1619.87"/>
   </outline>
+  <guideline angle="0" x="0" y="-150"/>
 </glyph>

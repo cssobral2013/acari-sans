@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
-  <advance width="1032"/>
+  <advance width="1065"/>
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="858.112" y="-2.048" type="line" name=".av01"/>
-      <point x="858.112" y="1063.94" type="line" name=".sv01"/>
-      <point x="320.512" y="1063.94" type="line" name=".sh02"/>
-      <point x="320.512" y="1233.92"/>
-      <point x="380.928" y="1355.78"/>
-      <point x="568.32" y="1355.78" type="curve" smooth="yes" name=".dv01"/>
-      <point x="657.408" y="1355.78"/>
-      <point x="722.944" y="1325.06"/>
-      <point x="788.48" y="1267.71" type="curve"/>
-      <point x="864.256" y="1346.56" type="line" name=".sh03"/>
-      <point x="777.216" y="1431.55"/>
-      <point x="696.32" y="1469.44"/>
-      <point x="573.44" y="1469.44" type="curve" smooth="yes" name=".dv02"/>
-      <point x="310.272" y="1469.44"/>
-      <point x="194.56" y="1317.89"/>
-      <point x="194.56" y="1063.94" type="curve" name=".sh04"/>
-      <point x="36.864" y="1063.94" type="line" name=".dv04"/>
-      <point x="36.864" y="953.344" type="line" name=".dv03"/>
-      <point x="192.512" y="953.344" type="line" name=".sh01"/>
-      <point x="192.512" y="-2.048" type="line" name=".av02"/>
-      <point x="320.512" y="-2.048" type="line"/>
-      <point x="320.512" y="953.344" type="line" name=".sv02"/>
-      <point x="736.256" y="953.344" type="line" name=".ah01"/>
-      <point x="736.256" y="-2.048" type="line"/>
+      <point x="889" y="0" type="line" name=".av01"/>
+      <point x="889" y="1064" type="line" name=".sv01"/>
+      <point x="333" y="1064" type="line" name=".sh02"/>
+      <point x="333" y="1245"/>
+      <point x="406" y="1345"/>
+      <point x="549" y="1345" type="curve" smooth="yes" name=".dv01"/>
+      <point x="641" y="1345"/>
+      <point x="714" y="1313"/>
+      <point x="788" y="1248" type="curve"/>
+      <point x="864" y="1346" type="line" name=".sh03"/>
+      <point x="778" y="1430"/>
+      <point x="685" y="1468"/>
+      <point x="573" y="1468" type="curve" smooth="yes" name=".dv02"/>
+      <point x="322" y="1468"/>
+      <point x="195" y="1331"/>
+      <point x="195" y="1064" type="curve" name=".sh04"/>
+      <point x="37" y="1064" type="line" name=".dv04"/>
+      <point x="37" y="958" type="line" name=".dv03"/>
+      <point x="193" y="958" type="line" name=".sh01"/>
+      <point x="193" y="0" type="line" name=".av02"/>
+      <point x="333" y="0" type="line"/>
+      <point x="333" y="958" type="line" name=".sv02"/>
+      <point x="749" y="958" type="line" name=".ah01"/>
+      <point x="749" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=i</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>

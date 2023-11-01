@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0473" format="2">
-  <advance width="1168"/>
+  <advance width="1162"/>
   <unicode hex="0473"/>
   <outline>
-    <component base="o" xOffset="9"/>
+    <component base="o"/>
     <contour>
-      <point x="217.088" y="502.784" type="line"/>
-      <point x="954.88" y="502.784" type="line"/>
-      <point x="954.88" y="600.064" type="line"/>
-      <point x="217.088" y="600.064" type="line"/>
+      <point x="197.088" y="502.784" type="line"/>
+      <point x="994.88" y="502.784" type="line"/>
+      <point x="994.88" y="600.064" type="line"/>
+      <point x="197.088" y="600.064" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
 </glyph>

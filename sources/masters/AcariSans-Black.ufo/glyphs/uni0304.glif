@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0304" format="2">
   <unicode hex="0304"/>
+  <anchor x="-431" y="1191.94" name="_top"/>
   <outline>
     <contour>
-      <point x="-137.216" y="1163.26" type="line" name=".dv00"/>
-      <point x="-137.216" y="1314.82" type="line" name=".dv07"/>
-      <point x="-714.752" y="1314.82" type="line"/>
-      <point x="-714.752" y="1163.26" type="line"/>
+      <point x="-766.217" y="1248" type="line"/>
+      <point x="-86.217" y="1248" type="line" name=".dv00"/>
+      <point x="-86.217" y="1468" type="line" name=".dv07"/>
+      <point x="-766.217" y="1468" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="-431" y="0"/>
+  <guideline angle="90" x="-715" y="0"/>
+  <guideline angle="90" x="-137" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

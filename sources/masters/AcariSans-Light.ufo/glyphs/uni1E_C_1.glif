@@ -2,16 +2,19 @@
 <glyph name="uni1EC1" format="2">
   <advance width="1081"/>
   <unicode hex="1EC1"/>
+  <anchor x="659" y="0" name="ogonek"/>
   <outline>
-    <component base="ecircumflex"/>
-    <component base="gravecomb" xOffset="819.54"/>
+    <component base="e"/>
+    <component base="uni03020300" xOffset="944.888" yOffset="-30.72"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>ecircumflex+gravecomb</string>
+  <string>e+uni03020300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

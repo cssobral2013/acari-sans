@@ -2,6 +2,7 @@
 <glyph name="J" format="2">
   <advance width="1144"/>
   <unicode hex="004A"/>
+  <anchor x="872" y="1617.92" name="top"/>
   <outline>
     <contour>
       <point x="82.944" y="394.24" type="line" name=".sh01"/>
@@ -22,4 +23,5 @@
       <point x="219.136" y="412.672" type="curve" name=".sh03"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="872" y="0"/>
 </glyph>

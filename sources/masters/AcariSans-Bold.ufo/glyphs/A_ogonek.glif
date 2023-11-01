@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-  <advance width="1375"/>
+  <advance width="1376"/>
   <unicode hex="0104"/>
+  <anchor x="690.176" y="1617.92" name="top"/>
+  <anchor x="688" y="1555" name="center"/>
+  <anchor x="690.176" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni0328" xOffset="1524.74"/>
+    <component base="uni0328" xOffset="1531.96"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+>uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

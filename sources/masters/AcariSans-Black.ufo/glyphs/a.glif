@@ -2,24 +2,28 @@
 <glyph name="a" format="2">
   <advance width="1098"/>
   <unicode hex="0061"/>
+  <anchor x="989" y="0" name="ogonek"/>
+  <anchor x="534.528" y="1191.94" name="top"/>
+  <anchor x="535" y="1415" name="center"/>
+  <anchor x="534.528" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="739.328" y="130.048" type="curve" name=".iv01"/>
       <point x="759.808" y="0" type="line"/>
       <point x="989.184" y="0" type="line"/>
       <point x="989.184" y="618.496" type="line" smooth="yes" name=".sh01"/>
-      <point x="989.184" y="872.448"/>
-      <point x="814.08" y="1040.38"/>
-      <point x="531.456" y="1040.38" type="curve" smooth="yes" name=".dv04"/>
-      <point x="337.92" y="1040.38"/>
-      <point x="195.584" y="959.488"/>
-      <point x="90.112" y="813.056" type="curve"/>
-      <point x="306.176" y="658.432" type="line" name=".sh04"/>
-      <point x="354.304" y="743.424"/>
-      <point x="430.08" y="795.648"/>
-      <point x="533.504" y="795.648" type="curve" smooth="yes" name=".dv03"/>
-      <point x="651.264" y="795.648"/>
-      <point x="719.872" y="728.064"/>
+      <point x="989.184" y="916.448"/>
+      <point x="814.08" y="1084.38"/>
+      <point x="531.456" y="1084.38" type="curve" smooth="yes" name=".dv04"/>
+      <point x="337.92" y="1084.38"/>
+      <point x="195.584" y="1003.49"/>
+      <point x="90.112" y="857.056" type="curve"/>
+      <point x="306.176" y="702.432" type="line" name=".sh04"/>
+      <point x="354.304" y="787.424"/>
+      <point x="430.08" y="839.648"/>
+      <point x="533.504" y="839.648" type="curve" smooth="yes" name=".dv03"/>
+      <point x="651.264" y="839.648"/>
+      <point x="719.872" y="772.064"/>
       <point x="719.872" y="618.496" type="curve" name=".dv06"/>
       <point x="443.392" y="618.496" type="line" smooth="yes"/>
       <point x="245.606" y="618.496"/>
@@ -44,6 +48,7 @@
       <point x="581.388" y="216.064"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="534.528" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

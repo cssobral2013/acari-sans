@@ -2,10 +2,12 @@
 <glyph name="uni1EA3" format="2">
   <advance width="1066"/>
   <unicode hex="1EA3"/>
-  <anchor x="513.024" y="1191.94" name="top"/>
+  <anchor x="916" y="0" name="ogonek"/>
+  <anchor x="513" y="1372" name="center"/>
+  <anchor x="513.024" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="hookabovecomb" xOffset="808.456"/>
+    <component base="hookabovecomb" xOffset="836.024" yOffset="83.936"/>
   </outline>
   <lib>
   <dict>

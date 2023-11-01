@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2086" format="2">
-  <advance width="885"/>
+  <advance width="868"/>
   <unicode hex="2086"/>
+  <outline>
+    <component base="uni2076" xOffset="0.244543" yOffset="-1400.27"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2076</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2076</string>
+  </dict>
+  </lib>
 </glyph>

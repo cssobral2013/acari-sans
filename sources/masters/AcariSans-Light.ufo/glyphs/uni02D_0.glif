@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02D0" format="2">
-  <advance width="533"/>
+  <advance width="531"/>
   <unicode hex="02D0"/>
   <outline>
     <contour>
-      <point x="266.24" y="632.832" type="line"/>
-      <point x="471.04" y="1021.95" type="line"/>
-      <point x="61.44" y="1021.95" type="line"/>
+      <point x="265.24" y="632.832" type="line"/>
+      <point x="470.04" y="1021.95" type="line"/>
+      <point x="60.44" y="1021.95" type="line"/>
     </contour>
     <contour>
-      <point x="61.44" y="0" type="line"/>
-      <point x="471.04" y="0" type="line"/>
-      <point x="266.24" y="389.12" type="line"/>
+      <point x="60.44" y="0" type="line"/>
+      <point x="470.04" y="0" type="line"/>
+      <point x="265.24" y="389.12" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="266.24" y="0"/>
+  <guideline angle="90" x="265.24" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
   <key>com.fontlab.metricsRight</key>
   <string>|</string>
   </dict>

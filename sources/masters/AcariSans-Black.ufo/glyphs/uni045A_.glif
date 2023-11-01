@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045A" format="2">
-  <advance width="1778"/>
+  <advance width="1765"/>
   <unicode hex="045A"/>
   <outline>
     <contour>
       <point x="1243.14" y="0" type="line" smooth="yes" name=".dv01"/>
       <point x="1576.96" y="0"/>
-      <point x="1724.42" y="76.8"/>
+      <point x="1724.42" y="76.8001"/>
       <point x="1724.42" y="340.992" type="curve" name=".dh04"/>
-      <point x="1723.39" y="462.848"/>
-      <point x="1685.5" y="547.84"/>
-      <point x="1610.75" y="598.016" type="curve" smooth="yes"/>
-      <point x="1536" y="647.168"/>
-      <point x="1413.12" y="672.768"/>
-      <point x="1241.09" y="671.744" type="curve"/>
+      <point x="1724.2" y="639.66"/>
+      <point x="1487.62" y="671.744"/>
+      <point x="1241.09" y="671.744" type="curve" smooth="yes"/>
       <point x="1103.87" y="671.744" type="line" name=".dv04"/>
-      <point x="1103.87" y="1022.98" type="line" name=".av01"/>
-      <point x="817.152" y="1022.98" type="line" name=".dh02"/>
+      <point x="1103.87" y="1063.98" type="line" name=".av01"/>
+      <point x="817.152" y="1063.98" type="line" name=".dh02"/>
       <point x="817.152" y="671.744" type="line" name=".sv01"/>
       <point x="425.984" y="671.744" type="line" name=".dv06"/>
-      <point x="425.984" y="1022.98" type="line" name=".av02"/>
-      <point x="141.312" y="1022.98" type="line" name=".dh01"/>
+      <point x="425.984" y="1063.98" type="line" name=".av02"/>
+      <point x="141.312" y="1063.98" type="line" name=".dh01"/>
       <point x="141.312" y="0" type="line" name=".sv02"/>
       <point x="425.984" y="0" type="line" name=".sh01"/>
       <point x="425.984" y="464.896" type="line" name=".dv05"/>
@@ -33,14 +30,18 @@
       <point x="1103.87" y="427.008" type="line" name=".dv03"/>
       <point x="1241.09" y="427.008" type="line" smooth="yes"/>
       <point x="1359.87" y="427.008"/>
-      <point x="1413.12" y="411.648"/>
-      <point x="1416.19" y="340.992" type="curve" name=".dh03"/>
-      <point x="1414.14" y="257.024"/>
+      <point x="1416.19" y="411.701"/>
+      <point x="1416.19" y="340.992" type="curve" smooth="yes" name=".dh03"/>
+      <point x="1416.19" y="257.041"/>
       <point x="1351.68" y="244.736"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>

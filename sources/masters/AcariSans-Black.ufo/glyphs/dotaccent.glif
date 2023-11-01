@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-  <advance width="564"/>
+  <advance width="570"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="uni0307" xOffset="576.512"/>
+    <contour>
+      <point x="140" y="1240" type="line"/>
+      <point x="430" y="1240" type="line" name=".dv00"/>
+      <point x="430" y="1481" type="line" name=".dv09"/>
+      <point x="140" y="1481" type="line" name=".dh00"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=140</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh00</string>
+      <key>point2</key>
+      <string>.dv09</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>

@@ -1,56 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni046A" format="2">
-  <advance width="1626"/>
+  <advance width="1660"/>
   <unicode hex="046A"/>
   <outline>
     <contour>
-      <point x="1614.85" y="0" type="line" name=".av01"/>
-      <point x="1537.02" y="201.728"/>
-      <point x="1459.2" y="402.432"/>
-      <point x="1380.35" y="603.136" type="curve" smooth="yes"/>
-      <point x="1328.13" y="734.208"/>
-      <point x="1241.09" y="874.496"/>
-      <point x="1172.48" y="874.496" type="curve"/>
-      <point x="1387.52" y="1174.53" type="line" name=".dv01"/>
-      <point x="1387.52" y="1443.84" type="line" name=".dv02"/>
-      <point x="200.704" y="1443.84" type="line"/>
-      <point x="200.704" y="1174.53" type="line"/>
-      <point x="419.84" y="874.496" type="line"/>
-      <point x="416.768" y="874.496" type="line" smooth="yes"/>
-      <point x="378.88" y="874.496"/>
-      <point x="337.92" y="841.728"/>
-      <point x="293.888" y="775.168" type="curve" smooth="yes"/>
-      <point x="256" y="717.824"/>
-      <point x="224.256" y="649.216"/>
-      <point x="208.896" y="603.136" type="curve" smooth="yes"/>
-      <point x="15.36" y="0" type="line" name=".av02"/>
-      <point x="299.008" y="0" type="line"/>
-      <point x="455.68" y="475.136" type="line" smooth="yes"/>
-      <point x="476.16" y="534.528"/>
-      <point x="502.784" y="582.656"/>
-      <point x="534.528" y="619.52" type="curve" smooth="yes"/>
-      <point x="573.44" y="663.552"/>
-      <point x="615.424" y="686.08"/>
-      <point x="660.48" y="686.08" type="curve"/>
-      <point x="649.216" y="686.08" type="line" name=".dh01"/>
-      <point x="649.216" y="0" type="line" name=".av03"/>
-      <point x="941.056" y="0" type="line"/>
-      <point x="941.056" y="686.08" type="line" name=".dh02"/>
-      <point x="930.816" y="686.08" type="line"/>
-      <point x="975.872" y="686.08"/>
-      <point x="1017.86" y="662.528"/>
-      <point x="1056.77" y="616.448" type="curve" smooth="yes"/>
-      <point x="1088.51" y="577.536"/>
-      <point x="1114.11" y="530.432"/>
-      <point x="1133.57" y="475.136" type="curve" smooth="yes"/>
-      <point x="1222.66" y="211.968"/>
-      <point x="1274.88" y="53.248"/>
-      <point x="1292.29" y="0" type="curve"/>
+      <point x="13.36" y="0" type="line" name=".av02"/>
+      <point x="333.008" y="0" type="line"/>
+      <point x="467.124" y="475.136" type="line" smooth="yes"/>
+      <point x="506.494" y="614.616"/>
+      <point x="572.296" y="686.08"/>
+      <point x="661.355" y="686.08" type="curve" smooth="yes"/>
+      <point x="683.216" y="686.08" type="line" name=".dh01"/>
+      <point x="683.216" y="0" type="line" name=".av03"/>
+      <point x="975.056" y="0" type="line"/>
+      <point x="975.056" y="686.08" type="line" name=".dh02"/>
+      <point x="999.534" y="686.08" type="line" smooth="yes"/>
+      <point x="1085.73" y="686.08"/>
+      <point x="1150.54" y="614.346"/>
+      <point x="1190.14" y="475.136" type="curve" smooth="yes"/>
+      <point x="1325.29" y="0" type="line"/>
+      <point x="1644.85" y="0" type="line" name=".av01"/>
+      <point x="1463.85" y="603.136" type="line" smooth="yes"/>
+      <point x="1414.11" y="768.901"/>
+      <point x="1305.2" y="874.496"/>
+      <point x="1183.98" y="874.496" type="curve"/>
+      <point x="1421.52" y="1178.53" type="line" name=".dv01"/>
+      <point x="1421.52" y="1447.84" type="line" name=".dv02"/>
+      <point x="234.704" y="1447.84" type="line"/>
+      <point x="234.704" y="1178.53" type="line"/>
+      <point x="473.253" y="874.496" type="line"/>
+      <point x="355.052" y="873.852"/>
+      <point x="241.307" y="763.552"/>
+      <point x="193.417" y="603.136" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="797.696" y="867.328" type="line" name=".ih01"/>
-      <point x="572.416" y="1174.53" type="line" name=".sv01"/>
-      <point x="1015.81" y="1174.53" type="line"/>
+      <point x="831.696" y="867.328" type="line" name=".ih01"/>
+      <point x="606.416" y="1178.53" type="line" name=".sv01"/>
+      <point x="1049.81" y="1178.53" type="line"/>
     </contour>
   </outline>
   <lib>

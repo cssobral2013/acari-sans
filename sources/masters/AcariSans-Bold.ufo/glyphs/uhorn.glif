@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn" format="2">
-  <advance width="1211"/>
+  <advance width="1373"/>
   <unicode hex="01B0"/>
   <anchor x="594.944" y="1191.94" name="top"/>
   <anchor x="1068.03" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="uni031B" xOffset="1433.6" yOffset="-364.544"/>
+    <component base="uni031B" xOffset="1417" yOffset="-384"/>
   </outline>
   <lib>
   <dict>

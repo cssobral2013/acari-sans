@@ -2,9 +2,10 @@
 <glyph name="edieresis" format="2">
   <advance width="1132"/>
   <unicode hex="00EB"/>
+  <anchor x="699" y="0" name="ogonek"/>
   <outline>
     <component base="e"/>
-    <component base="uni0308" xOffset="979.968"/>
+    <component base="uni0308" xOffset="979.968" yOffset="-3.51563e-05"/>
   </outline>
   <lib>
   <dict>

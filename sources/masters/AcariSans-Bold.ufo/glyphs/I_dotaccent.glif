@@ -2,9 +2,10 @@
 <glyph name="Idotaccent" format="2">
   <advance width="633"/>
   <unicode hex="0130"/>
+  <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="uni0307" xOffset="622.592" yOffset="425.984"/>
+    <component base="uni0307" xOffset="622.416" yOffset="425.92"/>
   </outline>
   <lib>
   <dict>

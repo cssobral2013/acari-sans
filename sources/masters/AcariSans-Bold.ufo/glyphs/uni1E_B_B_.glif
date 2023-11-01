@@ -2,10 +2,10 @@
 <glyph name="uni1EBB" format="2">
   <advance width="1132"/>
   <unicode hex="1EBB"/>
-  <anchor x="549.888" y="1191.94" name="top"/>
+  <anchor x="699" y="0" name="ogonek"/>
   <outline>
     <component base="e"/>
-    <component base="hookabovecomb" xOffset="825.072"/>
+    <component base="hookabovecomb" xOffset="859.888" yOffset="93.936"/>
   </outline>
   <lib>
   <dict>
@@ -13,6 +13,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>e+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

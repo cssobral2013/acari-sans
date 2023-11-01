@@ -2,6 +2,7 @@
 <glyph name="J" format="2">
   <advance width="1172"/>
   <unicode hex="004A"/>
+  <anchor x="881" y="1617.92" name="top"/>
   <outline>
     <contour>
       <point x="18.432" y="464.896" type="line" name=".sh04"/>
@@ -22,6 +23,7 @@
       <point x="305.152" y="496.64" type="curve" name=".sh03"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="881" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

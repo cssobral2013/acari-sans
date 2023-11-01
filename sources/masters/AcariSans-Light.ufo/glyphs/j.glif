@@ -3,29 +3,13 @@
   <advance width="507"/>
   <unicode hex="006A"/>
   <outline>
+    <component base="uni0237"/>
     <contour>
-      <point x="174.08" y="1268.74" type="line"/>
-      <point x="332.8" y="1268.74" type="line"/>
-      <point x="332.8" y="1453.06" type="line"/>
-      <point x="174.08" y="1453.06" type="line"/>
-    </contour>
-    <contour>
-      <point x="-63.488" y="-316.416" type="curve"/>
-      <point x="-90.112" y="-418.816" type="line"/>
-      <point x="-41.984" y="-436.224"/>
-      <point x="8.192" y="-449.536"/>
-      <point x="60.416" y="-449.536" type="curve" smooth="yes"/>
-      <point x="236.544" y="-449.536"/>
-      <point x="322.56" y="-342.016"/>
-      <point x="322.56" y="-172.032" type="curve" smooth="yes"/>
-      <point x="322.56" y="1021.95" type="line"/>
-      <point x="188.416" y="1021.95" type="line"/>
-      <point x="188.416" y="-193.536" type="line" smooth="yes"/>
-      <point x="188.416" y="-274.432"/>
-      <point x="148.48" y="-332.8"/>
-      <point x="63.488" y="-332.8" type="curve" smooth="yes"/>
-      <point x="19.456" y="-332.8"/>
-      <point x="-22.528" y="-329.728"/>
+      <point x="178.575" y="1259.74" type="line"/>
+      <point x="336.305" y="1259.74" type="line"/>
+      <point x="336.305" y="1448.06" type="line"/>
+      <point x="178.575" y="1448.06" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="258" y="0"/>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="AE" format="2">
   <advance width="1916"/>
   <unicode hex="00C6"/>
+  <anchor x="1090" y="1617.92" name="top"/>
   <outline>
     <contour>
       <point x="1815.55" y="0" type="line" name=".dv01"/>
@@ -28,6 +29,7 @@
       <point x="785.408" y="1202.18" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="1090" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

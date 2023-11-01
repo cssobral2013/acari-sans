@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="-290" y="-150" name="_bottom"/>
+  <outline>
+    <component base="dotaccent" xOffset="-575.408" yOffset="-1631.03"/>
+  </outline>
+  <guideline angle="0" x="0" y="-150"/>
 </glyph>

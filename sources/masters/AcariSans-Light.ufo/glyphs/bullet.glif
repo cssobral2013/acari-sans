@@ -4,18 +4,20 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="429.056" y="249.856" type="curve" smooth="yes"/>
-      <point x="561.152" y="249.856"/>
-      <point x="670.72" y="359.424"/>
-      <point x="670.72" y="491.52" type="curve" smooth="yes"/>
-      <point x="670.72" y="622.592"/>
-      <point x="560.128" y="734.208"/>
-      <point x="429.056" y="734.208" type="curve" smooth="yes"/>
-      <point x="293.888" y="734.208"/>
-      <point x="186.368" y="626.688"/>
-      <point x="186.368" y="491.52" type="curve" smooth="yes"/>
-      <point x="186.368" y="357.376"/>
-      <point x="295.936" y="249.856"/>
+      <point x="429.056" y="250.856" type="curve" smooth="yes"/>
+      <point x="561.152" y="250.856"/>
+      <point x="670.72" y="360.424"/>
+      <point x="670.72" y="492.52" type="curve" smooth="yes"/>
+      <point x="670.72" y="623.87"/>
+      <point x="559.851" y="735.208"/>
+      <point x="429.056" y="735.208" type="curve" smooth="yes"/>
+      <point x="294.166" y="735.208"/>
+      <point x="187.368" y="627.968"/>
+      <point x="187.368" y="492.52" type="curve" smooth="yes"/>
+      <point x="187.368" y="358.895"/>
+      <point x="295.417" y="250.856"/>
     </contour>
   </outline>
+  <guideline angle="90" x="429" y="0"/>
+  <guideline angle="0" x="0" y="493"/>
 </glyph>

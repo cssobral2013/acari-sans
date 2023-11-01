@@ -2,6 +2,7 @@
 <glyph name="AE" format="2">
   <advance width="1903"/>
   <unicode hex="00C6"/>
+  <anchor x="1082" y="1617.92" name="top"/>
   <outline>
     <contour>
       <point x="1799.17" y="0" type="line"/>
@@ -28,4 +29,5 @@
       <point x="794.624" y="1228.8" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="1082" y="0"/>
 </glyph>

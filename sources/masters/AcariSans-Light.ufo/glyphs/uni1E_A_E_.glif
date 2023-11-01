@@ -2,16 +2,21 @@
 <glyph name="uni1EAE" format="2">
   <advance width="1331"/>
   <unicode hex="1EAE"/>
+  <anchor x="1254" y="0" name="ogonek"/>
+  <anchor x="666" y="1549" name="center"/>
+  <anchor x="669.696" y="-150" name="bottom"/>
   <outline>
-    <component base="Abreve"/>
-    <component base="acutecomb" xOffset="933.276" yOffset="425"/>
+    <component base="A"/>
+    <component base="uni03060301" xOffset="1098.75" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Abreve+acutecomb</string>
+  <string>A+uni03060301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -3,33 +3,12 @@
   <advance width="1485"/>
   <unicode hex="0126"/>
   <outline>
+    <component base="H"/>
     <contour>
-      <point x="1260.54" y="0" type="line"/>
-      <point x="1260.54" y="1103.87" type="line"/>
-      <point x="1377.28" y="1103.87" type="line"/>
-      <point x="1377.28" y="1181.7" type="line"/>
-      <point x="1260.54" y="1181.7" type="line"/>
-      <point x="1260.54" y="1446.91" type="line"/>
-      <point x="1120.26" y="1446.91" type="line"/>
-      <point x="1120.26" y="1181.7" type="line"/>
-      <point x="364.544" y="1181.7" type="line"/>
-      <point x="364.544" y="1446.91" type="line"/>
-      <point x="225.28" y="1446.91" type="line"/>
-      <point x="225.28" y="1181.7" type="line"/>
       <point x="104.448" y="1181.7" type="line"/>
       <point x="104.448" y="1103.87" type="line"/>
-      <point x="225.28" y="1103.87" type="line"/>
-      <point x="225.28" y="0" type="line"/>
-      <point x="364.544" y="0" type="line"/>
-      <point x="364.544" y="667.648" type="line"/>
-      <point x="1120.26" y="667.648" type="line"/>
-      <point x="1120.26" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1120.26" y="780.288" type="line"/>
-      <point x="364.544" y="780.288" type="line"/>
-      <point x="364.544" y="1103.87" type="line"/>
-      <point x="1120.26" y="1103.87" type="line"/>
+      <point x="1377.28" y="1103.87" type="line"/>
+      <point x="1377.28" y="1181.7" type="line"/>
     </contour>
   </outline>
 </glyph>

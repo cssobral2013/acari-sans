@@ -3,14 +3,14 @@
   <advance width="870"/>
   <unicode hex="2087"/>
   <outline>
-    <contour>
-      <point x="330.752" y="-927.744" type="line"/>
-      <point x="758.784" y="-62.464" type="line"/>
-      <point x="758.784" y="36.864" type="line"/>
-      <point x="62.464" y="36.864" type="line"/>
-      <point x="62.464" y="-140.288" type="line"/>
-      <point x="548.864" y="-140.288" type="line"/>
-      <point x="139.264" y="-927.744" type="line"/>
-    </contour>
+    <component base="uni2077" xOffset="-0.054292" yOffset="-1400.27"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2077</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2077</string>
+  </dict>
+  </lib>
 </glyph>

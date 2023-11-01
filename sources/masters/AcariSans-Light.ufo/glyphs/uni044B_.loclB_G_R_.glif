@@ -1,150 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B.loclBGR" format="2">
-  <advance width="1466"/>
+  <advance width="1568"/>
   <outline>
-    <contour>
-      <point x="630.784" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
-      <point x="887.808" y="-20.48"/>
-      <point x="1077.25" y="149.504"/>
-      <point x="1077.25" y="411.648" type="curve" smooth="yes" name=".dh03"/>
-      <point x="1077.25" y="678.912"/>
-      <point x="894.976" y="855.04"/>
-      <point x="627.712" y="855.04" type="curve" smooth="yes" name=".dv04"/>
-      <point x="503.808" y="855.04"/>
-      <point x="399.36" y="802.816"/>
-      <point x="338.944" y="692.224" type="curve"/>
-      <point x="338.944" y="1063.94" type="line" name=".av01"/>
-      <point x="205.824" y="1063.94" type="line" name=".dh01"/>
-      <point x="205.824" y="385.024" type="line" smooth="yes"/>
-      <point x="205.824" y="134.144"/>
-      <point x="385.024" y="-20.48"/>
-    </contour>
-    <contour>
-      <point x="1378.3" y="0" type="line"/>
-      <point x="1378.3" y="1063.94" type="line" name=".av02"/>
-      <point x="1247.23" y="1063.94" type="line" name=".dh04"/>
-      <point x="1247.23" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="630.784" y="95.232" type="curve" smooth="yes" name=".dv02"/>
-      <point x="438.272" y="95.232"/>
-      <point x="338.944" y="237.568"/>
-      <point x="338.944" y="417.792" type="curve" smooth="yes" name=".sh01"/>
-      <point x="338.944" y="593.215"/>
-      <point x="439.525" y="738.304"/>
-      <point x="630.784" y="738.304" type="curve" smooth="yes" name=".dv03"/>
-      <point x="813.056" y="738.304"/>
-      <point x="927.744" y="594.944"/>
-      <point x="927.744" y="418.816" type="curve" smooth="yes" name=".dh02"/>
-      <point x="927.744" y="241.664"/>
-      <point x="817.152" y="95.232"/>
-    </contour>
+    <component base="dotlessi" xOffset="1067.23"/>
+    <component base="uni044C.loclBGR"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh02</string>
-      <key>point2</key>
-      <string>.dh03</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh04</string>
-      <key>point2</key>
-      <string>.av02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.av01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh02</string>
-      <key>delta</key>
-      <integer>3</integer>
-      <key>ppm1</key>
-      <integer>22</integer>
-      <key>ppm2</key>
-      <integer>23</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh02</string>
-      <key>delta</key>
-      <integer>2</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>21</integer>
-    </dict>
-  </array>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni044C.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=dotlessi</string>
   </dict>
   </lib>
 </glyph>

@@ -3,6 +3,7 @@
   <advance width="1058"/>
   <unicode hex="004C"/>
   <anchor x="294.912" y="1617.92" name="top"/>
+  <anchor x="824" y="774" name="center"/>
   <outline>
     <contour>
       <point x="985.088" y="0" type="line"/>
@@ -14,4 +15,5 @@
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="294.912" y="0"/>
+  <guideline angle="90" x="985" y="0"/>
 </glyph>

@@ -3,19 +3,15 @@
   <advance width="1116"/>
   <unicode hex="0141"/>
   <outline>
+    <component base="L" xOffset="27.648" yOffset="-1"/>
     <contour>
-      <point x="106.496" y="478.208" type="line"/>
-      <point x="106.496" y="201.728" type="line"/>
-      <point x="718.848" y="892.928" type="line"/>
-      <point x="718.848" y="1168.38" type="line"/>
-    </contour>
-    <contour>
-      <point x="1092.61" y="0" type="line"/>
-      <point x="1092.61" y="245.76" type="line"/>
-      <point x="474.112" y="245.76" type="line"/>
-      <point x="474.112" y="1446.91" type="line"/>
-      <point x="214.016" y="1446.91" type="line"/>
-      <point x="214.016" y="0" type="line"/>
+      <point x="66.496" y="642.211" type="line"/>
+      <point x="66.496" y="361.724" type="line"/>
+      <point x="758.848" y="822.927" type="line"/>
+      <point x="758.848" y="1103.39" type="line"/>
     </contour>
   </outline>
+  <guideline angle="213.633" x="759" y="1103"/>
+  <guideline angle="33.6328" x="66" y="362"/>
+  <guideline angle="90" x="759" y="0"/>
 </glyph>

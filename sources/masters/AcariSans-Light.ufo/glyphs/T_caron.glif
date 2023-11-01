@@ -2,9 +2,10 @@
 <glyph name="Tcaron" format="2">
   <advance width="1277"/>
   <unicode hex="0164"/>
+  <anchor x="623" y="0" name="cedilla"/>
   <outline>
     <component base="T"/>
-    <component base="uni030C" xOffset="1033.25" yOffset="425"/>
+    <component base="uni030C" xOffset="1033.25" yOffset="384"/>
   </outline>
   <lib>
   <dict>
