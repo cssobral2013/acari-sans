@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A" format="2">
+  <advance width="1296"/>
+  <unicode hex="044A"/>
+  <outline>
+    <component base="uni044C" xOffset="130" yOffset="-2.27374e-13"/>
+    <contour>
+      <point x="484.056" y="1063.94" type="line"/>
+      <point x="159.744" y="1063.94" type="line"/>
+      <point x="135.168" y="959.488" type="line"/>
+      <point x="460.389" y="959.488" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C</string>
+  </dict>
+  </lib>
+</glyph>
