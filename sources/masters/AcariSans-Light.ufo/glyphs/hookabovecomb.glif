@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="-323" y="1108" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-361.472" y="1107.97" type="line" name=".av01"/>
+      <point x="-178.176" y="1139.71"/>
+      <point x="-107.52" y="1193.98"/>
+      <point x="-107.52" y="1303.55" type="curve" smooth="yes" name=".dh01"/>
+      <point x="-107.52" y="1433.6"/>
+      <point x="-228.352" y="1510.4"/>
+      <point x="-431.104" y="1510.4" type="curve" smooth="yes"/>
+      <point x="-443.392" y="1510.4" type="line" name=".dv02"/>
+      <point x="-443.392" y="1418.24" type="line" name=".dv01"/>
+      <point x="-289.792" y="1418.24"/>
+      <point x="-212.992" y="1377.28"/>
+      <point x="-212.992" y="1294.34" type="curve" smooth="yes" name=".sh01"/>
+      <point x="-212.992" y="1228.8"/>
+      <point x="-266.24" y="1189.89"/>
+      <point x="-377.856" y="1172.48" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="284.876" x="-378" y="1172"/>
+  <guideline angle="90" x="-108" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dh01</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

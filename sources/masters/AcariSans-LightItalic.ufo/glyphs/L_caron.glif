@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="1066"/>
+  <unicode hex="013D"/>
+  <anchor x="506" y="1620" name="top"/>
+  <anchor x="505" y="-120" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="899" y="1066" type="line"/>
+      <point x="1200" y="1448" type="line"/>
+      <point x="989" y="1448" type="line"/>
+      <point x="793" y="1066" type="line"/>
+    </contour>
+  </outline>
+</glyph>

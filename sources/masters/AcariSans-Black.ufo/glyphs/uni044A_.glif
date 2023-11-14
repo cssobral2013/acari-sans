@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A" format="2">
+  <advance width="1150"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="417.568" y="1063.98" type="line"/>
+      <point x="-14.336" y="1063.98" type="line" name=".dv04"/>
+      <point x="-14.336" y="856.104" type="line" name=".dv03"/>
+      <point x="417.568" y="856.104" type="line" name=".sh02"/>
+    </contour>
+    <contour>
+      <point x="467.64" y="0" type="line"/>
+      <point x="710.223" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="932.332" y="0"/>
+      <point x="1110" y="135.306"/>
+      <point x="1110" y="345.981" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1110" y="582.938"/>
+      <point x="942.877" y="722.491"/>
+      <point x="718.569" y="722.491" type="curve" smooth="yes" name=".dv04"/>
+      <point x="467.64" y="722.491" type="line" name=".iv01"/>
+      <point x="467.64" y="515.491" type="line"/>
+      <point x="680.353" y="515.491" type="line" smooth="yes" name=".dv03"/>
+      <point x="772.52" y="515.491"/>
+      <point x="822.076" y="446.218"/>
+      <point x="822" y="354.126" type="curve" smooth="yes" name=".ah01"/>
+      <point x="821.921" y="259.03"/>
+      <point x="786.012" y="206.884"/>
+      <point x="680.334" y="207" type="curve" smooth="yes" name=".dv02"/>
+      <point x="467.64" y="207.233" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.848" y="0" type="line"/>
+      <point x="522.714" y="0" type="line" name=".av02"/>
+      <point x="522.714" y="1063.98" type="line" name=".dh02"/>
+      <point x="242.848" y="1063.98" type="line" name=".dh01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>lsb</string>
+      <key>point2</key>
+      <string>.sh02</string>
+      <key>align</key>
+      <string>center</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>delta</key>
+      <integer>3</integer>
+      <key>ppm1</key>
+      <integer>22</integer>
+      <key>ppm2</key>
+      <integer>23</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>delta</key>
+      <integer>2</integer>
+      <key>ppm1</key>
+      <integer>9</integer>
+      <key>ppm2</key>
+      <integer>21</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ah01</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.sh02</string>
+      <key>point2</key>
+      <string>.iv01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

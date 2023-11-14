@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="1338"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="d"/>
+    <contour>
+      <point x="1341.44" y="961.536" type="line" name=".dv03"/>
+      <point x="1580.03" y="1446.91" type="line"/>
+      <point x="1303.55" y="1446.91" type="line" name=".dv04"/>
+      <point x="1182.72" y="961.536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

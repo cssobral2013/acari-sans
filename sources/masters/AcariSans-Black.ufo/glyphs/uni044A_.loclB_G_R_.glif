@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A.loclBGR" format="2">
+  <advance width="1299"/>
+  <outline>
+    <component base="uni044C.loclBGR" xOffset="84.3911" yOffset="0.0239906"/>
+    <contour>
+      <point x="20.2951" y="856.544" type="line"/>
+      <point x="441.202" y="856.544" type="line"/>
+      <point x="441.202" y="1063.96" type="line"/>
+      <point x="20.2951" y="1063.96" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C.loclBGR</string>
+  </dict>
+  </lib>
+</glyph>

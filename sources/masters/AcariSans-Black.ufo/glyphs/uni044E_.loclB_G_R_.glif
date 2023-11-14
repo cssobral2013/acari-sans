@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E.loclBGR" format="2">
+  <advance width="1678"/>
+  <outline>
+    <contour>
+      <point x="141.312" y="0" type="line"/>
+      <point x="425.984" y="0" type="line" name=".sh03"/>
+      <point x="425.984" y="464.896" type="line" name=".dv03"/>
+      <point x="649.672" y="464.896" type="line"/>
+      <point x="649.672" y="671.744" type="line"/>
+      <point x="425.984" y="671.744" type="line" name=".dv04"/>
+      <point x="425.984" y="1447.91" type="line" name=".av01"/>
+      <point x="141.312" y="1447.91" type="line" name=".sh02"/>
+    </contour>
+    <contour>
+      <point x="1086.46" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1422.38" y="-20.48"/>
+      <point x="1645.57" y="205.34"/>
+      <point x="1645.57" y="520.664" type="curve" smooth="yes"/>
+      <point x="1645.57" y="843.117"/>
+      <point x="1424.88" y="1084.29"/>
+      <point x="1095.68" y="1084.29" type="curve" smooth="yes" name=".dv06"/>
+      <point x="765.213" y="1084.29"/>
+      <point x="543.71" y="844.705"/>
+      <point x="543.71" y="530.736" type="curve" smooth="yes"/>
+      <point x="543.71" y="215.748"/>
+      <point x="762.802" y="-20.48"/>
+    </contour>
+    <contour>
+      <point x="1095.68" y="219.136" type="curve" smooth="yes" name=".dv02"/>
+      <point x="939.477" y="219.075"/>
+      <point x="846.848" y="349.571"/>
+      <point x="846.848" y="530.904" type="curve" smooth="yes"/>
+      <point x="846.848" y="708.241"/>
+      <point x="941.777" y="842.624"/>
+      <point x="1095.68" y="842.624" type="curve" smooth="yes" name=".dv05"/>
+      <point x="1250.4" y="842.624"/>
+      <point x="1344.51" y="709.177"/>
+      <point x="1344.51" y="530.904" type="curve" smooth="yes" name=".ah01"/>
+      <point x="1344.51" y="350.566"/>
+      <point x="1251.13" y="219.196"/>
+    </contour>
+  </outline>
+</glyph>

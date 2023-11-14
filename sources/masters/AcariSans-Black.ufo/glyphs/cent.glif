@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="1137"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="696.32" y="-209.92" type="line" name=".dv01"/>
+      <point x="696.32" y="-21.504" type="line"/>
+      <point x="861.633" y="9.5853"/>
+      <point x="971.066" y="108.952"/>
+      <point x="1041.41" y="291.84" type="curve"/>
+      <point x="812.032" y="381.952" type="line"/>
+      <point x="766.86" y="241.058"/>
+      <point x="711.229" y="192.512"/>
+      <point x="594.944" y="192.512" type="curve" smooth="yes" name=".dv02"/>
+      <point x="445.807" y="192.512"/>
+      <point x="356.352" y="311.529"/>
+      <point x="356.352" y="509.952" type="curve" smooth="yes" name=".sh02"/>
+      <point x="356.352" y="702.886"/>
+      <point x="448.991" y="825.344"/>
+      <point x="594.944" y="825.344" type="curve" smooth="yes" name=".dv03"/>
+      <point x="716.455" y="825.344"/>
+      <point x="773.83" y="775.547"/>
+      <point x="812.032" y="636.928" type="curve"/>
+      <point x="1055.74" y="730.112" type="line"/>
+      <point x="974.396" y="915.698"/>
+      <point x="866.164" y="1009.44"/>
+      <point x="696.32" y="1041.41" type="curve"/>
+      <point x="696.32" y="1228.8" type="line" name=".dv04"/>
+      <point x="489.472" y="1228.8" type="line" name=".ah01"/>
+      <point x="489.472" y="1041.41" type="line"/>
+      <point x="263.963" y="1001.74"/>
+      <point x="101.376" y="783.808"/>
+      <point x="101.376" y="521.216" type="curve" smooth="yes" name=".sh01"/>
+      <point x="101.376" y="232.764"/>
+      <point x="255.256" y="17.1697"/>
+      <point x="489.472" y="-22.528" type="curve" name=".sh03"/>
+      <point x="489.472" y="-209.92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>.ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ah01</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.dv04</string>
+      <key>point2</key>
+      <string>.dv01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>lsb</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.sh01</string>
+      <key>point2</key>
+      <string>.sh02</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.ah01</string>
+      <key>point2</key>
+      <string>.sh03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

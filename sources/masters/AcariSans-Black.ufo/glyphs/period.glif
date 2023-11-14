@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="657"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="461.824" y="0" type="line" name=".dv01"/>
+      <point x="461.824" y="292.864" type="line" name=".dv02"/>
+      <point x="195.584" y="292.864" type="line" name=".dh01"/>
+      <point x="195.584" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

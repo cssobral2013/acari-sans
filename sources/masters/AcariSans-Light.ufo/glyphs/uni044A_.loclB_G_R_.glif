@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A.loclBGR" format="2">
+  <advance width="1213"/>
+  <outline>
+    <component base="uni044C.loclBGR" xOffset="58.368"/>
+    <contour>
+      <point x="39.936" y="953.344" type="line" name=".dv03"/>
+      <point x="314.074" y="953.344" type="line" name=".sh01"/>
+      <point x="314.074" y="1063.94" type="line" name=".dh01"/>
+      <point x="39.936" y="1063.94" type="line" name=".dv04"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C.loclBGR</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dv04</string>
+      <key>point2</key>
+      <string>.dh01</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>left</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

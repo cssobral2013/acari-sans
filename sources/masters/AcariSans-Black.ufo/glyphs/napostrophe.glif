@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="1411"/>
+  <unicode hex="0149"/>
+  <outline>
+    <component base="n" xOffset="200.229"/>
+    <contour>
+      <point x="99.9311" y="854.536" type="line" name=".av02"/>
+      <point x="373.609" y="1447.66" type="line" name=".av01"/>
+      <point x="56.9395" y="1447.66" type="line"/>
+      <point x="-93.0069" y="854.536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>

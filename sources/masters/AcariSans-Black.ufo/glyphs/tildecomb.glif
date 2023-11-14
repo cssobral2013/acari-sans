@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-444" y="1192" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-805.888" y="1203.99" type="line" name=".sv05"/>
+      <point x="-649.888" y="1203.99" type="line" name=".dh00"/>
+      <point x="-649.888" y="1242.99" type="line" smooth="yes"/>
+      <point x="-649.888" y="1303"/>
+      <point x="-620.025" y="1333.99"/>
+      <point x="-584.888" y="1333.99" type="curve" smooth="yes" name=".dv11"/>
+      <point x="-559.888" y="1333.99"/>
+      <point x="-542.994" y="1318.13"/>
+      <point x="-514.888" y="1290.99" type="curve" smooth="yes"/>
+      <point x="-485.888" y="1262.99" type="line"/>
+      <point x="-386.888" y="1399.99" type="line"/>
+      <point x="-414.888" y="1426.99" type="line" smooth="yes"/>
+      <point x="-465.303" y="1475.61"/>
+      <point x="-516.048" y="1498.96"/>
+      <point x="-583.888" y="1498.99" type="curve" smooth="yes" name=".dv10"/>
+      <point x="-708.888" y="1499.04"/>
+      <point x="-805.888" y="1409.88"/>
+      <point x="-805.888" y="1255.99" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-95.7865" y="1487" type="line" name=".sv05"/>
+      <point x="-251.786" y="1487" type="line" name=".dh00"/>
+      <point x="-251.786" y="1448" type="line" smooth="yes"/>
+      <point x="-251.786" y="1387.99"/>
+      <point x="-281.65" y="1357"/>
+      <point x="-316.786" y="1357" type="curve" smooth="yes" name=".dv11"/>
+      <point x="-341.786" y="1357"/>
+      <point x="-358.681" y="1372.86"/>
+      <point x="-386.786" y="1400" type="curve" smooth="yes"/>
+      <point x="-415.786" y="1428" type="line"/>
+      <point x="-514.786" y="1291" type="line"/>
+      <point x="-486.786" y="1264" type="line" smooth="yes"/>
+      <point x="-436.372" y="1215.39"/>
+      <point x="-385.627" y="1192.03"/>
+      <point x="-317.786" y="1192" type="curve" smooth="yes" name=".dv10"/>
+      <point x="-192.787" y="1191.95"/>
+      <point x="-95.7865" y="1281.11"/>
+      <point x="-95.7865" y="1435" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv11</string>
+      <key>point2</key>
+      <string>.dv10</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.sv05</string>
+      <key>point2</key>
+      <string>.dh00</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="2">
+  <advance width="1297"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="1198.08" y="0" type="line" name=".dv01"/>
+      <point x="1198.08" y="232.448" type="line" name=".dv02"/>
+      <point x="475.136" y="232.448" type="line"/>
+      <point x="973.824" y="722.944" type="line"/>
+      <point x="475.136" y="1214.46" type="line" name=".dv03"/>
+      <point x="1198.08" y="1214.46" type="line"/>
+      <point x="1198.08" y="1446.91" type="line"/>
+      <point x="68.608" y="1446.91" type="line" name=".dv04"/>
+      <point x="68.608" y="1325.06" type="line"/>
+      <point x="644.096" y="723.968" type="line"/>
+      <point x="68.608" y="121.856" type="line"/>
+      <point x="68.608" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

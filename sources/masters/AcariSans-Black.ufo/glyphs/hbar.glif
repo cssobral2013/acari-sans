@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="1211"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <contour>
+      <point x="5.12" y="1311.74" type="line"/>
+      <point x="5.12" y="1128.45" type="line" name=".sv02"/>
+      <point x="655.36" y="1128.45" type="line"/>
+      <point x="655.36" y="1311.74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

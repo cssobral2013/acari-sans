@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0473" format="2">
+  <advance width="1172"/>
+  <unicode hex="0473"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="217.088" y="458.24" type="line"/>
+      <point x="954.88" y="458.24" type="line"/>
+      <point x="954.88" y="644.608" type="line"/>
+      <point x="217.088" y="644.608" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

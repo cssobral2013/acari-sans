@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042B" format="2">
+  <advance width="1763"/>
+  <unicode hex="042B"/>
+  <anchor x="1468.91" y="1617.92" name="top"/>
+  <anchor x="1539" y="0" name="ogonek"/>
+  <outline>
+    <component base="uni042C"/>
+    <component base="I" xOffset="1174"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni042C_I</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

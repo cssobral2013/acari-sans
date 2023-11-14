@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+  <advance width="1799"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="141.312" y="0" type="line" name=".av02"/>
+      <point x="422.912" y="0" type="line" name=".sh01"/>
+      <point x="422.912" y="597.008" type="line" smooth="yes"/>
+      <point x="422.912" y="730.128"/>
+      <point x="508.928" y="820.24"/>
+      <point x="622.592" y="820.24" type="curve" smooth="yes" name=".sv02"/>
+      <point x="733.184" y="820.24"/>
+      <point x="770.048" y="753.68"/>
+      <point x="770.048" y="621.584" type="curve" smooth="yes" name=".dh03"/>
+      <point x="770.048" y="0" type="line" name=".av03"/>
+      <point x="1054.72" y="0" type="line"/>
+      <point x="1054.72" y="597.008" type="line" smooth="yes" name=".dh04"/>
+      <point x="1054.72" y="718.815"/>
+      <point x="1126.09" y="820.24"/>
+      <point x="1255.42" y="820.24" type="curve" smooth="yes" name=".sv01"/>
+      <point x="1364.99" y="820.24"/>
+      <point x="1402.88" y="748.56"/>
+      <point x="1402.88" y="617.488" type="curve" smooth="yes" name=".dh05"/>
+      <point x="1402.88" y="0" type="line"/>
+      <point x="1687.55" y="0" type="line" name=".av01"/>
+      <point x="1687.55" y="663.568" type="line" smooth="yes" name=".dh06"/>
+      <point x="1687.55" y="885.842"/>
+      <point x="1546.91" y="1082.38"/>
+      <point x="1307.65" y="1082.38" type="curve" smooth="yes" name=".av04"/>
+      <point x="1177.71" y="1082.38"/>
+      <point x="1045.83" y="1043.74"/>
+      <point x="957.44" y="942.096" type="curve"/>
+      <point x="879.616" y="1039.38"/>
+      <point x="792.576" y="1084.43"/>
+      <point x="669.696" y="1084.43" type="curve" smooth="yes" name=".av06"/>
+      <point x="571.392" y="1084.43"/>
+      <point x="489.472" y="1049.62"/>
+      <point x="422.912" y="979.984" type="curve" name=".iv01"/>
+      <point x="422.912" y="1063.98" type="line" name=".dh02"/>
+      <point x="141.312" y="1063.98" type="line" name=".dh01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av04</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av06</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.av04</string>
+      <key>point2</key>
+      <string>.sv01</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.sv01</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>.iv01</string>
+      <key>point1</key>
+      <string>.av04</string>
+      <key>point2</key>
+      <string>.sv01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh03</string>
+      <key>point2</key>
+      <string>.dh04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh05</string>
+      <key>point2</key>
+      <string>.dh06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.dh02</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>align</key>
+      <string>left</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

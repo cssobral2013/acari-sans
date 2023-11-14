@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="660"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="10.24" y="1191.94" type="line" name=".av05"/>
+      <point x="211.968" y="1191.94" type="line"/>
+      <point x="329.728" y="1327.1" type="line"/>
+      <point x="449.536" y="1191.94" type="line"/>
+      <point x="650.24" y="1191.94" type="line" name=".av00"/>
+      <point x="329.728" y="1551.36" type="line" name=".av06"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av00</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av06</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

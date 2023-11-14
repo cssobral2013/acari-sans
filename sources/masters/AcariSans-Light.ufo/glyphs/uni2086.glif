@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2086" format="2">
+  <advance width="885"/>
+  <unicode hex="2086"/>
+  <outline>
+    <component base="uni2076" xOffset="0.150814" yOffset="-1400.42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2076</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2076</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

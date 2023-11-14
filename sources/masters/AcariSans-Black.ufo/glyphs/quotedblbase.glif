@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+  <advance width="931"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="257.024" y="-230.4" type="line" name=".dv01"/>
+      <point x="517.12" y="270.336" type="line"/>
+      <point x="238.592" y="270.336" type="line" name=".dv02"/>
+      <point x="97.28" y="-230.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.616" y="-230.4" type="line" name=".sv01"/>
+      <point x="883.712" y="270.336" type="line" name=".sv02"/>
+      <point x="605.184" y="270.336" type="line"/>
+      <point x="464.896" y="-230.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.sv01</string>
+      <key>align</key>
+      <string>double</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.dv02</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

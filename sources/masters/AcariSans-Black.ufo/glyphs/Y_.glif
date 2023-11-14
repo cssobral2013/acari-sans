@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+  <advance width="1352"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="829.44" y="0" type="line" name=".av03"/>
+      <point x="829.44" y="563.2" type="line" name=".dh02"/>
+      <point x="1371.14" y="1447.91" type="line" name=".av01"/>
+      <point x="1014.78" y="1447.91" type="line"/>
+      <point x="672.768" y="839.68" type="line" name=".iv01"/>
+      <point x="333.824" y="1447.91" type="line" name=".av02"/>
+      <point x="-19.456" y="1447.91" type="line"/>
+      <point x="523.264" y="563.2" type="line" name=".dh01"/>
+      <point x="523.264" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>.iv01</string>
+      <key>point1</key>
+      <string>.av03</string>
+      <key>point2</key>
+      <string>.av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolateh</string>
+      <key>point</key>
+      <string>.iv01</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

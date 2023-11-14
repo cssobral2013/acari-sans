@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_i" format="2">
+  <advance width="1592"/>
+  <outline>
+    <component base="fi" xOffset="547"/>
+    <contour>
+      <point x="184" y="0" type="line" name=".av02"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="958" type="line" name=".sv04"/>
+      <point x="740" y="958" type="line" name=".ah01"/>
+      <point x="740" y="1064" type="line" name=".sv05"/>
+      <point x="324" y="1064" type="line" name=".sh03"/>
+      <point x="324" y="1141" type="line" smooth="yes"/>
+      <point x="324" y="1270"/>
+      <point x="418" y="1345"/>
+      <point x="530" y="1345" type="curve" smooth="yes" name=".sv06"/>
+      <point x="632" y="1345"/>
+      <point x="691" y="1305"/>
+      <point x="765" y="1221" type="curve"/>
+      <point x="820" y="1339" type="line"/>
+      <point x="713" y="1429"/>
+      <point x="643" y="1468"/>
+      <point x="512" y="1468" type="curve" smooth="yes" name=".sv01"/>
+      <point x="344" y="1468"/>
+      <point x="186" y="1343"/>
+      <point x="186" y="1159" type="curve" smooth="yes" name=".sh02"/>
+      <point x="186" y="1064" type="line" name=".sv02"/>
+      <point x="38" y="1064" type="line"/>
+      <point x="38" y="958" type="line" name=".sv03"/>
+      <point x="184" y="958" type="line" name=".sh01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>.av02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.sv04</string>
+      <key>point2</key>
+      <string>.sh03</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>.sv05</string>
+      <key>point2</key>
+      <string>.sh01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

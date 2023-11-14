@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0472" format="2">
+  <advance width="1570"/>
+  <unicode hex="0472"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="304.591" y="614.4" type="line" name=".dv05"/>
+      <point x="1262.64" y="614.4" type="line"/>
+      <point x="1262.64" y="827.392" type="line"/>
+      <point x="304.591" y="827.392" type="line" name=".dv06"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv05</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

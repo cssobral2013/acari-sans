@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+  <advance width="1574"/>
+  <unicode hex="004F"/>
+  <anchor x="787" y="1617.92" name="top"/>
+  <anchor x="908.288" y="0" name="ogonek"/>
+  <anchor x="1546" y="1448" name="horn"/>
+  <outline>
+    <contour>
+      <point x="787.192" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1181.93" y="-20.48"/>
+      <point x="1436.19" y="263.595"/>
+      <point x="1436.19" y="723.968" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1436.19" y="1184.29"/>
+      <point x="1181.89" y="1468.42"/>
+      <point x="787.216" y="1468.42" type="curve" smooth="yes" name=".dv04"/>
+      <point x="392.497" y="1468.42"/>
+      <point x="137.216" y="1183.6"/>
+      <point x="137.216" y="723.968" type="curve" smooth="yes" name=".dh01"/>
+      <point x="137.216" y="264.288"/>
+      <point x="392.45" y="-20.48"/>
+    </contour>
+    <contour>
+      <point x="787.192" y="110.592" type="curve" smooth="yes" name=".dv02"/>
+      <point x="476.41" y="110.592"/>
+      <point x="279.552" y="340.441"/>
+      <point x="279.552" y="724.088" type="curve" smooth="yes" name=".dh02"/>
+      <point x="279.552" y="1107.35"/>
+      <point x="476.554" y="1337.3"/>
+      <point x="787.144" y="1337.3" type="curve" smooth="yes" name=".dv03"/>
+      <point x="1097.29" y="1337.3"/>
+      <point x="1293.88" y="1107.47"/>
+      <point x="1293.88" y="724.088" type="curve" smooth="yes" name=".dh03"/>
+      <point x="1293.88" y="340.342"/>
+      <point x="1097.46" y="110.592"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="787" y="0"/>
+  <guideline angle="0" x="0" y="723.968"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=137</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=137</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="874"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="439.808" y="867.352" type="curve" smooth="yes" name=".dv01"/>
+      <point x="617" y="867.352"/>
+      <point x="740.28" y="987.376"/>
+      <point x="740.28" y="1167.97" type="curve" smooth="yes"/>
+      <point x="740.28" y="1339.08"/>
+      <point x="611.468" y="1468.42"/>
+      <point x="439.808" y="1468.42" type="curve" smooth="yes" name=".dv04"/>
+      <point x="263.218" y="1468.42"/>
+      <point x="139.192" y="1340.68"/>
+      <point x="139.192" y="1167.97" type="curve" smooth="yes"/>
+      <point x="139.192" y="983.889"/>
+      <point x="255.729" y="867.352"/>
+    </contour>
+    <contour>
+      <point x="439.808" y="1057.82" type="curve" smooth="yes" name=".dv02"/>
+      <point x="374.95" y="1057.92"/>
+      <point x="329.656" y="1103.21"/>
+      <point x="329.656" y="1167.97" type="curve" smooth="yes"/>
+      <point x="329.656" y="1229.91"/>
+      <point x="377.769" y="1277.95"/>
+      <point x="439.808" y="1277.95" type="curve" smooth="yes" name=".dv03"/>
+      <point x="500.372" y="1277.95"/>
+      <point x="549.804" y="1228.55"/>
+      <point x="549.864" y="1167.97" type="curve" smooth="yes" name=".dh01"/>
+      <point x="549.929" y="1102.7"/>
+      <point x="504.986" y="1057.71"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="440" y="0"/>
+  <guideline angle="0" x="0" y="1168"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

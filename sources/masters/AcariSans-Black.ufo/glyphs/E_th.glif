@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="1466"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D" xOffset="25" yOffset="-1.16415e-12"/>
+    <contour>
+      <point x="36.016" y="835.584" type="line" name=".dv06"/>
+      <point x="36.016" y="624.64" type="line" name=".dv05"/>
+      <point x="804.016" y="624.64" type="line"/>
+      <point x="804.016" y="835.584" type="line" name=".sv02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv05</string>
+      <key>point2</key>
+      <string>.dv06</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>.dv06</string>
+      <key>point2</key>
+      <string>.sv02</string>
+      <key>align</key>
+      <string>center</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

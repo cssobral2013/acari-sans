@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="2">
+  <advance width="1305"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="581.632" y="-13.312" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1016.18" y="-13.312"/>
+      <point x="1189.89" y="406.554"/>
+      <point x="1189.89" y="778.24" type="curve" smooth="yes"/>
+      <point x="1189.89" y="1105.78"/>
+      <point x="1069.58" y="1468.34"/>
+      <point x="675.84" y="1468.34" type="curve" smooth="yes" name=".dv04"/>
+      <point x="462.441" y="1468.34"/>
+      <point x="290.427" y="1366.8"/>
+      <point x="208.896" y="1169.41" type="curve"/>
+      <point x="402.432" y="1106.94" type="line"/>
+      <point x="451.584" y="1230.85"/>
+      <point x="551.936" y="1268.66"/>
+      <point x="642.048" y="1268.66" type="curve" smooth="yes" name=".dv03"/>
+      <point x="830.668" y="1268.66"/>
+      <point x="914.432" y="1117.33"/>
+      <point x="914.432" y="942.08" type="curve" name=".iv01"/>
+      <point x="826.354" y="998.296"/>
+      <point x="743.149" y="1026.05"/>
+      <point x="628.736" y="1026.05" type="curve" smooth="yes" name=".sv01"/>
+      <point x="318.147" y="1026.05"/>
+      <point x="84.9878" y="770.009"/>
+      <point x="84.992" y="460.8" type="curve" smooth="yes" name=".dh01"/>
+      <point x="84.9958" y="178.008"/>
+      <point x="300.569" y="-13.312"/>
+    </contour>
+    <contour>
+      <point x="598.016" y="225.28" type="curve" smooth="yes" name=".dv02"/>
+      <point x="448.287" y="225.148"/>
+      <point x="338.944" y="311.984"/>
+      <point x="338.944" y="472.064" type="curve" smooth="yes" name=".dh02"/>
+      <point x="338.944" y="652.161"/>
+      <point x="482.353" y="799.744"/>
+      <point x="659.456" y="799.744" type="curve" smooth="yes" name=".dv05"/>
+      <point x="825.618" y="799.744"/>
+      <point x="919.552" y="715.753"/>
+      <point x="919.552" y="539.648" type="curve" smooth="yes"/>
+      <point x="919.552" y="367.985"/>
+      <point x="767.082" y="225.428"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv03</string>
+      <key>point2</key>
+      <string>.dv04</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>.dh01</string>
+      <key>point2</key>
+      <string>.dh02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

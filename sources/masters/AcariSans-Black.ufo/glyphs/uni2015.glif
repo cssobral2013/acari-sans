@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2015" format="2">
+  <advance width="1589"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="1451.01" y="497.664" type="line" name=".dv01"/>
+      <point x="1451.01" y="708.608" type="line" name=".dv02"/>
+      <point x="138.24" y="708.608" type="line"/>
+      <point x="138.24" y="497.664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>.dv01</string>
+      <key>point2</key>
+      <string>.dv02</string>
+      <key>round</key>
+      <string>true</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

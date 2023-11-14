@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="891"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="750.592" y="544.768" type="line"/>
+      <point x="796.672" y="734.208" type="line"/>
+      <point x="198.656" y="734.208" type="line"/>
+      <point x="153.6" y="544.768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=145</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

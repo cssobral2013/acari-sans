@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="472"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="120.24" y="723.92" type="curve" smooth="yes"/>
+      <point x="120.24" y="457.917"/>
+      <point x="222.429" y="139.361"/>
+      <point x="362.952" y="-20.312" type="curve"/>
+      <point x="471.424" y="-20.312" type="line"/>
+      <point x="320.379" y="172.857"/>
+      <point x="227.76" y="463.158"/>
+      <point x="227.76" y="723.848" type="curve" smooth="yes"/>
+      <point x="227.76" y="987.045"/>
+      <point x="313.461" y="1252.67"/>
+      <point x="471.472" y="1468.15" type="curve"/>
+      <point x="362.928" y="1468.15" type="line"/>
+      <point x="212.072" y="1277.12"/>
+      <point x="120.24" y="989.911"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=120</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
+</glyph>
