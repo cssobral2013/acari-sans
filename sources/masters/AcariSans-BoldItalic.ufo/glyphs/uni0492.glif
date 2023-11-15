@@ -3,18 +3,21 @@
   <advance width="1143"/>
   <unicode hex="0492"/>
   <outline>
-    <component base="uni0413" xOffset="51.2" yOffset="-3"/>
     <contour>
-      <point x="128" y="866.304" type="line"/>
-      <point x="77.824" y="648.192" type="line"/>
+      <point x="379.904" y="0" type="line"/>
+      <point x="528.384" y="648.192" type="line"/>
       <point x="852.992" y="648.192" type="line"/>
       <point x="904.192" y="866.304" type="line"/>
+      <point x="578.56" y="866.304" type="line"/>
+      <point x="656.384" y="1206.27" type="line"/>
+      <point x="1278.98" y="1206.27" type="line"/>
+      <point x="1336.32" y="1444.86" type="line"/>
+      <point x="452.608" y="1444.86" type="line"/>
+      <point x="319.488" y="866.304" type="line"/>
+      <point x="128" y="866.304" type="line"/>
+      <point x="77.824" y="648.192" type="line"/>
+      <point x="269.312" y="648.192" type="line"/>
+      <point x="119.808" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni0413</string>
-  </dict>
-  </lib>
 </glyph>

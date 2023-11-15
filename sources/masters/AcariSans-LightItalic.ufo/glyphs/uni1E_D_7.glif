@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ED7" format="2">
-  <advance width="1176"/>
+  <advance width="1151"/>
   <unicode hex="1ED7"/>
-  <anchor x="560" y="0" name="ogonek"/>
-  <anchor x="1360" y="1064" name="pos"/>
-  <anchor x="456" y="-120" name="bottom"/>
   <outline>
-    <component base="o"/>
-    <component base="uni03020303" xOffset="981"/>
+    <component base="o" xOffset="-1"/>
+    <component base="uni0302" xOffset="971" yOffset="17"/>
+    <component base="tildecomb" xOffset="1067" yOffset="443"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>o+uni03020303</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

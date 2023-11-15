@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="2">
-  <advance width="1166"/>
+  <advance width="1228"/>
   <unicode hex="00F1"/>
   <anchor x="476" y="-120" name="bottom"/>
   <outline>
@@ -9,6 +9,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>n+tildecomb</string>
   <key>public.markColor</key>

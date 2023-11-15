@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0304" format="2">
   <unicode hex="0304"/>
-  <anchor x="-459" y="1191.94" name="_top"/>
+  <anchor x="-458.752" y="1191.94" name="_top"/>
   <outline>
     <contour>
-      <point x="-744" y="1263" type="line"/>
-      <point x="-172" y="1263" type="line"/>
-      <point x="-172" y="1448" type="line"/>
-      <point x="-744" y="1448" type="line"/>
+      <point x="-744.448" y="1263" type="line"/>
+      <point x="-172.448" y="1263" type="line"/>
+      <point x="-172.448" y="1448" type="line"/>
+      <point x="-744.448" y="1448" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-744" y="0"/>
-  <guideline angle="90" x="-171" y="0"/>
-  <guideline angle="90" name="vertical" x="-459" y="0"/>
+  <guideline angle="90" x="-744.448" y="0"/>
+  <guideline angle="90" x="-171.008" y="0"/>
+  <guideline angle="90" name="vertical" x="-458.752" y="0"/>
   <guideline angle="0" x="0" y="1448"/>
   <guideline angle="0" x="0" y="1263"/>
 </glyph>

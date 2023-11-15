@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorn" format="2">
-  <advance width="1189"/>
+  <advance width="1178"/>
   <unicode hex="01A1"/>
-  <anchor x="735" y="1192" name="top"/>
-  <anchor x="599" y="0" name="ogonek"/>
-  <anchor x="462" y="-120" name="bottom"/>
+  <anchor x="725" y="1192" name="top"/>
+  <anchor x="589" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni031B" xOffset="1313" yOffset="-384"/>
+    <component base="uni031B" xOffset="1303" yOffset="-384"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+uni031B</string>
   <key>public.markColor</key>

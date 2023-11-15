@@ -3,17 +3,17 @@
   <advance width="630"/>
   <outline>
     <contour>
-      <point x="430" y="500" type="line" name=".av01"/>
-      <point x="430" y="1468" type="line" name=".av02"/>
-      <point x="338" y="1468" type="line"/>
-      <point x="338" y="1454" type="line" smooth="yes" name=".av03"/>
-      <point x="338" y="1378"/>
-      <point x="298" y="1328"/>
-      <point x="214" y="1328" type="curve" smooth="yes"/>
-      <point x="68" y="1328" type="line" name=".dv02"/>
-      <point x="68" y="1247" type="line" name=".dv01"/>
-      <point x="328" y="1247" type="line" name=".dh01"/>
-      <point x="328" y="500" type="line"/>
+      <point x="430.152" y="499.712" type="line" name=".av01"/>
+      <point x="430.152" y="1468.42" type="line" name=".av02"/>
+      <point x="337.992" y="1468.42" type="line"/>
+      <point x="337.992" y="1454.08" type="line" smooth="yes" name=".av03"/>
+      <point x="337.992" y="1378.3"/>
+      <point x="298.056" y="1328.13"/>
+      <point x="214.088" y="1328.13" type="curve" smooth="yes"/>
+      <point x="67.656" y="1328.13" type="line" name=".dv02"/>
+      <point x="67.656" y="1247.23" type="line" name=".dv01"/>
+      <point x="327.752" y="1247.23" type="line" name=".dh01"/>
+      <point x="327.752" y="499.712" type="line"/>
     </contour>
   </outline>
   <lib>

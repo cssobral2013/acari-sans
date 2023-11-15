@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045D" format="2">
-  <advance width="1267"/>
+  <advance width="1269"/>
   <unicode hex="045D"/>
   <outline>
     <component base="uni0438"/>
-    <component base="gravecomb" xOffset="779" yOffset="-0.0639648"/>
+    <component base="gravecomb" xOffset="780.288" yOffset="3.51563e-05"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0438+gravecomb</string>
   <key>public.markColor</key>

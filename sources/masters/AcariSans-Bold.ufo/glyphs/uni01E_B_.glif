@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01EB" format="2">
-  <advance width="1171"/>
+  <advance width="1172"/>
   <unicode hex="01EB"/>
   <anchor x="586" y="1191.94" name="top"/>
   <anchor x="1227" y="1064" name="horn"/>
@@ -10,6 +10,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+>uni0328</string>
   <key>public.markColor</key>

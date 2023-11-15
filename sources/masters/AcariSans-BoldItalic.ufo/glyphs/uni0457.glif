@@ -4,10 +4,12 @@
   <unicode hex="0457"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0308" xOffset="739"/>
+    <component base="uni0308" xOffset="689"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+uni0308</string>
   <key>public.markColor</key>

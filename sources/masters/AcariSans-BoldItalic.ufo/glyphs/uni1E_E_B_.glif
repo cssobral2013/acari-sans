@@ -3,7 +3,6 @@
   <advance width="1228"/>
   <unicode hex="1EEB"/>
   <anchor x="955" y="0" name="ogonek"/>
-  <anchor x="430" y="-120" name="bottom"/>
   <outline>
     <component base="u"/>
     <component base="uni031B" xOffset="1362" yOffset="-384"/>
@@ -11,6 +10,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+uni031B+gravecomb</string>
   <key>public.markColor</key>

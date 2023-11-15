@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0450" format="2">
-  <advance width="1114"/>
+  <advance width="1113"/>
   <unicode hex="0450"/>
-  <anchor x="595" y="0" name="ogonek"/>
-  <anchor x="479" y="-120" name="bottom"/>
+  <anchor x="589" y="0" name="ogonek"/>
   <outline>
     <component base="uni0435"/>
-    <component base="gravecomb" xOffset="742" yOffset="1"/>
+    <component base="gravecomb" xOffset="736" yOffset="1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0435+gravecomb</string>
   <key>public.markColor</key>

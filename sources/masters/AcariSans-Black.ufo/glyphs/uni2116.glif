@@ -4,50 +4,50 @@
   <unicode hex="2116"/>
   <outline>
     <contour>
-      <point x="1323" y="0" type="line" name=".sv01"/>
-      <point x="1323" y="1447" type="line" name=".av01"/>
-      <point x="1046" y="1447" type="line" name=".dh03"/>
-      <point x="1046" y="516" type="line" name=".iv01"/>
-      <point x="442" y="1447" type="line" name=".av02"/>
-      <point x="177" y="1447" type="line" name=".dh01"/>
-      <point x="177" y="0" type="line" name=".sv02"/>
-      <point x="454" y="0" type="line"/>
-      <point x="454" y="933" type="line" name=".dh02"/>
-      <point x="1057" y="0" type="line"/>
+      <point x="1323.01" y="0" type="line" name=".sv01"/>
+      <point x="1323.01" y="1446.91" type="line" name=".av01"/>
+      <point x="1045.5" y="1446.91" type="line" name=".dh03"/>
+      <point x="1045.5" y="516.096" type="line" name=".iv01"/>
+      <point x="442.368" y="1446.91" type="line" name=".av02"/>
+      <point x="177.152" y="1446.91" type="line" name=".dh01"/>
+      <point x="177.152" y="0" type="line" name=".sv02"/>
+      <point x="453.632" y="0" type="line"/>
+      <point x="453.632" y="932.864" type="line" name=".dh02"/>
+      <point x="1056.77" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1946" y="350" type="curve" smooth="yes" name=".dv03"/>
-      <point x="2178" y="350"/>
-      <point x="2381" y="552"/>
-      <point x="2381" y="783" type="curve" smooth="yes"/>
-      <point x="2381" y="1018"/>
-      <point x="2186" y="1209"/>
-      <point x="1946" y="1209" type="curve" smooth="yes"/>
-      <point x="1701" y="1209"/>
-      <point x="1507" y="1021"/>
-      <point x="1507" y="783" type="curve" smooth="yes" name=".dh04"/>
-      <point x="1507" y="549"/>
-      <point x="1709" y="350"/>
+      <point x="1945.96" y="350.208" type="curve" smooth="yes" name=".dv03"/>
+      <point x="2178.15" y="350.208"/>
+      <point x="2380.8" y="552.075"/>
+      <point x="2380.8" y="783.36" type="curve" smooth="yes"/>
+      <point x="2380.8" y="1018.37"/>
+      <point x="2185.86" y="1209.34"/>
+      <point x="1945.96" y="1209.34" type="curve" smooth="yes"/>
+      <point x="1701.32" y="1209.34"/>
+      <point x="1507.33" y="1020.95"/>
+      <point x="1507.33" y="783.36" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1507.33" y="548.921"/>
+      <point x="1708.56" y="350.208"/>
     </contour>
     <contour>
-      <point x="1946" y="546" type="curve" smooth="yes" name=".dv04"/>
-      <point x="1817" y="546"/>
-      <point x="1743" y="632"/>
-      <point x="1743" y="783" type="curve" smooth="yes" name=".dh05"/>
-      <point x="1743" y="930"/>
-      <point x="1815" y="1012"/>
-      <point x="1946" y="1012" type="curve" smooth="yes" name=".dv05"/>
-      <point x="2071" y="1012"/>
-      <point x="2145" y="926"/>
-      <point x="2145" y="783" type="curve" smooth="yes" name=".dh06"/>
-      <point x="2145" y="633"/>
-      <point x="2072" y="546"/>
+      <point x="1945.96" y="545.792" type="curve" smooth="yes" name=".dv04"/>
+      <point x="1816.53" y="545.792"/>
+      <point x="1742.85" y="631.967"/>
+      <point x="1742.85" y="783.36" type="curve" smooth="yes" name=".dh05"/>
+      <point x="1742.85" y="930.395"/>
+      <point x="1815.05" y="1011.57"/>
+      <point x="1945.96" y="1011.71" type="curve" smooth="yes" name=".dv05"/>
+      <point x="2070.86" y="1011.85"/>
+      <point x="2145.28" y="926.582"/>
+      <point x="2145.28" y="783.36" type="curve" smooth="yes" name=".dh06"/>
+      <point x="2145.28" y="633.468"/>
+      <point x="2071.72" y="545.792"/>
     </contour>
     <contour>
-      <point x="2380" y="0" type="line" name=".sh01"/>
-      <point x="2380" y="207" type="line"/>
-      <point x="1492" y="207" type="line" name=".dv02"/>
-      <point x="1492" y="0" type="line" name=".dv01"/>
+      <point x="2379.78" y="0" type="line" name=".sh01"/>
+      <point x="2379.78" y="206.848" type="line"/>
+      <point x="1491.97" y="206.848" type="line" name=".dv02"/>
+      <point x="1491.97" y="0" type="line" name=".dv01"/>
     </contour>
   </outline>
   <lib>

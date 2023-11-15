@@ -3,7 +3,6 @@
   <advance width="1041"/>
   <unicode hex="0079"/>
   <anchor x="625" y="1192" name="top"/>
-  <anchor x="530" y="-258" name="bottom"/>
   <outline>
     <contour>
       <point x="196.608" y="-441.344" type="line"/>
@@ -13,7 +12,7 @@
       <point x="326.656" y="1063.94" type="line"/>
       <point x="178.176" y="1063.94" type="line"/>
       <point x="339.968" y="11.264" type="line"/>
-      <point x="52.2239" y="-441.344" type="line"/>
+      <point x="52.224" y="-441.344" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="625" y="0"/>

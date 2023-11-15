@@ -3,33 +3,12 @@
   <advance width="1464"/>
   <unicode hex="00D0"/>
   <outline>
+    <component base="D" xOffset="24"/>
     <contour>
       <point x="158.72" y="835.584" type="line"/>
       <point x="112.64" y="624.64" type="line"/>
       <point x="880.64" y="624.64" type="line"/>
       <point x="926.72" y="835.584" type="line"/>
-    </contour>
-    <contour>
-      <point x="521.664" y="0" type="line" smooth="yes"/>
-      <point x="1087.94" y="0"/>
-      <point x="1466.82" y="368.64"/>
-      <point x="1466.82" y="924.672" type="curve" smooth="yes"/>
-      <point x="1466.82" y="1309.7"/>
-      <point x="1193.41" y="1446.91"/>
-      <point x="845.248" y="1446.91" type="curve" smooth="yes"/>
-      <point x="416.192" y="1446.91" type="line"/>
-      <point x="83.392" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="545.216" y="266.24" type="curve" smooth="yes"/>
-      <point x="434.624" y="266.24" type="line"/>
-      <point x="645.568" y="1178.62" type="line"/>
-      <point x="793.024" y="1178.62" type="line" smooth="yes"/>
-      <point x="978.368" y="1178.62"/>
-      <point x="1183.17" y="1160.19"/>
-      <point x="1183.17" y="923.648" type="curve" smooth="yes"/>
-      <point x="1183.17" y="531.456"/>
-      <point x="954.816" y="266.24"/>
     </contour>
   </outline>
 </glyph>

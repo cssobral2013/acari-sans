@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02D1" format="2">
-  <advance width="596"/>
+  <advance width="598"/>
   <unicode hex="02D1"/>
   <outline>
     <contour>
-      <point x="298" y="185" type="line"/>
-      <point x="556" y="674" type="line"/>
-      <point x="40" y="674" type="line"/>
+      <point x="299.008" y="185.344" type="line"/>
+      <point x="557.056" y="673.792" type="line"/>
+      <point x="40.96" y="673.792" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="674"/>
-  <guideline angle="90" x="298" y="0"/>
+  <guideline angle="0" x="0" y="673.792"/>
+  <guideline angle="90" x="299.008" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

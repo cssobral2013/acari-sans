@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0261" format="2">
-  <advance width="1168"/>
+  <advance width="1197"/>
   <unicode hex="0261"/>
-  <anchor x="645" y="1192" name="top"/>
+  <anchor x="656" y="1192" name="top"/>
   <outline>
     <component base="g"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>g</string>
   <key>public.markColor</key>

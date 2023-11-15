@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="2">
-  <advance width="1116"/>
+  <advance width="1121"/>
   <unicode hex="0119"/>
-  <anchor x="714" y="1192" name="top"/>
-  <anchor x="450" y="-120" name="bottom"/>
+  <anchor x="711" y="1192" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni0328" xOffset="860"/>
+    <component base="uni0328" xOffset="857"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>e+>~uni0328</string>
   <key>public.markColor</key>

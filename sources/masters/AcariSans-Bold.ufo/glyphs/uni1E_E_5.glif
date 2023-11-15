@@ -2,15 +2,17 @@
 <glyph name="uni1EE5" format="2">
   <advance width="1211"/>
   <unicode hex="1EE5"/>
-  <anchor x="595" y="1191.94" name="top"/>
-  <anchor x="1068" y="0" name="ogonek"/>
+  <anchor x="594.944" y="1191.94" name="top"/>
+  <anchor x="1068.03" y="0" name="ogonek"/>
   <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelowcomb" xOffset="881.5"/>
+    <component base="dotbelowcomb" xOffset="881.652"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+dotbelowcomb</string>
   <key>public.markColor</key>

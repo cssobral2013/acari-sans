@@ -2,16 +2,16 @@
 <glyph name="A" format="2">
   <advance width="1388"/>
   <unicode hex="0041"/>
-  <anchor x="696" y="1620" name="top"/>
+  <anchor x="696.32" y="1617.92" name="top"/>
   <anchor x="1390" y="0" name="ogonek"/>
   <anchor x="696" y="1550" name="center"/>
-  <anchor x="696" y="-150" name="bottom"/>
+  <anchor x="696.32" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="1390.59" y="0" type="line" name=".av01"/>
       <point x="802.816" y="1447.94" type="line" name=".av03"/>
       <point x="586.752" y="1447.94" type="line"/>
-      <point x="-4.09598" y="0" type="line" name=".av02"/>
+      <point x="-4.096" y="0" type="line" name=".av02"/>
       <point x="312.32" y="0" type="line"/>
       <point x="425.984" y="314.368" type="line" name=".dv01"/>
       <point x="965.632" y="314.368" type="line"/>
@@ -23,7 +23,7 @@
       <point x="696.32" y="1020.93" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="696" y="0"/>
+  <guideline angle="90" name="vertical" x="696.32" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

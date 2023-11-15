@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0453" format="2">
-  <advance width="1031"/>
+  <advance width="781"/>
   <unicode hex="0453"/>
   <outline>
-    <component base="uni0433"/>
-    <component base="acutecomb" xOffset="850"/>
+    <component base="acutecomb" xOffset="871" yOffset="5"/>
+    <component base="uni0433" xOffset="186.817"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni0433</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni0433</string>
-  <key>com.fontlab.recipe</key>
-  <string>uni0433+acutecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

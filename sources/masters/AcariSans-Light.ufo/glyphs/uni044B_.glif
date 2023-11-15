@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-  <advance width="1522"/>
+  <advance width="1523"/>
   <unicode hex="044B"/>
-  <anchor x="1272" y="1191.94" name="top"/>
-  <anchor x="1342" y="0" name="ogonek"/>
+  <anchor x="1272.83" y="1191.94" name="top"/>
+  <anchor x="1343" y="0" name="ogonek"/>
   <outline>
     <component base="uni044C"/>
-    <component base="dotlessi" xOffset="1022"/>
+    <component base="dotlessi" xOffset="1023"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni044C_dotlessi</string>
   <key>public.markColor</key>

@@ -5,10 +5,12 @@
   <anchor x="1149" y="0" name="ogonek"/>
   <outline>
     <component base="E"/>
-    <component base="gravecomb" xOffset="820" yOffset="425.92"/>
+    <component base="gravecomb" xOffset="820.432" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>E+gravecomb</string>
   <key>public.markColor</key>

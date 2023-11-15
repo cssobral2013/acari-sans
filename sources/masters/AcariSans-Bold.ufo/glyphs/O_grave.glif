@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="2">
-  <advance width="1565"/>
+  <advance width="1566"/>
   <unicode hex="00D2"/>
-  <anchor x="955" y="0" name="ogonek"/>
-  <anchor x="1545" y="1448" name="horn"/>
+  <anchor x="956.392" y="0" name="ogonek"/>
+  <anchor x="1546" y="1448" name="horn"/>
   <outline>
     <component base="O"/>
-    <component base="gravecomb" xOffset="928" yOffset="425.92"/>
+    <component base="gravecomb" xOffset="929.432" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+gravecomb</string>
   <key>public.markColor</key>

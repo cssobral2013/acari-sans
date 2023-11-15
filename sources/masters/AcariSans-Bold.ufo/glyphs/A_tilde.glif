@@ -3,14 +3,16 @@
   <advance width="1376"/>
   <unicode hex="00C3"/>
   <anchor x="1363" y="0" name="ogonek"/>
-  <anchor x="690" y="1555" name="center"/>
-  <anchor x="690" y="-150" name="bottom"/>
+  <anchor x="688" y="1555" name="center"/>
+  <anchor x="690.176" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="1142" yOffset="428"/>
+    <component base="tildecomb" xOffset="1141.76" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+tildecomb</string>
   <key>public.markColor</key>

@@ -5,10 +5,12 @@
   <anchor x="1401" y="1064" name="horn"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="gravecomb" xOffset="734" yOffset="-0.0639648"/>
+    <component base="gravecomb" xOffset="734.432" yOffset="3.51563e-05"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0438.loclBGR+uni0300</string>
   <key>public.markColor</key>

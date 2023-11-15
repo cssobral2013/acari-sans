@@ -1,55 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni046A" format="2">
-  <advance width="1689"/>
+  <advance width="1619"/>
   <unicode hex="046A"/>
-  <outline>
-    <contour>
-      <point x="1507.61" y="0" type="line"/>
-      <point x="1424.51" y="574.263" type="line" smooth="yes"/>
-      <point x="1401.78" y="731.342"/>
-      <point x="1301.36" y="836.407"/>
-      <point x="1189.29" y="836.407" type="curve"/>
-      <point x="1552.12" y="1209.27" type="line"/>
-      <point x="1604.34" y="1447.86" type="line"/>
-      <point x="441.08" y="1447.86" type="line"/>
-      <point x="388.856" y="1209.27" type="line"/>
-      <point x="601.294" y="857.854" type="line"/>
-      <point x="476.619" y="857.837"/>
-      <point x="297.765" y="772.15"/>
-      <point x="218.588" y="616.19" type="curve" smooth="yes"/>
-      <point x="-94.2418" y="0" type="line"/>
-      <point x="219.95" y="0" type="line"/>
-      <point x="472.856" y="480.485" type="line" smooth="yes"/>
-      <point x="509.874" y="550.813"/>
-      <point x="569.81" y="589"/>
-      <point x="641.441" y="589" type="curve" smooth="yes"/>
-      <point x="684.696" y="589" type="line"/>
-      <point x="547.877" y="0" type="line"/>
-      <point x="839.534" y="0" type="line"/>
-      <point x="976.821" y="588.774" type="line"/>
-      <point x="997.38" y="588.774" type="line" smooth="yes"/>
-      <point x="1074.05" y="588.774"/>
-      <point x="1130.35" y="518.452"/>
-      <point x="1145.77" y="403.43" type="curve" smooth="yes"/>
-      <point x="1199.86" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="900.728" y="837.024" type="line"/>
-      <point x="721.613" y="1179.27" type="line"/>
-      <point x="1205.32" y="1179.27" type="line"/>
-      <point x="865.986" y="837.024" type="line"/>
-    </contour>
-  </outline>
-  <guideline angle="257.159" x="716" y="680"/>
-  <guideline angle="77.1593" x="821" y="0"/>
-  <guideline angle="257.159" x="716" y="680"/>
-  <guideline angle="77.1593" x="821" y="0"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni0416</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni041A</string>
-  </dict>
-  </lib>
 </glyph>

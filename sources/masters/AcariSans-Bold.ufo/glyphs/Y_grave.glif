@@ -4,10 +4,12 @@
   <unicode hex="1EF2"/>
   <outline>
     <component base="Y"/>
-    <component base="gravecomb" xOffset="819" yOffset="425.92"/>
+    <component base="gravecomb" xOffset="819.2" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Y+gravecomb</string>
   <key>public.markColor</key>

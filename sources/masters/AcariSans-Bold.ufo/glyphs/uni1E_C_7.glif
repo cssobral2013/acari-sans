@@ -5,10 +5,12 @@
   <anchor x="699" y="0" name="ogonek"/>
   <outline>
     <component base="uni1EB9"/>
-    <component base="uni0302" xOffset="946" yOffset="-20.48"/>
+    <component base="uni0302" xOffset="945.888" yOffset="-20.48"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni1EB9+uni0302</string>
   <key>public.markColor</key>

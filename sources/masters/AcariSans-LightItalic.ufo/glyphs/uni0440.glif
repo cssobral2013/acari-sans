@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0440" format="2">
-  <advance width="1172"/>
+  <advance width="1195"/>
   <unicode hex="0440"/>
   <outline>
     <component base="p"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=p</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=p</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>p</string>
   <key>public.markColor</key>

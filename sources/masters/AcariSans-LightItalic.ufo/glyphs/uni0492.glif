@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0492" format="2">
-  <advance width="1204"/>
+  <advance width="1196"/>
   <unicode hex="0492"/>
   <outline>
-    <component base="uni0413" xOffset="95.232"/>
     <contour>
-      <point x="154.624" y="834.56" type="line"/>
-      <point x="129.024" y="720.896" type="line"/>
+      <point x="345.088" y="0" type="line"/>
+      <point x="512" y="720.896" type="line"/>
       <point x="863.232" y="720.896" type="line"/>
       <point x="888.832" y="834.56" type="line"/>
+      <point x="537.6" y="834.56" type="line"/>
+      <point x="652.288" y="1332.22" type="line"/>
+      <point x="1314.82" y="1332.22" type="line"/>
+      <point x="1341.44" y="1446.91" type="line"/>
+      <point x="540.672" y="1446.91" type="line"/>
+      <point x="399.36" y="834.56" type="line"/>
+      <point x="154.624" y="834.56" type="line"/>
+      <point x="129.024" y="720.896" type="line"/>
+      <point x="372.736" y="720.896" type="line"/>
+      <point x="207.872" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni0413</string>
-  </dict>
-  </lib>
 </glyph>

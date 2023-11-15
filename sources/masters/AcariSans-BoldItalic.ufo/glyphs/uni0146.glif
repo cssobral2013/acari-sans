@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0146" format="2">
-  <advance width="1166"/>
+  <advance width="1228"/>
   <unicode hex="0146"/>
   <anchor x="780" y="1192" name="top"/>
   <outline>
@@ -9,6 +9,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>n+uni0326</string>
   <key>public.markColor</key>

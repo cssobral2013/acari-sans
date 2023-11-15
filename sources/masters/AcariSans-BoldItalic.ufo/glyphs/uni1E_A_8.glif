@@ -2,18 +2,8 @@
 <glyph name="uni1EA8" format="2">
   <advance width="1375"/>
   <unicode hex="1EA8"/>
-  <anchor x="1243" y="0" name="ogonek"/>
-  <anchor x="568" y="-120" name="bottom"/>
   <outline>
-    <component base="A"/>
-    <component base="uni03020309" xOffset="1041" yOffset="428"/>
+    <component base="hookabovecomb" xOffset="1476" yOffset="676"/>
+    <component base="Acircumflex"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>A+uni03020309</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -4,10 +4,12 @@
   <unicode hex="01FE"/>
   <outline>
     <component base="Oslash"/>
-    <component base="acutecomb" xOffset="1171" yOffset="425.92"/>
+    <component base="acutecomb" xOffset="1171.46" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Oslash+acutecomb</string>
   <key>public.markColor</key>

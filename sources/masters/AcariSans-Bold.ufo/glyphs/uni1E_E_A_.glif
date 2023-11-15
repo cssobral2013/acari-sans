@@ -2,13 +2,15 @@
 <glyph name="uni1EEA" format="2">
   <advance width="1547"/>
   <unicode hex="1EEA"/>
-  <anchor x="868" y="0" name="ogonek"/>
+  <anchor x="868.352" y="0" name="ogonek"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb" xOffset="853" yOffset="426"/>
+    <component base="gravecomb" xOffset="852.992" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Uhorn+gravecomb</string>
   <key>public.markColor</key>

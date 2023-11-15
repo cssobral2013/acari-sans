@@ -4,54 +4,53 @@
   <unicode hex="0496"/>
   <outline>
     <contour>
-      <point x="2032" y="-314.712" type="line"/>
-      <point x="2159.47" y="239.032" type="line"/>
-      <point x="1860.47" y="239.032" type="line"/>
-      <point x="1800.63" y="0" type="line"/>
-      <point x="1857.54" y="0" type="line"/>
-      <point x="1784.19" y="-314.712" type="line"/>
-    </contour>
-    <contour>
-      <point x="1103.87" y="922.624" type="line"/>
+      <point x="2048" y="-243.712" type="line"/>
+      <point x="2144.26" y="172.032" type="line"/>
+      <point x="1956.86" y="172.032" type="line"/>
+      <point x="1860.61" y="591.872" type="line"/>
+      <point x="1847.3" y="656.384"/>
+      <point x="1826.82" y="716.8"/>
+      <point x="1798.14" y="772.096" type="curve" smooth="yes"/>
+      <point x="1769.47" y="827.392"/>
+      <point x="1730.56" y="855.04"/>
+      <point x="1681.41" y="854.016" type="curve"/>
+      <point x="2260.99" y="1444.86" type="line"/>
+      <point x="1908.74" y="1444.86" type="line"/>
+      <point x="1444.86" y="922.624" type="line"/>
+      <point x="1294.34" y="922.624" type="line"/>
+      <point x="1415.17" y="1444.86" type="line"/>
+      <point x="1155.07" y="1444.86" type="line"/>
+      <point x="1034.24" y="922.624" type="line"/>
       <point x="878.592" y="922.624" type="line"/>
-      <point x="658.432" y="1447.94" type="line"/>
-      <point x="314.368" y="1447.94" type="line"/>
+      <point x="658.432" y="1444.86" type="line"/>
+      <point x="314.368" y="1444.86" type="line"/>
       <point x="604.16" y="854.016" type="line"/>
       <point x="516.096" y="854.016"/>
       <point x="418.816" y="773.12"/>
       <point x="312.32" y="612.352" type="curve" smooth="yes"/>
       <point x="-96.256" y="0" type="line"/>
       <point x="230.4" y="0" type="line"/>
-      <point x="512" y="474.112" type="line" smooth="yes"/>
-      <point x="560.128" y="556.032"/>
-      <point x="649.216" y="679.936"/>
+      <point x="512" y="474.112" type="line"/>
+      <point x="539.648" y="524.288"/>
+      <point x="574.464" y="570.368"/>
+      <point x="618.496" y="614.4" type="curve" smooth="yes"/>
+      <point x="662.528" y="658.432"/>
+      <point x="707.584" y="679.936"/>
       <point x="754.688" y="679.936" type="curve" smooth="yes"/>
-      <point x="1046.53" y="679.936" type="line"/>
-    </contour>
-    <contour>
-      <point x="1974" y="0" type="line"/>
-      <point x="1876" y="565" type="line" smooth="yes"/>
-      <point x="1841" y="768"/>
-      <point x="1747" y="875"/>
-      <point x="1604" y="875" type="curve"/>
-      <point x="1656" y="802" type="line"/>
-      <point x="2239" y="1448" type="line"/>
-      <point x="1894" y="1448" type="line"/>
-      <point x="1439" y="923" type="line"/>
-      <point x="1261" y="923" type="line"/>
-      <point x="1204" y="680" type="line"/>
-      <point x="1453" y="680" type="line" smooth="yes"/>
-      <point x="1554" y="680"/>
-      <point x="1599" y="624"/>
-      <point x="1619" y="495" type="curve" smooth="yes"/>
-      <point x="1697" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1081" y="0" type="line"/>
-      <point x="1414" y="1448" type="line"/>
-      <point x="1153" y="1448" type="line"/>
-      <point x="821" y="0" type="line"/>
+      <point x="976.896" y="679.936" type="line"/>
+      <point x="822.272" y="0" type="line"/>
+      <point x="1082.37" y="0" type="line"/>
+      <point x="1236.99" y="679.936" type="line"/>
+      <point x="1476.61" y="679.936" type="line" smooth="yes"/>
+      <point x="1523.71" y="679.936"/>
+      <point x="1558.53" y="661.504"/>
+      <point x="1580.03" y="624.64" type="curve" smooth="yes"/>
+      <point x="1601.54" y="587.776"/>
+      <point x="1615.87" y="544.768"/>
+      <point x="1620.99" y="494.592" type="curve" smooth="yes"/>
+      <point x="1677.31" y="0" type="line"/>
+      <point x="1857.54" y="0" type="line"/>
+      <point x="1800.19" y="-243.712" type="line"/>
     </contour>
   </outline>
-  <guideline angle="77.0054" x="2048" y="-244"/>
 </glyph>

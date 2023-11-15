@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECB" format="2">
-  <advance width="509"/>
+  <advance width="511"/>
   <unicode hex="1ECB"/>
-  <anchor x="324" y="0" name="ogonek"/>
+  <anchor x="325" y="0" name="ogonek"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="506"/>
+    <component base="dotbelowcomb" xOffset="507.185"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>i+dotbelowcomb</string>
   <key>public.markColor</key>

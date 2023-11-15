@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="1753"/>
+  <advance width="1815"/>
   <unicode hex="0149"/>
   <anchor x="1367" y="1192" name="top"/>
   <anchor x="1063" y="-120" name="bottom"/>
@@ -10,6 +10,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>quoteright_n</string>
   </dict>

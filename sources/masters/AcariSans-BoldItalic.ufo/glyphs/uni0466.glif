@@ -3,28 +3,24 @@
   <advance width="1375"/>
   <unicode hex="0466"/>
   <outline>
-    <component base="uni041B.loclBGR"/>
     <contour>
-      <point x="924.385" y="536.576" type="line"/>
-      <point x="476.447" y="536.576" type="line"/>
-      <point x="335.135" y="314.368" type="line"/>
-      <point x="960.225" y="314.368" type="line"/>
-    </contour>
-    <contour>
-      <point x="523.089" y="345.038" type="line"/>
+      <point x="1246.21" y="0" type="line"/>
+      <point x="1002.5" y="1444.86" type="line"/>
+      <point x="806.912" y="1444.86" type="line"/>
+      <point x="-104.448" y="0" type="line"/>
+      <point x="182.272" y="0" type="line"/>
+      <point x="366.592" y="314.368" type="line"/>
+      <point x="516.096" y="314.368" type="line"/>
       <point x="444.416" y="0" type="line"/>
       <point x="704.512" y="0" type="line"/>
-      <point x="783.185" y="345.038" type="line"/>
+      <point x="776.192" y="314.368" type="line"/>
+      <point x="928.768" y="314.368" type="line"/>
+      <point x="968.704" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="892.928" y="536.576" type="line"/>
+      <point x="507.904" y="536.576" type="line"/>
+      <point x="824.32" y="1062.91" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="537"/>
-  <guideline angle="0" x="0" y="314"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=A</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=A</string>
-  </dict>
-  </lib>
 </glyph>

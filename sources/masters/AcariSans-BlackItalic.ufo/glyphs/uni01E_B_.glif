@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01EB" format="2">
-  <advance width="1178"/>
+  <advance width="1177"/>
   <unicode hex="01EB"/>
-  <anchor x="732" y="1192" name="top"/>
-  <anchor x="1398" y="1064" name="pos"/>
-  <anchor x="433" y="-120" name="bottom"/>
+  <anchor x="728" y="1192" name="top"/>
+  <anchor x="1394" y="1064" name="pos"/>
   <outline>
     <component base="o"/>
-    <component base="uni0328" xOffset="841"/>
+    <component base="uni0328" xOffset="837"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+>uni0328</string>
   <key>public.markColor</key>

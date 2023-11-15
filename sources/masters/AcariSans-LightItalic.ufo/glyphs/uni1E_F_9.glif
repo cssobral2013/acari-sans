@@ -2,13 +2,14 @@
 <glyph name="uni1EF9" format="2">
   <advance width="1041"/>
   <unicode hex="1EF9"/>
-  <anchor x="530" y="-258" name="bottom"/>
   <outline>
     <component base="y"/>
     <component base="tildecomb" xOffset="862"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>y+tildecomb</string>
   <key>public.markColor</key>

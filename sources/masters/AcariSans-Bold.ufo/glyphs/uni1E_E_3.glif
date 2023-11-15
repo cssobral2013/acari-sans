@@ -2,14 +2,16 @@
 <glyph name="uni1EE3" format="2">
   <advance width="1263"/>
   <unicode hex="1EE3"/>
-  <anchor x="586" y="1192" name="top"/>
-  <anchor x="723" y="0" name="ogonek"/>
+  <anchor x="586" y="1191.94" name="top"/>
+  <anchor x="723.04" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="907.5"/>
+    <component base="dotbelowcomb" xOffset="907.652"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>ohorn+dotbelowcomb</string>
   <key>public.markColor</key>

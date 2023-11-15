@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="2">
-  <advance width="1200"/>
+  <advance width="1233"/>
   <unicode hex="011F"/>
   <outline>
     <component base="g"/>
-    <component base="uni0306" xOffset="936"/>
+    <component base="uni0306" xOffset="986"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>g+uni0306</string>
   <key>public.markColor</key>

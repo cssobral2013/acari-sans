@@ -1,78 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis name="weight" tag="wght" minimum="300" maximum="900" default="300">
+  <axis minimum="300" tag="wght" maximum="900" name="weight" default="300">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="300" input="300"/>
-   <map output="350" input="350"/>
-   <map output="400" input="400"/>
-   <map output="500" input="500"/>
-   <map output="600" input="600"/>
-   <map output="700" input="700"/>
-   <map output="800" input="800"/>
-   <map output="900" input="900"/>
   </axis>
  </axes>
  <sources>
-    <source name="Light" familyname="Acari Sans VF" filename="masters/AcariSans-Light.ufo" stylename="Regular">
+  <source filename="masters/AcariSans-Black.ufo" stylename="Black" familyname="Acari Sans" name="Black">
+   <location>
+    <dimension xvalue="900" name="weight"/>
+   </location>
+  </source>
+  <source filename="masters/AcariSans-Bold.ufo" stylename="Bold" familyname="Acari Sans" name="Bold">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </source>
+  <source filename="masters/AcariSans-Light.ufo" stylename="Light" familyname="Acari Sans" name="Light">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="300"/>
-   </location>
-  </source>
-  <source name="Bold" familyname="Acari Sans VF" filename="masters/AcariSans-Bold.ufo" stylename="Bold">
-   <location>
-    <dimension name="weight" xvalue="700"/>
-   </location>
-  </source>
-  <source name="Black" familyname="Acari Sans VF" filename="masters/AcariSans-Black.ufo" stylename="Black">
-   <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="Light" familyname="Acari Sans" filename="instances/AcariSans-Light.ufo" stylename="Light">
+  <instance filename="instances/AcariSans-Light.ufo" stylename="Light" familyname="Acari Sans" name="Light">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance name="Book" familyname="Acari Sans" filename="instances/AcariSans-Book.ufo" stylename="Book">
+  <instance filename="instances/AcariSans-Regular.ufo" stylename="Regular" familyname="Acari Sans" name="Regular">
    <location>
-    <dimension name="weight" xvalue="350"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance name="Regular" familyname="Acari Sans" filename="instances/AcariSans-Regular.ufo" stylename="Regular">
+  <instance filename="instances/AcariSans-Medium.ufo" stylename="Medium" familyname="Acari Sans" name="Medium">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance name="Medium" familyname="Acari Sans" filename="instances/AcariSans-Medium.ufo" stylename="Medium">
+  <instance filename="instances/AcariSans-SemiBold.ufo" stylename="SemiBold" familyname="Acari Sans" name="SemiBold">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance name="SemiBold" familyname="Acari Sans" filename="instances/AcariSans-SemiBold.ufo" stylename="SemiBold">
+  <instance filename="instances/AcariSans-Bold.ufo" stylename="Bold" familyname="Acari Sans" name="Bold">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance name="Bold" familyname="Acari Sans" filename="instances/AcariSans-Bold.ufo" stylename="Bold">
+  <instance filename="instances/AcariSans-ExtraBold.ufo" stylename="ExtraBold" familyname="Acari Sans" name="ExtraBold">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraBold" familyname="Acari Sans" filename="instances/AcariSans-ExtraBold.ufo" stylename="ExtraBold">
+  <instance filename="instances/AcariSans-Black.ufo" stylename="Black" familyname="Acari Sans" name="Black">
    <location>
-    <dimension name="weight" xvalue="800"/>
-   </location>
-  </instance>
-  <instance name="Black" familyname="Acari Sans" filename="instances/AcariSans-Black.ufo" stylename="Black">
-   <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </instance>
  </instances>

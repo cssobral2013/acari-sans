@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044C" format="2">
-  <advance width="1048"/>
+  <advance width="1049"/>
   <unicode hex="044C"/>
   <outline>
     <contour>
-      <point x="366" y="0" type="line"/>
-      <point x="608" y="0" type="line" smooth="yes" name=".dv01"/>
-      <point x="830" y="0"/>
-      <point x="1008" y="135"/>
-      <point x="1008" y="346" type="curve" smooth="yes" name=".sh01"/>
-      <point x="1008" y="583"/>
-      <point x="841" y="722"/>
-      <point x="617" y="722" type="curve" smooth="yes" name=".dv04"/>
-      <point x="366" y="722" type="line" name=".iv01"/>
-      <point x="366" y="515" type="line"/>
-      <point x="578" y="515" type="line" smooth="yes" name=".dv03"/>
-      <point x="670" y="515"/>
-      <point x="720" y="446"/>
-      <point x="720" y="354" type="curve" smooth="yes" name=".ah01"/>
-      <point x="720" y="259"/>
-      <point x="684" y="207"/>
-      <point x="578" y="207" type="curve" smooth="yes" name=".dv02"/>
-      <point x="366" y="207" type="line"/>
+      <point x="366.64" y="0" type="line"/>
+      <point x="609.223" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="831.332" y="0"/>
+      <point x="1009" y="135.306"/>
+      <point x="1009" y="345.981" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1009" y="582.938"/>
+      <point x="841.877" y="722.491"/>
+      <point x="617.569" y="722.491" type="curve" smooth="yes" name=".dv04"/>
+      <point x="366.64" y="722.491" type="line" name=".iv01"/>
+      <point x="366.64" y="515.491" type="line"/>
+      <point x="579.353" y="515.491" type="line" smooth="yes" name=".dv03"/>
+      <point x="671.52" y="515.491"/>
+      <point x="721.076" y="446.218"/>
+      <point x="721" y="354.126" type="curve" smooth="yes" name=".ah01"/>
+      <point x="720.921" y="259.03"/>
+      <point x="685.012" y="206.884"/>
+      <point x="579.334" y="207" type="curve" smooth="yes" name=".dv02"/>
+      <point x="366.64" y="207.233" type="line"/>
     </contour>
     <contour>
-      <point x="141" y="0" type="line"/>
-      <point x="421" y="0" type="line" name=".av02"/>
-      <point x="421" y="1064" type="line" name=".dh02"/>
-      <point x="141" y="1064" type="line" name=".dh01"/>
+      <point x="141.848" y="0" type="line"/>
+      <point x="421.714" y="0" type="line" name=".av02"/>
+      <point x="421.714" y="1063.98" type="line" name=".dh02"/>
+      <point x="141.848" y="1063.98" type="line" name=".dh01"/>
     </contour>
   </outline>
   <lib>

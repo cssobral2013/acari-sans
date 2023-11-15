@@ -2,31 +2,31 @@
 <glyph name="uni043A" format="2">
   <advance width="1086"/>
   <unicode hex="043A"/>
-  <anchor x="543" y="1191.94" name="top"/>
+  <anchor x="542.72" y="1191.94" name="top"/>
   <outline>
     <contour>
-      <point x="141" y="0" type="line" name=".av02"/>
-      <point x="421" y="0" type="line" name=".sh01"/>
-      <point x="421" y="462" type="line"/>
-      <point x="501" y="462" type="line" smooth="yes"/>
-      <point x="575" y="462"/>
-      <point x="606" y="416"/>
-      <point x="633" y="338" type="curve" smooth="yes"/>
-      <point x="749" y="0" type="line"/>
-      <point x="1081" y="0" type="line" name=".av01"/>
-      <point x="897" y="472" type="line" smooth="yes"/>
-      <point x="871" y="538"/>
-      <point x="796" y="632"/>
-      <point x="721" y="632" type="curve" name=".iv01"/>
-      <point x="1032" y="1064" type="line" name=".iv02"/>
-      <point x="711" y="1064" type="line"/>
-      <point x="469" y="663" type="line"/>
-      <point x="421" y="663" type="line"/>
-      <point x="421" y="1064" type="line" name=".av03"/>
-      <point x="141" y="1064" type="line" name=".dh01"/>
+      <point x="141.312" y="0" type="line" name=".av02"/>
+      <point x="420.864" y="0" type="line" name=".sh01"/>
+      <point x="420.864" y="461.824" type="line"/>
+      <point x="500.736" y="461.824" type="line" smooth="yes"/>
+      <point x="574.464" y="461.824"/>
+      <point x="606.291" y="415.428"/>
+      <point x="632.832" y="337.92" type="curve" smooth="yes"/>
+      <point x="748.544" y="0" type="line"/>
+      <point x="1081.34" y="0" type="line" name=".av01"/>
+      <point x="897.024" y="472.064" type="line" smooth="yes"/>
+      <point x="871.349" y="537.82"/>
+      <point x="796.382" y="631.808"/>
+      <point x="720.896" y="631.808" type="curve" name=".iv01"/>
+      <point x="1032.19" y="1063.98" type="line" name=".iv02"/>
+      <point x="710.656" y="1063.98" type="line"/>
+      <point x="468.992" y="662.528" type="line"/>
+      <point x="420.864" y="662.528" type="line"/>
+      <point x="420.864" y="1063.76" type="line" name=".av03"/>
+      <point x="141.312" y="1063.76" type="line" name=".dh01"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="543" y="0"/>
+  <guideline angle="90" name="vertical" x="542.72" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.ttcommands</key>

@@ -2,14 +2,16 @@
 <glyph name="utilde" format="2">
   <advance width="1211"/>
   <unicode hex="0169"/>
-  <anchor x="1068" y="0" name="ogonek"/>
+  <anchor x="1068.03" y="0" name="ogonek"/>
   <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="1047" yOffset="-0.0639648"/>
+    <component base="tildecomb" xOffset="1046.53"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+tildecomb</string>
   <key>public.markColor</key>

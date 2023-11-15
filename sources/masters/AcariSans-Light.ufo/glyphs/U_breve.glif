@@ -2,14 +2,16 @@
 <glyph name="Ubreve" format="2">
   <advance width="1382"/>
   <unicode hex="016C"/>
-  <anchor x="825" y="0" name="ogonek"/>
+  <anchor x="825.344" y="0" name="ogonek"/>
   <anchor x="1414" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="uni0306" xOffset="1121" yOffset="425.92"/>
+    <component base="uni0306" xOffset="1121.28" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+uni0306</string>
   <key>public.markColor</key>

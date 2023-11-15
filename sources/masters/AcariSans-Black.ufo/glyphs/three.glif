@@ -4,47 +4,47 @@
   <unicode hex="0033"/>
   <outline>
     <contour>
-      <point x="44" y="472" type="line" name=".dh01"/>
-      <point x="44" y="142"/>
-      <point x="313" y="-20"/>
-      <point x="611" y="-20" type="curve" smooth="yes" name=".dv01"/>
-      <point x="874" y="-20"/>
-      <point x="1150" y="142"/>
-      <point x="1150" y="438" type="curve" smooth="yes" name=".dh04"/>
-      <point x="1150" y="594"/>
-      <point x="1083" y="710"/>
-      <point x="959" y="788" type="curve"/>
-      <point x="1029" y="861"/>
-      <point x="1071" y="962"/>
-      <point x="1071" y="1068" type="curve" smooth="yes" name=".ih01"/>
-      <point x="1071" y="1311"/>
-      <point x="841" y="1468"/>
-      <point x="601" y="1468" type="curve" smooth="yes" name=".dv04"/>
-      <point x="340" y="1468"/>
-      <point x="114" y="1300"/>
-      <point x="114" y="1023" type="curve" name=".ih02"/>
-      <point x="389" y="1005" type="line" name=".sh01"/>
-      <point x="389" y="1137"/>
-      <point x="486" y="1196"/>
-      <point x="598" y="1196" type="curve" smooth="yes" name=".dv03"/>
-      <point x="720" y="1196"/>
-      <point x="791" y="1138"/>
-      <point x="791" y="1032" type="curve" smooth="yes" name=".sh02"/>
-      <point x="791" y="950"/>
-      <point x="747" y="889"/>
-      <point x="641" y="889" type="curve" smooth="yes"/>
-      <point x="454" y="889" type="line" name=".dv06"/>
-      <point x="454" y="646" type="line" name=".dv05"/>
-      <point x="641" y="646" type="line" smooth="yes"/>
-      <point x="765" y="646"/>
-      <point x="870" y="593"/>
-      <point x="870" y="456" type="curve" smooth="yes" name=".dh03"/>
-      <point x="870" y="319"/>
-      <point x="746" y="249"/>
-      <point x="602" y="249" type="curve" smooth="yes" name=".dv02"/>
-      <point x="438" y="249"/>
-      <point x="323" y="341"/>
-      <point x="323" y="487" type="curve" name=".dh02"/>
+      <point x="44.032" y="472.064" type="line" name=".dh01"/>
+      <point x="44.032" y="141.806"/>
+      <point x="312.892" y="-20.48"/>
+      <point x="611.328" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
+      <point x="874.019" y="-20.48"/>
+      <point x="1149.95" y="142.441"/>
+      <point x="1149.95" y="438.272" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1149.95" y="593.92"/>
+      <point x="1083.39" y="710.656"/>
+      <point x="959.488" y="788.48" type="curve"/>
+      <point x="1029.12" y="861.184"/>
+      <point x="1071.1" y="961.536"/>
+      <point x="1071.1" y="1068.03" type="curve" smooth="yes" name=".ih01"/>
+      <point x="1071.1" y="1310.72"/>
+      <point x="840.704" y="1468.42"/>
+      <point x="601.088" y="1468.42" type="curve" smooth="yes" name=".dv04"/>
+      <point x="339.676" y="1468.42"/>
+      <point x="113.664" y="1300.41"/>
+      <point x="113.664" y="1022.98" type="curve" name=".ih02"/>
+      <point x="389.12" y="1004.54" type="line" name=".sh01"/>
+      <point x="389.12" y="1136.64"/>
+      <point x="486.4" y="1196.03"/>
+      <point x="598.016" y="1196.03" type="curve" smooth="yes" name=".dv03"/>
+      <point x="719.872" y="1196.03"/>
+      <point x="790.528" y="1138.69"/>
+      <point x="790.528" y="1032.19" type="curve" smooth="yes" name=".sh02"/>
+      <point x="790.528" y="950.272"/>
+      <point x="747.52" y="888.832"/>
+      <point x="641.024" y="888.832" type="curve" smooth="yes"/>
+      <point x="453.632" y="888.832" type="line" name=".dv06"/>
+      <point x="453.632" y="646.144" type="line" name=".dv05"/>
+      <point x="641.024" y="646.144" type="line" smooth="yes"/>
+      <point x="765.228" y="646.144"/>
+      <point x="870.4" y="593.065"/>
+      <point x="870.4" y="455.68" type="curve" smooth="yes" name=".dh03"/>
+      <point x="870.4" y="318.464"/>
+      <point x="746.496" y="248.832"/>
+      <point x="602.112" y="248.832" type="curve" smooth="yes" name=".dv02"/>
+      <point x="438.272" y="248.832"/>
+      <point x="322.56" y="340.992"/>
+      <point x="322.56" y="487.424" type="curve" name=".dh02"/>
     </contour>
   </outline>
   <lib>

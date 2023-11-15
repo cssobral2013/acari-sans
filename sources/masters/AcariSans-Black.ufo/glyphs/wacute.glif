@@ -4,10 +4,12 @@
   <unicode hex="1E83"/>
   <outline>
     <component base="w"/>
-    <component base="acutecomb" xOffset="1171" yOffset="-0.0600586"/>
+    <component base="acutecomb" xOffset="1170.7" yOffset="0.004"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>w+acutecomb</string>
   <key>public.markColor</key>

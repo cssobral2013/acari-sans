@@ -4,10 +4,12 @@
   <unicode hex="04EF"/>
   <outline>
     <component base="uni0443"/>
-    <component base="uni0304" xOffset="1007"/>
+    <component base="uni0304" xOffset="1006.59"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0443+uni0304</string>
   <key>public.markColor</key>

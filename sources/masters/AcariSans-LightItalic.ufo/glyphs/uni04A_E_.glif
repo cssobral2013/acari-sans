@@ -2,17 +2,17 @@
 <glyph name="uni04AE" format="2">
   <advance width="1363"/>
   <unicode hex="04AE"/>
-  <anchor x="848" y="1620" name="top"/>
-  <anchor x="534" y="-120" name="bottom"/>
   <outline>
-    <component base="Y"/>
+    <contour>
+      <point x="632.832" y="0" type="line"/>
+      <point x="764.928" y="566.272" type="line"/>
+      <point x="1508.35" y="1446.91" type="line"/>
+      <point x="1345.54" y="1446.91" type="line"/>
+      <point x="723.968" y="710.656" type="line"/>
+      <point x="448.512" y="1446.91" type="line"/>
+      <point x="290.816" y="1446.91" type="line"/>
+      <point x="629.76" y="566.272" type="line"/>
+      <point x="498.688" y="0" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Y</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

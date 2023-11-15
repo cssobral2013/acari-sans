@@ -4,17 +4,17 @@
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="430" y="932" type="line" name=".av01"/>
-      <point x="430" y="1900" type="line" name=".av02"/>
-      <point x="338" y="1900" type="line"/>
-      <point x="338" y="1886" type="line" smooth="yes" name=".av03"/>
-      <point x="338" y="1810"/>
-      <point x="298" y="1760"/>
-      <point x="214" y="1760" type="curve" smooth="yes"/>
-      <point x="68" y="1760" type="line" name=".dv02"/>
-      <point x="68" y="1679" type="line" name=".dv01"/>
-      <point x="328" y="1679" type="line" name=".dh01"/>
-      <point x="328" y="932" type="line"/>
+      <point x="430.152" y="931.712" type="line" name=".av01"/>
+      <point x="430.152" y="1900.42" type="line" name=".av02"/>
+      <point x="337.992" y="1900.42" type="line"/>
+      <point x="337.992" y="1886.08" type="line" smooth="yes" name=".av03"/>
+      <point x="337.992" y="1810.3"/>
+      <point x="298.056" y="1760.13"/>
+      <point x="214.088" y="1760.13" type="curve" smooth="yes"/>
+      <point x="67.656" y="1760.13" type="line" name=".dv02"/>
+      <point x="67.656" y="1679.23" type="line" name=".dv01"/>
+      <point x="327.752" y="1679.23" type="line" name=".dh01"/>
+      <point x="327.752" y="931.712" type="line"/>
     </contour>
   </outline>
   <lib>

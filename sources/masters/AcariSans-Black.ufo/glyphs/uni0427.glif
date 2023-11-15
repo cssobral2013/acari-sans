@@ -4,26 +4,26 @@
   <unicode hex="0427"/>
   <outline>
     <contour>
-      <point x="924" y="0" type="line"/>
-      <point x="1214" y="0" type="line" name=".av03"/>
-      <point x="1214" y="1448" type="line" name=".av01"/>
-      <point x="924" y="1448" type="line" name=".ah01"/>
-      <point x="924" y="785" type="line"/>
-      <point x="868" y="723"/>
-      <point x="783" y="700"/>
-      <point x="647" y="700" type="curve" smooth="yes" name=".dv02"/>
-      <point x="422" y="700"/>
-      <point x="368" y="806"/>
-      <point x="368" y="1033" type="curve" smooth="yes"/>
-      <point x="368" y="1448" type="line" name=".av02"/>
-      <point x="78" y="1448" type="line" name=".sh01"/>
-      <point x="78" y="993" type="line" smooth="yes"/>
-      <point x="78" y="617"/>
-      <point x="269" y="419"/>
-      <point x="647" y="419" type="curve" smooth="yes" name=".dv01"/>
-      <point x="733" y="419"/>
-      <point x="826" y="437"/>
-      <point x="924" y="474" type="curve" name=".iv01"/>
+      <point x="923.648" y="0" type="line"/>
+      <point x="1214.46" y="0" type="line" name=".av03"/>
+      <point x="1214.46" y="1447.84" type="line" name=".av01"/>
+      <point x="923.648" y="1447.84" type="line" name=".ah01"/>
+      <point x="923.648" y="785.056" type="line"/>
+      <point x="867.328" y="722.592"/>
+      <point x="783.36" y="700.416"/>
+      <point x="647.168" y="700.416" type="curve" smooth="yes" name=".dv02"/>
+      <point x="421.888" y="700.416"/>
+      <point x="367.616" y="805.888"/>
+      <point x="367.616" y="1033.22" type="curve" smooth="yes"/>
+      <point x="367.616" y="1447.84" type="line" name=".av02"/>
+      <point x="77.824" y="1447.84" type="line" name=".sh01"/>
+      <point x="77.824" y="993.28" type="line" smooth="yes"/>
+      <point x="77.824" y="616.933"/>
+      <point x="269.188" y="418.816"/>
+      <point x="647.168" y="418.816" type="curve" smooth="yes" name=".dv01"/>
+      <point x="733.184" y="418.816"/>
+      <point x="825.344" y="437.248"/>
+      <point x="923.648" y="474.112" type="curve" name=".iv01"/>
     </contour>
   </outline>
   <lib>

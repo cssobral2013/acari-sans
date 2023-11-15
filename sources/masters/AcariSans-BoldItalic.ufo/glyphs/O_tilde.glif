@@ -4,13 +4,14 @@
   <unicode hex="00D5"/>
   <anchor x="781" y="0" name="ogonek"/>
   <anchor x="1781" y="1447" name="pos"/>
-  <anchor x="673" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
     <component base="tildecomb" xOffset="1240" yOffset="428"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+tildecomb</string>
   <key>public.markColor</key>

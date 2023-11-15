@@ -4,10 +4,12 @@
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="uni0326" xOffset="992.5"/>
+    <component base="uni0326" xOffset="992.364"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>K+uni0326</string>
   <key>public.markColor</key>
