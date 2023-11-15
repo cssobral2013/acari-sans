@@ -2,15 +2,13 @@
 <glyph name="Scedilla" format="2">
   <advance width="1172"/>
   <unicode hex="015E"/>
-  <anchor x="596.992" y="1617.92" name="top"/>
+  <anchor x="597" y="1617.92" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="uni0327" xOffset="914.704"/>
+    <component base="uni0327" xOffset="914.5"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>S+uni0327</string>
   <key>public.markColor</key>

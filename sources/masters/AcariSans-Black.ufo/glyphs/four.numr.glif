@@ -3,22 +3,22 @@
   <advance width="924"/>
   <outline>
     <contour>
-      <point x="714.36" y="497.664" type="line" name=".av01"/>
-      <point x="714.36" y="703.488" type="line" name=".dv01"/>
-      <point x="868.984" y="703.488" type="line"/>
-      <point x="868.984" y="906.24" type="line"/>
-      <point x="714.36" y="906.24" type="line" name=".dv02"/>
-      <point x="714.36" y="1462.27" type="line" name=".av02"/>
-      <point x="533.112" y="1462.27" type="line"/>
-      <point x="52.856" y="831.488" type="line"/>
-      <point x="52.856" y="703.488" type="line" name=".sv01"/>
-      <point x="500.344" y="703.488" type="line" name=".dh01"/>
-      <point x="500.344" y="497.664" type="line"/>
+      <point x="714" y="498" type="line" name=".av01"/>
+      <point x="714" y="703" type="line" name=".dv01"/>
+      <point x="869" y="703" type="line"/>
+      <point x="869" y="906" type="line"/>
+      <point x="714" y="906" type="line" name=".dv02"/>
+      <point x="714" y="1462" type="line" name=".av02"/>
+      <point x="533" y="1462" type="line"/>
+      <point x="53" y="831" type="line"/>
+      <point x="53" y="703" type="line" name=".sv01"/>
+      <point x="500" y="703" type="line" name=".dh01"/>
+      <point x="500" y="498" type="line"/>
     </contour>
     <contour>
-      <point x="500.344" y="906.24" type="line" name=".sv02"/>
-      <point x="305.784" y="906.24" type="line" name=".iv01"/>
-      <point x="500.344" y="1168.38" type="line" name=".iv02"/>
+      <point x="500" y="906" type="line" name=".sv02"/>
+      <point x="306" y="906" type="line" name=".iv01"/>
+      <point x="500" y="1168" type="line" name=".iv02"/>
     </contour>
   </outline>
   <lib>

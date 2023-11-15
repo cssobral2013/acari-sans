@@ -2,7 +2,7 @@
 <glyph name="l" format="2">
   <advance width="562"/>
   <unicode hex="006C"/>
-  <anchor x="273.408" y="1617.92" name="top"/>
+  <anchor x="273" y="1617.92" name="top"/>
   <anchor x="672" y="795" name="center"/>
   <outline>
     <contour>
@@ -24,5 +24,5 @@
       <point x="215" y="-20"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="273.408" y="0"/>
+  <guideline angle="90" name="vertical" x="273" y="0"/>
 </glyph>

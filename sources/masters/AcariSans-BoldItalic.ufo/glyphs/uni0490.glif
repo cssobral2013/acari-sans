@@ -3,15 +3,20 @@
   <advance width="1091"/>
   <unicode hex="0490"/>
   <outline>
+    <component base="uni0413"/>
     <contour>
-      <point x="329.728" y="0" type="line"/>
-      <point x="606.208" y="1206.27" type="line"/>
-      <point x="1228.8" y="1206.27" type="line"/>
-      <point x="1356.8" y="1759.23" type="line"/>
-      <point x="1096.7" y="1759.23" type="line"/>
-      <point x="1025.02" y="1444.86" type="line"/>
-      <point x="402.432" y="1444.86" type="line"/>
-      <point x="69.632" y="0" type="line"/>
+      <point x="1228.8" y="1209.27" type="line"/>
+      <point x="1352.8" y="1759.23" type="line"/>
+      <point x="1092.7" y="1759.23" type="line"/>
+      <point x="1005.48" y="1367.66" type="line"/>
     </contour>
   </outline>
+  <guideline angle="257.394" x="1093" y="1759"/>
+  <guideline angle="77.2948" x="1229" y="1209"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0413</string>
+  </dict>
+  </lib>
 </glyph>

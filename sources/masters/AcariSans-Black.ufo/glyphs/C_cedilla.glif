@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="2">
-  <advance width="1494"/>
+  <advance width="1493"/>
   <unicode hex="00C7"/>
-  <anchor x="784.384" y="1617.92" name="top"/>
+  <anchor x="783" y="1620" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="uni0327" xOffset="1050.04"/>
+    <component base="uni0327" xOffset="1049"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>C+uni0327</string>
   <key>public.markColor</key>

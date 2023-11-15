@@ -2,18 +2,23 @@
 <glyph name="uni03080304" format="2">
   <anchor x="-273" y="1192" name="_top"/>
   <outline>
-    <component base="macron" xOffset="-841" yOffset="255"/>
     <contour>
+      <point x="-530" y="1193" type="line"/>
       <point x="-368" y="1193" type="line"/>
       <point x="-324" y="1380" type="line"/>
       <point x="-487" y="1380" type="line"/>
-      <point x="-530" y="1193" type="line"/>
     </contour>
     <contour>
+      <point x="-187" y="1193" type="line"/>
       <point x="-25" y="1193" type="line"/>
       <point x="19" y="1380" type="line"/>
       <point x="-144" y="1380" type="line"/>
-      <point x="-187" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="-494" y="1447" type="line"/>
+      <point x="54" y="1447" type="line"/>
+      <point x="83" y="1569" type="line"/>
+      <point x="-465" y="1569" type="line"/>
     </contour>
   </outline>
 </glyph>

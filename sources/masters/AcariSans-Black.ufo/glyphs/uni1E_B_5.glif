@@ -4,11 +4,13 @@
   <unicode hex="1EB5"/>
   <outline>
     <component base="a"/>
-    <component base="uni0306" xOffset="927.744"/>
-    <component base="tildecomb" xOffset="965.632" yOffset="396.288"/>
+    <component base="uni0306" xOffset="928"/>
+    <component base="tildecomb" xOffset="986" yOffset="316"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+tildecomb</string>
   <key>com.fontlab.ttcommands</key>
   <array>
     <dict>

@@ -4,26 +4,26 @@
   <unicode hex="017F"/>
   <outline>
     <contour>
-      <point x="232.448" y="0" type="line"/>
-      <point x="360.448" y="0" type="line" name=".av01"/>
-      <point x="360.448" y="1198.08" type="line" smooth="yes" name=".dh01"/>
-      <point x="360.448" y="1297.41"/>
-      <point x="409.6" y="1360.9"/>
-      <point x="513.024" y="1360.9" type="curve" smooth="yes" name=".dv01"/>
-      <point x="558.08" y="1360.9"/>
-      <point x="603.136" y="1348.61"/>
-      <point x="645.12" y="1332.22" type="curve"/>
-      <point x="673.792" y="1430.53" type="line"/>
-      <point x="620.544" y="1454.08"/>
-      <point x="564.224" y="1468.42"/>
-      <point x="505.856" y="1468.42" type="curve" smooth="yes" name=".dv02"/>
-      <point x="355.328" y="1468.42"/>
-      <point x="232.448" y="1389.57"/>
-      <point x="232.448" y="1227.78" type="curve" smooth="yes" name=".sh01"/>
-      <point x="232.448" y="1061.89" type="line"/>
-      <point x="37.888" y="1061.89" type="line" name=".dv04"/>
-      <point x="37.888" y="958.464" type="line" name=".dv03"/>
-      <point x="232.448" y="958.464" type="line" name=".sh02"/>
+      <point x="232" y="0" type="line"/>
+      <point x="360" y="0" type="line" name=".av01"/>
+      <point x="360" y="1198" type="line" smooth="yes" name=".dh01"/>
+      <point x="360" y="1297"/>
+      <point x="410" y="1361"/>
+      <point x="513" y="1361" type="curve" smooth="yes" name=".dv01"/>
+      <point x="558" y="1361"/>
+      <point x="603" y="1348"/>
+      <point x="645" y="1332" type="curve"/>
+      <point x="674" y="1431" type="line"/>
+      <point x="621" y="1455"/>
+      <point x="564" y="1468"/>
+      <point x="506" y="1468" type="curve" smooth="yes" name=".dv02"/>
+      <point x="355" y="1468"/>
+      <point x="232" y="1390"/>
+      <point x="232" y="1228" type="curve" smooth="yes" name=".sh01"/>
+      <point x="232" y="1062" type="line"/>
+      <point x="38" y="1062" type="line" name=".dv04"/>
+      <point x="38" y="958" type="line" name=".dv03"/>
+      <point x="232" y="958" type="line" name=".sh02"/>
     </contour>
   </outline>
   <lib>

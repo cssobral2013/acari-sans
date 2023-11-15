@@ -4,15 +4,13 @@
   <unicode hex="1EB1"/>
   <anchor x="916" y="0" name="ogonek"/>
   <anchor x="513" y="1372" name="center"/>
-  <anchor x="513.024" y="-150" name="bottom"/>
+  <anchor x="513" y="-150" name="bottom"/>
   <outline>
     <component base="abreve"/>
-    <component base="gravecomb" xOffset="812.04"/>
+    <component base="gravecomb" xOffset="672" yOffset="260"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>abreve+gravecomb</string>
   </dict>

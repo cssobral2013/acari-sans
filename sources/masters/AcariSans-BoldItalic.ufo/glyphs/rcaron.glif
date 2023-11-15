@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-  <advance width="871"/>
+  <advance width="853"/>
   <unicode hex="0159"/>
-  <anchor x="146" y="-120" name="bottom"/>
+  <anchor x="128" y="-120" name="bottom"/>
   <outline>
     <component base="r"/>
-    <component base="uni030C" xOffset="812"/>
+    <component base="uni030C" xOffset="794"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>r+uni030C</string>
   <key>public.markColor</key>

@@ -2,16 +2,14 @@
 <glyph name="uni1EE7" format="2">
   <advance width="1211"/>
   <unicode hex="1EE7"/>
-  <anchor x="1068.03" y="0" name="ogonek"/>
+  <anchor x="1068" y="0" name="ogonek"/>
   <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="hookabovecomb" xOffset="904.944" yOffset="93.936"/>
+    <component base="hookabovecomb" xOffset="905" yOffset="93.936"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+hookabovecomb</string>
   <key>public.markColor</key>

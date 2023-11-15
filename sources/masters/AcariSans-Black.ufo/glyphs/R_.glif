@@ -4,30 +4,30 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="177.152" y="-0.048" type="line" name=".av02"/>
-      <point x="466.944" y="-0.048" type="line"/>
+      <point x="177.152" y="0" type="line" name=".av02"/>
+      <point x="466.944" y="0" type="line"/>
       <point x="466.944" y="609.28" type="line" name=".dv03"/>
       <point x="621.568" y="609.28" type="line"/>
-      <point x="975.872" y="-0.048" type="line"/>
-      <point x="1307.65" y="-0.048" type="line" name=".av01"/>
+      <point x="975.872" y="0" type="line"/>
+      <point x="1307.65" y="0" type="line" name=".av01"/>
       <point x="902.144" y="635.904" type="line" name=".sh01"/>
-      <point x="1061.64" y="698.297"/>
-      <point x="1176.58" y="838.15"/>
+      <point x="1061.89" y="698.368"/>
+      <point x="1176.58" y="838.656"/>
       <point x="1176.58" y="1013.76" type="curve" smooth="yes" name=".sh02"/>
-      <point x="1176.58" y="1287.02"/>
-      <point x="926.638" y="1447.91"/>
-      <point x="671.744" y="1447.91" type="curve" smooth="yes" name=".dv02"/>
-      <point x="177.152" y="1447.91" type="line"/>
+      <point x="1176.58" y="1287.17"/>
+      <point x="926.72" y="1447.94"/>
+      <point x="671.744" y="1447.94" type="curve" smooth="yes" name=".dv02"/>
+      <point x="177.152" y="1447.94" type="line"/>
     </contour>
     <contour>
       <point x="468.992" y="840.704" type="line" name=".dv04"/>
-      <point x="468.992" y="1187.82" type="line"/>
-      <point x="663.552" y="1187.82" type="line" smooth="yes" name=".dv01"/>
-      <point x="802.816" y="1187.82"/>
+      <point x="468.992" y="1187.84" type="line"/>
+      <point x="663.552" y="1187.84" type="line" smooth="yes" name=".dv01"/>
+      <point x="802.816" y="1187.84"/>
       <point x="888.832" y="1116.16"/>
       <point x="888.832" y="1008.64" type="curve" smooth="yes" name=".ah01"/>
       <point x="888.832" y="907.264"/>
-      <point x="811.21" y="840.704"/>
+      <point x="811.008" y="840.704"/>
       <point x="684.032" y="840.704" type="curve" smooth="yes"/>
     </contour>
   </outline>

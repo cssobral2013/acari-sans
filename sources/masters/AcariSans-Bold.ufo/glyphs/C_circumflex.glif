@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex" format="2">
-  <advance width="1467"/>
+  <advance width="1466"/>
   <unicode hex="0108"/>
   <outline>
     <component base="C"/>
-    <component base="uni0302" xOffset="1179.34" yOffset="405.504"/>
+    <component base="uni0302" xOffset="1178" yOffset="407.584"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>C+uni0302</string>
   <key>public.markColor</key>

@@ -12,7 +12,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -39,11 +39,11 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>diacritics.1618</string>
+    <string>diacritics.1620</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>1616</integer>
+    <integer>1620</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -59,21 +59,11 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>H-height</string>
+    <string>H-height: 1448</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>1448</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.1193</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1192</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -89,7 +79,17 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>x-height</string>
+    <string>diacritics.1193</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1192</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>x-height: 1064</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
@@ -161,11 +161,11 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNameManufacturerURL</key>
   <string>https://hanken.co and https://localfonts.eu/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.072</string>
+  <string>Version 1.073</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -257,11 +257,11 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <integer>1468</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AcariSans-Black</string>
+  <string>AcariSansVF-Black</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Acari Sans Black</string>
+  <string>Acari Sans VF Black</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptStemSnapH</key>
@@ -284,9 +284,9 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>postscriptWeightName</key>
   <string>Black</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans Black</string>
+  <string>Acari Sans VF</string>
   <key>styleMapStyleName</key>
-  <string>bold</string>
+  <string>regular</string>
   <key>styleName</key>
   <string>Black</string>
   <key>unitsPerEm</key>
@@ -294,7 +294,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>72</integer>
+  <integer>73</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

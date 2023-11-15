@@ -10,6 +10,58 @@
 #/< kernclasses
 #< classes
 
+#/> classes
+#/> kernclasses
+@T = [T Tbar Tcaron Y Yacute Ycircumflex Ydieresis Ygrave];
+@A = [A L];
+@V = [V];
+@W = [W Wacute Wcircumflex Wdieresis Wgrave];
+@B = [.notdef AE AEacute Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth Euro F G Gbreve Gcircumflex Gdotaccent Germandbls H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohorn Ohungarumlaut Omacron Oslash Oslashacute Otilde P Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhorn Uhungarumlaut Umacron Uogonek Uring Utilde X Z Zacute Zcaron Zdotaccent aacute abreve acircumflex acute acutecomb adieresis aeacute agrave amacron ampersand aogonek approxequal aring aringacute arrowleft arrowright asciicircum asciitilde asterisk at atilde b backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet caron ccircumflex cedilla circumflex colon comma copyright currency dagger daggerdbl dieresis divide dollar dotaccent dotbelowcomb dotlessi ebreve eight ellipsis emdash endash eng equal exclam exclamdown f_f f_f_i f_f_l fi five fl florin four fraction gcircumflex germandbls grave gravecomb greater greaterequal guillemotleft guillemotright guilsinglleft guilsinglright h hbar hcircumflex hookabovecomb hungarumlaut hyphen i.loclTRK iacute ibreve icircumflex idieresis igrave ij imacron integral iogonek itilde jcircumflex k kgreenlandic lacute lcaron ldot less lessequal logicalnot longs lozenge lslash m macron minus multiply n nacute napostrophe ncaron nine notequal ntilde numbersign obreve ogonek ohorn one onesuperior ordfeminine ordmasculine oslashacute p paragraph parenleft parenright period periodcentered pi plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quoteleft quotesinglbase quotesingle r racute radical rcaron registered ring sacute scaron scedilla scircumflex section semicolon seven six slash space sterling summation t tbar tcaron thorn three threesuperior tilde tildecomb trademark two twodotenleader twosuperior ubreve uhorn underscore uogonek uring utilde x yacute ycircumflex ydieresis yen ygrave z zacute zcaron zdotaccent zero];
+@T2 = [T Tbar Tcaron V Y Yacute Ycircumflex Ydieresis Ygrave];
+@W2 = [W Wacute Wcircumflex Wdieresis Wgrave];
+@quoteright = [quotedblright quoteright];
+@A2 = [A];
+@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@v = [v w wacute wcircumflex wdieresis wgrave y];
+#/< kernclasses
+#/< classes
+
+#/> classes
+#/> kernclasses
+@T = [T Tbar Tcaron];
+@A = [A];
+@V = [V];
+@W = [W Wacute Wcircumflex Wdieresis Wgrave];
+@quoteright = [quotedblright quoteright];
+@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@v = [v w wacute wcircumflex wdieresis wgrave y];
+#/< kernclasses
+#/< classes
+
+#/> classes
+#/> kernclasses
+@T = [T Tbar Tcaron];
+@A = [A];
+@V = [V];
+@W = [W Wacute Wcircumflex Wdieresis Wgrave];
+@quoteright = [quotedblright quoteright];
+@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@v = [v w wacute wcircumflex wdieresis wgrave y];
+#/< kernclasses
+#/< classes
+
+#/> classes
+#/> kernclasses
+@T = [T Tbar Tcaron];
+@A = [A];
+@V = [V];
+@W = [W Wacute Wcircumflex Wdieresis Wgrave];
+@quoteright = [quotedblright quoteright];
+@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@v = [v w wacute wcircumflex wdieresis wgrave y];
+#/< kernclasses
+#/< classes
+
 @ccmp = [gravecomb acutecomb tildecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb commaturnedabovecomb];
 @cpsp = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Cdotaccent Gdotaccent Hbar Itilde IJ Eng Tbar Utilde Wcircumflex Ycircumflex Wgrave Wacute Wdieresis Ygrave Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent DZcaron Acaron Icaron Ocaron Ucaron Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave DZ Acircumflexacute Acircumflexgrave Acircumflextilde Abreveacute Abrevegrave Abrevetilde Etilde Ecircumflexacute Ecircumflexgrave Ecircumflextilde Ocircumflexacute Ocircumflexgrave Ocircumflextilde Ytilde Acyr Vecyr Dz Dzcaron Iecyr Iegravecyr Iocyr Entailcyr Encyr Iukrcyr Yukrcyr Jecyr Katailcyr Emcyr Icyr Igravecyr Ishortcyr Imacroncyr Ocyr Obarcyr Dzecyr Xatailcyr Umacroncyr Becyr Geupcyr Decyr Zhecyr Zhetailcyr Zecyr Kacyr Elcyr Fitacyr Dzhecyr Ucyr Efcyr Tsecyr Checyr Chetailcyr Shhacyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ljecyr Njecyr Ereversedcyr Yucyr Yacyr Eukrcyr Schwacyr Djecyr Gecyr Gjecyr Gestrokecyr Kjecyr Pecyr Ercyr Escyr Tecyr Ushortcyr Hacyr Tshecyr Yatcyr Eiotifiedcyr Yuslittlecyr Yuslittleiotifiedcyr Yusbigcyr Yusbigiotifiedcyr Ukcyr Ustraightcyr Ustraightstrokecyr Palochkacyr];
 @ordn = [zero one two three four five six seven eight nine];
@@ -73,13 +125,6 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
-
-
-
-
-
-
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -98,7 +143,6 @@ feature aalt useExtension {
   sub seven from [seven.superior seven.inferior];
   sub eight from [eight.superior eight.inferior];
   sub nine from [nine.superior nine.inferior];
-  sub gjecyr from [gjecyr gjecyr.loclMKD];
 
 } aalt;
 feature ccmp {
@@ -109,19 +153,14 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
-
-
-
-
-
-
-
 feature locl {
 # Localized Forms
 
 #> feature
   script cyrl; # Cyrillic
   language BGR; # Bulgarian
+  sub uni0414 by uni0414.loclBGR;
+  sub uni041B by uni041B.loclBGR;
   sub uni0432 by uni0432.loclBGR;
   sub uni0436 by uni0436.loclBGR;
   sub uni0437 by uni0437.loclBGR;
@@ -129,18 +168,12 @@ feature locl {
   sub uni043B by uni043B.loclBGR;
   sub uni044E by uni044E.loclBGR;
 
-  language MKD; # Macedonian
-  sub uni0453 by uni0453.loclMKD;
-
   language SRB; # Serbian
   sub uni0431 by uni0431.loclSRB;
   sub uni0433 by uni0433.loclSRB;
   sub uni0434 by uni0434.loclSRB;
-  sub uni0438 by uni0438.loclSRB;
-  sub uni043B by uni043B.loclSRB;
   sub uni043F by uni043F.loclSRB;
   sub uni0442 by uni0442.loclSRB;
-  sub uni0448 by uni0448.loclSRB;
 
   script latn; # Latin
   language MOL; # Moldavian
@@ -168,13 +201,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
-
-
-
-
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -186,13 +212,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
-
-
-
-
-
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -209,13 +228,6 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
-
-
-
-
-
-
-
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -223,13 +235,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-
-
-
-
-
-
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -246,13 +251,6 @@ feature sinf {
   sub nine by nine.inferior;
 
 } sinf;
-
-
-
-
-
-
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -269,13 +267,6 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
-
-
-
-
-
-
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -284,13 +275,6 @@ feature cpsp {
   pos W <5 1 10 2>;
 
 } cpsp;
-
-
-
-
-
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -336,13 +320,6 @@ feature mark {
 
 
 } mark;
-
-
-
-
-
-
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -362,195 +339,3 @@ feature mkmk {
 
 
 } mkmk;
-
-
-
-
-
-
-
-feature kern {
-# GPOS feature: Kerning
-# Lookups: 1
-
-@_V = [V Ucyr Izhitsacyr Ushortcyr];
-@_A = [A L Acyr Yuslittlecyr Yuslittleiotifiedcyr Decyr.1 Elcyr.1];
-@_W = [W Wcircumflex Wgrave Wacute Wdieresis];
-@_T = [T Y Ydieresis Yacute Tcaron Tbar Ycircumflex Ygrave Tcedilla Tcommaaccent Ytilde Geupcyr Gecyr Gjecyr Tecyr];
-@_ocyr = [fitacyr ocyr ercyr efcyr softcyr hardcyr yucyr yuslittlecyr yuslittleiotifiedcyr];
-@_B = [breve dotaccent ring hungarumlaut ogonek caron dotlessi fraction fi fl Lslash lslash Zcaron zcaron space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at B C D E F G H I J K L M N O P Q R S U X Z bracketleft backslash bracketright asciicircum underscore grave b h k m n p r t x z braceleft bar braceright asciitilde Euro quotesinglbase florin quotedblbase ellipsis dagger daggerdbl circumflex perthousand Scaron guilsinglleft OE quoteleft quotedblleft bullet endash emdash tilde trademark scaron guilsinglright exclamdown sterling currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot minus registered macron degree plusminus twosuperior threesuperior acute paragraph periodcentered cedilla onesuperior ordmasculine guillemotright questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis multiply Oslash Ugrave Uacute Ucircumflex Udieresis Thorn germandbls agrave aacute acircumflex atilde adieresis aring igrave iacute icircumflex idieresis ntilde divide yacute thorn ydieresis .notdef \NULL pi lessequal arrowleft arrowright greaterequal notequal approxequal product radical lozenge summation integral CR Amacron amacron Aogonek aogonek Ccaron Cacute Zacute zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek iogonek Imacron imacron Lcaron lcaron Lacute lacute Nacute nacute Ncaron ncaron Ohungarumlaut Omacron Racute racute Rcaron rcaron Sacute sacute tcaron Umacron Uring uring Uhungarumlaut Uogonek uogonek Zdotaccent zdotaccent Dcroat Abreve abreve Gbreve Idotaccent Scedilla scedilla Ccircumflex ccircumflex Cdotaccent Ebreve ebreve Gcircumflex gcircumflex Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde itilde Ibreve ibreve IJ ij Jcircumflex jcircumflex kgreenlandic Ldot ldot napostrophe Eng eng Obreve obreve Scircumflex scircumflex tbar Utilde utilde Ubreve ubreve ycircumflex longs Aringacute aringacute AEacute aeacute Oslashacute oslashacute gravecomb acutecomb tildecomb ygrave f_f f_f_i f_f_l hookabovecomb Ohorn Uhorn dotbelowcomb ohorn uhorn Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent acaron brevecomb caroncomb cedillacomb circumflexcomb commaaccentcomb dieresiscomb dotaccentcomb dotlessj dzcaron hungarumlautcomb icaron kcommaaccent lcommaaccent lj macroncomb nbspace ncommaaccent nj ogonekcomb oogonek rcommaaccent ringcomb scommaaccent tcedilla tcommaaccent twodotenleader Germandbls i.loclTRK DZcaron Acaron Icaron Ocaron Ucaron Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave Oogonek DZ schwa Adotbelow adotbelow Acircumflexacute acircumflexacute Acircumflexgrave acircumflexgrave Acircumflextilde acircumflextilde Acircumflexdotbelow acircumflexdotbelow Abreveacute abreveacute Abrevegrave abrevegrave Abrevetilde abrevetilde Abrevedotbelow abrevedotbelow Edotbelow edotbelow Etilde Ecircumflexacute Ecircumflexgrave Ecircumflextilde Ecircumflexdotbelow ecircumflexdotbelow Idotbelow idotbelow Odotbelow odotbelow Ocircumflexacute Ocircumflexgrave Ocircumflextilde Ocircumflexdotbelow ocircumflexdotbelow Ohornacute ohornacute Ohorngrave ohorngrave Ohorntilde ohorntilde Ohorndotbelow ohorndotbelow Udotbelow udotbelow Uhornacute uhornacute Uhorngrave uhorngrave Uhorntilde uhorntilde Uhorndotbelow uhorndotbelow Ydotbelow ydotbelow ytilde Ohm Ahoi Acircumflexhoi Abrevehoi Vecyr Dz Dzcaron Ehoi Ecircumflexhoi Iecyr Iegravecyr Iocyr Entailcyr Encyr Ihoi Iukrcyr Yukrcyr Jecyr Katailcyr Emcyr Icyr Igravecyr Ishortcyr Imacroncyr Ohoi Ocircumflexhoi Ohornhoi Ocyr Obarcyr Dzecyr Uhoi Uhornhoi Xatailcyr Yhoi abrevehoi acircumflexhoi ahoi aturned aemacron escyr dz ehoi ecircumflexhoi iecyr iegravecyr iocyr eturned tshecyr djecyr shhacyr ihoi iukrcyr yukrcyr jecyr palochkacyr ohoi ocircumflexhoi ohornhoi fitacyr ocyr ukcyr ercyr dzecyr micro uhoi uhornhoi hacyr yhoi umacroncyr Umacroncyr Becyr Geupcyr Decyr Zhecyr Zhetailcyr Zecyr Kacyr Elcyr Fitacyr Dzhecyr Ucyr Efcyr Tsecyr Chetailcyr Shhacyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ljecyr Njecyr Ereversedcyr Yucyr Yacyr Eukrcyr Schwacyr Izhitsacyr Djecyr becyr vecyr gecyr geupcyr decyr zhecyr zhetailcyr zecyr icyr kacyr katailcyr elcyr emcyr encyr entailcyr pecyr tecyr efcyr xatailcyr tsecyr dzhecyr checyr chetailcyr shacyr shchacyr softcyr hardcyr ylongcyr yatcyr ljecyr njecyr ereversedcyr yucyr yacyr eukrcyr izhitsacyr ruble tenge peso austral hryvnia softhyphen horizontalbar triangularbullet zero.superior four.superior five.superior six.superior seven.superior eight.superior nine.superior zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior pertenthousandsign dblgravecomb numero ereversed-ipa gscript-ipa oopen clickretroflex Gecyr Gjecyr Gestrokecyr Kjecyr Pecyr Ercyr Escyr Ushortcyr Hacyr Tshecyr Yatcyr Eiotifiedcyr Yuslittleiotifiedcyr Yusbigcyr Yusbigiotifiedcyr Ukcyr Ustraightcyr Ustraightstrokecyr Palochkacyr gjecyr gestrokecyr ishortcyr igravecyr kjecyr eiotifiedcyr yuslittlecyr yuslittleiotifiedcyr yusbigcyr yusbigiotifiedcyr ustraightcyr ustraightstrokecyr schwacyr imacroncyr obarcyr gravedblmiddlemod acutedblmiddlemod titlocombcyr horncomb colontriangularhalfmod colontriangularmod becyr.loclSRB apostrophemod commaturnedabovecomb gjecyr.loclMKD increment];
-@_A2 = [A Acyr Yuslittlecyr];
-@_quoteright = [quoteright quotedblright];
-@_T2 = [T V Y Ydieresis Yacute Tcaron Tbar Ycircumflex Ygrave Tcedilla Tcommaaccent Ytilde Checyr Tecyr];
-@_v = [v w y wcircumflex wgrave wacute wdieresis ucyr ushortcyr];
-@_a = [a c d e f g i j l o q s u oe cent ae ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis infinity partialdiff ccaron cacute dcaron emacron edotaccent ecaron eogonek ohungarumlaut omacron umacron uhungarumlaut dcroat gbreve cdotaccent gdotaccent gcommaaccent ocaron ucaron udieresisacute udieresiscaron udieresismacron udieresisgrave etilde ecircumflexacute ecircumflexgrave ecircumflextilde ocircumflexacute ocircumflexgrave ocircumflextilde acyr];
-
-
-  lookup kern {
-  # GPOS lookup 4, type 2 (Pair adjustment)
-
-    lookupflag IgnoreMarks;
-    pos P A -82;
-    pos P Acyr -82;
-    pos P Yuslittlecyr -82;
-    pos P Decyr.1 -82;
-    pos P Elcyr.1 -82;
-    pos r a -8;
-    pos r c -8;
-    pos r d -8;
-    pos r e -8;
-    pos r f -8;
-    pos r g -8;
-    pos r i -8;
-    pos r j -8;
-    pos r l -8;
-    pos r o -8;
-    pos r q -8;
-    pos r s -8;
-    pos r u -8;
-    pos r cent -8;
-    pos r ae -8;
-    pos r ccedilla -8;
-    pos r egrave -8;
-    pos r eacute -8;
-    pos r ecircumflex -8;
-    pos r edieresis -8;
-    pos r eth -8;
-    pos r ograve -8;
-    pos r oacute -8;
-    pos r ocircumflex -8;
-    pos r otilde -8;
-    pos r odieresis -8;
-    pos r oslash -8;
-    pos r ugrave -8;
-    pos r uacute -8;
-    pos r ucircumflex -8;
-    pos r udieresis -8;
-    pos r cacute -8;
-    pos r cdotaccent -8;
-    pos r ccaron -8;
-    pos r dcaron -8;
-    pos r dcroat -8;
-    pos r emacron -8;
-    pos r edotaccent -8;
-    pos r eogonek -8;
-    pos r ecaron -8;
-    pos r gbreve -8;
-    pos r gdotaccent -8;
-    pos r gcommaaccent -8;
-    pos r omacron -8;
-    pos r ohungarumlaut -8;
-    pos r oe -8;
-    pos r umacron -8;
-    pos r uhungarumlaut -8;
-    pos r ocaron -8;
-    pos r ucaron -8;
-    pos r udieresismacron -8;
-    pos r udieresisacute -8;
-    pos r udieresiscaron -8;
-    pos r udieresisgrave -8;
-    pos r acyr -8;
-    pos r etilde -8;
-    pos r ecircumflexacute -8;
-    pos r ecircumflexgrave -8;
-    pos r ecircumflextilde -8;
-    pos r ocircumflexacute -8;
-    pos r ocircumflexgrave -8;
-    pos r ocircumflextilde -8;
-    pos r partialdiff -8;
-    pos r infinity -8;
-    pos quoteright a -143;
-    pos quoteright c -143;
-    pos quoteright d -143;
-    pos quoteright e -143;
-    pos quoteright f -143;
-    pos quoteright g -143;
-    pos quoteright i -143;
-    pos quoteright j -143;
-    pos quoteright l -143;
-    pos quoteright o -143;
-    pos quoteright q -143;
-    pos quoteright s -143;
-    pos quoteright u -143;
-    pos quoteright cent -143;
-    pos quoteright ae -143;
-    pos quoteright ccedilla -143;
-    pos quoteright egrave -143;
-    pos quoteright eacute -143;
-    pos quoteright ecircumflex -143;
-    pos quoteright edieresis -143;
-    pos quoteright eth -143;
-    pos quoteright ograve -143;
-    pos quoteright oacute -143;
-    pos quoteright ocircumflex -143;
-    pos quoteright otilde -143;
-    pos quoteright odieresis -143;
-    pos quoteright oslash -143;
-    pos quoteright ugrave -143;
-    pos quoteright uacute -143;
-    pos quoteright ucircumflex -143;
-    pos quoteright udieresis -143;
-    pos quoteright cacute -143;
-    pos quoteright cdotaccent -143;
-    pos quoteright ccaron -143;
-    pos quoteright dcaron -143;
-    pos quoteright dcroat -143;
-    pos quoteright emacron -143;
-    pos quoteright edotaccent -143;
-    pos quoteright eogonek -143;
-    pos quoteright ecaron -143;
-    pos quoteright gbreve -143;
-    pos quoteright gdotaccent -143;
-    pos quoteright gcommaaccent -143;
-    pos quoteright omacron -143;
-    pos quoteright ohungarumlaut -143;
-    pos quoteright oe -143;
-    pos quoteright umacron -143;
-    pos quoteright uhungarumlaut -143;
-    pos quoteright ocaron -143;
-    pos quoteright ucaron -143;
-    pos quoteright udieresismacron -143;
-    pos quoteright udieresisacute -143;
-    pos quoteright udieresiscaron -143;
-    pos quoteright udieresisgrave -143;
-    pos quoteright acyr -143;
-    pos quoteright etilde -143;
-    pos quoteright ecircumflexacute -143;
-    pos quoteright ecircumflexgrave -143;
-    pos quoteright ecircumflextilde -143;
-    pos quoteright ocircumflexacute -143;
-    pos quoteright ocircumflexgrave -143;
-    pos quoteright ocircumflextilde -143;
-    pos quoteright partialdiff -143;
-    pos quoteright infinity -143;
-    pos quotedblleft A -164;
-    pos quotedblleft J -33;
-    pos quotedblleft Acyr -164;
-    pos quotedblleft Yuslittlecyr -164;
-    pos quotedblleft Decyr.1 -164;
-    pos quotedblleft Elcyr.1 -164;
-
-    subtable;
-
-    pos @_V @_A2 -127;
-    pos @_A @_quoteright -164;
-    pos @_W @_A2 -115;
-    pos @_A @_W -115;
-    pos @_T @_A2 -164;
-    pos @_A @_T2 -164;
-    pos @_T @_v -242;
-    pos @_ocyr @_T2 -188;
-    pos @_V @_a -98;
-    pos @_W @_a -61;
-    pos @_T @_a -188;
-  } kern;
-
-
-} kern;
-
-
-
-
-
-
-

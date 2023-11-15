@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="1178"/>
+  <advance width="1189"/>
   <unicode hex="0151"/>
-  <anchor x="589" y="0" name="ogonek"/>
-  <anchor x="1394" y="1064" name="pos"/>
+  <anchor x="599" y="0" name="ogonek"/>
+  <anchor x="1404" y="1064" name="pos"/>
+  <anchor x="462" y="-120" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni030B" xOffset="1119"/>
+    <component base="uni030B" xOffset="1129"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+uni030B</string>
   <key>public.markColor</key>

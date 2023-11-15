@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="539"/>
+  <advance width="537"/>
   <unicode hex="0069"/>
-  <anchor x="418" y="0" name="ogonek"/>
+  <anchor x="417" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="124.69" y="1206.27" type="line"/>
-      <point x="414.463" y="1206.27" type="line" name=".dv01"/>
-      <point x="414.463" y="1447.91" type="line" name=".dv02"/>
-      <point x="124.69" y="1447.91" type="line" name=".dh01"/>
+      <point x="124" y="1206" type="line"/>
+      <point x="413" y="1206" type="line" name=".dv01"/>
+      <point x="413" y="1448" type="line" name=".dv02"/>
+      <point x="124" y="1448" type="line" name=".dh01"/>
     </contour>
     <contour>
-      <point x="129.848" y="0" type="line"/>
-      <point x="409.714" y="0" type="line" name=".av02"/>
-      <point x="409.714" y="1063.98" type="line" name=".dh02"/>
-      <point x="129.848" y="1063.98" type="line" name=".dh01"/>
+      <point x="129" y="0" type="line"/>
+      <point x="409" y="0" type="line" name=".av02"/>
+      <point x="409" y="1064" type="line" name=".dh02"/>
+      <point x="129" y="1064" type="line" name=".dh01"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="270" y="0"/>
+  <guideline angle="90" name="vertical" x="269" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

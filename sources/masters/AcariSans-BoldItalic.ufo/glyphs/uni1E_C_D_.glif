@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECD" format="2">
-  <advance width="1155"/>
+  <advance width="1189"/>
   <unicode hex="1ECD"/>
+  <anchor x="735" y="1192" name="top"/>
+  <anchor x="599" y="0" name="ogonek"/>
+  <anchor x="1404" y="1064" name="pos"/>
   <outline>
-    <component base="dotbelowcomb" xOffset="823" yOffset="-85"/>
-    <component base="o" xOffset="-1"/>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="854"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

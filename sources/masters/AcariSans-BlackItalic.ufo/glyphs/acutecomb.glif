@@ -3,6 +3,11 @@
   <unicode hex="0301"/>
   <anchor x="-269" y="1192" name="_top"/>
   <outline>
-    <component base="acute" xOffset="-552"/>
+    <contour>
+      <point x="-184.384" y="1191.94" type="line"/>
+      <point x="206.784" y="1507.33" type="line"/>
+      <point x="-85.056" y="1507.33" type="line"/>
+      <point x="-387.136" y="1191.94" type="line"/>
+    </contour>
   </outline>
 </glyph>

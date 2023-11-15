@@ -2,8 +2,19 @@
 <glyph name="uni1EEC" format="2">
   <advance width="1413"/>
   <unicode hex="1EEC"/>
+  <anchor x="691" y="0" name="ogonek"/>
+  <anchor x="581" y="-120" name="bottom"/>
   <outline>
-    <component base="hookabovecomb" xOffset="1090" yOffset="535"/>
-    <component base="Uhorn"/>
+    <component base="U"/>
+    <component base="uni031B" xOffset="1649" yOffset="-1"/>
+    <component base="hookabovecomb" xOffset="1073" yOffset="522"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni031B+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

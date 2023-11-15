@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="2">
-  <advance width="1467"/>
+  <advance width="1466"/>
   <unicode hex="010A"/>
   <outline>
     <component base="C"/>
-    <component base="uni0307" xOffset="1089.34" yOffset="425.92"/>
+    <component base="uni0307" xOffset="1088" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>C+uni0307</string>
   <key>public.markColor</key>

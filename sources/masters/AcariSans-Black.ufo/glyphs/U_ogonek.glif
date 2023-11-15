@@ -2,16 +2,14 @@
 <glyph name="Uogonek" format="2">
   <advance width="1421"/>
   <unicode hex="0172"/>
-  <anchor x="710.656" y="1617.92" name="top"/>
+  <anchor x="711" y="1617.92" name="top"/>
   <anchor x="1606" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="uni0328" xOffset="986.103"/>
+    <component base="uni0328" xOffset="986.5"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+uni0328</string>
   <key>public.markColor</key>

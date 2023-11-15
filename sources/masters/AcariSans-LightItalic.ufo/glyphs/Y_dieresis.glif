@@ -2,14 +2,13 @@
 <glyph name="Ydieresis" format="2">
   <advance width="1363"/>
   <unicode hex="0178"/>
+  <anchor x="534" y="-120" name="bottom"/>
   <outline>
     <component base="Y"/>
     <component base="uni0308" xOffset="1121" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Y+uni0308</string>
   <key>public.markColor</key>

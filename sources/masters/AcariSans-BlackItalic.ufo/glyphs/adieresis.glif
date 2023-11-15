@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="2">
-  <advance width="1225"/>
+  <advance width="1229"/>
   <unicode hex="00E4"/>
-  <anchor x="967" y="0" name="ogonek"/>
+  <anchor x="971" y="0" name="ogonek"/>
+  <anchor x="438" y="-120" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni0308" xOffset="943"/>
+    <component base="uni0308" xOffset="1107"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+uni0308</string>
   <key>public.markColor</key>

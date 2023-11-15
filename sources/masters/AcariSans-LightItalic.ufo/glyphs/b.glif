@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1188"/>
+  <advance width="1174"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -16,7 +16,9 @@
       <point x="408.576" y="914.432" type="curve"/>
       <point x="548.864" y="1446.91" type="line"/>
       <point x="415.744" y="1446.91" type="line"/>
-      <point x="68.608" y="0" type="line"/>
+      <point x="357.879" y="1205.72"/>
+      <point x="126.445" y="241.075"/>
+      <point x="68.608" y="0" type="curve"/>
       <point x="201.728" y="0" type="line"/>
       <point x="240.64" y="159.744" type="line"/>
       <point x="297.984" y="24.576"/>
@@ -37,4 +39,10 @@
       <point x="808.96" y="91.136"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
 </glyph>

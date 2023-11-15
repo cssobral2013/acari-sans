@@ -3,16 +3,16 @@
   <advance width="1500"/>
   <unicode hex="0469"/>
   <outline>
-    <component base="uni0467" xOffset="511.616" yOffset="-0.024"/>
+    <component base="uni0467" xOffset="512"/>
     <contour>
-      <point x="141.312" y="0" type="line" name=".sv02"/>
-      <point x="425.984" y="0" type="line" name=".sh01"/>
-      <point x="425.984" y="453.672" type="line" name=".dv05"/>
-      <point x="767.648" y="453.672" type="line" name=".ih01"/>
-      <point x="846.496" y="661.544" type="line"/>
-      <point x="425.984" y="661.544" type="line" name=".dv06"/>
-      <point x="425.984" y="1063.98" type="line" name=".av02"/>
-      <point x="141.312" y="1063.98" type="line" name=".dh01"/>
+      <point x="141" y="0" type="line" name=".sv02"/>
+      <point x="426" y="0" type="line" name=".sh01"/>
+      <point x="426" y="454" type="line" name=".dv05"/>
+      <point x="768" y="454" type="line" name=".ih01"/>
+      <point x="846" y="662" type="line"/>
+      <point x="426" y="662" type="line" name=".dv06"/>
+      <point x="426" y="1064" type="line" name=".av02"/>
+      <point x="141" y="1064" type="line" name=".dh01"/>
     </contour>
   </outline>
   <lib>

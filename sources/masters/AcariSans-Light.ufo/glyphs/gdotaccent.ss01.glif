@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent.ss01" format="2">
-  <advance width="1184"/>
+  <advance width="1183"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="uni0307" xOffset="844.857"/>
+    <component base="uni0307" xOffset="844"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=q</string>
   <key>com.fontlab.metricsRight</key>

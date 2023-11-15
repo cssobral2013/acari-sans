@@ -2,8 +2,18 @@
 <glyph name="uni1EB4" format="2">
   <advance width="1375"/>
   <unicode hex="1EB4"/>
+  <anchor x="1243" y="0" name="ogonek"/>
+  <anchor x="568" y="-120" name="bottom"/>
   <outline>
-    <component base="tildecomb" xOffset="1290" yOffset="839"/>
-    <component base="Abreve"/>
+    <component base="A"/>
+    <component base="uni03060303" xOffset="1109" yOffset="428"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03060303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -5,14 +5,14 @@
   <anchor x="581" y="0" name="cedilla"/>
   <outline>
     <contour>
-      <point x="450.56" y="0" type="line"/>
-      <point x="740.352" y="0" type="line" name=".av01"/>
-      <point x="740.352" y="1184.74" type="line" name=".dh02"/>
-      <point x="1181.7" y="1184.74" type="line" name=".dv01"/>
-      <point x="1181.7" y="1447.91" type="line" name=".dv02"/>
-      <point x="7.168" y="1447.91" type="line"/>
-      <point x="7.168" y="1184.74" type="line" name=".sv01"/>
-      <point x="450.56" y="1184.74" type="line" name=".dh01"/>
+      <point x="451" y="0" type="line"/>
+      <point x="740" y="0" type="line" name=".av01"/>
+      <point x="740" y="1185" type="line" name=".dh02"/>
+      <point x="1182" y="1185" type="line" name=".dv01"/>
+      <point x="1182" y="1448" type="line" name=".dv02"/>
+      <point x="7" y="1448" type="line"/>
+      <point x="7" y="1185" type="line" name=".sv01"/>
+      <point x="451" y="1185" type="line" name=".dh01"/>
     </contour>
   </outline>
   <lib>

@@ -2,7 +2,7 @@
 <glyph name="c" format="2">
   <advance width="1055"/>
   <unicode hex="0063"/>
-  <anchor x="568.32" y="1191.94" name="top"/>
+  <anchor x="568" y="1191.94" name="top"/>
   <outline>
     <contour>
       <point x="570.368" y="-20.48" type="curve" smooth="yes"/>
@@ -17,21 +17,21 @@
       <point x="314.368" y="367.616"/>
       <point x="314.368" y="530.432" type="curve" smooth="yes"/>
       <point x="314.368" y="693.248"/>
-      <point x="385.024" y="848.824"/>
-      <point x="564.224" y="848.824" type="curve" smooth="yes"/>
-      <point x="666.624" y="848.824"/>
-      <point x="747.52" y="793.528"/>
-      <point x="777.216" y="683.96" type="curve"/>
-      <point x="1024" y="782.264" type="line"/>
-      <point x="940.032" y="972.728"/>
-      <point x="777.216" y="1084.34"/>
-      <point x="568.32" y="1084.34" type="curve" smooth="yes"/>
-      <point x="252.928" y="1084.34"/>
+      <point x="385.024" y="848.896"/>
+      <point x="564.224" y="848.896" type="curve" smooth="yes"/>
+      <point x="666.624" y="848.896"/>
+      <point x="747.52" y="793.6"/>
+      <point x="777.216" y="684.032" type="curve"/>
+      <point x="1024" y="782.336" type="line"/>
+      <point x="940.032" y="972.8"/>
+      <point x="777.216" y="1084.42"/>
+      <point x="568.32" y="1084.42" type="curve" smooth="yes"/>
+      <point x="252.928" y="1084.42"/>
       <point x="60.416" y="839.68"/>
       <point x="60.416" y="530.432" type="curve" smooth="yes"/>
       <point x="60.416" y="244.736"/>
       <point x="230.4" y="-20.48"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="568.32" y="0"/>
+  <guideline angle="90" name="vertical" x="568" y="0"/>
 </glyph>

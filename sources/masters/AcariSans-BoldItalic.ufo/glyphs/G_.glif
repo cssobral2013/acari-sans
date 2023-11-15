@@ -15,7 +15,9 @@
       <point x="1503.23" y="782.336" type="line"/>
       <point x="922.624" y="782.336" type="line"/>
       <point x="874.496" y="577.536" type="line"/>
-      <point x="1206.27" y="577.536" type="line"/>
+      <point x="921.671" y="577.536"/>
+      <point x="1159.07" y="577.536"/>
+      <point x="1206.27" y="577.536" type="curve"/>
       <point x="1124.35" y="370.688"/>
       <point x="930.816" y="211.968"/>
       <point x="702.464" y="211.968" type="curve" smooth="yes"/>
@@ -36,7 +38,7 @@
       <point x="111.616" y="1030.14"/>
       <point x="111.616" y="524.288" type="curve" smooth="yes"/>
       <point x="111.616" y="164.864"/>
-      <point x="334.848" y="-20.48"/>
+      <point x="334.848" y="-20.4799"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="942" y="0"/>

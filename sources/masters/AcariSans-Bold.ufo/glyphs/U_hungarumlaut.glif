@@ -2,16 +2,14 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="1413"/>
   <unicode hex="0170"/>
-  <anchor x="868.352" y="0" name="ogonek"/>
+  <anchor x="868" y="0" name="ogonek"/>
   <anchor x="1522" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="uni030B" xOffset="1277.95" yOffset="425.984"/>
+    <component base="uni030B" xOffset="1278" yOffset="425.92"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+uni030B</string>
   <key>public.markColor</key>

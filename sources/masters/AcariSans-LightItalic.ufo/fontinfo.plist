@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -33,6 +33,16 @@
     <integer>0</integer>
     <key>y</key>
     <integer>1448</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>b</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-5</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -82,7 +92,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>1552</integer>
+    <integer>1539</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -137,7 +147,7 @@
   <key>openTypeNameDescription</key>
   <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/). HK Grotesk is a trademark of Alfredo Marco Pradil.  Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>openTypeNameDesigner</key>
-  <string>Alfredo Marco Pradil and Stefan Peev (font) &amp; Cristiano Sobral (main changes)</string>
+  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic version) &amp; Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://behance.net/pradil and https://localfonts.eu/</string>
   <key>openTypeNameLicense</key>
@@ -145,15 +155,15 @@
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Alfredo Marco Pradil and Stefan Peev (font) &amp; Cristiano Sobral (main changes)</string>
+  <string>The Acari Sans Project Authors</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://hanken.co and https://localfonts.eu/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Light Italic</string>
+  <string>Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.068</string>
+  <string>Version 1.073</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -223,7 +233,7 @@
   <key>openTypeOS2VendorID</key>
   <string>AMSP</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>300</integer>
+  <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -242,11 +252,11 @@
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AcariSans-LightItalic</string>
+  <string>AcariSansVF-Italic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Acari Sans Light Italic</string>
+  <string>Acari Sans VF Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -254,19 +264,19 @@
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
   <key>postscriptWeightName</key>
-  <string>Light</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans Light Italic</string>
+  <string>Acari Sans VF</string>
   <key>styleMapStyleName</key>
-  <string>regular</string>
+  <string>italic</string>
   <key>styleName</key>
-  <string>Light Italic</string>
+  <string>Italic</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>68</integer>
+  <integer>73</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

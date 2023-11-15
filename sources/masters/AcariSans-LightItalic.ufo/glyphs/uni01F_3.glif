@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F3" format="2">
-  <advance width="2181"/>
+  <advance width="2169"/>
   <unicode hex="01F3"/>
-  <anchor x="1937" y="1192" name="top"/>
+  <anchor x="1813" y="1192" name="top"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="1194"/>
+    <component base="z" xOffset="1182"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_z</string>
   <key>public.markColor</key>

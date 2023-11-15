@@ -2,15 +2,13 @@
 <glyph name="uni1EF4" format="2">
   <advance width="1349"/>
   <unicode hex="1EF4"/>
-  <anchor x="673.792" y="1617.92" name="top"/>
+  <anchor x="674" y="1617.92" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="dotbelowcomb" xOffset="926.185"/>
+    <component base="dotbelowcomb" xOffset="926"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Y+dotbelowcomb</string>
   <key>public.markColor</key>

@@ -2,16 +2,14 @@
 <glyph name="Udieresis" format="2">
   <advance width="1413"/>
   <unicode hex="00DC"/>
-  <anchor x="868.352" y="0" name="ogonek"/>
+  <anchor x="868" y="0" name="ogonek"/>
   <anchor x="1522" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="uni0308" xOffset="1136.64" yOffset="425.984"/>
+    <component base="uni0308" xOffset="1137" yOffset="425.92"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+uni0308</string>
   <key>public.markColor</key>

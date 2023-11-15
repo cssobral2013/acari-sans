@@ -5,12 +5,10 @@
   <anchor x="415" y="0" name="cedilla"/>
   <outline>
     <component base="t"/>
-    <component base="uni0326" xOffset="585.14"/>
+    <component base="uni0326" xOffset="585"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>t+uni0326</string>
   <key>public.markColor</key>

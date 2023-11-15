@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="2">
-  <advance width="633"/>
+  <advance width="632"/>
   <unicode hex="00CD"/>
   <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb" xOffset="730.112" yOffset="425.984"/>
+    <component base="acutecomb" xOffset="730" yOffset="425.92"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+acutecomb</string>
   <key>public.markColor</key>

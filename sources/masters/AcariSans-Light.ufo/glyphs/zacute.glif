@@ -4,12 +4,10 @@
   <unicode hex="017A"/>
   <outline>
     <component base="z"/>
-    <component base="acutecomb" xOffset="884.736"/>
+    <component base="acutecomb" xOffset="884" yOffset="-0.0639648"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>z+acutecomb</string>
   <key>public.markColor</key>

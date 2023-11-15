@@ -3,12 +3,43 @@
   <advance width="813"/>
   <unicode hex="0165"/>
   <outline>
-    <component base="t"/>
     <contour>
       <point x="869.376" y="1203.2" type="line"/>
       <point x="1245.18" y="1637.38" type="line"/>
       <point x="969.728" y="1637.38" type="line"/>
       <point x="714.752" y="1203.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="414.72" y="-20.48" type="curve" smooth="yes"/>
+      <point x="467.968" y="-20.48"/>
+      <point x="550.912" y="-12.288"/>
+      <point x="600.064" y="6.144" type="curve"/>
+      <point x="644.096" y="244.736" type="line"/>
+      <point x="586.752" y="215.04"/>
+      <point x="531.456" y="199.68"/>
+      <point x="479.232" y="199.68" type="curve" smooth="yes"/>
+      <point x="418.816" y="199.68"/>
+      <point x="385.024" y="219.136"/>
+      <point x="385.024" y="276.48" type="curve" smooth="yes"/>
+      <point x="385.024" y="289.792"/>
+      <point x="387.072" y="306.176"/>
+      <point x="391.168" y="324.608" type="curve" smooth="yes"/>
+      <point x="510.976" y="855.04" type="line"/>
+      <point x="788.48" y="855.04" type="line"/>
+      <point x="838.656" y="1063.94" type="line"/>
+      <point x="562.176" y="1063.94" type="line"/>
+      <point x="664.576" y="1455.1" type="line"/>
+      <point x="375.808" y="1293.31" type="line"/>
+      <point x="319.488" y="1063.94" type="line"/>
+      <point x="149.504" y="1063.94" type="line"/>
+      <point x="100.352" y="855.04" type="line"/>
+      <point x="267.264" y="855.04" type="line"/>
+      <point x="147.456" y="309.248" type="line" smooth="yes"/>
+      <point x="140.288" y="279.552"/>
+      <point x="137.216" y="250.88"/>
+      <point x="137.216" y="221.184" type="curve" smooth="yes"/>
+      <point x="137.216" y="55.296"/>
+      <point x="261.12" y="-20.48"/>
     </contour>
   </outline>
 </glyph>

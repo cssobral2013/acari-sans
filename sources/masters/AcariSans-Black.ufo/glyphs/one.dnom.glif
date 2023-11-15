@@ -3,17 +3,17 @@
   <advance width="723"/>
   <outline>
     <contour>
-      <point x="553.392" y="-0.0138852" type="line"/>
-      <point x="553.392" y="964.594" type="line"/>
-      <point x="346.048" y="964.594" type="line"/>
-      <point x="346.048" y="938.994" type="line" smooth="yes"/>
-      <point x="346.048" y="870.386"/>
-      <point x="305.088" y="838.642"/>
-      <point x="242.624" y="838.642" type="curve" smooth="yes"/>
-      <point x="83.904" y="838.642" type="line"/>
-      <point x="83.904" y="650.162" type="line"/>
-      <point x="338.88" y="650.162" type="line"/>
-      <point x="338.88" y="-0.0139367" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="965" type="line"/>
+      <point x="346" y="965" type="line"/>
+      <point x="346" y="939" type="line" smooth="yes"/>
+      <point x="346" y="870"/>
+      <point x="305" y="839"/>
+      <point x="243" y="839" type="curve" smooth="yes"/>
+      <point x="84" y="839" type="line"/>
+      <point x="84" y="650" type="line"/>
+      <point x="339" y="650" type="line"/>
+      <point x="339" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

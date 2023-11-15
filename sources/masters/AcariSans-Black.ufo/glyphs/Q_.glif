@@ -3,20 +3,20 @@
   <advance width="1620"/>
   <unicode hex="0051"/>
   <outline>
-    <component base="O"/>
+    <component base="O" xOffset="1"/>
     <contour>
-      <point x="987.266" y="262.942" type="line"/>
-      <point x="1169.74" y="435.167" type="line" name=".ih01"/>
-      <point x="1100.94" y="500.604"/>
-      <point x="1030.99" y="561.192"/>
-      <point x="958.464" y="625.664" type="curve"/>
-      <point x="768" y="454.656" type="line"/>
+      <point x="987" y="263" type="line"/>
+      <point x="1170" y="435" type="line" name=".ih01"/>
+      <point x="1101" y="500"/>
+      <point x="1031" y="562"/>
+      <point x="958" y="626" type="curve"/>
+      <point x="768" y="455" type="line"/>
     </contour>
     <contour>
-      <point x="1147.97" y="101.897" type="line"/>
-      <point x="1381.38" y="-129.024" type="line" name=".av01"/>
-      <point x="1569.79" y="47.104" type="line"/>
-      <point x="1337.93" y="264.188" type="line"/>
+      <point x="1148" y="102" type="line"/>
+      <point x="1381" y="-129" type="line" name=".av01"/>
+      <point x="1570" y="47" type="line"/>
+      <point x="1338" y="264" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -2,17 +2,17 @@
 <glyph name="I" format="2">
   <advance width="590"/>
   <unicode hex="0049"/>
-  <anchor x="294.912" y="1617.92" name="top"/>
+  <anchor x="295" y="1617.92" name="top"/>
   <anchor x="365" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="364.544" y="0" type="line"/>
-      <point x="364.544" y="1447.94" type="line"/>
-      <point x="225.28" y="1447.94" type="line"/>
-      <point x="225.28" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="1448" type="line"/>
+      <point x="225" y="1448" type="line"/>
+      <point x="225" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="294.912" y="0"/>
+  <guideline angle="90" name="vertical" x="295" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
