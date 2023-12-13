@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="1566"/>
+  <advance width="1565"/>
   <unicode hex="014E"/>
-  <anchor x="956.392" y="0" name="ogonek"/>
-  <anchor x="1546" y="1448" name="horn"/>
+  <anchor x="955" y="0" name="ogonek"/>
+  <anchor x="1545" y="1448" name="horn"/>
   <outline>
     <component base="O"/>
-    <component base="uni0306" xOffset="1223.32" yOffset="425.984"/>
+    <component base="uni0306" xOffset="1222" yOffset="425.92"/>
   </outline>
   <lib>
   <dict>

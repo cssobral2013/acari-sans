@@ -3,12 +3,12 @@
   <advance width="1466"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="D" xOffset="25" yOffset="-1.16415e-12"/>
+    <component base="D" xOffset="25"/>
     <contour>
-      <point x="36.016" y="835.584" type="line" name=".dv06"/>
-      <point x="36.016" y="624.64" type="line" name=".dv05"/>
-      <point x="804.016" y="624.64" type="line"/>
-      <point x="804.016" y="835.584" type="line" name=".sv02"/>
+      <point x="35.84" y="835.584" type="line" name=".dv06"/>
+      <point x="35.84" y="624.64" type="line" name=".dv05"/>
+      <point x="803.84" y="624.64" type="line"/>
+      <point x="803.84" y="835.584" type="line" name=".sv02"/>
     </contour>
   </outline>
   <lib>

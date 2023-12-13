@@ -3,6 +3,11 @@
   <unicode hex="0304"/>
   <anchor x="-270" y="1192" name="_top"/>
   <outline>
-    <component base="macron" xOffset="-859"/>
+    <contour>
+      <point x="-576" y="1252" type="line"/>
+      <point x="2" y="1252" type="line"/>
+      <point x="37" y="1403" type="line"/>
+      <point x="-541" y="1403" type="line"/>
+    </contour>
   </outline>
 </glyph>

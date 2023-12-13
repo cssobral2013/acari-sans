@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1239"/>
+  <advance width="1229"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -37,4 +37,10 @@
       <point x="807.936" y="209.92"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
 </glyph>

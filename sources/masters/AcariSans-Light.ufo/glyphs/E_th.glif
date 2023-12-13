@@ -3,12 +3,12 @@
   <advance width="1459"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="D" xOffset="17" yOffset="9.09495e-13"/>
+    <component base="D" xOffset="17"/>
     <contour>
-      <point x="86.976" y="780.288" type="line"/>
-      <point x="86.976" y="678.912" type="line"/>
-      <point x="741.312" y="678.912" type="line"/>
-      <point x="741.312" y="780.288" type="line"/>
+      <point x="87" y="780" type="line"/>
+      <point x="87" y="679" type="line"/>
+      <point x="741" y="679" type="line"/>
+      <point x="741" y="780" type="line"/>
     </contour>
   </outline>
 </glyph>

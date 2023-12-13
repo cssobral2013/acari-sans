@@ -2,8 +2,19 @@
 <glyph name="uni1EF6" format="2">
   <advance width="1363"/>
   <unicode hex="1EF6"/>
+  <anchor x="534" y="-120" name="bottom"/>
   <outline>
-    <component base="Y" xOffset="-1"/>
-    <component base="hookabovecomb" xOffset="1183" yOffset="521"/>
+    <component base="Y"/>
+    <component base="hookabovecomb" xOffset="1055" yOffset="512"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

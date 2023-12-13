@@ -28,26 +28,6 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>diacritics. UC: 1620</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1620</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.Bold.Black.1508</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1508</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>diacritics.Light.1487</string>
     <key>x</key>
     <integer>0</integer>
@@ -88,11 +68,41 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>diacritics.Bold.Black.1508</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>998</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics. UC: 1620</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>508</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>baseline</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>b</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-10</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -153,7 +163,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.068</string>
+  <string>Version 1.071</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -266,7 +276,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>68</integer>
+  <integer>71</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

@@ -5,26 +5,26 @@
   <anchor x="618" y="1191.94" name="top"/>
   <outline>
     <contour>
-      <point x="141.312" y="0" type="line" name=".av02"/>
-      <point x="425.984" y="0" type="line" name=".sh04"/>
-      <point x="425.984" y="497.632" type="line" smooth="yes"/>
-      <point x="425.984" y="656.767"/>
-      <point x="469.153" y="823.264"/>
-      <point x="660.48" y="823.264" type="curve" smooth="yes"/>
-      <point x="771.072" y="823.264"/>
-      <point x="815.104" y="753.632"/>
-      <point x="815.104" y="619.488" type="curve" smooth="yes" name=".ah01"/>
-      <point x="815.104" y="0" type="line"/>
-      <point x="1100.8" y="0" type="line" name=".av01"/>
-      <point x="1100.8" y="656.352" type="line" smooth="yes" name=".sh01"/>
-      <point x="1100.8" y="876.512"/>
-      <point x="973.824" y="1084.38"/>
-      <point x="721.92" y="1084.38" type="curve" smooth="yes" name=".dv02"/>
-      <point x="602.112" y="1084.38"/>
-      <point x="503.808" y="1047.52"/>
-      <point x="425.984" y="961.504" type="curve" name=".iv01"/>
-      <point x="425.984" y="1063.98" type="line" name=".sh03"/>
-      <point x="141.312" y="1063.98" type="line" name=".sh02"/>
+      <point x="141" y="0" type="line" name=".av02"/>
+      <point x="426" y="0" type="line" name=".sh04"/>
+      <point x="426" y="498" type="line" smooth="yes"/>
+      <point x="426" y="657"/>
+      <point x="469" y="823"/>
+      <point x="660" y="823" type="curve" smooth="yes"/>
+      <point x="771" y="823"/>
+      <point x="815" y="754"/>
+      <point x="815" y="620" type="curve" smooth="yes" name=".ah01"/>
+      <point x="815" y="0" type="line"/>
+      <point x="1101" y="0" type="line" name=".av01"/>
+      <point x="1101" y="656" type="line" smooth="yes" name=".sh01"/>
+      <point x="1101" y="876"/>
+      <point x="974" y="1084"/>
+      <point x="722" y="1084" type="curve" smooth="yes" name=".dv02"/>
+      <point x="602" y="1084"/>
+      <point x="504" y="1048"/>
+      <point x="426" y="962" type="curve" name=".iv01"/>
+      <point x="426" y="1064" type="line" name=".sh03"/>
+      <point x="141" y="1064" type="line" name=".sh02"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="618" y="0"/>

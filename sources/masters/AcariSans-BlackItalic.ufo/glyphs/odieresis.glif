@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="2">
-  <advance width="1177"/>
+  <advance width="1178"/>
   <unicode hex="00F6"/>
-  <anchor x="587" y="0" name="ogonek"/>
-  <anchor x="1394" y="1064" name="pos"/>
+  <anchor x="591" y="0" name="ogonek"/>
+  <anchor x="1398" y="1064" name="pos"/>
+  <anchor x="433" y="-120" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni0308" xOffset="1034"/>
+    <component base="uni0308" xOffset="1038"/>
   </outline>
   <lib>
   <dict>

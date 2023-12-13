@@ -4,11 +4,6 @@
 @locl_ss022 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 #/< otclasses
-
-#/> kernclasses
-@A2 = [A];
-@A = [A];
-#/< kernclasses
 #< classes
 
 #/> classes
@@ -470,6 +465,7 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -478,12 +474,21 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 7
 
   script latn; # Latin
     language TRK ; # Turkish
+    sub i by i.loclTRK;
+    language CRT ; # Turkish
+    sub i by i.loclTRK;
+    language TAT ; # Turkish
+    sub i by i.loclTRK;
+    language KAZ ; # Turkish
+    sub i by i.loclTRK;
+    language AZE ; # Turkish
     sub i by i.loclTRK;
 
     language MOL ; # Moldavian
@@ -504,6 +509,7 @@ feature locl {
     sub @locl_ss02 by @locl_ss022;
 
 } locl;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -513,6 +519,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -524,6 +531,7 @@ feature liga {
   sub f l by fl;
 
 } liga;
+
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -532,6 +540,7 @@ feature salt {
   sub gbreve from [gbreve.ss01];
 
 } salt;
+
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -539,6 +548,7 @@ feature ss01 {
   sub [g gbreve] by [g.ss01 gbreve.ss01];
 
 } ss01;
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -546,6 +556,7 @@ feature ss02 {
   sub @locl_ss02 by @locl_ss022;
 
 } ss02;
+
 feature numr {
 # Numerator
 
@@ -562,6 +573,7 @@ feature numr {
   sub zero by zero.numr;
 #< feature
 } numr;
+
 feature dnom {
 # Denominator
 
@@ -578,6 +590,7 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -585,6 +598,7 @@ feature sups {
   sub @ordn_sinf_subs_sups_numr_dnom by @sups;
 
 } sups;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -592,6 +606,7 @@ feature sinf {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } sinf;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -599,6 +614,7 @@ feature subs {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } subs;
+
 feature frac {
 # Fractions
 
@@ -682,6 +698,7 @@ lookup frac_dnom {
 
 #< feature
 } frac;
+
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -689,6 +706,7 @@ feature hist {
   sub s by longs;
 
 } hist;
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -696,6 +714,7 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -741,6 +760,7 @@ feature mark {
 
 
 } mark;
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -760,6 +780,7 @@ feature mkmk {
 
 
 } mkmk;
+
 feature kern {
 # GPOS feature: Kerning
 # Lookups: 1
@@ -965,3 +986,36 @@ feature kern {
 
 
 } kern;
+
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight by eight.pnum;
+  sub five by five.pnum;
+  sub four by four.pnum;
+  sub nine by nine.pnum;
+  sub one by one.pnum;
+  sub seven by seven.pnum;
+  sub six by six.pnum;
+  sub three by three.pnum;
+  sub two by two.pnum;
+  sub zero by zero.pnum;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight.pnum by eight;
+  sub five.pnum by five;
+  sub four.pnum by four;
+  sub nine.pnum by nine;
+  sub one.pnum by one;
+  sub seven.pnum by seven;
+  sub six.pnum by six;
+  sub three.pnum by three;
+  sub two.pnum by two;
+  sub zero.pnum by zero;
+#< feature
+} tnum;

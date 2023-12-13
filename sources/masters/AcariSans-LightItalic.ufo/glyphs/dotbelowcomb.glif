@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="-279" y="-120" name="_bottom"/>
   <outline>
     <contour>
-      <point x="-244.736" y="-308.224" type="line"/>
-      <point x="-201.728" y="-120.832" type="line"/>
-      <point x="-358.4" y="-120.832" type="line"/>
-      <point x="-402.432" y="-308.224" type="line"/>
+      <point x="-244.736" y="-307.224" type="line"/>
+      <point x="-201.728" y="-119.832" type="line"/>
+      <point x="-358.4" y="-119.832" type="line"/>
+      <point x="-402.432" y="-307.224" type="line"/>
     </contour>
   </outline>
 </glyph>

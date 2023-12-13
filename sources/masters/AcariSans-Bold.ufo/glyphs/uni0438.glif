@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0438" format="2">
-  <advance width="1255"/>
+  <advance width="1256"/>
   <unicode hex="0438"/>
-  <anchor x="633.856" y="1191.94" name="top"/>
+  <anchor x="634" y="1191.94" name="top"/>
   <outline>
     <contour>
-      <point x="154.624" y="0" type="line"/>
-      <point x="431.104" y="0" type="line"/>
-      <point x="846.848" y="695.296" type="line"/>
-      <point x="857.088" y="695.296" type="line"/>
-      <point x="849.92" y="647.168"/>
-      <point x="846.848" y="602.112"/>
-      <point x="846.848" y="562.176" type="curve" smooth="yes"/>
-      <point x="846.848" y="0" type="line"/>
-      <point x="1100.8" y="0" type="line"/>
-      <point x="1100.8" y="1063.94" type="line"/>
-      <point x="824.32" y="1063.94" type="line"/>
-      <point x="408.576" y="368.64" type="line"/>
-      <point x="398.336" y="368.64" type="line"/>
-      <point x="405.504" y="416.768"/>
-      <point x="408.576" y="461.824"/>
-      <point x="408.576" y="501.76" type="curve" smooth="yes"/>
-      <point x="408.576" y="1063.94" type="line"/>
-      <point x="154.624" y="1063.94" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="847" y="695" type="line"/>
+      <point x="857" y="695" type="line"/>
+      <point x="850" y="647"/>
+      <point x="847" y="602"/>
+      <point x="847" y="562" type="curve" smooth="yes"/>
+      <point x="847" y="0" type="line"/>
+      <point x="1101" y="0" type="line"/>
+      <point x="1101" y="1064" type="line"/>
+      <point x="824" y="1064" type="line"/>
+      <point x="409" y="369" type="line"/>
+      <point x="398" y="369" type="line"/>
+      <point x="405" y="417"/>
+      <point x="409" y="462"/>
+      <point x="409" y="502" type="curve" smooth="yes"/>
+      <point x="409" y="1064" type="line"/>
+      <point x="155" y="1064" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="633.856" y="0"/>
+  <guideline angle="90" name="vertical" x="634" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
