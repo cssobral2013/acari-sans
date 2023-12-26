@@ -38,10 +38,10 @@ The proof files and QA tests are also available automatically via GitHub Actions
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
-December 12-26, 2023 Version 1.074R/1.072I
-MAJOR: Converted currencies to have the same width as zero-nine. Reflow may occur
-MAJOR: Added proportional figures
-MINOR: Adjusts in A/abrevetilde and A/abrevegrave
+* December 12-26, 2023 Version 1.074R/1.072I
+  - MAJOR: Converted currencies to have the same width as zero-nine. Reflow may occur
+  - MAJOR: Added proportional figures
+  - MINOR: Adjusts in A/abrevetilde and A/abrevegrave
 
 ## License
 
