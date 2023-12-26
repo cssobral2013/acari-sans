@@ -24,96 +24,6 @@
     <key>y</key>
     <integer>512</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.Light.1487</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1487</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>H-height: 1448</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1448</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.1192</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1192</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>x-height: 1064</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1064</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.Bold.Black.1508</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>998</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics. UC: 1620</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>508</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>baseline</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>b</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-10</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>b.diacritics: -120</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-120</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-13</integer>
@@ -163,7 +73,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.071</string>
+  <string>Version 1.072</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -276,7 +186,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>71</integer>
+  <integer>72</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

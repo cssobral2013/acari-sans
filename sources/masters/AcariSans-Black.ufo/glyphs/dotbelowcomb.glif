@@ -3,7 +3,12 @@
   <unicode hex="0323"/>
   <anchor x="-290" y="-150" name="_bottom"/>
   <outline>
-    <component base="dotaccent" xOffset="-575" yOffset="-1631"/>
+    <contour>
+      <point x="-435" y="-391" type="line"/>
+      <point x="-145" y="-391" type="line" name=".dv00"/>
+      <point x="-145" y="-150" type="line" name=".dv09"/>
+      <point x="-435" y="-150" type="line" name=".dh00"/>
+    </contour>
   </outline>
   <guideline angle="0" x="0" y="-150"/>
 </glyph>

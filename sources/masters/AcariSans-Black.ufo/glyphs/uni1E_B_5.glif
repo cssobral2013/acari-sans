@@ -5,21 +5,6 @@
   <outline>
     <component base="a"/>
     <component base="uni0306" xOffset="928"/>
-    <component base="tildecomb" xOffset="966" yOffset="396"/>
+    <component base="tildecomb" xOffset="966" yOffset="306"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -3,29 +3,19 @@
   <advance width="1142"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="L"/>
     <contour>
       <point x="866" y="962" type="line" name=".dv03"/>
       <point x="1105" y="1447" type="line"/>
       <point x="828" y="1447" type="line" name=".dv04"/>
       <point x="708" y="962" type="line"/>
     </contour>
+    <contour>
+      <point x="1085" y="0" type="line" name=".dv01"/>
+      <point x="1085" y="276" type="line" name=".dv02"/>
+      <point x="467" y="276" type="line"/>
+      <point x="467" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dh01"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -3,7 +3,6 @@
   <advance width="1885"/>
   <unicode hex="0468"/>
   <outline>
-    <component base="uni0466" xOffset="509"/>
     <contour>
       <point x="186" y="0" type="line"/>
       <point x="446" y="0" type="line"/>
@@ -13,6 +12,27 @@
       <point x="446" y="843" type="line"/>
       <point x="446" y="1448" type="line"/>
       <point x="186" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="0" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="1199" y="1066" type="line"/>
+      <point x="1591" y="0" type="line"/>
+      <point x="1872" y="0" type="line"/>
+      <point x="1295" y="1448" type="line"/>
+      <point x="1101" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="1074" y="0" type="line"/>
+      <point x="1324" y="0" type="line"/>
+      <point x="1324" y="345" type="line"/>
+      <point x="1074" y="345" type="line"/>
+    </contour>
+    <contour>
+      <point x="887" y="314" type="line"/>
+      <point x="1510" y="314" type="line"/>
+      <point x="1422" y="537" type="line"/>
+      <point x="975" y="537" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -2,7 +2,46 @@
 <glyph name="f_f_l" format="2">
   <advance width="1607"/>
   <outline>
-    <component base="fl" xOffset="545"/>
+    <contour>
+      <point x="1433" y="-23" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1470" y="-23"/>
+      <point x="1523" y="-18"/>
+      <point x="1560" y="-6" type="curve"/>
+      <point x="1560" y="114" type="line"/>
+      <point x="1538" y="107"/>
+      <point x="1516" y="103"/>
+      <point x="1490" y="103" type="curve" smooth="yes" name=".dv02"/>
+      <point x="1440" y="103"/>
+      <point x="1436" y="131"/>
+      <point x="1436" y="158" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1436" y="1355" type="line"/>
+      <point x="1346" y="1425"/>
+      <point x="1218" y="1469"/>
+      <point x="1095" y="1469" type="curve" smooth="yes" name=".dv04"/>
+      <point x="887" y="1469"/>
+      <point x="742" y="1350"/>
+      <point x="742" y="1180" type="curve" smooth="yes" name=".sh03"/>
+      <point x="742" y="1064" type="line" name=".sv05"/>
+      <point x="583" y="1064" type="line" name=".dv06"/>
+      <point x="583" y="958" type="line" name=".dv05"/>
+      <point x="740" y="958" type="line" name=".ah01"/>
+      <point x="740" y="-2" type="line"/>
+      <point x="880" y="-2" type="line"/>
+      <point x="880" y="958" type="line" name=".sv01"/>
+      <point x="1117" y="958" type="line"/>
+      <point x="1117" y="1064" type="line" name=".sv02"/>
+      <point x="879" y="1064" type="line" name=".sh04"/>
+      <point x="879" y="1143" type="line" smooth="yes"/>
+      <point x="879" y="1274"/>
+      <point x="957" y="1345"/>
+      <point x="1076" y="1345" type="curve" smooth="yes" name=".dv03"/>
+      <point x="1182" y="1345"/>
+      <point x="1250" y="1326"/>
+      <point x="1296" y="1294" type="curve"/>
+      <point x="1296" y="206" type="line" smooth="yes" name=".ah01"/>
+      <point x="1296" y="107"/>
+      <point x="1303" y="-23"/>
+    </contour>
     <contour>
       <point x="184" y="0" type="line" name=".av02"/>
       <point x="324" y="0" type="line"/>
@@ -25,26 +64,9 @@
       <point x="186" y="1343"/>
       <point x="186" y="1159" type="curve" smooth="yes" name=".sh02"/>
       <point x="186" y="1064" type="line" name=".sv02"/>
-      <point x="38" y="1064" type="line"/>
+      <point x="38" y="1064" type="line" name=".dv06"/>
       <point x="38" y="958" type="line" name=".sv03"/>
       <point x="184" y="958" type="line" name=".sh01"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sv03</string>
-      <key>point2</key>
-      <string>.sh03</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

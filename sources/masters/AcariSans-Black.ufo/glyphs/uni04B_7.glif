@@ -3,29 +3,35 @@
   <advance width="1255"/>
   <unicode hex="04B7"/>
   <outline>
-    <component base="uni0447"/>
     <contour>
       <point x="1246" y="-244" type="line" name=".dv01"/>
       <point x="1246" y="172" type="line" name=".dv02"/>
       <point x="969" y="172" type="line"/>
       <point x="969" y="-244" type="line"/>
     </contour>
+    <contour>
+      <point x="53" y="683" type="line" smooth="yes"/>
+      <point x="53" y="459"/>
+      <point x="188" y="266"/>
+      <point x="434" y="266" type="curve" smooth="yes"/>
+      <point x="560" y="266"/>
+      <point x="661" y="282"/>
+      <point x="755" y="333" type="curve" name=".iv01"/>
+      <point x="755" y="591" type="line"/>
+      <point x="674" y="551"/>
+      <point x="608" y="536"/>
+      <point x="486" y="536" type="curve" smooth="yes" name=".dv02"/>
+      <point x="375" y="536"/>
+      <point x="338" y="608"/>
+      <point x="338" y="711" type="curve" smooth="yes"/>
+      <point x="338" y="1064" type="line" name=".av02"/>
+      <point x="53" y="1064" type="line" name=".sh01"/>
+    </contour>
+    <contour>
+      <point x="729" y="0" type="line"/>
+      <point x="1014" y="0" type="line" name=".av03"/>
+      <point x="1014" y="1064" type="line" name=".av01"/>
+      <point x="729" y="1064" type="line" name=".ah01"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

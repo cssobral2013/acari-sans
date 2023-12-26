@@ -2,7 +2,6 @@
 <glyph name="uni030A0301" format="2">
   <anchor x="-324" y="1308" name="_center"/>
   <outline>
-    <component base="acute" xOffset="-520" yOffset="394"/>
     <contour>
       <point x="-324" y="1064" type="curve" smooth="yes" name=".dv00"/>
       <point x="-180" y="1064"/>
@@ -31,106 +30,11 @@
       <point x="-222" y="1245"/>
       <point x="-261" y="1206"/>
     </contour>
+    <contour>
+      <point x="-309" y="1586" type="line" name=".av07"/>
+      <point x="23" y="1902" type="line" name=".av08"/>
+      <point x="-265" y="1902" type="line"/>
+      <point x="-500" y="1586" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.dv08</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv09</string>
-      <key>point2</key>
-      <string>.dv07</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>.ah00</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.ah00</string>
-      <key>delta</key>
-      <integer>3</integer>
-      <key>ppm1</key>
-      <integer>22</integer>
-      <key>ppm2</key>
-      <integer>23</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.ah00</string>
-      <key>delta</key>
-      <integer>2</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>21</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.ah00</string>
-      <key>point2</key>
-      <string>.sh00</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>lsb</string>
-      <key>point2</key>
-      <string>.sh05</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh05</string>
-      <key>point2</key>
-      <string>.sh06</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

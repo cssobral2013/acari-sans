@@ -3,27 +3,33 @@
   <advance width="1211"/>
   <unicode hex="0127"/>
   <outline>
-    <component base="h"/>
     <contour>
       <point x="5" y="1312" type="line"/>
       <point x="5" y="1128" type="line" name=".sv02"/>
       <point x="655" y="1128" type="line"/>
       <point x="655" y="1312" type="line"/>
     </contour>
+    <contour>
+      <point x="143" y="0" type="line" name=".av03"/>
+      <point x="429" y="0" type="line" name=".sh03"/>
+      <point x="429" y="504" type="line" smooth="yes"/>
+      <point x="429" y="709"/>
+      <point x="514" y="823"/>
+      <point x="662" y="823" type="curve" smooth="yes" name=".dv01"/>
+      <point x="759" y="823"/>
+      <point x="817" y="747"/>
+      <point x="817" y="620" type="curve" smooth="yes" name=".ah01"/>
+      <point x="817" y="0" type="line"/>
+      <point x="1102" y="0" type="line" name=".av02"/>
+      <point x="1102" y="653" type="line" smooth="yes" name=".sh01"/>
+      <point x="1102" y="911"/>
+      <point x="949" y="1084"/>
+      <point x="722" y="1084" type="curve" smooth="yes" name=".dv02"/>
+      <point x="596" y="1084"/>
+      <point x="505" y="1047"/>
+      <point x="429" y="964" type="curve" name=".iv01"/>
+      <point x="429" y="1448" type="line" name=".av01"/>
+      <point x="143" y="1448" type="line" name=".sh02"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

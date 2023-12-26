@@ -6,13 +6,11 @@
   <anchor x="513" y="1372" name="center"/>
   <anchor x="513" y="-150" name="bottom"/>
   <outline>
-    <component base="abreve"/>
-    <component base="gravecomb" xOffset="812"/>
+    <component base="a"/>
+    <component base="uni03060300" xOffset="942"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>abreve+gravecomb</string>
   </dict>

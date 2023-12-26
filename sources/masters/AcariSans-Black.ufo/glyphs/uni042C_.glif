@@ -3,7 +3,6 @@
   <advance width="1201"/>
   <unicode hex="042C"/>
   <outline>
-    <component base="I"/>
     <contour>
       <point x="656" y="0" type="line" smooth="yes" name=".dv01"/>
       <point x="949" y="0"/>
@@ -24,6 +23,12 @@
       <point x="395" y="274" type="line"/>
       <point x="395" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="467" y="0" type="line" name=".av02"/>
+      <point x="467" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dh01"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -31,45 +36,6 @@
   <string>=I</string>
   <key>com.fontlab.metricsRight</key>
   <string>=P</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>.ah01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

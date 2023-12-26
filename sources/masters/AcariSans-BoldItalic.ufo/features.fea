@@ -125,8 +125,6 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
-
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -147,8 +145,6 @@ feature aalt useExtension {
   sub nine from [nine.superior nine.inferior];
 
 } aalt;
-
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -157,8 +153,6 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
-
-
 feature locl {
 # Localized Forms
 
@@ -207,8 +201,6 @@ feature locl {
 
 #< feature
 } locl;
-
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -218,8 +210,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -231,8 +221,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -249,8 +237,6 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
-
-
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -258,8 +244,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -276,8 +260,6 @@ feature sinf {
   sub nine by nine.inferior;
 
 } sinf;
-
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -294,8 +276,6 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
-
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -304,8 +284,6 @@ feature cpsp {
   pos W <5 1 10 2>;
 
 } cpsp;
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -351,8 +329,6 @@ feature mark {
 
 
 } mark;
-
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -372,8 +348,6 @@ feature mkmk {
 
 
 } mkmk;
-
-
 feature pnum {
 # Proportional Figures
 
@@ -390,7 +364,6 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
-
 feature tnum {
 # Tabular Figures
 
@@ -407,4 +380,3 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
-

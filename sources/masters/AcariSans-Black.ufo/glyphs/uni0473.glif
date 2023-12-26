@@ -3,12 +3,39 @@
   <advance width="1154"/>
   <unicode hex="0473"/>
   <outline>
-    <component base="o"/>
     <contour>
       <point x="261" y="395" type="line" name=".dv05"/>
       <point x="919" y="395" type="line"/>
       <point x="919" y="608" type="line"/>
       <point x="261" y="608" type="line" name=".dv06"/>
+    </contour>
+    <contour>
+      <point x="577" y="-20" type="curve" smooth="yes"/>
+      <point x="911" y="-20"/>
+      <point x="1114" y="199"/>
+      <point x="1114" y="532" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1114" y="866"/>
+      <point x="898" y="1084"/>
+      <point x="577" y="1084" type="curve" smooth="yes" name=".dv04"/>
+      <point x="249" y="1084"/>
+      <point x="40" y="866"/>
+      <point x="40" y="532" type="curve" smooth="yes" name=".sh02"/>
+      <point x="40" y="199"/>
+      <point x="255" y="-20"/>
+    </contour>
+    <contour>
+      <point x="577" y="219" type="curve" smooth="yes" name=".dv02"/>
+      <point x="397" y="219"/>
+      <point x="328" y="373"/>
+      <point x="328" y="532" type="curve" smooth="yes" name=".sh03"/>
+      <point x="328" y="692"/>
+      <point x="411" y="845"/>
+      <point x="577" y="845" type="curve" smooth="yes" name=".dv03"/>
+      <point x="753" y="845"/>
+      <point x="826" y="685"/>
+      <point x="826" y="532" type="curve" smooth="yes" name=".ah01"/>
+      <point x="826" y="367"/>
+      <point x="752" y="219"/>
     </contour>
   </outline>
   <lib>
@@ -17,19 +44,6 @@
   <string>=o</string>
   <key>com.fontlab.metricsRight</key>
   <string>=o</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv05</string>
-      <key>point2</key>
-      <string>.dv06</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

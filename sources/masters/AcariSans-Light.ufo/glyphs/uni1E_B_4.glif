@@ -7,12 +7,10 @@
   <anchor x="670" y="-150" name="bottom"/>
   <outline>
     <component base="Abreve"/>
-    <component base="tildecomb" xOffset="1106.03" yOffset="384"/>
+    <component base="tildecomb" xOffset="1116.03" yOffset="750"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Abreve+tildecomb</string>
   </dict>

@@ -13,21 +13,4 @@
   <guideline angle="90" name="vertical" x="-431" y="0"/>
   <guideline angle="90" x="-715" y="0"/>
   <guideline angle="90" x="-137" y="0"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.dv07</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>
