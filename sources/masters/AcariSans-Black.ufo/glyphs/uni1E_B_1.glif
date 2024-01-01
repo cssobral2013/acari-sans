@@ -4,22 +4,6 @@
   <unicode hex="1EB1"/>
   <outline>
     <component base="a"/>
-    <component base="uni0306" xOffset="927.744"/>
-    <component base="gravecomb" xOffset="664.576" yOffset="423.936"/>
+    <component base="uni03060300" xOffset="928"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

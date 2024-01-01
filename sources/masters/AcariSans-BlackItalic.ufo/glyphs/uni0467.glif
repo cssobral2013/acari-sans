@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0467" format="2">
-  <advance width="1037"/>
+  <advance width="1135"/>
   <unicode hex="0467"/>
+  <outline>
+    <component base="uni043B.loclBGR"/>
+    <contour>
+      <point x="781.504" y="351.304" type="line"/>
+      <point x="307.2" y="351.304" type="line"/>
+      <point x="194.546" y="151.08" type="line"/>
+      <point x="807.99" y="151.08" type="line"/>
+    </contour>
+    <contour>
+      <point x="419.938" y="204.06" type="line"/>
+      <point x="371.735" y="0" type="line"/>
+      <point x="564.354" y="0" type="line"/>
+      <point x="613.816" y="204.022" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  </dict>
+  </lib>
 </glyph>

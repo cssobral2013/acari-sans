@@ -3,7 +3,7 @@
   <advance width="885"/>
   <unicode hex="2086"/>
   <outline>
-    <component base="uni2076" xOffset="0.150814" yOffset="-1400.42"/>
+    <component base="uni2076" yOffset="-1400"/>
   </outline>
   <lib>
   <dict>
@@ -11,17 +11,6 @@
   <string>=uni2076</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2076</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

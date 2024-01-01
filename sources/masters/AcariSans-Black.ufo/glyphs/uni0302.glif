@@ -3,7 +3,14 @@
   <unicode hex="0302"/>
   <anchor x="-379" y="1212.42" name="_top"/>
   <outline>
-    <component base="circumflex" xOffset="-709.12"/>
+    <contour>
+      <point x="-699" y="1192" type="line" name=".av05"/>
+      <point x="-497" y="1192" type="line"/>
+      <point x="-379" y="1327" type="line"/>
+      <point x="-259" y="1192" type="line"/>
+      <point x="-59" y="1192" type="line" name=".av00"/>
+      <point x="-379" y="1551" type="line" name=".av06"/>
+    </contour>
   </outline>
   <guideline angle="90" name="vertical" x="-379" y="0"/>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-  <advance width="633"/>
+  <advance width="632"/>
   <unicode hex="012A"/>
   <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="uni0304" xOffset="775.168" yOffset="425.984"/>
+    <component base="uni0304" xOffset="775" yOffset="425.984"/>
   </outline>
   <lib>
   <dict>

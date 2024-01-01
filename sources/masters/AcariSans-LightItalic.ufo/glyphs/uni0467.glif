@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0467" format="2">
-  <advance width="1076"/>
+  <advance width="993"/>
   <unicode hex="0467"/>
   <outline>
+    <component base="uni043B.loclBGR"/>
     <contour>
-      <point x="878.592" y="0" type="line"/>
-      <point x="718.848" y="1063.94" type="line"/>
-      <point x="606.208" y="1063.94" type="line"/>
-      <point x="-44.032" y="0" type="line"/>
-      <point x="96.256" y="0" type="line"/>
-      <point x="360.448" y="433.152" type="line"/>
-      <point x="449.536" y="433.152" type="line"/>
-      <point x="353.28" y="0" type="line"/>
-      <point x="486.4" y="0" type="line"/>
-      <point x="585.728" y="433.152" type="line"/>
-      <point x="684.032" y="433.152" type="line"/>
-      <point x="722.944" y="0" type="line"/>
+      <point x="704.512" y="409.552" type="line"/>
+      <point x="291.168" y="409.552" type="line"/>
+      <point x="229.728" y="313.152" type="line"/>
+      <point x="714.752" y="313.152" type="line"/>
     </contour>
     <contour>
-      <point x="673.792" y="535.552" type="line"/>
-      <point x="421.888" y="535.552" type="line"/>
-      <point x="630.784" y="893.952" type="line"/>
+      <point x="390.279" y="337.14" type="line"/>
+      <point x="314.28" y="0" type="line"/>
+      <point x="446.126" y="0" type="line"/>
+      <point x="521.424" y="337.095" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  </dict>
+  </lib>
 </glyph>

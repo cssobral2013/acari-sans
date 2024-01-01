@@ -2,7 +2,6 @@
 <glyph name="uni0308030C" format="2">
   <anchor x="-306" y="1192" name="_top"/>
   <outline>
-    <component base="caron" xOffset="-747" yOffset="253"/>
     <contour>
       <point x="-391" y="1192" type="line"/>
       <point x="-336" y="1433" type="line"/>
@@ -14,6 +13,14 @@
       <point x="32" y="1433" type="line"/>
       <point x="-190" y="1433" type="line"/>
       <point x="-244" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="-262.648" y="1444.94" type="line"/>
+      <point x="133.64" y="1784.9" type="line"/>
+      <point x="-72.184" y="1784.9" type="line"/>
+      <point x="-224.76" y="1662.02" type="line"/>
+      <point x="-308.728" y="1784.9" type="line"/>
+      <point x="-507.384" y="1784.9" type="line"/>
     </contour>
   </outline>
 </glyph>

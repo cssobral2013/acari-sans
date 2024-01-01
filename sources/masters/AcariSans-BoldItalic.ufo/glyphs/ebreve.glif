@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve" format="2">
-  <advance width="1113"/>
+  <advance width="1114"/>
   <unicode hex="0115"/>
-  <anchor x="589" y="0" name="ogonek"/>
+  <anchor x="595" y="0" name="ogonek"/>
+  <anchor x="479" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="uni0306" xOffset="959"/>
+    <component base="uni0306" xOffset="965"/>
   </outline>
   <lib>
   <dict>

@@ -4,189 +4,42 @@
   <unicode hex="0436"/>
   <outline>
     <contour>
-      <point x="-1.024" y="0" type="line" name=".av02"/>
-      <point x="330.752" y="0" type="line"/>
-      <point x="448.669" y="341" type="line" smooth="yes"/>
-      <point x="472.097" y="408.751"/>
-      <point x="501.349" y="461.824"/>
-      <point x="579.584" y="461.824" type="curve" smooth="yes" name=".dv01"/>
-      <point x="658.432" y="461.824" type="line" name=".sh01"/>
-      <point x="658.432" y="0" type="line" name=".av03"/>
-      <point x="939.008" y="0" type="line" name=".sh02"/>
-      <point x="939.008" y="461.824" type="line" name=".sv02"/>
-      <point x="1018.88" y="461.824" type="line" smooth="yes"/>
-      <point x="1093.63" y="461.824"/>
-      <point x="1125.14" y="409.877"/>
-      <point x="1148.93" y="340.992" type="curve" smooth="yes"/>
-      <point x="1266.69" y="0" type="line"/>
-      <point x="1599.49" y="0" type="line" name=".av01"/>
-      <point x="1414.14" y="472.064" type="line" smooth="yes"/>
-      <point x="1386.86" y="541.567"/>
-      <point x="1306.62" y="631.808"/>
-      <point x="1238.02" y="631.808" type="curve" name=".iv01"/>
-      <point x="1549.31" y="1063.98" type="line" name=".iv02"/>
-      <point x="1228.8" y="1063.98" type="line"/>
-      <point x="985.088" y="662.528" type="line" name=".sv01"/>
-      <point x="939.008" y="662.528" type="line"/>
-      <point x="939.008" y="1063.57" type="line" name=".av04"/>
-      <point x="658.432" y="1063.57" type="line" name=".dh01"/>
-      <point x="658.432" y="662.528" type="line"/>
-      <point x="612.352" y="662.528" type="line" name=".dv02"/>
-      <point x="368.64" y="1063.98" type="line"/>
-      <point x="47.104" y="1063.98" type="line" name=".iv03"/>
-      <point x="359.424" y="631.808" type="line" name=".iv04"/>
-      <point x="282.382" y="632"/>
-      <point x="209.171" y="538.333"/>
-      <point x="183.296" y="472.064" type="curve" smooth="yes"/>
+      <point x="-1" y="0" type="line" name=".av02"/>
+      <point x="331" y="0" type="line"/>
+      <point x="449" y="341" type="line" smooth="yes"/>
+      <point x="472" y="409"/>
+      <point x="502" y="462"/>
+      <point x="580" y="462" type="curve" smooth="yes" name=".dv01"/>
+      <point x="658" y="462" type="line" name=".sh01"/>
+      <point x="658" y="0" type="line" name=".av03"/>
+      <point x="939" y="0" type="line" name=".sh02"/>
+      <point x="939" y="462" type="line" name=".sv02"/>
+      <point x="1019" y="462" type="line" smooth="yes"/>
+      <point x="1094" y="462"/>
+      <point x="1125" y="410"/>
+      <point x="1149" y="341" type="curve" smooth="yes"/>
+      <point x="1267" y="0" type="line"/>
+      <point x="1599" y="0" type="line" name=".av01"/>
+      <point x="1414" y="472" type="line" smooth="yes"/>
+      <point x="1387" y="542"/>
+      <point x="1307" y="632"/>
+      <point x="1238" y="632" type="curve" name=".iv01"/>
+      <point x="1549" y="1064" type="line" name=".iv02"/>
+      <point x="1229" y="1064" type="line"/>
+      <point x="985" y="663" type="line" name=".sv01"/>
+      <point x="939" y="663" type="line"/>
+      <point x="939" y="1064" type="line" name=".av04"/>
+      <point x="658" y="1064" type="line" name=".dh01"/>
+      <point x="658" y="663" type="line"/>
+      <point x="612" y="663" type="line" name=".dv02"/>
+      <point x="369" y="1064" type="line"/>
+      <point x="47" y="1064" type="line" name=".iv03"/>
+      <point x="359" y="632" type="line" name=".iv04"/>
+      <point x="282" y="632"/>
+      <point x="209" y="538"/>
+      <point x="183" y="472" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="341"/>
   <guideline angle="0" x="0" y="410"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av03</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av04</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.sv02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv01</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv02</string>
-      <key>point1</key>
-      <string>.av01</string>
-      <key>point2</key>
-      <string>.av04</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv02</string>
-      <key>point2</key>
-      <string>.sv01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv03</string>
-      <key>point1</key>
-      <string>.av01</string>
-      <key>point2</key>
-      <string>.av04</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv04</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.av04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.av04</string>
-      <key>point2</key>
-      <string>.sh02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

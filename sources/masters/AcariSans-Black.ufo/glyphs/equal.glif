@@ -4,43 +4,16 @@
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="1086.46" y="762.88" type="line" name=".dv03"/>
-      <point x="1086.46" y="996.352" type="line" name=".dv04"/>
-      <point x="214.016" y="996.352" type="line"/>
-      <point x="214.016" y="762.88" type="line"/>
+      <point x="1086" y="763" type="line" name=".dv03"/>
+      <point x="1086" y="996" type="line" name=".dv04"/>
+      <point x="214" y="996" type="line"/>
+      <point x="214" y="763" type="line"/>
     </contour>
     <contour>
-      <point x="1086.46" y="378.88" type="line" name=".dv01"/>
-      <point x="1086.46" y="613.376" type="line" name=".dv02"/>
-      <point x="214.016" y="613.376" type="line"/>
-      <point x="214.016" y="378.88" type="line"/>
+      <point x="1086" y="379" type="line" name=".dv01"/>
+      <point x="1086" y="613" type="line" name=".dv02"/>
+      <point x="214" y="613" type="line"/>
+      <point x="214" y="379" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -88,6 +88,16 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>b</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-6</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>b.diacritics: -120</string>
     <key>x</key>
     <integer>0</integer>
@@ -143,7 +153,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.068</string>
+  <string>Version 1.072</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -256,7 +266,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>68</integer>
+  <integer>72</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

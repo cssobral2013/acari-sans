@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="1411"/>
+  <advance width="1410"/>
   <unicode hex="0149"/>
   <outline>
-    <component base="n" xOffset="200.229"/>
     <contour>
-      <point x="99.9311" y="854.536" type="line" name=".av02"/>
-      <point x="373.609" y="1447.66" type="line" name=".av01"/>
-      <point x="56.9395" y="1447.66" type="line"/>
-      <point x="-93.0069" y="854.536" type="line"/>
+      <point x="100" y="855" type="line" name=".av02"/>
+      <point x="374" y="1448" type="line" name=".av01"/>
+      <point x="57" y="1448" type="line"/>
+      <point x="-93" y="855" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="0" type="line" name=".av02"/>
+      <point x="626" y="0" type="line" name=".sh04"/>
+      <point x="626" y="498" type="line" smooth="yes"/>
+      <point x="626" y="657"/>
+      <point x="669" y="823"/>
+      <point x="860" y="823" type="curve" smooth="yes"/>
+      <point x="971" y="823"/>
+      <point x="1015" y="754"/>
+      <point x="1015" y="620" type="curve" smooth="yes" name=".ah01"/>
+      <point x="1015" y="0" type="line"/>
+      <point x="1301" y="0" type="line" name=".av01"/>
+      <point x="1301" y="656" type="line" smooth="yes" name=".sh01"/>
+      <point x="1301" y="876"/>
+      <point x="1174" y="1084"/>
+      <point x="922" y="1084" type="curve" smooth="yes" name=".dv02"/>
+      <point x="802" y="1084"/>
+      <point x="704" y="1048"/>
+      <point x="626" y="962" type="curve" name=".iv01"/>
+      <point x="626" y="1064" type="line" name=".sh03"/>
+      <point x="341" y="1064" type="line" name=".sh02"/>
     </contour>
   </outline>
   <lib>

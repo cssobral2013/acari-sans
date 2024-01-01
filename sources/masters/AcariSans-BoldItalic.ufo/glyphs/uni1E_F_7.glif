@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF7" format="2">
-  <advance width="1057"/>
+  <advance width="1104"/>
   <unicode hex="1EF7"/>
+  <anchor x="646" y="-210" name="bottom"/>
   <outline>
-    <component base="hookabovecomb" xOffset="922" yOffset="102"/>
-    <component base="y" xOffset="-1"/>
+    <component base="y"/>
+    <component base="hookabovecomb" xOffset="856" yOffset="94"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

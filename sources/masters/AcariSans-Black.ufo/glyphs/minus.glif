@@ -4,27 +4,10 @@
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="1462.27" y="538.624" type="line" name=".dv01"/>
-      <point x="1462.27" y="749.568" type="line" name=".dv02"/>
-      <point x="209.92" y="749.568" type="line"/>
-      <point x="209.92" y="538.624" type="line"/>
+      <point x="1462" y="539" type="line" name=".dv01"/>
+      <point x="1462" y="750" type="line" name=".dv02"/>
+      <point x="210" y="750" type="line"/>
+      <point x="210" y="539" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

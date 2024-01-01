@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.pnum" format="2">
+  <advance width="1337"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="1236" y="0" type="line" name=".dv01"/>
+      <point x="1236" y="264" type="line" name=".dv02"/>
+      <point x="601" y="264" type="line"/>
+      <point x="1006" y="536"/>
+      <point x="1166" y="752"/>
+      <point x="1166" y="1033" type="curve" smooth="yes" name=".dh02"/>
+      <point x="1166" y="1283"/>
+      <point x="937" y="1466"/>
+      <point x="696" y="1466" type="curve" smooth="yes" name=".dv04"/>
+      <point x="383" y="1466"/>
+      <point x="165" y="1200"/>
+      <point x="165" y="921" type="curve"/>
+      <point x="449" y="904" type="line"/>
+      <point x="449" y="1060"/>
+      <point x="512" y="1205"/>
+      <point x="688" y="1205" type="curve" smooth="yes" name=".dv03"/>
+      <point x="808" y="1205"/>
+      <point x="877" y="1133"/>
+      <point x="877" y="1015" type="curve" smooth="yes" name=".dh01"/>
+      <point x="877" y="742"/>
+      <point x="318" y="309"/>
+      <point x="101" y="219" type="curve" name=".iv01"/>
+      <point x="109" y="224" type="line" name=".iv02"/>
+    </contour>
+  </outline>
+</glyph>

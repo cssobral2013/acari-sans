@@ -3,7 +3,24 @@
   <advance width="924"/>
   <unicode hex="2084"/>
   <outline>
-    <component base="uni2074" xOffset="-0.288202" yOffset="-1400.27"/>
+    <contour>
+      <point x="714" y="-464" type="line" name=".av01"/>
+      <point x="714" y="-259" type="line" name=".dv01"/>
+      <point x="869" y="-259" type="line"/>
+      <point x="869" y="-56" type="line"/>
+      <point x="714" y="-56" type="line" name=".dv02"/>
+      <point x="714" y="500" type="line" name=".av02"/>
+      <point x="533" y="500" type="line"/>
+      <point x="53" y="-131" type="line"/>
+      <point x="53" y="-259" type="line" name=".sv01"/>
+      <point x="500" y="-259" type="line" name=".dh01"/>
+      <point x="500" y="-464" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-56" type="line" name=".sv02"/>
+      <point x="306" y="-56" type="line" name=".iv01"/>
+      <point x="500" y="206" type="line" name=".iv02"/>
+    </contour>
   </outline>
   <lib>
   <dict>

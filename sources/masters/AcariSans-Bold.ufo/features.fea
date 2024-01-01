@@ -4,20 +4,6 @@
 @locl_ss022 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 #/< otclasses
-
-#/> kernclasses
-@T = [T Tbar Tcaron Y Yacute Ycircumflex Ydieresis Ygrave];
-@A = [A L];
-@V = [V];
-@W = [W Wacute Wcircumflex Wdieresis Wgrave];
-@B = [.notdef AE AEacute Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth Euro F G Gbreve Gcircumflex Gdotaccent Germandbls H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohorn Ohungarumlaut Omacron Oslash Oslashacute Otilde P Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhorn Uhungarumlaut Umacron Uogonek Uring Utilde X Z Zacute Zcaron Zdotaccent aacute abreve acircumflex acute acutecomb adieresis aeacute agrave amacron ampersand aogonek approxequal aring aringacute arrowleft arrowright asciicircum asciitilde asterisk at atilde b backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet caron ccircumflex cedilla circumflex colon comma copyright currency dagger daggerdbl degree dieresis divide dollar dotaccent dotbelowcomb dotlessi ebreve eight ellipsis emdash endash eng equal exclam exclamdown f_f f_f_i f_f_l fi five fl florin four fraction g.ss01 gbreve.ss01 gcircumflex gdotaccent.ss01 germandbls grave gravecomb greater greaterequal guillemotleft guillemotright guilsinglleft guilsinglright h hbar hcircumflex hookabovecomb hungarumlaut hyphen i.loclTRK iacute ibreve icircumflex idieresis igrave ij imacron integral iogonek itilde jcircumflex k kgreenlandic lacute lcaron ldot less lessequal logicalnot longs lozenge lslash m macron minus multiply n nacute napostrophe ncaron nine notequal ntilde numbersign obreve ogonek ohorn one onesuperior ordfeminine ordmasculine oslashacute p paragraph parenleft parenright percent period periodcentered perthousand pi plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quoteleft quotesinglbase quotesingle r racute radical rcaron registered ring sacute scaron scedilla scircumflex section semicolon seven six slash space sterling summation t tbar tcaron thorn three threesuperior tilde tildecomb trademark two twodotenleader twosuperior ubreve uhorn underscore uogonek uring utilde x yacute ycircumflex ydieresis yen ygrave z zacute zcaron zdotaccent zero];
-@T2 = [T Tbar Tcaron V Y Yacute Ycircumflex Ydieresis Ygrave];
-@W2 = [W Wacute Wcircumflex Wdieresis Wgrave];
-@quoteright = [quotedblright quoteright];
-@A2 = [A];
-@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
-@v = [v w wacute wcircumflex wdieresis wgrave y];
-#/< kernclasses
 #< classes
 
 #/> classes
@@ -493,6 +479,14 @@ feature locl {
 
   script latn; # Latin
     language TRK ; # Turkish
+    sub i by i.loclTRK;
+    language CRT ; # Turkish
+    sub i by i.loclTRK;
+    language TAT ; # Turkish
+    sub i by i.loclTRK;
+    language KAZ ; # Turkish
+    sub i by i.loclTRK;
+    language AZE ; # Turkish
     sub i by i.loclTRK;
 
     language MOL ; # Moldavian
@@ -974,3 +968,35 @@ feature kern {
 
 
 } kern;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight by eight.pnum;
+  sub five by five.pnum;
+  sub four by four.pnum;
+  sub nine by nine.pnum;
+  sub one by one.pnum;
+  sub seven by seven.pnum;
+  sub six by six.pnum;
+  sub three by three.pnum;
+  sub two by two.pnum;
+  sub zero by zero.pnum;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight.pnum by eight;
+  sub five.pnum by five;
+  sub four.pnum by four;
+  sub nine.pnum by nine;
+  sub one.pnum by one;
+  sub seven.pnum by seven;
+  sub six.pnum by six;
+  sub three.pnum by three;
+  sub two.pnum by two;
+  sub zero.pnum by zero;
+#< feature
+} tnum;

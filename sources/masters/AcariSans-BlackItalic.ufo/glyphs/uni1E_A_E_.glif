@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EAE" format="2">
-  <advance width="1375"/>
+  <advance width="1388"/>
   <unicode hex="1EAE"/>
+  <anchor x="1271" y="0" name="ogonek"/>
+  <anchor x="574" y="-120" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni03060301" xOffset="1177" yOffset="428"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03060301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

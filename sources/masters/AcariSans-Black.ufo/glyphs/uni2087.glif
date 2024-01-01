@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2087" format="2">
-  <advance width="810"/>
+  <advance width="811"/>
   <unicode hex="2087"/>
   <outline>
-    <component base="uni2077" xOffset="-0.0503921" yOffset="-1400.27"/>
+    <contour>
+      <point x="338" y="-464" type="line" name=".av01"/>
+      <point x="769" y="389" type="line"/>
+      <point x="769" y="500" type="line"/>
+      <point x="56" y="500" type="line" name=".dv02"/>
+      <point x="56" y="301" type="line" name=".dv01"/>
+      <point x="532" y="301" type="line"/>
+      <point x="123" y="-464" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

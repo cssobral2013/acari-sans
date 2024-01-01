@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0435" format="2">
-  <advance width="1084"/>
+  <advance width="1081"/>
   <unicode hex="0435"/>
-  <anchor x="706" y="1192" name="top"/>
-  <anchor x="552" y="0" name="ogonek"/>
+  <anchor x="704" y="1192" name="top"/>
+  <anchor x="550" y="0" name="ogonek"/>
+  <anchor x="455" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
   </outline>

@@ -4,47 +4,20 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="397.856" y="212.856" type="curve" smooth="yes" name=".dv01"/>
-      <point x="555.892" y="212.856"/>
-      <point x="677.544" y="334.574"/>
-      <point x="677.544" y="492.712" type="curve" smooth="yes" name=".dh02"/>
-      <point x="677.544" y="652.086"/>
-      <point x="556.613" y="773.413"/>
-      <point x="398.024" y="773.256" type="curve" smooth="yes" name=".dv02"/>
-      <point x="237.968" y="773.098"/>
-      <point x="118.144" y="653.02"/>
-      <point x="118.144" y="492.712" type="curve" smooth="yes" name=".dh01"/>
-      <point x="118.144" y="333.68"/>
-      <point x="238.913" y="212.856"/>
+      <point x="398" y="213" type="curve" smooth="yes" name=".dv01"/>
+      <point x="556" y="213"/>
+      <point x="678" y="335"/>
+      <point x="678" y="493" type="curve" smooth="yes" name=".dh02"/>
+      <point x="678" y="652"/>
+      <point x="557" y="773"/>
+      <point x="398" y="773" type="curve" smooth="yes" name=".dv02"/>
+      <point x="238" y="773"/>
+      <point x="118" y="653"/>
+      <point x="118" y="493" type="curve" smooth="yes" name=".dh01"/>
+      <point x="118" y="334"/>
+      <point x="239" y="213"/>
     </contour>
   </outline>
   <guideline angle="90" x="398" y="0"/>
   <guideline angle="0" x="0" y="493"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dh02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>
