@@ -7,12 +7,10 @@
   <anchor x="535" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="hookabovecomb" xOffset="856" yOffset="127.936"/>
+    <component base="hookabovecomb" xOffset="856" yOffset="128"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+hookabovecomb</string>
   <key>public.markColor</key>

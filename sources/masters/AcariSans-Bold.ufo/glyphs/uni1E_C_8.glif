@@ -5,12 +5,10 @@
   <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="hookabovecomb" xOffset="626" yOffset="519.92"/>
+    <component base="hookabovecomb" xOffset="626" yOffset="520"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+hookabovecomb</string>
   <key>public.markColor</key>

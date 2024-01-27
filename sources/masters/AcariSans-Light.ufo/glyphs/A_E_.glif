@@ -5,29 +5,28 @@
   <anchor x="1062" y="1617.92" name="top"/>
   <outline>
     <contour>
-      <point x="1738.75" y="0" type="line" name=".dv01"/>
-      <point x="1738.75" y="118.784" type="line" name=".dv02"/>
-      <point x="971.776" y="118.784" type="line" name=".dh02"/>
-      <point x="971.776" y="663.552" type="line" name=".dv07"/>
-      <point x="1647.62" y="663.552" type="line"/>
-      <point x="1647.62" y="782.336" type="line"/>
-      <point x="971.776" y="782.336" type="line" name=".dv08"/>
-      <point x="971.776" y="1335.3" type="line" name=".sv01"/>
-      <point x="1738.75" y="1335.3" type="line"/>
-      <point x="1738.75" y="1446.91" type="line" name=".av01"/>
-      <point x="609.28" y="1446.91" type="line" name=".dv04"/>
-      <point x="76.7999" y="0" type="line" name=".sv02"/>
-      <point x="223.232" y="0" type="line"/>
-      <point x="336.896" y="314.368" type="line" name=".dv05"/>
-      <point x="831.488" y="314.368" type="line"/>
-      <point x="831.488" y="0" type="line" name=".dh01"/>
+      <point x="1739" y="0" type="line" name=".dv01"/>
+      <point x="1739" y="119" type="line" name=".dv02"/>
+      <point x="972" y="119" type="line" name=".dh02"/>
+      <point x="972" y="664" type="line" name=".dv07"/>
+      <point x="1648" y="664" type="line"/>
+      <point x="1648" y="782" type="line"/>
+      <point x="972" y="782" type="line" name=".dv08"/>
+      <point x="972" y="1335" type="line" name=".sv01"/>
+      <point x="1739" y="1335" type="line"/>
+      <point x="1739" y="1447" type="line" name=".av01"/>
+      <point x="609" y="1447" type="line" name=".dv04"/>
+      <point x="77" y="0" type="line" name=".sv02"/>
+      <point x="223" y="0" type="line"/>
+      <point x="337" y="314" type="line" name=".dv05"/>
+      <point x="831" y="314" type="line"/>
+      <point x="831" y="0" type="line" name=".dh01"/>
     </contour>
     <contour>
-      <point x="831.488" y="444.416" type="line" name=".sh01"/>
-      <point x="379.904" y="444.416" type="line" name=".dv06"/>
-      <point x="699.392" y="1335.3" type="line" name=".dv03"/>
-      <point x="831.488" y="1335.3" type="line"/>
+      <point x="831" y="444" type="line" name=".sh01"/>
+      <point x="380" y="444" type="line" name=".dv06"/>
+      <point x="699" y="1335" type="line" name=".dv03"/>
+      <point x="831" y="1335" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="1062" y="0"/>
 </glyph>

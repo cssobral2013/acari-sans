@@ -6,12 +6,10 @@
   <anchor x="405" y="-120" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="tildecomb" xOffset="872"/>
+    <component base="tildecomb" xOffset="1004"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+tildecomb</string>
   <key>public.markColor</key>

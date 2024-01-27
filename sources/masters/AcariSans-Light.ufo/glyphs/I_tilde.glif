@@ -5,12 +5,10 @@
   <anchor x="365" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="tildecomb" xOffset="735" yOffset="425.92"/>
+    <component base="tildecomb" xOffset="735" yOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+tildecomb</string>
   <key>public.markColor</key>

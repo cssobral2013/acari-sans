@@ -6,12 +6,10 @@
   <anchor x="1545" y="1448" name="horn"/>
   <outline>
     <component base="O"/>
-    <component base="uni0308" xOffset="1212" yOffset="425.92"/>
+    <component base="uni0308" xOffset="1212" yOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+uni0308</string>
   <key>public.markColor</key>

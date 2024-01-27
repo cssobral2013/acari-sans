@@ -6,12 +6,10 @@
   <anchor x="546" y="-120" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="acutecomb" xOffset="1086" yOffset="428"/>
+    <component base="acutecomb" xOffset="1166" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+acutecomb</string>
   <key>public.markColor</key>
