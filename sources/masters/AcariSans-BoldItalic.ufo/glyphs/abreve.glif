@@ -6,12 +6,10 @@
   <anchor x="422" y="-120" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni0306" xOffset="887"/>
+    <component base="uni0306" xOffset="1035"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+uni0306</string>
   <key>public.markColor</key>

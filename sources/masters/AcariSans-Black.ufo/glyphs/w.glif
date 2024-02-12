@@ -5,20 +5,19 @@
   <anchor x="757" y="1191.94" name="top"/>
   <outline>
     <contour>
-      <point x="569.344" y="-5.12" type="line" name=".av04"/>
-      <point x="756.736" y="661.504" type="line" name=".iv01"/>
-      <point x="947.2" y="0" type="line" name=".av05"/>
-      <point x="1195.01" y="0" type="line"/>
-      <point x="1520.64" y="1063.94" type="line" name=".av01"/>
-      <point x="1222.66" y="1063.94" type="line"/>
-      <point x="1055.74" y="440.32" type="line" name=".iv02"/>
-      <point x="876.544" y="1063.94" type="line" name=".av02"/>
-      <point x="640" y="1063.94" type="line"/>
-      <point x="458.752" y="438.272" type="line" name=".iv03"/>
-      <point x="295.936" y="1063.94" type="line" name=".av03"/>
-      <point x="-2.048" y="1063.94" type="line" name=".iv04"/>
-      <point x="320.512" y="-5.12" type="line"/>
+      <point x="569" y="-5" type="line" name=".av04"/>
+      <point x="757" y="662" type="line" name=".iv01"/>
+      <point x="947" y="0" type="line" name=".av05"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1521" y="1064" type="line" name=".av01"/>
+      <point x="1223" y="1064" type="line"/>
+      <point x="1056" y="440" type="line" name=".iv02"/>
+      <point x="877" y="1064" type="line" name=".av02"/>
+      <point x="640" y="1064" type="line"/>
+      <point x="459" y="438" type="line" name=".iv03"/>
+      <point x="296" y="1064" type="line" name=".av03"/>
+      <point x="-2" y="1064" type="line" name=".iv04"/>
+      <point x="321" y="-5" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="757" y="0"/>
 </glyph>

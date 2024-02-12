@@ -43,6 +43,12 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: Added proportional figures
   - MINOR: Adjusts in A/abrevetilde and A/abrevegrave
 
+* January 9-26, 2024 Version 1.076R/1.074I
+  - Fixes in 1 and 2
+  - Enlarged G crossbar
+  - Move up inferior figures in Italic only
+    
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

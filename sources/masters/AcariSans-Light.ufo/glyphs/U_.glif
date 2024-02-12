@@ -7,25 +7,24 @@
   <anchor x="1414" y="1448" name="horn"/>
   <outline>
     <contour>
-      <point x="690.176" y="-20.48" type="curve" smooth="yes" name=".dv01"/>
-      <point x="1021.95" y="-20.48"/>
-      <point x="1185.79" y="223.232"/>
-      <point x="1185.79" y="533.504" type="curve" smooth="yes"/>
-      <point x="1185.79" y="1447.94" type="line" name=".av01"/>
-      <point x="1046.53" y="1447.94" type="line" name=".ah01"/>
-      <point x="1046.53" y="572.416" type="line" smooth="yes"/>
-      <point x="1046.53" y="330.752"/>
-      <point x="972.8" y="109.568"/>
-      <point x="690.176" y="109.568" type="curve" smooth="yes" name=".dv02"/>
-      <point x="408.576" y="109.568"/>
-      <point x="337.92" y="331.776"/>
-      <point x="337.92" y="572.416" type="curve" smooth="yes"/>
-      <point x="337.92" y="1447.94" type="line" name=".av02"/>
-      <point x="197.632" y="1447.94" type="line" name=".sh01"/>
-      <point x="197.632" y="523.264" type="line" smooth="yes"/>
-      <point x="197.632" y="211.968"/>
-      <point x="360.448" y="-20.48"/>
+      <point x="690" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1022" y="-20"/>
+      <point x="1186" y="224"/>
+      <point x="1186" y="534" type="curve" smooth="yes"/>
+      <point x="1186" y="1448" type="line" name=".av01"/>
+      <point x="1047" y="1448" type="line" name=".ah01"/>
+      <point x="1047" y="572" type="line" smooth="yes"/>
+      <point x="1047" y="330"/>
+      <point x="973" y="110"/>
+      <point x="690" y="110" type="curve" smooth="yes" name=".dv02"/>
+      <point x="408" y="110"/>
+      <point x="338" y="331"/>
+      <point x="338" y="572" type="curve" smooth="yes"/>
+      <point x="338" y="1448" type="line" name=".av02"/>
+      <point x="198" y="1448" type="line" name=".sh01"/>
+      <point x="198" y="523" type="line" smooth="yes"/>
+      <point x="198" y="212"/>
+      <point x="360" y="-20"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="692" y="0"/>
 </glyph>

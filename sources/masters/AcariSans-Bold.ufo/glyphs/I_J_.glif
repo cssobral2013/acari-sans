@@ -2,7 +2,7 @@
 <glyph name="IJ" format="2">
   <advance width="1798"/>
   <unicode hex="0132"/>
-  <anchor x="1511" y="1617.92" name="top"/>
+  <anchor x="1511" y="1618" name="top"/>
   <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
@@ -10,8 +10,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>I_J</string>
   <key>public.markColor</key>

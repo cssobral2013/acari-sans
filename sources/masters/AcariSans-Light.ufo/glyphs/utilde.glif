@@ -6,12 +6,10 @@
   <anchor x="1209" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="1013" yOffset="-0.0639648"/>
+    <component base="tildecomb" xOffset="1013"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+tildecomb</string>
   <key>public.markColor</key>

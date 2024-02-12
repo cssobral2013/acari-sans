@@ -4,12 +4,10 @@
   <unicode hex="1EF7"/>
   <outline>
     <component base="y"/>
-    <component base="hookabovecomb" xOffset="858" yOffset="93.936"/>
+    <component base="hookabovecomb" xOffset="858" yOffset="94"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>y+hookabovecomb</string>
   <key>public.markColor</key>

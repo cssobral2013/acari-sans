@@ -5,20 +5,18 @@
   <anchor x="312" y="811" name="_center"/>
   <outline>
     <contour>
-      <point x="312.32" y="651.264" type="curve" smooth="yes" name=".dv00"/>
-      <point x="400.384" y="651.264"/>
-      <point x="472.064" y="722.944"/>
-      <point x="472.064" y="811.008" type="curve" smooth="yes" name=".dh02"/>
-      <point x="472.064" y="899.072"/>
-      <point x="401.408" y="970.752"/>
-      <point x="312.32" y="970.752" type="curve" smooth="yes" name=".dv03"/>
-      <point x="223.232" y="970.752"/>
-      <point x="151.552" y="899.072"/>
-      <point x="151.552" y="811.008" type="curve" smooth="yes" name=".dh00"/>
-      <point x="151.552" y="722.944"/>
-      <point x="223.232" y="651.264"/>
+      <point x="312" y="651" type="curve" smooth="yes" name=".dv00"/>
+      <point x="400" y="651"/>
+      <point x="472" y="723"/>
+      <point x="472" y="811" type="curve" smooth="yes" name=".dh02"/>
+      <point x="472" y="899"/>
+      <point x="401" y="971"/>
+      <point x="312" y="971" type="curve" smooth="yes" name=".dv03"/>
+      <point x="223" y="971"/>
+      <point x="152" y="899"/>
+      <point x="152" y="811" type="curve" smooth="yes" name=".dh00"/>
+      <point x="152" y="723"/>
+      <point x="223" y="651"/>
     </contour>
   </outline>
-  <guideline angle="90" x="312" y="0"/>
-  <guideline angle="0" x="0" y="811"/>
 </glyph>

@@ -6,12 +6,10 @@
   <anchor x="1522" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="hookabovecomb" xOffset="1017" yOffset="519.92"/>
+    <component base="hookabovecomb" xOffset="1017" yOffset="520"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+hookabovecomb</string>
   <key>public.markColor</key>

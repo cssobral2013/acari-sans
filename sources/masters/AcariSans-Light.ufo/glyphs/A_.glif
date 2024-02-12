@@ -8,20 +8,19 @@
   <anchor x="670" y="-150" name="bottom"/>
   <outline>
     <contour>
-      <point x="1254.4" y="0" type="line" name=".av01"/>
-      <point x="721.92" y="1447.94" type="line"/>
-      <point x="613.376" y="1447.94" type="line"/>
-      <point x="76.8001" y="0" type="line" name=".av02"/>
-      <point x="229.376" y="0" type="line"/>
-      <point x="339.968" y="314.368" type="line" name=".dv01"/>
-      <point x="994.304" y="314.368" type="line"/>
-      <point x="1104.9" y="0" type="line"/>
+      <point x="1254" y="0" type="line" name=".av01"/>
+      <point x="722" y="1448" type="line"/>
+      <point x="613" y="1448" type="line"/>
+      <point x="77" y="0" type="line" name=".av02"/>
+      <point x="229" y="0" type="line"/>
+      <point x="340" y="314" type="line" name=".dv01"/>
+      <point x="994" y="314" type="line"/>
+      <point x="1105" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="947.2" y="445.44" type="line" name=".av03"/>
-      <point x="386.048" y="445.44" type="line" name=".dv02"/>
-      <point x="669.672" y="1243.14" type="line"/>
+      <point x="947" y="445" type="line" name=".av03"/>
+      <point x="386" y="445" type="line" name=".dv02"/>
+      <point x="670" y="1243" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="670" y="0"/>
 </glyph>

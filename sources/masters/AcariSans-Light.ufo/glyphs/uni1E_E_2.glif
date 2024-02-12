@@ -6,12 +6,10 @@
   <anchor x="908" y="0" name="ogonek"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="dotbelowcomb" xOffset="1052.5"/>
+    <component base="dotbelowcomb" xOffset="1053"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Ohorn+dotbelowcomb</string>
   <key>public.markColor</key>
