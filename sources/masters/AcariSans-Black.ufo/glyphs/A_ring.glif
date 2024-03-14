@@ -2,30 +2,17 @@
 <glyph name="Aring" format="2">
   <advance width="1388"/>
   <unicode hex="00C5"/>
-  <anchor x="696.32" y="1617.92" name="top"/>
+  <anchor x="696" y="1620" name="top"/>
   <anchor x="1390" y="0" name="ogonek"/>
-  <anchor x="696.32" y="-150" name="bottom"/>
+  <anchor x="696" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
     <component base="uni030A" xOffset="1020" yOffset="242"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+uni030A</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

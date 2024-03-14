@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04EF" format="2">
-  <advance width="1000"/>
+  <advance width="1041"/>
   <unicode hex="04EF"/>
+  <anchor x="530" y="-258" name="bottom"/>
   <outline>
-    <component base="uni0304" xOffset="934" yOffset="-63"/>
     <component base="uni0443"/>
+    <component base="uni0304" xOffset="911"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0443+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

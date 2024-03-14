@@ -2,16 +2,14 @@
 <glyph name="uni1ECA" format="2">
   <advance width="644"/>
   <unicode hex="1ECA"/>
-  <anchor x="321.536" y="1617.92" name="top"/>
+  <anchor x="322" y="1618" name="top"/>
   <anchor x="467" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="dotbelowcomb" xOffset="612.408"/>
+    <component base="dotbelowcomb" xOffset="612"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+dotbelowcomb</string>
   <key>public.markColor</key>

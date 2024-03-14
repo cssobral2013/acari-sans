@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C0" format="2">
-  <advance width="589"/>
+  <advance width="598"/>
   <unicode hex="04C0"/>
+  <anchor x="522" y="1620" name="top"/>
+  <anchor x="254" y="0" name="ogonek"/>
+  <anchor x="163" y="-120" name="bottom"/>
   <outline>
-    <contour>
-      <point x="247.808" y="0" type="line"/>
-      <point x="580.608" y="1446.91" type="line"/>
-      <point x="441.344" y="1446.91" type="line"/>
-      <point x="106.496" y="0" type="line"/>
-    </contour>
+    <component base="I"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="2">
-  <advance width="1228"/>
+  <advance width="1166"/>
   <unicode hex="0148"/>
   <anchor x="476" y="-120" name="bottom"/>
   <outline>
@@ -9,8 +9,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>n+uni030C</string>
   <key>public.markColor</key>

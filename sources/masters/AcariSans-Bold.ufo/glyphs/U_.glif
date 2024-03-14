@@ -2,30 +2,29 @@
 <glyph name="U" format="2">
   <advance width="1413"/>
   <unicode hex="0055"/>
-  <anchor x="706.56" y="1617.92" name="top"/>
-  <anchor x="868.352" y="0" name="ogonek"/>
+  <anchor x="707" y="1617.92" name="top"/>
+  <anchor x="868" y="0" name="ogonek"/>
   <anchor x="1522" y="1448" name="horn"/>
   <outline>
     <contour>
-      <point x="706.56" y="-20.48" type="curve" smooth="yes"/>
-      <point x="1091.58" y="-20.48"/>
-      <point x="1260.54" y="204.8"/>
-      <point x="1260.54" y="574.464" type="curve" smooth="yes"/>
-      <point x="1260.54" y="1447.91" type="line"/>
-      <point x="1000.45" y="1447.91" type="line"/>
-      <point x="1000.45" y="593.92" type="line" smooth="yes"/>
-      <point x="1000.45" y="342.016"/>
-      <point x="927.744" y="230.4"/>
-      <point x="706.56" y="230.4" type="curve" smooth="yes"/>
-      <point x="468.992" y="230.4"/>
-      <point x="412.672" y="370.688"/>
-      <point x="412.672" y="593.92" type="curve" smooth="yes"/>
-      <point x="412.672" y="1447.91" type="line"/>
-      <point x="153.6" y="1447.91" type="line"/>
-      <point x="153.6" y="564.224" type="line" smooth="yes"/>
-      <point x="153.6" y="198.656"/>
-      <point x="329.728" y="-20.48"/>
+      <point x="707" y="-20" type="curve" smooth="yes"/>
+      <point x="1092" y="-20"/>
+      <point x="1261" y="204"/>
+      <point x="1261" y="574" type="curve" smooth="yes"/>
+      <point x="1261" y="1448" type="line"/>
+      <point x="1000" y="1448" type="line"/>
+      <point x="1000" y="594" type="line" smooth="yes"/>
+      <point x="1000" y="342"/>
+      <point x="928" y="230"/>
+      <point x="707" y="230" type="curve" smooth="yes"/>
+      <point x="469" y="230"/>
+      <point x="413" y="371"/>
+      <point x="413" y="594" type="curve" smooth="yes"/>
+      <point x="413" y="1448" type="line"/>
+      <point x="154" y="1448" type="line"/>
+      <point x="154" y="564" type="line" smooth="yes"/>
+      <point x="154" y="198"/>
+      <point x="330" y="-20"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="706.56" y="0"/>
 </glyph>

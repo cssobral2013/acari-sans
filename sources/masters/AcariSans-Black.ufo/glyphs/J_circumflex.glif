@@ -4,12 +4,10 @@
   <unicode hex="0134"/>
   <outline>
     <component base="J"/>
-    <component base="uni0302" xOffset="1260" yOffset="405.504"/>
+    <component base="uni0302" xOffset="1260" yOffset="406"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>J+uni0302</string>
   <key>public.markColor</key>

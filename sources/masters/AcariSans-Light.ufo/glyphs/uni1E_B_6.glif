@@ -3,15 +3,13 @@
   <advance width="1331"/>
   <unicode hex="1EB6"/>
   <anchor x="1254" y="0" name="ogonek"/>
-  <anchor x="666" y="1549" name="center"/>
+  <anchor x="670" y="1549" name="center"/>
   <outline>
     <component base="uni1EA0"/>
-    <component base="uni0306" xOffset="1098.75" yOffset="425.984"/>
+    <component base="uni0306" xOffset="1099" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni1EA0+uni0306</string>
   <key>public.markColor</key>

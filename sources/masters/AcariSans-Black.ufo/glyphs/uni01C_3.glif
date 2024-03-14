@@ -4,71 +4,16 @@
   <unicode hex="01C3"/>
   <outline>
     <contour>
-      <point x="401.408" y="453.632" type="line"/>
-      <point x="431.104" y="1467.39" type="line" name=".av01"/>
-      <point x="159.744" y="1467.39" type="line" name=".sh01"/>
-      <point x="189.44" y="453.632" type="line"/>
+      <point x="401" y="454" type="line"/>
+      <point x="431" y="1467" type="line" name=".av01"/>
+      <point x="160" y="1467" type="line" name=".sh01"/>
+      <point x="189" y="454" type="line"/>
     </contour>
     <contour>
-      <point x="443.392" y="0" type="line" name=".dv01"/>
-      <point x="443.392" y="292.864" type="line" name=".dv02"/>
-      <point x="147.456" y="292.864" type="line" name=".dh01"/>
-      <point x="147.456" y="0" type="line"/>
+      <point x="443" y="0" type="line" name=".dv01"/>
+      <point x="443" y="293" type="line" name=".dv02"/>
+      <point x="147" y="293" type="line" name=".dh01"/>
+      <point x="147" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.dv02</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>left</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>align</key>
-      <string>right</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -3,38 +3,13 @@
   <advance width="811"/>
   <outline>
     <contour>
-      <point x="337.92" y="-0.00688462" type="line" name=".av01"/>
-      <point x="769.024" y="852.985" type="line"/>
-      <point x="769.024" y="964.601" type="line"/>
-      <point x="56.32" y="964.601" type="line" name=".dv02"/>
-      <point x="56.32" y="764.921" type="line" name=".dv01"/>
-      <point x="532.48" y="764.921" type="line"/>
-      <point x="122.88" y="-0.0068541" type="line"/>
+      <point x="338" y="0" type="line" name=".av01"/>
+      <point x="769" y="853" type="line"/>
+      <point x="769" y="965" type="line"/>
+      <point x="56" y="965" type="line" name=".dv02"/>
+      <point x="56" y="765" type="line" name=".dv01"/>
+      <point x="532" y="765" type="line"/>
+      <point x="123" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

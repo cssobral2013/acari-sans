@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex" format="2">
-  <advance width="1236"/>
+  <advance width="1241"/>
   <unicode hex="0125"/>
   <outline>
     <component base="h"/>
-    <component base="uni0302" xOffset="740" yOffset="428"/>
+    <component base="uni0302" xOffset="730" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>h+uni0302</string>
   <key>public.markColor</key>

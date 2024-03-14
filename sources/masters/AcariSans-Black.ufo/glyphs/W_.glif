@@ -5,95 +5,19 @@
   <anchor x="1028" y="1617.92" name="top"/>
   <outline>
     <contour>
-      <point x="1607.68" y="0" type="line" name=".av03"/>
-      <point x="2050.05" y="1447.91" type="line" name=".av01"/>
-      <point x="1747.97" y="1447.91" type="line"/>
-      <point x="1449.98" y="439.296" type="line" name=".iv01"/>
-      <point x="1141.76" y="1447.67" type="line"/>
-      <point x="918.528" y="1447.67" type="line"/>
-      <point x="610.304" y="439.296" type="line" name=".iv02"/>
-      <point x="312.32" y="1447.91" type="line" name=".av02"/>
-      <point x="10.24" y="1447.91" type="line"/>
-      <point x="452.608" y="0" type="line" name=".av04"/>
-      <point x="726.016" y="0" type="line"/>
-      <point x="1028.1" y="989.941" type="line" name=".iv03"/>
-      <point x="1334.27" y="0" type="line"/>
+      <point x="1608" y="0" type="line" name=".av03"/>
+      <point x="2050" y="1448" type="line" name=".av01"/>
+      <point x="1748" y="1448" type="line"/>
+      <point x="1450" y="439" type="line" name=".iv01"/>
+      <point x="1142" y="1448" type="line"/>
+      <point x="919" y="1448" type="line"/>
+      <point x="610" y="439" type="line" name=".iv02"/>
+      <point x="312" y="1448" type="line" name=".av02"/>
+      <point x="10" y="1448" type="line"/>
+      <point x="453" y="0" type="line" name=".av04"/>
+      <point x="726" y="0" type="line"/>
+      <point x="1028" y="990" type="line" name=".iv03"/>
+      <point x="1334" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="1028" y="0"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av03</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av04</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv01</string>
-      <key>point1</key>
-      <string>.av03</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv02</string>
-      <key>point1</key>
-      <string>.av03</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
-      <string>.iv03</string>
-      <key>point1</key>
-      <string>.av03</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

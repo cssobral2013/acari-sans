@@ -4,25 +4,10 @@
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="210.944" y="1191.94" type="line" name=".av07"/>
-      <point x="542.72" y="1508.35" type="line" name=".av08"/>
-      <point x="254.976" y="1508.35" type="line"/>
-      <point x="20.48" y="1191.94" type="line"/>
+      <point x="211" y="1192" type="line" name=".av07"/>
+      <point x="543" y="1508" type="line" name=".av08"/>
+      <point x="255" y="1508" type="line"/>
+      <point x="20" y="1192" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av08</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

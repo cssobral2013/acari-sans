@@ -4,43 +4,10 @@
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="421.888" y="-524.288" type="line" name=".av02"/>
-      <point x="421.888" y="1570.82" type="line" name=".av01"/>
-      <point x="215.04" y="1570.82" type="line" name=".dh01"/>
-      <point x="215.04" y="-524.288" type="line"/>
+      <point x="422" y="-524" type="line" name=".av02"/>
+      <point x="422" y="1571" type="line" name=".av01"/>
+      <point x="215" y="1571" type="line" name=".dh01"/>
+      <point x="215" y="-524" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.av01</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

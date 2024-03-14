@@ -4,32 +4,29 @@
   <unicode hex="014A"/>
   <outline>
     <contour>
-      <point x="1024" y="-378.88" type="line" smooth="yes"/>
-      <point x="1156.1" y="-378.88"/>
-      <point x="1222.66" y="-301.056"/>
-      <point x="1222.66" y="-194.56" type="curve" smooth="yes"/>
-      <point x="1222.66" y="1446.91" type="line"/>
-      <point x="1082.37" y="1446.91" type="line"/>
-      <point x="1082.37" y="133.12" type="line"/>
-      <point x="444.416" y="1446.91" type="line"/>
-      <point x="225.28" y="1446.91" type="line"/>
-      <point x="225.28" y="0" type="line"/>
-      <point x="365.568" y="0" type="line"/>
-      <point x="365.568" y="1313.79" type="line"/>
-      <point x="1070.08" y="-120.832" type="line" smooth="yes"/>
-      <point x="1076.22" y="-133.12"/>
-      <point x="1082.37" y="-156.672"/>
-      <point x="1082.37" y="-169.984" type="curve" smooth="yes"/>
-      <point x="1082.37" y="-238.592"/>
-      <point x="1070.08" y="-266.24"/>
-      <point x="1010.69" y="-266.24" type="curve" smooth="yes"/>
-      <point x="936.96" y="-266.24" type="line"/>
-      <point x="936.96" y="-378.88" type="line"/>
+      <point x="1024" y="-379" type="line" smooth="yes"/>
+      <point x="1156" y="-379"/>
+      <point x="1223" y="-301"/>
+      <point x="1223" y="-195" type="curve" smooth="yes"/>
+      <point x="1223" y="1447" type="line"/>
+      <point x="1082" y="1447" type="line"/>
+      <point x="1082" y="133" type="line"/>
+      <point x="444" y="1447" type="line"/>
+      <point x="225" y="1447" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="366" y="1314" type="line"/>
+      <point x="1070" y="-121" type="line" smooth="yes"/>
+      <point x="1076" y="-133"/>
+      <point x="1082" y="-157"/>
+      <point x="1082" y="-170" type="curve" smooth="yes"/>
+      <point x="1082" y="-239"/>
+      <point x="1070" y="-266"/>
+      <point x="1011" y="-266" type="curve" smooth="yes"/>
+      <point x="937" y="-266" type="line"/>
+      <point x="937" y="-379" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1082.37" y="0"/>
-  <guideline angle="296.142" x="365.568" y="1313.79"/>
-  <guideline angle="296.132" x="366" y="1314"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

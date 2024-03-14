@@ -2,8 +2,23 @@
 <glyph name="uni03080300" format="2">
   <anchor x="-452" y="1192" name="_top"/>
   <outline>
-    <component base="grave" xOffset="-901.964" yOffset="309.632"/>
-    <component base="uni0308" xOffset="-6.98828" yOffset="-43.008"/>
+    <contour>
+      <point x="-391" y="1502" type="line"/>
+      <point x="-622" y="1818" type="line"/>
+      <point x="-889" y="1818" type="line"/>
+      <point x="-573" y="1502" type="line"/>
+    </contour>
+    <contour>
+      <point x="-723" y="1192" type="line"/>
+      <point x="-513" y="1192" type="line"/>
+      <point x="-513" y="1422" type="line"/>
+      <point x="-723" y="1422" type="line"/>
+    </contour>
+    <contour>
+      <point x="-391" y="1192" type="line"/>
+      <point x="-181" y="1192" type="line"/>
+      <point x="-181" y="1422" type="line"/>
+      <point x="-391" y="1422" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="1529.86"/>
 </glyph>

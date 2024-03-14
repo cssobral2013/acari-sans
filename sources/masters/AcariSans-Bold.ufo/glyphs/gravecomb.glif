@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-146.432" y="1191.94" name="_top"/>
+  <anchor x="-146" y="1192" name="_top"/>
   <outline>
-    <component base="grave" xOffset="-543.744" yOffset="-4.65661e-13"/>
+    <contour>
+      <point x="-33" y="1192" type="line"/>
+      <point x="-264" y="1508" type="line"/>
+      <point x="-531" y="1508" type="line"/>
+      <point x="-215" y="1192" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,15 +2,13 @@
 <glyph name="uni1EDA" format="2">
   <advance width="1618"/>
   <unicode hex="1EDA"/>
-  <anchor x="956.392" y="0" name="ogonek"/>
+  <anchor x="956" y="0" name="ogonek"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="acutecomb" xOffset="1198.7" yOffset="425.984"/>
+    <component base="acutecomb" xOffset="1199" yOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Ohorn+acutecomb</string>
   <key>public.markColor</key>

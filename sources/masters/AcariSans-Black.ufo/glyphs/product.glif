@@ -4,121 +4,18 @@
   <unicode hex="220F"/>
   <outline>
     <contour>
-      <point x="1146.88" y="0" type="line" name=".av01"/>
-      <point x="1146.88" y="1214.46" type="line" name=".sh01"/>
-      <point x="1230.85" y="1214.46" type="line" name=".dv01"/>
-      <point x="1230.85" y="1446.91" type="line" name=".dv02"/>
-      <point x="147.456" y="1446.91" type="line"/>
-      <point x="147.456" y="1214.46" type="line" name=".sv01"/>
-      <point x="231.424" y="1214.46" type="line" name=".sh02"/>
-      <point x="231.424" y="0" type="line" name=".av02"/>
-      <point x="462.848" y="0" type="line"/>
-      <point x="462.848" y="1214.46" type="line" name=".sv02"/>
-      <point x="914.432" y="1214.46" type="line" name=".ah01"/>
-      <point x="914.432" y="0" type="line"/>
+      <point x="1147" y="0" type="line" name=".av01"/>
+      <point x="1147" y="1214" type="line" name=".sh01"/>
+      <point x="1231" y="1214" type="line" name=".dv01"/>
+      <point x="1231" y="1447" type="line" name=".dv02"/>
+      <point x="147" y="1447" type="line"/>
+      <point x="147" y="1214" type="line" name=".sv01"/>
+      <point x="231" y="1214" type="line" name=".sh02"/>
+      <point x="231" y="0" type="line" name=".av02"/>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="1214" type="line" name=".sv02"/>
+      <point x="914" y="1214" type="line" name=".ah01"/>
+      <point x="914" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>.av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.sv01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.sv02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>.ah01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.ah01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>left</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>lsb</string>
-      <key>point2</key>
-      <string>.sh02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.sh02</string>
-      <key>point2</key>
-      <string>.sv02</string>
-      <key>round</key>
-      <string>true</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

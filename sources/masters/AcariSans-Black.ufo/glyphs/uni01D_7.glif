@@ -2,31 +2,18 @@
 <glyph name="uni01D7" format="2">
   <advance width="1421"/>
   <unicode hex="01D7"/>
-  <anchor x="710.656" y="1617.92" name="top"/>
+  <anchor x="711" y="1618" name="top"/>
   <anchor x="1606" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="uni03080301" xOffset="1090.99" yOffset="384"/>
+    <component base="uni03080301" xOffset="1091" yOffset="384"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+uni03080301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

@@ -4,14 +4,13 @@
   <unicode hex="0172"/>
   <anchor x="878" y="1620" name="top"/>
   <anchor x="1740" y="1447" name="pos"/>
+  <anchor x="581" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="uni0328" xOffset="940"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>U+>uni0328</string>
   <key>public.markColor</key>

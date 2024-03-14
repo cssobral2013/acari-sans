@@ -366,6 +366,8 @@
   <string>divide.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
+  <key>dong</key>
+  <string>dong.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
   <key>dotbelowcomb</key>
@@ -394,6 +396,8 @@
   <string>eight.dnom.glif</string>
   <key>eight.numr</key>
   <string>eight.numr.glif</string>
+  <key>eight.pnum</key>
+  <string>eight.pnum.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emacron</key>
@@ -430,6 +434,8 @@
   <string>five.dnom.glif</string>
   <key>five.numr</key>
   <string>five.numr.glif</string>
+  <key>five.pnum</key>
+  <string>five.pnum.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -440,6 +446,8 @@
   <string>four.dnom.glif</string>
   <key>four.numr</key>
   <string>four.numr.glif</string>
+  <key>four.pnum</key>
+  <string>four.pnum.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>g</key>
@@ -562,6 +570,8 @@
   <string>nine.dnom.glif</string>
   <key>nine.numr</key>
   <string>nine.numr.glif</string>
+  <key>nine.pnum</key>
+  <string>nine.pnum.glif</string>
   <key>notequal</key>
   <string>notequal.glif</string>
   <key>ntilde</key>
@@ -596,6 +606,8 @@
   <string>one.dnom.glif</string>
   <key>one.numr</key>
   <string>one.numr.glif</string>
+  <key>one.pnum</key>
+  <string>one.pnum.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
   <key>ordfeminine</key>
@@ -688,12 +700,16 @@
   <string>seven.dnom.glif</string>
   <key>seven.numr</key>
   <string>seven.numr.glif</string>
+  <key>seven.pnum</key>
+  <string>seven.pnum.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six.dnom</key>
   <string>six.dnom.glif</string>
   <key>six.numr</key>
   <string>six.numr.glif</string>
+  <key>six.pnum</key>
+  <string>six.pnum.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -716,6 +732,8 @@
   <string>three.dnom.glif</string>
   <key>three.numr</key>
   <string>three.numr.glif</string>
+  <key>three.pnum</key>
+  <string>three.pnum.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
   <key>tilde</key>
@@ -730,6 +748,8 @@
   <string>two.dnom.glif</string>
   <key>two.numr</key>
   <string>two.numr.glif</string>
+  <key>two.pnum</key>
+  <string>two.pnum.glif</string>
   <key>twodotenleader</key>
   <string>twodotenleader.glif</string>
   <key>twosuperior</key>
@@ -898,6 +918,8 @@
   <string>uni0304.glif</string>
   <key>uni0306</key>
   <string>uni0306.glif</string>
+  <key>uni03060300</key>
+  <string>uni03060300.glif</string>
   <key>uni03060301</key>
   <string>uni03060301.glif</string>
   <key>uni03060309</key>
@@ -1518,6 +1540,8 @@
   <string>wdieresis.glif</string>
   <key>wgrave</key>
   <string>wgrave.glif</string>
+  <key>won</key>
+  <string>won.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>y</key>
@@ -1546,5 +1570,7 @@
   <string>zero.dnom.glif</string>
   <key>zero.numr</key>
   <string>zero.numr.glif</string>
+  <key>zero.pnum</key>
+  <string>zero.pnum.glif</string>
 </dict>
 </plist>

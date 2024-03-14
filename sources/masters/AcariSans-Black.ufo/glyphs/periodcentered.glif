@@ -5,71 +5,18 @@
   <anchor x="312" y="811" name="_center"/>
   <outline>
     <contour>
-      <point x="312.272" y="651.264" type="curve" smooth="yes" name=".dv00"/>
-      <point x="400.51" y="651.131"/>
-      <point x="472.096" y="722.718"/>
-      <point x="472.064" y="811.056" type="curve" smooth="yes" name=".dh02"/>
-      <point x="472.032" y="899.593"/>
-      <point x="400.954" y="970.629"/>
-      <point x="312.272" y="970.752" type="curve" smooth="yes" name=".dv03"/>
-      <point x="223.423" y="970.876"/>
-      <point x="151.576" y="899.475"/>
-      <point x="151.576" y="811.056" type="curve" smooth="yes" name=".dh00"/>
-      <point x="151.576" y="723.06"/>
-      <point x="223.644" y="651.397"/>
+      <point x="312" y="651" type="curve" smooth="yes" name=".dv00"/>
+      <point x="400" y="651"/>
+      <point x="472" y="723"/>
+      <point x="472" y="811" type="curve" smooth="yes" name=".dh02"/>
+      <point x="472" y="899"/>
+      <point x="401" y="971"/>
+      <point x="312" y="971" type="curve" smooth="yes" name=".dv03"/>
+      <point x="223" y="971"/>
+      <point x="152" y="899"/>
+      <point x="152" y="811" type="curve" smooth="yes" name=".dh00"/>
+      <point x="152" y="723"/>
+      <point x="223" y="651"/>
     </contour>
   </outline>
-  <guideline angle="90" x="312" y="0"/>
-  <guideline angle="0" x="0" y="811"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.dv03</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh00</string>
-      <key>point2</key>
-      <string>.dh02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh02</string>
-      <key>delta</key>
-      <integer>-2</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>21</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltah</string>
-      <key>point</key>
-      <string>.dh02</string>
-      <key>delta</key>
-      <integer>-3</integer>
-      <key>ppm1</key>
-      <integer>22</integer>
-      <key>ppm2</key>
-      <integer>23</integer>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

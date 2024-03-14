@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute" format="2">
-  <advance width="1084"/>
+  <advance width="1081"/>
   <unicode hex="00E9"/>
-  <anchor x="552" y="0" name="ogonek"/>
+  <anchor x="550" y="0" name="ogonek"/>
+  <anchor x="455" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="acutecomb" xOffset="951"/>
+    <component base="acutecomb" xOffset="949"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>e+acutecomb</string>
   <key>public.markColor</key>

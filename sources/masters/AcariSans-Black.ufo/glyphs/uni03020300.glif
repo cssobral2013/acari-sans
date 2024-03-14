@@ -3,23 +3,18 @@
   <anchor x="-379" y="1212.42" name="_top"/>
   <outline>
     <contour>
-      <point x="-698.88" y="1191.94" type="line" name=".av05"/>
-      <point x="-497.152" y="1191.94" type="line"/>
-      <point x="-379.392" y="1327.1" type="line"/>
-      <point x="-259.584" y="1191.94" type="line"/>
-      <point x="-58.88" y="1191.94" type="line" name=".av00"/>
-      <point x="-379.392" y="1551.36" type="line" name=".av06"/>
+      <point x="-699" y="1192" type="line" name=".av05"/>
+      <point x="-497" y="1192" type="line"/>
+      <point x="-379" y="1327" type="line"/>
+      <point x="-260" y="1192" type="line"/>
+      <point x="-59" y="1192" type="line" name=".av00"/>
+      <point x="-379" y="1551" type="line" name=".av06"/>
     </contour>
     <contour>
-      <point x="-554.098" y="1410" type="line" name=".av07"/>
-      <point x="-726.532" y="1642" type="line" name=".av08"/>
-      <point x="-1014.28" y="1642" type="line"/>
-      <point x="-744.562" y="1410" type="line"/>
+      <point x="-554" y="1410" type="line" name=".av07"/>
+      <point x="-727" y="1642" type="line" name=".av08"/>
+      <point x="-1014" y="1642" type="line"/>
+      <point x="-745" y="1410" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="-379" y="0"/>
-  <guideline angle="0" x="0" y="1410"/>
-  <guideline angle="0" x="0" y="1642"/>
-  <guideline angle="316.328" x="-1076" y="1726"/>
-  <guideline angle="126.637" x="-554" y="1410"/>
 </glyph>

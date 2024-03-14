@@ -4,23 +4,12 @@
   <unicode hex="0168"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb" xOffset="1153.02" yOffset="394.24"/>
+    <component base="tildecomb" xOffset="1153" yOffset="394"/>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

@@ -1,59 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0464" format="2">
-  <advance width="1839"/>
+  <advance width="1859"/>
   <unicode hex="0464"/>
   <outline>
+    <component base="I"/>
     <contour>
-      <point x="1047.55" y="-20.48" type="curve" smooth="yes"/>
-      <point x="1326.08" y="-20.48"/>
-      <point x="1552.38" y="123.904"/>
-      <point x="1701.89" y="352.256" type="curve"/>
-      <point x="1581.06" y="417.792" type="line"/>
-      <point x="1461.25" y="220.16"/>
-      <point x="1289.22" y="105.472"/>
-      <point x="1054.72" y="105.472" type="curve" smooth="yes"/>
-      <point x="800.768" y="105.472"/>
-      <point x="673.792" y="237.568"/>
-      <point x="673.792" y="490.496" type="curve" smooth="yes"/>
-      <point x="673.792" y="546.816"/>
-      <point x="679.936" y="603.136"/>
-      <point x="691.2" y="659.456" type="curve"/>
-      <point x="1352.7" y="665.6" type="line"/>
-      <point x="1379.33" y="780.288" type="line"/>
-      <point x="1158.14" y="775.168"/>
-      <point x="940.032" y="777.216"/>
-      <point x="718.848" y="774.144" type="curve"/>
-      <point x="802.816" y="1081.34"/>
-      <point x="1016.83" y="1342.46"/>
-      <point x="1357.82" y="1342.46" type="curve" smooth="yes"/>
-      <point x="1558.53" y="1342.46"/>
-      <point x="1715.2" y="1264.64"/>
-      <point x="1731.58" y="1046.53" type="curve"/>
-      <point x="1776.64" y="1057.79"/>
-      <point x="1819.65" y="1074.18"/>
-      <point x="1864.7" y="1086.46" type="curve"/>
-      <point x="1810.43" y="1348.61"/>
-      <point x="1627.14" y="1470.46"/>
-      <point x="1367.04" y="1470.46" type="curve" smooth="yes"/>
-      <point x="951.296" y="1470.46"/>
-      <point x="687.104" y="1162.24"/>
-      <point x="580.608" y="787.456" type="curve"/>
-      <point x="425.984" y="780.288" type="line"/>
-      <point x="578.56" y="1446.91" type="line"/>
-      <point x="441.344" y="1446.91" type="line"/>
-      <point x="327.68" y="962.56"/>
-      <point x="220.16" y="484.352"/>
-      <point x="106.496" y="0" type="curve"/>
-      <point x="244.736" y="0" type="line"/>
-      <point x="398.336" y="665.6" type="line"/>
-      <point x="450.56" y="668.672"/>
-      <point x="503.808" y="668.672"/>
-      <point x="556.032" y="671.744" type="curve"/>
-      <point x="544.768" y="611.328"/>
-      <point x="538.624" y="551.936"/>
-      <point x="538.624" y="493.568" type="curve" smooth="yes"/>
-      <point x="538.624" y="169.984"/>
-      <point x="720.896" y="-20.48"/>
+      <point x="367.616" y="671.094" type="line"/>
+      <point x="1352.7" y="671.094" type="line"/>
+      <point x="1379.33" y="775.275" type="line"/>
+      <point x="395.264" y="775.275" type="line"/>
+    </contour>
+    <contour>
+      <point x="1046.14" y="-20.48" type="curve" smooth="yes"/>
+      <point x="1323.65" y="-20.48"/>
+      <point x="1549.95" y="130.048"/>
+      <point x="1702.53" y="354.304" type="curve"/>
+      <point x="1586.82" y="418.816" type="line"/>
+      <point x="1469.06" y="223.232"/>
+      <point x="1292.93" y="115.712"/>
+      <point x="1063.55" y="115.712" type="curve" smooth="yes"/>
+      <point x="808.576" y="115.712"/>
+      <point x="681.6" y="248.832"/>
+      <point x="681.6" y="502.784" type="curve" smooth="yes"/>
+      <point x="681.6" y="884.736"/>
+      <point x="914.048" y="1339.39"/>
+      <point x="1343.1" y="1339.39" type="curve" smooth="yes"/>
+      <point x="1538.69" y="1339.39"/>
+      <point x="1711.74" y="1256.45"/>
+      <point x="1731.2" y="1041.41" type="curve"/>
+      <point x="1861.25" y="1089.54" type="line"/>
+      <point x="1815.17" y="1348.61"/>
+      <point x="1614.46" y="1470.46"/>
+      <point x="1362.56" y="1470.46" type="curve" smooth="yes"/>
+      <point x="845.44" y="1470.46"/>
+      <point x="539.264" y="960.512"/>
+      <point x="539.264" y="493.568" type="curve" smooth="yes"/>
+      <point x="539.264" y="169.984"/>
+      <point x="719.488" y="-20.48"/>
     </contour>
   </outline>
+  <guideline angle="77.2604" x="1353" y="666"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=C</string>
+  </dict>
+  </lib>
 </glyph>

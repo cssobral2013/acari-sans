@@ -2,16 +2,14 @@
 <glyph name="uni013C" format="2">
   <advance width="507"/>
   <unicode hex="013C"/>
-  <anchor x="255" y="1617.92" name="top"/>
+  <anchor x="255" y="1618" name="top"/>
   <anchor x="608" y="774" name="center"/>
   <outline>
     <component base="l"/>
-    <component base="uni0326" xOffset="494.14"/>
+    <component base="uni0326" xOffset="494"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>l+uni0326</string>
   <key>public.markColor</key>

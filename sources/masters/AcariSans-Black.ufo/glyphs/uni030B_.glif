@@ -4,33 +4,16 @@
   <anchor x="-515" y="1192" name="_top"/>
   <outline>
     <contour>
-      <point x="-650.003" y="1192" type="line" name=".dv00"/>
-      <point x="-379.667" y="1541.18" type="line"/>
-      <point x="-614.163" y="1541.18" type="line" name=".dv05"/>
-      <point x="-846.611" y="1192" type="line"/>
+      <point x="-650" y="1192" type="line" name=".dv00"/>
+      <point x="-380" y="1541" type="line"/>
+      <point x="-614" y="1541" type="line" name=".dv05"/>
+      <point x="-846" y="1192" type="line"/>
     </contour>
     <contour>
-      <point x="-287.788" y="1192" type="line" name=".dv00"/>
-      <point x="-17.4518" y="1541.18" type="line"/>
-      <point x="-251.948" y="1541.18" type="line" name=".dv05"/>
-      <point x="-484.396" y="1192" type="line"/>
+      <point x="-288" y="1192" type="line" name=".dv00"/>
+      <point x="-18" y="1541" type="line"/>
+      <point x="-252" y="1541" type="line" name=".dv05"/>
+      <point x="-484" y="1192" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv00</string>
-      <key>point2</key>
-      <string>.dv05</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -4,14 +4,13 @@
   <unicode hex="00FA"/>
   <anchor x="955" y="0" name="ogonek"/>
   <anchor x="1453" y="1064" name="pos"/>
+  <anchor x="430" y="-120" name="bottom"/>
   <outline>
     <component base="u"/>
     <component base="acutecomb" xOffset="976"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+acutecomb</string>
   <key>public.markColor</key>

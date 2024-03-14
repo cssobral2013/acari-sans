@@ -2,16 +2,15 @@
 <glyph name="uni0433" format="2">
   <advance width="846"/>
   <unicode hex="0433"/>
-  <anchor x="527.36" y="1191.94" name="top"/>
+  <anchor x="527" y="1191.94" name="top"/>
   <outline>
     <contour>
-      <point x="402.432" y="0" type="line"/>
-      <point x="402.432" y="877.568" type="line"/>
-      <point x="840.704" y="877.568" type="line"/>
-      <point x="840.704" y="1063.94" type="line"/>
-      <point x="148.48" y="1063.94" type="line"/>
-      <point x="148.48" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="402" y="878" type="line"/>
+      <point x="841" y="878" type="line"/>
+      <point x="841" y="1064" type="line"/>
+      <point x="148" y="1064" type="line"/>
+      <point x="148" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="527.36" y="0"/>
 </glyph>

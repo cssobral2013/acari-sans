@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0472" format="2">
-  <advance width="1570"/>
+  <advance width="1568"/>
   <unicode hex="0472"/>
   <outline>
-    <component base="O"/>
     <contour>
-      <point x="304.591" y="614.4" type="line" name=".dv05"/>
-      <point x="1262.64" y="614.4" type="line"/>
-      <point x="1262.64" y="827.392" type="line"/>
-      <point x="304.591" y="827.392" type="line" name=".dv06"/>
+      <point x="303" y="614" type="line" name=".dv05"/>
+      <point x="1262" y="614" type="line"/>
+      <point x="1262" y="827" type="line"/>
+      <point x="303" y="827" type="line" name=".dv06"/>
+    </contour>
+    <contour>
+      <point x="784" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1207" y="-20"/>
+      <point x="1498" y="283"/>
+      <point x="1498" y="724" type="curve" smooth="yes"/>
+      <point x="1498" y="1166"/>
+      <point x="1207" y="1468"/>
+      <point x="784" y="1468" type="curve" smooth="yes"/>
+      <point x="361" y="1468"/>
+      <point x="70" y="1165"/>
+      <point x="70" y="724" type="curve" smooth="yes"/>
+      <point x="70" y="283"/>
+      <point x="361" y="-20"/>
+    </contour>
+    <contour>
+      <point x="784" y="236" type="curve" smooth="yes" name=".dv02"/>
+      <point x="530" y="236"/>
+      <point x="381" y="416"/>
+      <point x="381" y="724" type="curve" smooth="yes" name=".sh03"/>
+      <point x="381" y="1032"/>
+      <point x="530" y="1212"/>
+      <point x="784" y="1212" type="curve" smooth="yes"/>
+      <point x="1038" y="1212"/>
+      <point x="1187" y="1033"/>
+      <point x="1187" y="724" type="curve" smooth="yes" name=".ah01"/>
+      <point x="1187" y="415"/>
+      <point x="1038" y="236"/>
     </contour>
   </outline>
   <lib>
@@ -17,19 +44,6 @@
   <string>=O</string>
   <key>com.fontlab.metricsRight</key>
   <string>=O</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv05</string>
-      <key>point2</key>
-      <string>.dv06</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

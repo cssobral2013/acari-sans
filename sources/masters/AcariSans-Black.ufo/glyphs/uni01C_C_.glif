@@ -4,23 +4,12 @@
   <unicode hex="01CC"/>
   <outline>
     <component base="n"/>
-    <component base="j" xOffset="1210.37"/>
+    <component base="j" xOffset="1210"/>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignh</string>
-      <key>point</key>
-      <string>lsb</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
   </dict>
   </lib>
 </glyph>

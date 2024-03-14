@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C6" format="2">
-  <advance width="2310"/>
+  <advance width="2307"/>
   <unicode hex="01C6"/>
   <outline>
     <component base="d"/>
-    <component base="zcaron" xOffset="1237"/>
+    <component base="zcaron" xOffset="1234"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_zcaron</string>
   <key>public.markColor</key>

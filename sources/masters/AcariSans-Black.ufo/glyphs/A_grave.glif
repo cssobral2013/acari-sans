@@ -6,10 +6,8 @@
   <anchor x="696" y="1550" name="center"/>
   <outline>
     <component base="A"/>
-    <component base="gravecomb" xOffset="842.752" yOffset="425.984"/>
+    <component base="gravecomb" xOffset="843" yOffset="426"/>
   </outline>
-  <guideline angle="0" x="0" y="1619"/>
-  <guideline angle="0" x="0" y="1913"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

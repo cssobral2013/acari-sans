@@ -4,19 +4,6 @@
 @locl_ss022 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 #/< otclasses
-
-#/> kernclasses
-@T = [T Tbar Tcaron Y Yacute Ycircumflex Ydieresis Ygrave];
-@A = [A L uni0410 uni0466 uni0468];
-@V = [V];
-@W = [W Wacute Wcircumflex Wdieresis Wgrave];
-@T2 = [T Tbar Tcaron V Y Yacute Ycircumflex Ydieresis Ygrave];
-@W2 = [W Wacute Wcircumflex Wdieresis Wgrave];
-@quoteright = [quotedblright quoteright];
-@A2 = [A uni0410 uni0466];
-@a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
-@v = [v w wacute wcircumflex wdieresis wgrave y];
-#/< kernclasses
 #< classes
 
 #/> classes
@@ -492,6 +479,14 @@ feature locl {
 
   script latn; # Latin
     language TRK ; # Turkish
+    sub i by i.loclTRK;
+    language CRT ; # Turkish
+    sub i by i.loclTRK;
+    language TAT ; # Turkish
+    sub i by i.loclTRK;
+    language KAZ ; # Turkish
+    sub i by i.loclTRK;
+    language AZE ; # Turkish
     sub i by i.loclTRK;
 
     language MOL ; # Moldavian
@@ -973,3 +968,35 @@ feature kern {
 
 
 } kern;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight by eight.pnum;
+  sub five by five.pnum;
+  sub four by four.pnum;
+  sub nine by nine.pnum;
+  sub one by one.pnum;
+  sub seven by seven.pnum;
+  sub six by six.pnum;
+  sub three by three.pnum;
+  sub two by two.pnum;
+  sub zero by zero.pnum;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight.pnum by eight;
+  sub five.pnum by five;
+  sub four.pnum by four;
+  sub nine.pnum by nine;
+  sub one.pnum by one;
+  sub seven.pnum by seven;
+  sub six.pnum by six;
+  sub three.pnum by three;
+  sub two.pnum by two;
+  sub zero.pnum by zero;
+#< feature
+} tnum;

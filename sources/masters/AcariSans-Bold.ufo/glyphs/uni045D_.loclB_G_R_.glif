@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045D.loclBGR" format="2">
   <advance width="1211"/>
-  <anchor x="1068.03" y="0" name="ogonek"/>
+  <anchor x="1068" y="0" name="ogonek"/>
   <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="gravecomb" xOffset="741.376"/>
+    <component base="gravecomb" xOffset="741"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0438.loclBGR+uni0300</string>
   <key>public.markColor</key>

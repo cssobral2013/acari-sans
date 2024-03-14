@@ -2,14 +2,13 @@
 <glyph name="yacute" format="2">
   <advance width="1104"/>
   <unicode hex="00FD"/>
+  <anchor x="646" y="-210" name="bottom"/>
   <outline>
     <component base="y"/>
     <component base="acutecomb" xOffset="931"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>y+acutecomb</string>
   <key>public.markColor</key>

@@ -4,73 +4,16 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="494.592" y="684.032" type="line" name=".dv03"/>
-      <point x="494.592" y="976.896" type="line" name=".dv04"/>
-      <point x="199.68" y="976.896" type="line" name=".dh01"/>
-      <point x="199.68" y="684.032" type="line"/>
+      <point x="495" y="684" type="line" name=".dv03"/>
+      <point x="495" y="977" type="line" name=".dv04"/>
+      <point x="200" y="977" type="line" name=".dh01"/>
+      <point x="200" y="684" type="line"/>
     </contour>
     <contour>
-      <point x="494.592" y="0" type="line" name=".dv01"/>
-      <point x="494.592" y="292.864" type="line" name=".dv02"/>
-      <point x="199.68" y="292.864" type="line" name=".sh01"/>
-      <point x="199.68" y="0" type="line"/>
+      <point x="495" y="0" type="line" name=".dv01"/>
+      <point x="495" y="293" type="line" name=".dv02"/>
+      <point x="200" y="293" type="line" name=".sh01"/>
+      <point x="200" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv01</string>
-      <key>point2</key>
-      <string>.dv02</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>.dv03</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doubleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.dv04</string>
-      <key>round</key>
-      <string>true</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.dv04</string>
-      <key>point2</key>
-      <string>.dv01</string>
-      <key>align</key>
-      <string>double</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>.dh01</string>
-      <key>point2</key>
-      <string>.sh01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

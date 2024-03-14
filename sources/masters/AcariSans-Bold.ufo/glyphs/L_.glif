@@ -2,18 +2,16 @@
 <glyph name="L" format="2">
   <advance width="1089"/>
   <unicode hex="004C"/>
-  <anchor x="316.416" y="1617.92" name="top"/>
+  <anchor x="316" y="1617.92" name="top"/>
   <anchor x="874" y="795" name="center"/>
   <outline>
     <contour>
-      <point x="1064.96" y="0" type="line"/>
-      <point x="1064.96" y="245.76" type="line"/>
-      <point x="446.464" y="245.76" type="line"/>
-      <point x="446.464" y="1447.91" type="line"/>
-      <point x="186.368" y="1447.91" type="line"/>
-      <point x="186.368" y="0" type="line"/>
+      <point x="1065" y="0" type="line"/>
+      <point x="1065" y="246" type="line"/>
+      <point x="446" y="246" type="line"/>
+      <point x="446" y="1448" type="line"/>
+      <point x="186" y="1448" type="line"/>
+      <point x="186" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="316.416" y="0"/>
-  <guideline angle="90" x="1065" y="0"/>
 </glyph>

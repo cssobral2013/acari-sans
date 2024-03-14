@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02D0" format="2">
-  <advance width="531"/>
+  <advance width="530"/>
   <unicode hex="02D0"/>
   <outline>
     <contour>
-      <point x="265.24" y="632.832" type="line"/>
-      <point x="470.04" y="1021.95" type="line"/>
-      <point x="60.44" y="1021.95" type="line"/>
+      <point x="265" y="633" type="line"/>
+      <point x="470" y="1022" type="line"/>
+      <point x="60" y="1022" type="line"/>
     </contour>
     <contour>
-      <point x="60.44" y="0" type="line"/>
-      <point x="470.04" y="0" type="line"/>
-      <point x="265.24" y="389.12" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="265" y="389" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="265.24" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

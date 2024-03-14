@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="2">
-  <advance width="854"/>
+  <advance width="846"/>
   <unicode hex="0155"/>
-  <anchor x="122" y="-120" name="bottom"/>
+  <anchor x="114" y="-120" name="bottom"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="881"/>
+    <component base="acutecomb" xOffset="873"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>r+acutecomb</string>
   <key>public.markColor</key>
