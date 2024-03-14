@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="1466"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="36" y="836" type="line" name=".dv06"/>
+      <point x="36" y="625" type="line" name=".dv05"/>
+      <point x="804" y="625" type="line"/>
+      <point x="804" y="836" type="line" name=".sv02"/>
+    </contour>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="635" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="1129" y="0"/>
+      <point x="1397" y="269"/>
+      <point x="1397" y="713" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1397" y="1202"/>
+      <point x="1118" y="1448"/>
+      <point x="637" y="1448" type="curve" smooth="yes" name=".dv04"/>
+      <point x="202" y="1448" type="line" name=".sh02"/>
+    </contour>
+    <contour>
+      <point x="492" y="266" type="line" name=".sv01"/>
+      <point x="492" y="1180" type="line" name=".sh03"/>
+      <point x="638" y="1180" type="line" smooth="yes" name=".dv03"/>
+      <point x="971" y="1180"/>
+      <point x="1106" y="1062"/>
+      <point x="1106" y="724" type="curve" smooth="yes" name=".ah01"/>
+      <point x="1106" y="386"/>
+      <point x="934" y="266"/>
+      <point x="610" y="266" type="curve" smooth="yes" name=".dv02"/>
+    </contour>
+  </outline>
+</glyph>

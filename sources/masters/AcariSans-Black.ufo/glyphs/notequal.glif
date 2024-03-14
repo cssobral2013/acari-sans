@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="2">
+  <advance width="1186"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="307" y="0" type="line" name=".av02"/>
+      <point x="540" y="409" type="line" name=".dv01"/>
+      <point x="1009" y="409" type="line"/>
+      <point x="1009" y="613" type="line"/>
+      <point x="651" y="613" type="line" name=".dv02"/>
+      <point x="731" y="763" type="line" name=".dv03"/>
+      <point x="1009" y="763" type="line"/>
+      <point x="1009" y="968" type="line"/>
+      <point x="843" y="968" type="line" name=".dv04"/>
+      <point x="1112" y="1447" type="line" name=".av01"/>
+      <point x="881" y="1447" type="line"/>
+      <point x="611" y="968" type="line" name=".sv01"/>
+      <point x="166" y="968" type="line"/>
+      <point x="166" y="763" type="line" name=".sv02"/>
+      <point x="501" y="763" type="line" name=".iv01"/>
+      <point x="421" y="613" type="line" name=".sv03"/>
+      <point x="166" y="613" type="line"/>
+      <point x="166" y="409" type="line" name=".sv04"/>
+      <point x="308" y="409" type="line" name=".iv02"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

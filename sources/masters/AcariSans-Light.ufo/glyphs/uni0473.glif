@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0473" format="2">
+  <advance width="1161"/>
+  <unicode hex="0473"/>
+  <outline>
+    <contour>
+      <point x="197" y="503" type="line"/>
+      <point x="995" y="503" type="line"/>
+      <point x="995" y="600" type="line"/>
+      <point x="197" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="889" y="-20"/>
+      <point x="1071" y="190"/>
+      <point x="1071" y="532" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1071" y="869"/>
+      <point x="881" y="1084"/>
+      <point x="580" y="1084" type="curve" smooth="yes" name=".dv04"/>
+      <point x="279" y="1084"/>
+      <point x="90" y="870"/>
+      <point x="90" y="532" type="curve" smooth="yes" name=".sh02"/>
+      <point x="90" y="194"/>
+      <point x="281" y="-20"/>
+    </contour>
+    <contour>
+      <point x="580" y="99" type="curve" smooth="yes" name=".dv02"/>
+      <point x="378" y="99"/>
+      <point x="234" y="279"/>
+      <point x="234" y="532" type="curve" smooth="yes" name=".sh03"/>
+      <point x="234" y="789"/>
+      <point x="373" y="965"/>
+      <point x="580" y="965" type="curve" smooth="yes" name=".dv03"/>
+      <point x="791" y="965"/>
+      <point x="927" y="793"/>
+      <point x="927" y="532" type="curve" smooth="yes" name=".ah01"/>
+      <point x="927" y="270"/>
+      <point x="795" y="99"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

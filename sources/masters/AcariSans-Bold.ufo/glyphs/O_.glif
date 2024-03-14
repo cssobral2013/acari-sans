@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+  <advance width="1565"/>
+  <unicode hex="004F"/>
+  <anchor x="782" y="1617.92" name="top"/>
+  <anchor x="955" y="0" name="ogonek"/>
+  <anchor x="1545" y="1448" name="horn"/>
+  <outline>
+    <contour>
+      <point x="782" y="-20" type="curve" smooth="yes"/>
+      <point x="1222" y="-20"/>
+      <point x="1481" y="287"/>
+      <point x="1481" y="724" type="curve" smooth="yes"/>
+      <point x="1481" y="1162"/>
+      <point x="1222" y="1468"/>
+      <point x="782" y="1468" type="curve" smooth="yes"/>
+      <point x="342" y="1468"/>
+      <point x="84" y="1162"/>
+      <point x="84" y="724" type="curve" smooth="yes"/>
+      <point x="84" y="287"/>
+      <point x="342" y="-20"/>
+    </contour>
+    <contour>
+      <point x="782" y="210" type="curve" smooth="yes"/>
+      <point x="470" y="210"/>
+      <point x="358" y="453"/>
+      <point x="358" y="724" type="curve" smooth="yes"/>
+      <point x="358" y="1007"/>
+      <point x="479" y="1238"/>
+      <point x="782" y="1238" type="curve" smooth="yes"/>
+      <point x="1091" y="1238"/>
+      <point x="1206" y="1000"/>
+      <point x="1206" y="724" type="curve" smooth="yes"/>
+      <point x="1206" y="442"/>
+      <point x="1085" y="210"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=84</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=84</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046D" format="2">
+  <advance width="1818"/>
+  <unicode hex="046D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni046B" xOffset="475"/>
+    <contour>
+      <point x="1009.81" y="612.352" type="line"/>
+      <point x="328.272" y="612.352" type="line"/>
+      <point x="285.264" y="424.96" type="line"/>
+      <point x="891.024" y="424.96" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.918" x="981" y="383"/>
+  <guideline angle="76.8334" x="1169" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni046B</string>
+  </dict>
+  </lib>
+</glyph>

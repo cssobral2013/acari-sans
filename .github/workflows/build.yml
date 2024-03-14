@@ -59,7 +59,11 @@ jobs:
       run: cp scripts/index.html out/index.html
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
+<<<<<<< HEAD
       if: ${{ github.ref == 'refs/heads/main' }}
+=======
+      if: ${{ github.ref == 'refs/heads/local' }}
+>>>>>>> bd67725c02099c636b2badd7f261791144a291b2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out

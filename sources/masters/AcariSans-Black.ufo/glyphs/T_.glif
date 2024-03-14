@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="1191"/>
+  <unicode hex="0054"/>
+  <anchor x="581" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="740" y="0" type="line" name=".av01"/>
+      <point x="740" y="1185" type="line" name=".dh02"/>
+      <point x="1182" y="1185" type="line" name=".dv01"/>
+      <point x="1182" y="1448" type="line" name=".dv02"/>
+      <point x="7" y="1448" type="line"/>
+      <point x="7" y="1185" type="line" name=".sv01"/>
+      <point x="451" y="1185" type="line" name=".dh01"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="1142"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="866" y="962" type="line" name=".dv03"/>
+      <point x="1105" y="1447" type="line"/>
+      <point x="828" y="1447" type="line" name=".dv04"/>
+      <point x="708" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="1085" y="0" type="line" name=".dv01"/>
+      <point x="1085" y="276" type="line" name=".dv02"/>
+      <point x="467" y="276" type="line"/>
+      <point x="467" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dh01"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

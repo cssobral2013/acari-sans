@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A.loclBGR" format="2">
+  <advance width="1158"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="404" y="451" type="line"/>
+      <point x="543" y="451" type="line" smooth="yes"/>
+      <point x="611" y="451"/>
+      <point x="653" y="409"/>
+      <point x="683" y="331" type="curve" smooth="yes"/>
+      <point x="812" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="932" y="436" type="line" smooth="yes"/>
+      <point x="888" y="538"/>
+      <point x="827" y="600"/>
+      <point x="777" y="600" type="curve"/>
+      <point x="1065" y="1064" type="line"/>
+      <point x="764" y="1064" type="line"/>
+      <point x="515" y="635" type="line"/>
+      <point x="404" y="635" type="line"/>
+      <point x="404" y="1447" type="line"/>
+      <point x="155" y="1447" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043A</string>
+  </dict>
+  </lib>
+</glyph>

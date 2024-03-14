@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="1189"/>
+  <unicode hex="00F6"/>
+  <anchor x="599" y="0" name="ogonek"/>
+  <anchor x="1404" y="1064" name="pos"/>
+  <anchor x="462" y="-120" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0308" xOffset="1041"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

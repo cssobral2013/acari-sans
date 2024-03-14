@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EED" format="2">
+  <advance width="1228"/>
+  <unicode hex="1EED"/>
+  <anchor x="955" y="0" name="ogonek"/>
+  <anchor x="430" y="-120" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni031B" xOffset="1362" yOffset="-384"/>
+    <component base="hookabovecomb" xOffset="901" yOffset="94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni031B+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

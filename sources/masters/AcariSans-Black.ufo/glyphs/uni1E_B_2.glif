@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB2" format="2">
+  <advance width="1388"/>
+  <unicode hex="1EB2"/>
+  <anchor x="1390" y="0" name="ogonek"/>
+  <anchor x="696" y="1550" name="center"/>
+  <anchor x="696" y="-150" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni03060309" xOffset="1108" yOffset="428"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03060309</string>
+  </dict>
+  </lib>
+</glyph>

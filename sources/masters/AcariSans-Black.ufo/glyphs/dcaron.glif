@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="1338"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="1341" y="962" type="line" name=".dv03"/>
+      <point x="1580" y="1447" type="line"/>
+      <point x="1304" y="1447" type="line" name=".dv04"/>
+      <point x="1183" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="631" y="-20"/>
+      <point x="738" y="25"/>
+      <point x="797" y="105" type="curve" name=".iv01"/>
+      <point x="811" y="0" type="line" name=".sv01"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="1069" y="1448" type="line" name=".av01"/>
+      <point x="784" y="1448" type="line" name=".dh03"/>
+      <point x="784" y="972" type="line" name=".iv02"/>
+      <point x="722" y="1046"/>
+      <point x="621" y="1084"/>
+      <point x="495" y="1084" type="curve" smooth="yes" name=".dv04"/>
+      <point x="239" y="1084"/>
+      <point x="54" y="858"/>
+      <point x="54" y="543" type="curve" smooth="yes" name=".dh01"/>
+      <point x="54" y="206"/>
+      <point x="236" y="-20"/>
+    </contour>
+    <contour>
+      <point x="574" y="239" type="curve" smooth="yes" name=".dv02"/>
+      <point x="426" y="239"/>
+      <point x="338" y="348"/>
+      <point x="338" y="532" type="curve" smooth="yes" name=".dh02"/>
+      <point x="338" y="714"/>
+      <point x="431" y="831"/>
+      <point x="574" y="831" type="curve" smooth="yes" name=".dv03"/>
+      <point x="718" y="831"/>
+      <point x="808" y="716"/>
+      <point x="808" y="532" type="curve" smooth="yes" name=".sh01"/>
+      <point x="808" y="350"/>
+      <point x="719" y="239"/>
+    </contour>
+  </outline>
+</glyph>

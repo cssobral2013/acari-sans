@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="2">
+  <advance width="1299"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="1086" y="763" type="line" name=".dv03"/>
+      <point x="1086" y="996" type="line" name=".dv04"/>
+      <point x="214" y="996" type="line"/>
+      <point x="214" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="1086" y="379" type="line" name=".dv01"/>
+      <point x="1086" y="613" type="line" name=".dv02"/>
+      <point x="214" y="613" type="line"/>
+      <point x="214" y="379" type="line"/>
+    </contour>
+  </outline>
+</glyph>

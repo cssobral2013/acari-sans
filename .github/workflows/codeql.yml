@@ -18,7 +18,11 @@ on:
     # The branches below must be a subset of the branches above
     branches: [ "local" ]
   schedule:
+<<<<<<< HEAD
     - cron: '37 11 * * 4'
+=======
+    - cron: '42 20 * * 1'
+>>>>>>> bd67725c02099c636b2badd7f261791144a291b2
 
 jobs:
   analyze:

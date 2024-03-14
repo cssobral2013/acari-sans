@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="2">
+  <advance width="1498"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="1073" y="-378" type="line" smooth="yes" name=".av03"/>
+      <point x="1220" y="-378"/>
+      <point x="1321" y="-268"/>
+      <point x="1321" y="-106" type="curve" smooth="yes"/>
+      <point x="1321" y="1444" type="line" name=".av01"/>
+      <point x="1046" y="1444" type="line" name=".ah01"/>
+      <point x="1046" y="500" type="line" name=".iv01"/>
+      <point x="444" y="1444" type="line" name=".av02"/>
+      <point x="177" y="1444" type="line" name=".sh01"/>
+      <point x="177" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="454" y="947" type="line" name=".iv02"/>
+      <point x="1043" y="3" type="line" smooth="yes"/>
+      <point x="1064" y="-31"/>
+      <point x="1082" y="-67"/>
+      <point x="1082" y="-102" type="curve" smooth="yes"/>
+      <point x="1082" y="-127"/>
+      <point x="1067" y="-158"/>
+      <point x="1030" y="-158" type="curve" smooth="yes"/>
+      <point x="914" y="-158" type="line"/>
+      <point x="914" y="-378" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=N</string>
+  </dict>
+  </lib>
+</glyph>
