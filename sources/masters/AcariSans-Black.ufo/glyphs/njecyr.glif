@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="1764"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="1243" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="1577" y="0"/>
+      <point x="1724" y="77"/>
+      <point x="1724" y="341" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1724" y="640"/>
+      <point x="1488" y="672"/>
+      <point x="1241" y="672" type="curve" smooth="yes"/>
+      <point x="1104" y="672" type="line" name=".dv04"/>
+      <point x="1104" y="1064" type="line" name=".av01"/>
+      <point x="817" y="1064" type="line" name=".dh02"/>
+      <point x="817" y="672" type="line" name=".sv01"/>
+      <point x="426" y="672" type="line" name=".dv06"/>
+      <point x="426" y="1064" type="line" name=".av02"/>
+      <point x="141" y="1064" type="line" name=".dh01"/>
+      <point x="141" y="0" type="line" name=".sv02"/>
+      <point x="426" y="0" type="line" name=".sh01"/>
+      <point x="426" y="465" type="line" name=".dv05"/>
+      <point x="817" y="465" type="line" name=".sh02"/>
+      <point x="817" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1241" y="245" type="curve" smooth="yes" name=".dv02"/>
+      <point x="1104" y="245" type="line" name=".sh03"/>
+      <point x="1104" y="427" type="line" name=".dv03"/>
+      <point x="1241" y="427" type="line" smooth="yes"/>
+      <point x="1360" y="427"/>
+      <point x="1416" y="412"/>
+      <point x="1416" y="341" type="curve" smooth="yes" name=".dh03"/>
+      <point x="1416" y="257"/>
+      <point x="1352" y="245"/>
+    </contour>
+  </outline>
+</glyph>

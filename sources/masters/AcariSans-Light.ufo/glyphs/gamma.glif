@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="1110"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="280.48" y="976.896" type="line" smooth="yes"/>
+      <point x="255.904" y="1032.19"/>
+      <point x="194.464" y="1052.67"/>
+      <point x="128.928" y="1052.67" type="curve" smooth="yes"/>
+      <point x="110.496" y="1052.67"/>
+      <point x="87.968" y="1050.62"/>
+      <point x="59.296" y="1046.53" type="curve"/>
+      <point x="59.296" y="937.984" type="line"/>
+      <point x="71.584" y="940.032"/>
+      <point x="94.112" y="940.032"/>
+      <point x="108.448" y="940.032" type="curve" smooth="yes"/>
+      <point x="141.216" y="940.032"/>
+      <point x="161.696" y="925.696"/>
+      <point x="176.032" y="890.88" type="curve" smooth="yes"/>
+      <point x="536.48" y="67.584" type="line"/>
+      <point x="536.48" y="-409.6" type="line"/>
+      <point x="669.6" y="-409.6" type="line"/>
+      <point x="669.6" y="59.392" type="line"/>
+      <point x="1068.96" y="1030.14" type="line"/>
+      <point x="931.744" y="1030.14" type="line"/>
+      <point x="593.824" y="194.56" type="line"/>
+      <point x="614.304" y="194.56" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="293.693" x="184" y="838"/>
+  <guideline angle="67.4143" x="706" y="55"/>
+  <guideline angle="247.65" x="926" y="1030"/>
+  <guideline angle="113.178" x="625" y="258"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>438</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>237</integer>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

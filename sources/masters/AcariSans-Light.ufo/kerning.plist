@@ -7,6 +7,26 @@
     <key>A</key>
     <integer>-126</integer>
   </dict>
+  <key>efcyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-210</integer>
+  </dict>
+  <key>ercyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-210</integer>
+  </dict>
+  <key>hardcyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-210</integer>
+  </dict>
+  <key>ocyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-210</integer>
+  </dict>
   <key>quotedblleft</key>
   <dict>
     <key>A</key>
@@ -226,42 +246,22 @@
     <key>umacron</key>
     <integer>-42</integer>
   </dict>
-  <key>uni043E</key>
+  <key>softcyr</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-210</integer>
   </dict>
-  <key>uni0440</key>
+  <key>yucyr</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-210</integer>
   </dict>
-  <key>uni0444</key>
+  <key>yuslittlecyr</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-210</integer>
   </dict>
-  <key>uni044A</key>
-  <dict>
-    <key>public.kern2.T2</key>
-    <integer>-210</integer>
-  </dict>
-  <key>uni044C</key>
-  <dict>
-    <key>public.kern2.T2</key>
-    <integer>-210</integer>
-  </dict>
-  <key>uni044E</key>
-  <dict>
-    <key>public.kern2.T2</key>
-    <integer>-210</integer>
-  </dict>
-  <key>uni0467</key>
-  <dict>
-    <key>public.kern2.T2</key>
-    <integer>-210</integer>
-  </dict>
-  <key>uni0469</key>
+  <key>yuslittleiotifiedcyr</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-210</integer>

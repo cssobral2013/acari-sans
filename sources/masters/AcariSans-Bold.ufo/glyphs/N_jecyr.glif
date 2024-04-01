@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Njecyr" format="2">
+  <advance width="2089"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="1533" y="0" type="line" smooth="yes"/>
+      <point x="1803" y="0"/>
+      <point x="2045" y="135"/>
+      <point x="2045" y="426" type="curve" smooth="yes"/>
+      <point x="2045" y="725"/>
+      <point x="1793" y="845"/>
+      <point x="1533" y="845" type="curve" smooth="yes"/>
+      <point x="1340" y="845" type="line"/>
+      <point x="1340" y="1445" type="line"/>
+      <point x="1080" y="1445" type="line"/>
+      <point x="1080" y="843" type="line"/>
+      <point x="446" y="843" type="line"/>
+      <point x="446" y="1445" type="line"/>
+      <point x="186" y="1445" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="604" type="line"/>
+      <point x="1080" y="604" type="line"/>
+      <point x="1080" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1533" y="244" type="curve" smooth="yes"/>
+      <point x="1340" y="244" type="line"/>
+      <point x="1340" y="602" type="line"/>
+      <point x="1533" y="602" type="line" smooth="yes"/>
+      <point x="1701" y="602"/>
+      <point x="1787" y="548"/>
+      <point x="1787" y="426" type="curve" smooth="yes"/>
+      <point x="1787" y="304"/>
+      <point x="1702" y="244"/>
+    </contour>
+  </outline>
+</glyph>

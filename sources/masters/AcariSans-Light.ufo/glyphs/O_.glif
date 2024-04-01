@@ -2,7 +2,7 @@
 <glyph name="O" format="2">
   <advance width="1573"/>
   <unicode hex="004F"/>
-  <anchor x="787" y="1617.92" name="top"/>
+  <anchor x="787" y="1618" name="top"/>
   <anchor x="908" y="0" name="ogonek"/>
   <anchor x="1546" y="1448" name="horn"/>
   <outline>
@@ -35,12 +35,4 @@
       <point x="1097" y="111"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=137</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=137</string>
-  </dict>
-  </lib>
 </glyph>

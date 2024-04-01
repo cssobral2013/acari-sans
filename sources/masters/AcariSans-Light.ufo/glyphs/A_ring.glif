@@ -7,12 +7,12 @@
   <anchor x="670" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni030A" xOffset="995" yOffset="510"/>
+    <component base="ringcomb" xOffset="995" yOffset="510"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+uni030A</string>
+  <string>A+ringcomb</string>
   </dict>
   </lib>
 </glyph>

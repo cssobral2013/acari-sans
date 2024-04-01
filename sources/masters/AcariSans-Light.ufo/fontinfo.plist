@@ -7,8 +7,10 @@
   <key>capHeight</key>
   <integer>1448</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
-Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/)
+HK Grotesk is a trademark of Alfredo Marco Pradil
+Copyright (c) 2016-2021 The Perun Project Authors
+Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
@@ -56,10 +58,12 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeHheaLineGap</key>
   <integer>27</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
-Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/)
+HK Grotesk is a trademark of Alfredo Marco Pradil
+Copyright (c) 2016-2021 The Perun Project Authors
+Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>openTypeNameDesigner</key>
-  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic version) &amp; Cristiano Sobral (main changes)</string>
+  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic and Greek glyphs) &amp; Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://behance.net/pradil and https://localfonts.eu/</string>
   <key>openTypeNameLicense</key>
@@ -75,14 +79,16 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.076</string>
+  <string>Version 1.078</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>1</integer>
     <integer>2</integer>
+    <integer>3</integer>
     <integer>4</integer>
     <integer>7</integer>
+    <integer>8</integer>
     <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
@@ -137,9 +143,14 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <integer>1</integer>
     <integer>2</integer>
     <integer>3</integer>
+    <integer>5</integer>
+    <integer>6</integer>
+    <integer>7</integer>
     <integer>9</integer>
     <integer>29</integer>
+    <integer>31</integer>
     <integer>32</integer>
+    <integer>33</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>AMSP</string>
@@ -193,7 +204,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>postscriptWeightName</key>
   <string>Light</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans Light</string>
+  <string>Acari Sans</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -203,7 +214,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>76</integer>
+  <integer>78</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

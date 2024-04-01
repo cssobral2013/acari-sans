@@ -6,12 +6,12 @@
   <anchor x="984" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="uni031B" xOffset="1334" yOffset="-384"/>
+    <component base="horncomb" xOffset="1334" yOffset="-384"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>u+uni031B</string>
+  <string>u+horncomb</string>
   </dict>
   </lib>
 </glyph>

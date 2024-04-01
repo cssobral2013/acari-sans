@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="1026"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="448.512" y="946.176" type="line"/>
+      <point x="448.512" y="169.984" type="line" smooth="yes"/>
+      <point x="448.512" y="45.056"/>
+      <point x="514.048" y="-18.432"/>
+      <point x="661.504" y="-18.432" type="curve" smooth="yes"/>
+      <point x="700.416" y="-18.432"/>
+      <point x="739.328" y="-14.336"/>
+      <point x="778.24" y="-4.096" type="curve"/>
+      <point x="778.24" y="94.208" type="line"/>
+      <point x="759.808" y="90.112"/>
+      <point x="722.944" y="86.016"/>
+      <point x="702.464" y="86.016" type="curve" smooth="yes"/>
+      <point x="602.112" y="86.016"/>
+      <point x="579.584" y="137.216"/>
+      <point x="579.584" y="225.28" type="curve" smooth="yes"/>
+      <point x="579.584" y="946.176" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.44" y="919.552" type="line"/>
+      <point x="964.608" y="923.648" type="line"/>
+      <point x="964.608" y="1026.05" type="line"/>
+      <point x="61.44" y="1026.05" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>429</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>199</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

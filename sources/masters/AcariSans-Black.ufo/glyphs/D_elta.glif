@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="1473"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="489.472" y="360.448" type="line"/>
+      <point x="503.808" y="337.92" type="line"/>
+      <point x="724.992" y="813.056" type="line"/>
+      <point x="716.8" y="813.056" type="line"/>
+      <point x="944.128" y="337.92" type="line"/>
+      <point x="958.464" y="360.448" type="line"/>
+    </contour>
+    <contour>
+      <point x="38.912" y="0" type="line"/>
+      <point x="1409.02" y="0" type="line"/>
+      <point x="1409.02" y="184.32" type="line"/>
+      <point x="825.344" y="1447.94" type="line"/>
+      <point x="616.448" y="1447.94" type="line"/>
+      <point x="38.912" y="184.32" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="245.98" x="735.232" y="1292.29"/>
+  <guideline angle="65.9535" x="38.912" y="184.32"/>
+  <guideline angle="114.28" x="1216.51" y="161.792"/>
+  <guideline angle="294.273" x="825.344" y="1478.66"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

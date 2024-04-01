@@ -27,27 +27,9 @@
 
 @font-face {
     font-family: 'Acari Sans';
-    src: url('AcariSans-ExtraLightItalic.woff2') format('woff2'),
-        url('AcariSans-ExtraLightItalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Acari Sans';
     src: url('AcariSans-Light.woff2') format('woff2'),
         url('AcariSans-Light.woff') format('woff');
     font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Acari Sans';
-    src: url('AcariSans-ExtraLight.woff2') format('woff2'),
-        url('AcariSans-ExtraLight.woff') format('woff');
-    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
@@ -124,3 +106,20 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Black.woff2') format('woff2'),
+        url('AcariSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-BlackItalic.woff2') format('woff2'),
+        url('AcariSans-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}

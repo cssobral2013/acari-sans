@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="1212"/>
+  <outline>
+    <contour>
+      <point x="40" y="953" type="line" name=".dv03"/>
+      <point x="314" y="953" type="line" name=".sh01"/>
+      <point x="314" y="1064" type="line" name=".dh01"/>
+      <point x="40" y="1064" type="line" name=".dv04"/>
+    </contour>
+    <contour>
+      <point x="667" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="926" y="-20"/>
+      <point x="1113" y="153"/>
+      <point x="1113" y="415" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1113" y="685"/>
+      <point x="931" y="855"/>
+      <point x="664" y="855" type="curve" smooth="yes" name=".dv04"/>
+      <point x="540" y="855"/>
+      <point x="436" y="803"/>
+      <point x="375" y="692" type="curve"/>
+      <point x="375" y="1064" type="line" name=".av01"/>
+      <point x="241" y="1064" type="line" name=".sh02"/>
+      <point x="241" y="385" type="line" smooth="yes"/>
+      <point x="241" y="134"/>
+      <point x="423" y="-20"/>
+    </contour>
+    <contour>
+      <point x="667" y="95" type="curve" smooth="yes" name=".dv02"/>
+      <point x="478" y="95"/>
+      <point x="375" y="239"/>
+      <point x="375" y="418" type="curve" smooth="yes" name=".sh03"/>
+      <point x="375" y="593"/>
+      <point x="476" y="738"/>
+      <point x="667" y="738" type="curve" smooth="yes" name=".dv03"/>
+      <point x="851" y="738"/>
+      <point x="964" y="595"/>
+      <point x="964" y="419" type="curve" smooth="yes" name=".ah01"/>
+      <point x="964" y="242"/>
+      <point x="853" y="95"/>
+    </contour>
+  </outline>
+</glyph>

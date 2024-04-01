@@ -14,12 +14,44 @@
   <string>A_acute.glif</string>
   <key>Abreve</key>
   <string>A_breve.glif</string>
+  <key>Abreveacute</key>
+  <string>A_breveacute.glif</string>
+  <key>Abrevedotbelow</key>
+  <string>A_brevedotbelow.glif</string>
+  <key>Abrevegrave</key>
+  <string>A_brevegrave.glif</string>
+  <key>Abrevehoi</key>
+  <string>A_brevehoi.glif</string>
+  <key>Abrevetilde</key>
+  <string>A_brevetilde.glif</string>
+  <key>Acaron</key>
+  <string>A_caron.glif</string>
   <key>Acircumflex</key>
   <string>A_circumflex.glif</string>
+  <key>Acircumflexacute</key>
+  <string>A_circumflexacute.glif</string>
+  <key>Acircumflexdotbelow</key>
+  <string>A_circumflexdotbelow.glif</string>
+  <key>Acircumflexgrave</key>
+  <string>A_circumflexgrave.glif</string>
+  <key>Acircumflexhoi</key>
+  <string>A_circumflexhoi.glif</string>
+  <key>Acircumflextilde</key>
+  <string>A_circumflextilde.glif</string>
+  <key>Acyr</key>
+  <string>A_cyr.glif</string>
   <key>Adieresis</key>
   <string>A_dieresis.glif</string>
+  <key>Adotbelow</key>
+  <string>A_dotbelow.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
+  <key>Ahoi</key>
+  <string>A_hoi.glif</string>
+  <key>Alpha</key>
+  <string>A_lpha.glif</string>
+  <key>Alphatonos</key>
+  <string>A_lphatonos.glif</string>
   <key>Amacron</key>
   <string>A_macron.glif</string>
   <key>Aogonek</key>
@@ -32,8 +64,14 @@
   <string>A_tilde.glif</string>
   <key>B</key>
   <string>B_.glif</string>
+  <key>Becyr</key>
+  <string>B_ecyr.glif</string>
+  <key>Beta</key>
+  <string>B_eta.glif</string>
   <key>C</key>
   <string>C_.glif</string>
+  <key>CR</key>
+  <string>C_R_.glif</string>
   <key>Cacute</key>
   <string>C_acute.glif</string>
   <key>Ccaron</key>
@@ -44,12 +82,38 @@
   <string>C_circumflex.glif</string>
   <key>Cdotaccent</key>
   <string>C_dotaccent.glif</string>
+  <key>Checyr</key>
+  <string>C_hecyr.glif</string>
+  <key>Chetailcyr</key>
+  <string>C_hetailcyr.glif</string>
+  <key>Chi</key>
+  <string>C_hi.glif</string>
   <key>D</key>
   <string>D_.glif</string>
+  <key>DZ</key>
+  <string>D_Z_.glif</string>
+  <key>DZcaron</key>
+  <string>D_Z_caron.glif</string>
   <key>Dcaron</key>
   <string>D_caron.glif</string>
   <key>Dcroat</key>
   <string>D_croat.glif</string>
+  <key>Decyr</key>
+  <string>D_ecyr.glif</string>
+  <key>Decyr.loclBGR</key>
+  <string>D_ecyr.loclB_G_R_.glif</string>
+  <key>Delta</key>
+  <string>D_elta.glif</string>
+  <key>Djecyr</key>
+  <string>D_jecyr.glif</string>
+  <key>Dz</key>
+  <string>D_z.glif</string>
+  <key>Dzcaron</key>
+  <string>D_zcaron.glif</string>
+  <key>Dzecyr</key>
+  <string>D_zecyr.glif</string>
+  <key>Dzhecyr</key>
+  <string>D_zhecyr.glif</string>
   <key>E</key>
   <string>E_.glif</string>
   <key>Eacute</key>
@@ -60,36 +124,100 @@
   <string>E_caron.glif</string>
   <key>Ecircumflex</key>
   <string>E_circumflex.glif</string>
+  <key>Ecircumflexacute</key>
+  <string>E_circumflexacute.glif</string>
+  <key>Ecircumflexdotbelow</key>
+  <string>E_circumflexdotbelow.glif</string>
+  <key>Ecircumflexgrave</key>
+  <string>E_circumflexgrave.glif</string>
+  <key>Ecircumflexhoi</key>
+  <string>E_circumflexhoi.glif</string>
+  <key>Ecircumflextilde</key>
+  <string>E_circumflextilde.glif</string>
   <key>Edieresis</key>
   <string>E_dieresis.glif</string>
   <key>Edotaccent</key>
   <string>E_dotaccent.glif</string>
+  <key>Edotbelow</key>
+  <string>E_dotbelow.glif</string>
+  <key>Efcyr</key>
+  <string>E_fcyr.glif</string>
   <key>Egrave</key>
   <string>E_grave.glif</string>
+  <key>Ehoi</key>
+  <string>E_hoi.glif</string>
+  <key>Eiotifiedcyr</key>
+  <string>E_iotifiedcyr.glif</string>
+  <key>Elcyr</key>
+  <string>E_lcyr.glif</string>
+  <key>Elcyr.loclBGR</key>
+  <string>E_lcyr.loclB_G_R_.glif</string>
   <key>Emacron</key>
   <string>E_macron.glif</string>
+  <key>Emcyr</key>
+  <string>E_mcyr.glif</string>
+  <key>Encyr</key>
+  <string>E_ncyr.glif</string>
   <key>Eng</key>
   <string>E_ng.glif</string>
+  <key>Entailcyr</key>
+  <string>E_ntailcyr.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
+  <key>Epsilon</key>
+  <string>E_psilon.glif</string>
+  <key>Epsilontonos</key>
+  <string>E_psilontonos.glif</string>
+  <key>Ercyr</key>
+  <string>E_rcyr.glif</string>
+  <key>Ereversedcyr</key>
+  <string>E_reversedcyr.glif</string>
+  <key>Escyr</key>
+  <string>E_scyr.glif</string>
+  <key>Eta</key>
+  <string>E_ta.glif</string>
+  <key>Etatonos</key>
+  <string>E_tatonos.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
+  <key>Etilde</key>
+  <string>E_tilde.glif</string>
+  <key>Eukrcyr</key>
+  <string>E_ukrcyr.glif</string>
   <key>Euro</key>
   <string>E_uro.glif</string>
   <key>F</key>
   <string>F_.glif</string>
+  <key>Fitacyr</key>
+  <string>F_itacyr.glif</string>
   <key>G</key>
   <string>G_.glif</string>
+  <key>Gamma</key>
+  <string>G_amma.glif</string>
   <key>Gbreve</key>
   <string>G_breve.glif</string>
   <key>Gcircumflex</key>
   <string>G_circumflex.glif</string>
+  <key>Gcommaaccent</key>
+  <string>G_commaaccent.glif</string>
   <key>Gdotaccent</key>
   <string>G_dotaccent.glif</string>
+  <key>Gecyr</key>
+  <string>G_ecyr.glif</string>
   <key>Germandbls</key>
   <string>G_ermandbls.glif</string>
+  <key>Gestrokecyr</key>
+  <string>G_estrokecyr.glif</string>
+  <key>Geupcyr</key>
+  <string>G_eupcyr.glif</string>
+  <key>Gjecyr</key>
+  <string>G_jecyr.glif</string>
   <key>H</key>
   <string>H_.glif</string>
+  <key>Hacyr</key>
+  <string>H_acyr.glif</string>
+  <key>Hardcyr</key>
+  <string>H_ardcyr.glif</string>
   <key>Hbar</key>
   <string>H_bar.glif</string>
   <key>Hcircumflex</key>
@@ -102,68 +230,172 @@
   <string>I_acute.glif</string>
   <key>Ibreve</key>
   <string>I_breve.glif</string>
+  <key>Icaron</key>
+  <string>I_caron.glif</string>
   <key>Icircumflex</key>
   <string>I_circumflex.glif</string>
+  <key>Icyr</key>
+  <string>I_cyr.glif</string>
   <key>Idieresis</key>
   <string>I_dieresis.glif</string>
   <key>Idotaccent</key>
   <string>I_dotaccent.glif</string>
+  <key>Idotbelow</key>
+  <string>I_dotbelow.glif</string>
+  <key>Iecyr</key>
+  <string>I_ecyr.glif</string>
+  <key>Iegravecyr</key>
+  <string>I_egravecyr.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
+  <key>Igravecyr</key>
+  <string>I_gravecyr.glif</string>
+  <key>Ihoi</key>
+  <string>I_hoi.glif</string>
   <key>Imacron</key>
   <string>I_macron.glif</string>
+  <key>Imacroncyr</key>
+  <string>I_macroncyr.glif</string>
+  <key>Iocyr</key>
+  <string>I_ocyr.glif</string>
   <key>Iogonek</key>
   <string>I_ogonek.glif</string>
+  <key>Iota</key>
+  <string>I_ota.glif</string>
+  <key>Iotadieresis</key>
+  <string>I_otadieresis.glif</string>
+  <key>Iotatonos</key>
+  <string>I_otatonos.glif</string>
+  <key>Ishortcyr</key>
+  <string>I_shortcyr.glif</string>
   <key>Itilde</key>
   <string>I_tilde.glif</string>
+  <key>Iukrcyr</key>
+  <string>I_ukrcyr.glif</string>
+  <key>Izhitsacyr</key>
+  <string>I_zhitsacyr.glif</string>
   <key>J</key>
   <string>J_.glif</string>
   <key>Jcircumflex</key>
   <string>J_circumflex.glif</string>
+  <key>Jecyr</key>
+  <string>J_ecyr.glif</string>
   <key>K</key>
   <string>K_.glif</string>
+  <key>Kacyr</key>
+  <string>K_acyr.glif</string>
+  <key>Kappa</key>
+  <string>K_appa.glif</string>
+  <key>Katailcyr</key>
+  <string>K_atailcyr.glif</string>
+  <key>Kcommaaccent</key>
+  <string>K_commaaccent.glif</string>
+  <key>Kjecyr</key>
+  <string>K_jecyr.glif</string>
   <key>L</key>
   <string>L_.glif</string>
+  <key>LJ</key>
+  <string>L_J_.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
+  <key>Lambda</key>
+  <string>L_ambda.glif</string>
   <key>Lcaron</key>
   <string>L_caron.glif</string>
+  <key>Lcommaaccent</key>
+  <string>L_commaaccent.glif</string>
   <key>Ldot</key>
   <string>L_dot.glif</string>
+  <key>Lj</key>
+  <string>L_j.glif</string>
+  <key>Ljecyr</key>
+  <string>L_jecyr.glif</string>
   <key>Lslash</key>
   <string>L_slash.glif</string>
   <key>M</key>
   <string>M_.glif</string>
+  <key>Mu</key>
+  <string>M_u.glif</string>
   <key>N</key>
   <string>N_.glif</string>
+  <key>NJ</key>
+  <string>N_J_.glif</string>
   <key>NULL</key>
   <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
   <key>Ncaron</key>
   <string>N_caron.glif</string>
+  <key>Ncommaaccent</key>
+  <string>N_commaaccent.glif</string>
+  <key>Nj</key>
+  <string>N_j.glif</string>
+  <key>Njecyr</key>
+  <string>N_jecyr.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
+  <key>Nu</key>
+  <string>N_u.glif</string>
   <key>O</key>
   <string>O_.glif</string>
   <key>OE</key>
   <string>O_E_.glif</string>
   <key>Oacute</key>
   <string>O_acute.glif</string>
+  <key>Obarcyr</key>
+  <string>O_barcyr.glif</string>
   <key>Obreve</key>
   <string>O_breve.glif</string>
+  <key>Ocaron</key>
+  <string>O_caron.glif</string>
   <key>Ocircumflex</key>
   <string>O_circumflex.glif</string>
+  <key>Ocircumflexacute</key>
+  <string>O_circumflexacute.glif</string>
+  <key>Ocircumflexdotbelow</key>
+  <string>O_circumflexdotbelow.glif</string>
+  <key>Ocircumflexgrave</key>
+  <string>O_circumflexgrave.glif</string>
+  <key>Ocircumflexhoi</key>
+  <string>O_circumflexhoi.glif</string>
+  <key>Ocircumflextilde</key>
+  <string>O_circumflextilde.glif</string>
+  <key>Ocyr</key>
+  <string>O_cyr.glif</string>
   <key>Odieresis</key>
   <string>O_dieresis.glif</string>
+  <key>Odotbelow</key>
+  <string>O_dotbelow.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
+  <key>Ohm</key>
+  <string>O_hm.glif</string>
+  <key>Ohoi</key>
+  <string>O_hoi.glif</string>
   <key>Ohorn</key>
   <string>O_horn.glif</string>
+  <key>Ohornacute</key>
+  <string>O_hornacute.glif</string>
+  <key>Ohorndotbelow</key>
+  <string>O_horndotbelow.glif</string>
+  <key>Ohorngrave</key>
+  <string>O_horngrave.glif</string>
+  <key>Ohornhoi</key>
+  <string>O_hornhoi.glif</string>
+  <key>Ohorntilde</key>
+  <string>O_horntilde.glif</string>
   <key>Ohungarumlaut</key>
   <string>O_hungarumlaut.glif</string>
   <key>Omacron</key>
   <string>O_macron.glif</string>
+  <key>Omega</key>
+  <string>O_mega.glif</string>
+  <key>Omicron</key>
+  <string>O_micron.glif</string>
+  <key>Omicrontonos</key>
+  <string>O_microntonos.glif</string>
+  <key>Oogonek</key>
+  <string>O_ogonek.glif</string>
   <key>Oslash</key>
   <string>O_slash.glif</string>
   <key>Oslashacute</key>
@@ -172,6 +404,16 @@
   <string>O_tilde.glif</string>
   <key>P</key>
   <string>P_.glif</string>
+  <key>Palochkacyr</key>
+  <string>P_alochkacyr.glif</string>
+  <key>Pecyr</key>
+  <string>P_ecyr.glif</string>
+  <key>Phi</key>
+  <string>P_hi.glif</string>
+  <key>Pi</key>
+  <string>P_i.glif</string>
+  <key>Psi</key>
+  <string>P_si.glif</string>
   <key>Q</key>
   <string>Q_.glif</string>
   <key>R</key>
@@ -180,6 +422,10 @@
   <string>R_acute.glif</string>
   <key>Rcaron</key>
   <string>R_caron.glif</string>
+  <key>Rcommaaccent</key>
+  <string>R_commaaccent.glif</string>
+  <key>Rho</key>
+  <string>R_ho.glif</string>
   <key>S</key>
   <string>S_.glif</string>
   <key>Sacute</key>
@@ -188,42 +434,112 @@
   <string>S_caron.glif</string>
   <key>Scedilla</key>
   <string>S_cedilla.glif</string>
+  <key>Schwacyr</key>
+  <string>S_chwacyr.glif</string>
   <key>Scircumflex</key>
   <string>S_circumflex.glif</string>
+  <key>Scommaaccent</key>
+  <string>S_commaaccent.glif</string>
+  <key>Shacyr</key>
+  <string>S_hacyr.glif</string>
+  <key>Shchacyr</key>
+  <string>S_hchacyr.glif</string>
+  <key>Shhacyr</key>
+  <string>S_hhacyr.glif</string>
+  <key>Sigma</key>
+  <string>S_igma.glif</string>
+  <key>Softcyr</key>
+  <string>S_oftcyr.glif</string>
   <key>T</key>
   <string>T_.glif</string>
+  <key>Tau</key>
+  <string>T_au.glif</string>
   <key>Tbar</key>
   <string>T_bar.glif</string>
   <key>Tcaron</key>
   <string>T_caron.glif</string>
+  <key>Tcedilla</key>
+  <string>T_cedilla.glif</string>
+  <key>Tcommaaccent</key>
+  <string>T_commaaccent.glif</string>
+  <key>Tecyr</key>
+  <string>T_ecyr.glif</string>
+  <key>Theta</key>
+  <string>T_heta.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
+  <key>Tsecyr</key>
+  <string>T_secyr.glif</string>
+  <key>Tshecyr</key>
+  <string>T_shecyr.glif</string>
   <key>U</key>
   <string>U_.glif</string>
   <key>Uacute</key>
   <string>U_acute.glif</string>
   <key>Ubreve</key>
   <string>U_breve.glif</string>
+  <key>Ucaron</key>
+  <string>U_caron.glif</string>
   <key>Ucircumflex</key>
   <string>U_circumflex.glif</string>
+  <key>Ucyr</key>
+  <string>U_cyr.glif</string>
   <key>Udieresis</key>
   <string>U_dieresis.glif</string>
+  <key>Udieresisacute</key>
+  <string>U_dieresisacute.glif</string>
+  <key>Udieresiscaron</key>
+  <string>U_dieresiscaron.glif</string>
+  <key>Udieresisgrave</key>
+  <string>U_dieresisgrave.glif</string>
+  <key>Udieresismacron</key>
+  <string>U_dieresismacron.glif</string>
+  <key>Udotbelow</key>
+  <string>U_dotbelow.glif</string>
   <key>Ugrave</key>
   <string>U_grave.glif</string>
+  <key>Uhoi</key>
+  <string>U_hoi.glif</string>
   <key>Uhorn</key>
   <string>U_horn.glif</string>
+  <key>Uhornacute</key>
+  <string>U_hornacute.glif</string>
+  <key>Uhorndotbelow</key>
+  <string>U_horndotbelow.glif</string>
+  <key>Uhorngrave</key>
+  <string>U_horngrave.glif</string>
+  <key>Uhornhoi</key>
+  <string>U_hornhoi.glif</string>
+  <key>Uhorntilde</key>
+  <string>U_horntilde.glif</string>
   <key>Uhungarumlaut</key>
   <string>U_hungarumlaut.glif</string>
+  <key>Ukcyr</key>
+  <string>U_kcyr.glif</string>
   <key>Umacron</key>
   <string>U_macron.glif</string>
+  <key>Umacroncyr</key>
+  <string>U_macroncyr.glif</string>
   <key>Uogonek</key>
   <string>U_ogonek.glif</string>
+  <key>Upsilon</key>
+  <string>U_psilon.glif</string>
+  <key>Upsilondieresis</key>
+  <string>U_psilondieresis.glif</string>
   <key>Uring</key>
   <string>U_ring.glif</string>
+  <key>Ushortcyr</key>
+  <string>U_shortcyr.glif</string>
+  <key>Ustraightcyr</key>
+  <string>U_straightcyr.glif</string>
+  <key>Ustraightstrokecyr</key>
+  <string>U_straightstrokecyr.glif</string>
   <key>Utilde</key>
   <string>U_tilde.glif</string>
   <key>V</key>
   <string>V_.glif</string>
+  <key>Vecyr</key>
+  <string>V_ecyr.glif</string>
   <key>W</key>
   <string>W_.glif</string>
   <key>Wacute</key>
@@ -236,16 +552,44 @@
   <string>W_grave.glif</string>
   <key>X</key>
   <string>X_.glif</string>
+  <key>Xatailcyr</key>
+  <string>X_atailcyr.glif</string>
+  <key>Xi</key>
+  <string>X_i.glif</string>
   <key>Y</key>
   <string>Y_.glif</string>
   <key>Yacute</key>
   <string>Y_acute.glif</string>
+  <key>Yacyr</key>
+  <string>Y_acyr.glif</string>
+  <key>Yatcyr</key>
+  <string>Y_atcyr.glif</string>
   <key>Ycircumflex</key>
   <string>Y_circumflex.glif</string>
   <key>Ydieresis</key>
   <string>Y_dieresis.glif</string>
+  <key>Ydotbelow</key>
+  <string>Y_dotbelow.glif</string>
   <key>Ygrave</key>
   <string>Y_grave.glif</string>
+  <key>Yhoi</key>
+  <string>Y_hoi.glif</string>
+  <key>Ylongcyr</key>
+  <string>Y_longcyr.glif</string>
+  <key>Ytilde</key>
+  <string>Y_tilde.glif</string>
+  <key>Yucyr</key>
+  <string>Y_ucyr.glif</string>
+  <key>Yukrcyr</key>
+  <string>Y_ukrcyr.glif</string>
+  <key>Yusbigcyr</key>
+  <string>Y_usbigcyr.glif</string>
+  <key>Yusbigiotifiedcyr</key>
+  <string>Y_usbigiotifiedcyr.glif</string>
+  <key>Yuslittlecyr</key>
+  <string>Y_uslittlecyr.glif</string>
+  <key>Yuslittleiotifiedcyr</key>
+  <string>Y_uslittleiotifiedcyr.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>Zacute</key>
@@ -254,32 +598,78 @@
   <string>Z_caron.glif</string>
   <key>Zdotaccent</key>
   <string>Z_dotaccent.glif</string>
+  <key>Zecyr</key>
+  <string>Z_ecyr.glif</string>
+  <key>Zeta</key>
+  <string>Z_eta.glif</string>
+  <key>Zhecyr</key>
+  <string>Z_hecyr.glif</string>
+  <key>Zhetailcyr</key>
+  <string>Z_hetailcyr.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
   <key>abreve</key>
   <string>abreve.glif</string>
+  <key>abreveacute</key>
+  <string>abreveacute.glif</string>
+  <key>abrevedotbelow</key>
+  <string>abrevedotbelow.glif</string>
+  <key>abrevegrave</key>
+  <string>abrevegrave.glif</string>
+  <key>abrevehoi</key>
+  <string>abrevehoi.glif</string>
+  <key>abrevetilde</key>
+  <string>abrevetilde.glif</string>
+  <key>acaron</key>
+  <string>acaron.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
+  <key>acircumflexacute</key>
+  <string>acircumflexacute.glif</string>
+  <key>acircumflexdotbelow</key>
+  <string>acircumflexdotbelow.glif</string>
+  <key>acircumflexgrave</key>
+  <string>acircumflexgrave.glif</string>
+  <key>acircumflexhoi</key>
+  <string>acircumflexhoi.glif</string>
+  <key>acircumflextilde</key>
+  <string>acircumflextilde.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
+  <key>acutedblmiddlemod</key>
+  <string>acutedblmiddlemod.glif</string>
+  <key>acyr</key>
+  <string>acyr.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
+  <key>adotbelow</key>
+  <string>adotbelow.glif</string>
   <key>ae</key>
   <string>ae.glif</string>
   <key>aeacute</key>
   <string>aeacute.glif</string>
+  <key>aemacron</key>
+  <string>aemacron.glif</string>
   <key>agrave</key>
   <string>agrave.glif</string>
+  <key>ahoi</key>
+  <string>ahoi.glif</string>
+  <key>alpha</key>
+  <string>alpha.glif</string>
+  <key>alphatonos</key>
+  <string>alphatonos.glif</string>
   <key>amacron</key>
   <string>amacron.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>aogonek</key>
   <string>aogonek.glif</string>
+  <key>apostrophemod</key>
+  <string>apostrophemod.glif</string>
   <key>approxequal</key>
   <string>approxequal.glif</string>
   <key>aring</key>
@@ -300,12 +690,22 @@
   <string>at.glif</string>
   <key>atilde</key>
   <string>atilde.glif</string>
+  <key>aturned</key>
+  <string>aturned.glif</string>
+  <key>austral</key>
+  <string>austral.glif</string>
   <key>b</key>
   <string>b.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
+  <key>becyr</key>
+  <string>becyr.glif</string>
+  <key>becyr.loclSRB</key>
+  <string>becyr.loclS_R_B_.glif</string>
+  <key>beta</key>
+  <string>beta.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
   <key>braceright</key>
@@ -316,6 +716,14 @@
   <string>bracketright.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
+  <key>brevecomb</key>
+  <string>brevecomb.glif</string>
+  <key>brevecomb_acutecomb</key>
+  <string>brevecomb_acutecomb.glif</string>
+  <key>brevecomb_gravecomb</key>
+  <string>brevecomb_gravecomb.glif</string>
+  <key>brevecomb_hookabovecomb</key>
+  <string>brevecomb_hookabovecomb.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>bullet</key>
@@ -326,6 +734,8 @@
   <string>cacute.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
+  <key>caroncomb</key>
+  <string>caroncomb.glif</string>
   <key>ccaron</key>
   <string>ccaron.glif</string>
   <key>ccedilla</key>
@@ -336,14 +746,42 @@
   <string>cdotaccent.glif</string>
   <key>cedilla</key>
   <string>cedilla.glif</string>
+  <key>cedillacomb</key>
+  <string>cedillacomb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
+  <key>checyr</key>
+  <string>checyr.glif</string>
+  <key>chetailcyr</key>
+  <string>chetailcyr.glif</string>
+  <key>chi</key>
+  <string>chi.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
+  <key>circumflexcomb</key>
+  <string>circumflexcomb.glif</string>
+  <key>circumflexcomb_acutecomb</key>
+  <string>circumflexcomb_acutecomb.glif</string>
+  <key>circumflexcomb_gravecomb</key>
+  <string>circumflexcomb_gravecomb.glif</string>
+  <key>circumflexcomb_hookabovecomb</key>
+  <string>circumflexcomb_hookabovecomb.glif</string>
+  <key>circumflexcomb_tildecomb</key>
+  <string>circumflexcomb_tildecomb.glif</string>
+  <key>clickretroflex</key>
+  <string>clickretroflex.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
+  <key>colontriangularhalfmod</key>
+  <string>colontriangularhalfmod.glif</string>
+  <key>colontriangularmod</key>
+  <string>colontriangularmod.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>commaaccentcomb</key>
+  <string>commaaccentcomb.glif</string>
+  <key>commaturnedabovecomb</key>
+  <string>commaturnedabovecomb.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>currency</key>
@@ -354,26 +792,60 @@
   <string>dagger.glif</string>
   <key>daggerdbl</key>
   <string>daggerdbl.glif</string>
+  <key>dblgravecomb</key>
+  <string>dblgravecomb.glif</string>
   <key>dcaron</key>
   <string>dcaron.glif</string>
   <key>dcroat</key>
   <string>dcroat.glif</string>
+  <key>decyr</key>
+  <string>decyr.glif</string>
+  <key>decyr.loclBGR</key>
+  <string>decyr.loclB_G_R_.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
+  <key>delta</key>
+  <string>delta.glif</string>
   <key>dieresis</key>
   <string>dieresis.glif</string>
+  <key>dieresisacute</key>
+  <string>dieresisacute.glif</string>
+  <key>dieresiscomb</key>
+  <string>dieresiscomb.glif</string>
+  <key>dieresiscomb_acutecomb</key>
+  <string>dieresiscomb_acutecomb.glif</string>
+  <key>dieresiscomb_caroncomb</key>
+  <string>dieresiscomb_caroncomb.glif</string>
+  <key>dieresiscomb_gravecomb</key>
+  <string>dieresiscomb_gravecomb.glif</string>
+  <key>dieresiscomb_macroncomb</key>
+  <string>dieresiscomb_macroncomb.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
+  <key>djecyr</key>
+  <string>djecyr.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dong</key>
   <string>dong.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
+  <key>dotaccentcomb</key>
+  <string>dotaccentcomb.glif</string>
   <key>dotbelowcomb</key>
   <string>dotbelowcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>dotlessj</key>
+  <string>dotlessj.glif</string>
+  <key>dz</key>
+  <string>dz.glif</string>
+  <key>dzcaron</key>
+  <string>dzcaron.glif</string>
+  <key>dzecyr</key>
+  <string>dzecyr.glif</string>
+  <key>dzhecyr</key>
+  <string>dzhecyr.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eacute</key>
@@ -384,36 +856,90 @@
   <string>ecaron.glif</string>
   <key>ecircumflex</key>
   <string>ecircumflex.glif</string>
+  <key>ecircumflexacute</key>
+  <string>ecircumflexacute.glif</string>
+  <key>ecircumflexdotbelow</key>
+  <string>ecircumflexdotbelow.glif</string>
+  <key>ecircumflexgrave</key>
+  <string>ecircumflexgrave.glif</string>
+  <key>ecircumflexhoi</key>
+  <string>ecircumflexhoi.glif</string>
+  <key>ecircumflextilde</key>
+  <string>ecircumflextilde.glif</string>
   <key>edieresis</key>
   <string>edieresis.glif</string>
   <key>edotaccent</key>
   <string>edotaccent.glif</string>
+  <key>edotbelow</key>
+  <string>edotbelow.glif</string>
+  <key>efcyr</key>
+  <string>efcyr.glif</string>
   <key>egrave</key>
   <string>egrave.glif</string>
+  <key>ehoi</key>
+  <string>ehoi.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>eight.dnom</key>
   <string>eight.dnom.glif</string>
+  <key>eight.inferior</key>
+  <string>eight.inferior.glif</string>
   <key>eight.numr</key>
   <string>eight.numr.glif</string>
   <key>eight.pnum</key>
   <string>eight.pnum.glif</string>
+  <key>eight.superior</key>
+  <string>eight.superior.glif</string>
+  <key>eiotifiedcyr</key>
+  <string>eiotifiedcyr.glif</string>
+  <key>elcyr</key>
+  <string>elcyr.glif</string>
+  <key>elcyr.loclBGR</key>
+  <string>elcyr.loclB_G_R_.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emacron</key>
   <string>emacron.glif</string>
+  <key>emcyr</key>
+  <string>emcyr.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
+  <key>encyr</key>
+  <string>encyr.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
   <key>eng</key>
   <string>eng.glif</string>
+  <key>entailcyr</key>
+  <string>entailcyr.glif</string>
   <key>eogonek</key>
   <string>eogonek.glif</string>
+  <key>epsilon</key>
+  <string>epsilon.glif</string>
+  <key>epsilontonos</key>
+  <string>epsilontonos.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
+  <key>ercyr</key>
+  <string>ercyr.glif</string>
+  <key>ereversed-ipa</key>
+  <string>ereversed-ipa.glif</string>
+  <key>ereversedcyr</key>
+  <string>ereversedcyr.glif</string>
+  <key>escyr</key>
+  <string>escyr.glif</string>
+  <key>eta</key>
+  <string>eta.glif</string>
+  <key>etatonos</key>
+  <string>etatonos.glif</string>
   <key>eth</key>
   <string>eth.glif</string>
+  <key>etilde</key>
+  <string>etilde.glif</string>
+  <key>eturned</key>
+  <string>eturned.glif</string>
+  <key>eukrcyr</key>
+  <string>eukrcyr.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
   <key>exclamdown</key>
@@ -428,14 +954,20 @@
   <string>f_f_l.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
+  <key>fitacyr</key>
+  <string>fitacyr.glif</string>
   <key>five</key>
   <string>five.glif</string>
   <key>five.dnom</key>
   <string>five.dnom.glif</string>
+  <key>five.inferior</key>
+  <string>five.inferior.glif</string>
   <key>five.numr</key>
   <string>five.numr.glif</string>
   <key>five.pnum</key>
   <string>five.pnum.glif</string>
+  <key>five.superior</key>
+  <string>five.superior.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -444,36 +976,60 @@
   <string>four.glif</string>
   <key>four.dnom</key>
   <string>four.dnom.glif</string>
+  <key>four.inferior</key>
+  <string>four.inferior.glif</string>
   <key>four.numr</key>
   <string>four.numr.glif</string>
   <key>four.pnum</key>
   <string>four.pnum.glif</string>
+  <key>four.superior</key>
+  <string>four.superior.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>g.ss01</key>
   <string>g.ss01.glif</string>
+  <key>gamma</key>
+  <string>gamma.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
   <key>gbreve.ss01</key>
   <string>gbreve.ss01.glif</string>
   <key>gcircumflex</key>
   <string>gcircumflex.glif</string>
+  <key>gcommaaccent</key>
+  <string>gcommaaccent.glif</string>
+  <key>gcommaaccent.ss01</key>
+  <string>gcommaaccent.ss01.glif</string>
   <key>gdotaccent</key>
   <string>gdotaccent.glif</string>
   <key>gdotaccent.ss01</key>
   <string>gdotaccent.ss01.glif</string>
+  <key>gecyr</key>
+  <string>gecyr.glif</string>
+  <key>gecyr.loclBGR</key>
+  <string>gecyr.loclB_G_R_.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
+  <key>gestrokecyr</key>
+  <string>gestrokecyr.glif</string>
+  <key>geupcyr</key>
+  <string>geupcyr.glif</string>
+  <key>gjecyr</key>
+  <string>gjecyr.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
   <key>gravecomb</key>
   <string>gravecomb.glif</string>
+  <key>gravedblmiddlemod</key>
+  <string>gravedblmiddlemod.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
   <key>greaterequal</key>
   <string>greaterequal.glif</string>
+  <key>gscript-ipa</key>
+  <string>gscript-ipa.glif</string>
   <key>guillemotleft</key>
   <string>guillemotleft.glif</string>
   <key>guillemotright</key>
@@ -484,14 +1040,28 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
+  <key>hacyr</key>
+  <string>hacyr.glif</string>
+  <key>hardcyr</key>
+  <string>hardcyr.glif</string>
+  <key>hardcyr.loclBGR</key>
+  <string>hardcyr.loclB_G_R_.glif</string>
   <key>hbar</key>
   <string>hbar.glif</string>
   <key>hcircumflex</key>
   <string>hcircumflex.glif</string>
   <key>hookabovecomb</key>
   <string>hookabovecomb.glif</string>
+  <key>horizontalbar</key>
+  <string>horizontalbar.glif</string>
+  <key>horncomb</key>
+  <string>horncomb.glif</string>
+  <key>hryvnia</key>
+  <string>hryvnia.glif</string>
   <key>hungarumlaut</key>
   <string>hungarumlaut.glif</string>
+  <key>hungarumlautcomb</key>
+  <string>hungarumlautcomb.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
   <key>i</key>
@@ -502,44 +1072,104 @@
   <string>iacute.glif</string>
   <key>ibreve</key>
   <string>ibreve.glif</string>
+  <key>icaron</key>
+  <string>icaron.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
+  <key>icyr</key>
+  <string>icyr.glif</string>
+  <key>icyr.loclBGR</key>
+  <string>icyr.loclB_G_R_.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
+  <key>idotbelow</key>
+  <string>idotbelow.glif</string>
+  <key>iecyr</key>
+  <string>iecyr.glif</string>
+  <key>iegravecyr</key>
+  <string>iegravecyr.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>igravecyr</key>
+  <string>igravecyr.glif</string>
+  <key>igravecyr.loclBGR</key>
+  <string>igravecyr.loclB_G_R_.glif</string>
+  <key>ihoi</key>
+  <string>ihoi.glif</string>
   <key>ij</key>
   <string>ij.glif</string>
   <key>imacron</key>
   <string>imacron.glif</string>
+  <key>imacroncyr</key>
+  <string>imacroncyr.glif</string>
+  <key>increment</key>
+  <string>increment.glif</string>
   <key>infinity</key>
   <string>infinity.glif</string>
   <key>integral</key>
   <string>integral.glif</string>
+  <key>iocyr</key>
+  <string>iocyr.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
+  <key>iota</key>
+  <string>iota.glif</string>
+  <key>iotadieresis</key>
+  <string>iotadieresis.glif</string>
+  <key>iotatonos</key>
+  <string>iotatonos.glif</string>
+  <key>ishortcyr</key>
+  <string>ishortcyr.glif</string>
+  <key>ishortcyr.loclBGR</key>
+  <string>ishortcyr.loclB_G_R_.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
+  <key>iukrcyr</key>
+  <string>iukrcyr.glif</string>
+  <key>izhitsacyr</key>
+  <string>izhitsacyr.glif</string>
   <key>j</key>
   <string>j.glif</string>
   <key>jcircumflex</key>
   <string>jcircumflex.glif</string>
+  <key>jecyr</key>
+  <string>jecyr.glif</string>
   <key>k</key>
   <string>k.glif</string>
+  <key>kacyr</key>
+  <string>kacyr.glif</string>
+  <key>kacyr.loclBGR</key>
+  <string>kacyr.loclB_G_R_.glif</string>
+  <key>kappa</key>
+  <string>kappa.glif</string>
+  <key>katailcyr</key>
+  <string>katailcyr.glif</string>
+  <key>kcommaaccent</key>
+  <string>kcommaaccent.glif</string>
   <key>kgreenlandic</key>
   <string>kgreenlandic.glif</string>
+  <key>kjecyr</key>
+  <string>kjecyr.glif</string>
   <key>l</key>
   <string>l.glif</string>
   <key>lacute</key>
   <string>lacute.glif</string>
+  <key>lambda</key>
+  <string>lambda.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
+  <key>lcommaaccent</key>
+  <string>lcommaaccent.glif</string>
   <key>ldot</key>
   <string>ldot.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>lessequal</key>
   <string>lessequal.glif</string>
+  <key>lj</key>
+  <string>lj.glif</string>
+  <key>ljecyr</key>
+  <string>ljecyr.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
   <key>longs</key>
@@ -552,8 +1182,14 @@
   <string>m.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
+  <key>macroncomb</key>
+  <string>macroncomb.glif</string>
+  <key>micro</key>
+  <string>micro.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
+  <key>mu</key>
+  <string>mu.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
   <key>n</key>
@@ -562,54 +1198,116 @@
   <string>nacute.glif</string>
   <key>napostrophe</key>
   <string>napostrophe.glif</string>
+  <key>nbspace</key>
+  <string>nbspace.glif</string>
   <key>ncaron</key>
   <string>ncaron.glif</string>
+  <key>ncommaaccent</key>
+  <string>ncommaaccent.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.dnom</key>
   <string>nine.dnom.glif</string>
+  <key>nine.inferior</key>
+  <string>nine.inferior.glif</string>
   <key>nine.numr</key>
   <string>nine.numr.glif</string>
   <key>nine.pnum</key>
   <string>nine.pnum.glif</string>
+  <key>nine.superior</key>
+  <string>nine.superior.glif</string>
+  <key>nj</key>
+  <string>nj.glif</string>
+  <key>njecyr</key>
+  <string>njecyr.glif</string>
   <key>notequal</key>
   <string>notequal.glif</string>
   <key>ntilde</key>
   <string>ntilde.glif</string>
+  <key>nu</key>
+  <string>nu.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
+  <key>numero</key>
+  <string>numero.glif</string>
   <key>o</key>
   <string>o.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
+  <key>obarcyr</key>
+  <string>obarcyr.glif</string>
   <key>obreve</key>
   <string>obreve.glif</string>
+  <key>ocaron</key>
+  <string>ocaron.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
+  <key>ocircumflexacute</key>
+  <string>ocircumflexacute.glif</string>
+  <key>ocircumflexdotbelow</key>
+  <string>ocircumflexdotbelow.glif</string>
+  <key>ocircumflexgrave</key>
+  <string>ocircumflexgrave.glif</string>
+  <key>ocircumflexhoi</key>
+  <string>ocircumflexhoi.glif</string>
+  <key>ocircumflextilde</key>
+  <string>ocircumflextilde.glif</string>
+  <key>ocyr</key>
+  <string>ocyr.glif</string>
   <key>odieresis</key>
   <string>odieresis.glif</string>
+  <key>odotbelow</key>
+  <string>odotbelow.glif</string>
   <key>oe</key>
   <string>oe.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
+  <key>ogonekcomb</key>
+  <string>ogonekcomb.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
+  <key>ohoi</key>
+  <string>ohoi.glif</string>
   <key>ohorn</key>
   <string>ohorn.glif</string>
+  <key>ohornacute</key>
+  <string>ohornacute.glif</string>
+  <key>ohorndotbelow</key>
+  <string>ohorndotbelow.glif</string>
+  <key>ohorngrave</key>
+  <string>ohorngrave.glif</string>
+  <key>ohornhoi</key>
+  <string>ohornhoi.glif</string>
+  <key>ohorntilde</key>
+  <string>ohorntilde.glif</string>
   <key>ohungarumlaut</key>
   <string>ohungarumlaut.glif</string>
   <key>omacron</key>
   <string>omacron.glif</string>
+  <key>omega</key>
+  <string>omega.glif</string>
+  <key>omegatonos</key>
+  <string>omegatonos.glif</string>
+  <key>omicron</key>
+  <string>omicron.glif</string>
+  <key>omicrontonos</key>
+  <string>omicrontonos.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>one.dnom</key>
   <string>one.dnom.glif</string>
+  <key>one.inferior</key>
+  <string>one.inferior.glif</string>
   <key>one.numr</key>
   <string>one.numr.glif</string>
   <key>one.pnum</key>
   <string>one.pnum.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
+  <key>oogonek</key>
+  <string>oogonek.glif</string>
+  <key>oopen</key>
+  <string>oopen.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>ordmasculine</key>
@@ -622,6 +1320,8 @@
   <string>otilde.glif</string>
   <key>p</key>
   <string>p.glif</string>
+  <key>palochkacyr</key>
+  <string>palochkacyr.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -630,22 +1330,36 @@
   <string>parenright.glif</string>
   <key>partialdiff</key>
   <string>partialdiff.glif</string>
+  <key>pecyr</key>
+  <string>pecyr.glif</string>
+  <key>pecyr.loclBGR</key>
+  <string>pecyr.loclB_G_R_.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
   <key>period</key>
   <string>period.glif</string>
   <key>periodcentered</key>
   <string>periodcentered.glif</string>
+  <key>pertenthousandsign</key>
+  <string>pertenthousandsign.glif</string>
   <key>perthousand</key>
   <string>perthousand.glif</string>
+  <key>peso</key>
+  <string>peso.glif</string>
+  <key>phi</key>
+  <string>phi.glif</string>
   <key>pi</key>
   <string>pi.glif</string>
+  <key>pi.1</key>
+  <string>pi.1.glif</string>
   <key>plus</key>
   <string>plus.glif</string>
   <key>plusminus</key>
   <string>plusminus.glif</string>
   <key>product</key>
   <string>product.glif</string>
+  <key>psi</key>
+  <string>psi.glif</string>
   <key>q</key>
   <string>q.glif</string>
   <key>question</key>
@@ -676,10 +1390,20 @@
   <string>radical.glif</string>
   <key>rcaron</key>
   <string>rcaron.glif</string>
+  <key>rcommaaccent</key>
+  <string>rcommaaccent.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
+  <key>rho</key>
+  <string>rho.glif</string>
   <key>ring</key>
   <string>ring.glif</string>
+  <key>ringcomb</key>
+  <string>ringcomb.glif</string>
+  <key>ringcomb_acutecomb</key>
+  <string>ringcomb_acutecomb.glif</string>
+  <key>ruble</key>
+  <string>ruble.glif</string>
   <key>s</key>
   <string>s.glif</string>
   <key>sacute</key>
@@ -688,8 +1412,14 @@
   <string>scaron.glif</string>
   <key>scedilla</key>
   <string>scedilla.glif</string>
+  <key>schwa</key>
+  <string>schwa.glif</string>
+  <key>schwacyr</key>
+  <string>schwacyr.glif</string>
   <key>scircumflex</key>
   <string>scircumflex.glif</string>
+  <key>scommaaccent</key>
+  <string>scommaaccent.glif</string>
   <key>section</key>
   <string>section.glif</string>
   <key>semicolon</key>
@@ -698,20 +1428,48 @@
   <string>seven.glif</string>
   <key>seven.dnom</key>
   <string>seven.dnom.glif</string>
+  <key>seven.inferior</key>
+  <string>seven.inferior.glif</string>
   <key>seven.numr</key>
   <string>seven.numr.glif</string>
   <key>seven.pnum</key>
   <string>seven.pnum.glif</string>
+  <key>seven.superior</key>
+  <string>seven.superior.glif</string>
+  <key>shacyr</key>
+  <string>shacyr.glif</string>
+  <key>shacyr.loclBGR</key>
+  <string>shacyr.loclB_G_R_.glif</string>
+  <key>shchacyr</key>
+  <string>shchacyr.glif</string>
+  <key>shchacyr.loclBGR</key>
+  <string>shchacyr.loclB_G_R_.glif</string>
+  <key>shhacyr</key>
+  <string>shhacyr.glif</string>
+  <key>sigma</key>
+  <string>sigma.glif</string>
+  <key>sigmafinal</key>
+  <string>sigmafinal.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six.dnom</key>
   <string>six.dnom.glif</string>
+  <key>six.inferior</key>
+  <string>six.inferior.glif</string>
   <key>six.numr</key>
   <string>six.numr.glif</string>
   <key>six.pnum</key>
   <string>six.pnum.glif</string>
+  <key>six.superior</key>
+  <string>six.superior.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
+  <key>softcyr</key>
+  <string>softcyr.glif</string>
+  <key>softcyr.loclBGR</key>
+  <string>softcyr.loclB_G_R_.glif</string>
+  <key>softhyphen</key>
+  <string>softhyphen.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>sterling</key>
@@ -720,16 +1478,32 @@
   <string>summation.glif</string>
   <key>t</key>
   <string>t.glif</string>
+  <key>tau</key>
+  <string>tau.glif</string>
   <key>tbar</key>
   <string>tbar.glif</string>
   <key>tcaron</key>
   <string>tcaron.glif</string>
+  <key>tcedilla</key>
+  <string>tcedilla.glif</string>
+  <key>tcommaaccent</key>
+  <string>tcommaaccent.glif</string>
+  <key>tecyr</key>
+  <string>tecyr.glif</string>
+  <key>tecyr.loclBGR</key>
+  <string>tecyr.loclB_G_R_.glif</string>
+  <key>tenge</key>
+  <string>tenge.glif</string>
+  <key>theta</key>
+  <string>theta.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
   <string>three.glif</string>
   <key>three.dnom</key>
   <string>three.dnom.glif</string>
+  <key>three.inferior</key>
+  <string>three.inferior.glif</string>
   <key>three.numr</key>
   <string>three.numr.glif</string>
   <key>three.pnum</key>
@@ -740,12 +1514,26 @@
   <string>tilde.glif</string>
   <key>tildecomb</key>
   <string>tildecomb.glif</string>
+  <key>titlocombcyr</key>
+  <string>titlocombcyr.glif</string>
+  <key>tonos</key>
+  <string>tonos.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
+  <key>triangularbullet</key>
+  <string>triangularbullet.glif</string>
+  <key>tsecyr</key>
+  <string>tsecyr.glif</string>
+  <key>tsecyr.loclBGR</key>
+  <string>tsecyr.loclB_G_R_.glif</string>
+  <key>tshecyr</key>
+  <string>tshecyr.glif</string>
   <key>two</key>
   <string>two.glif</string>
   <key>two.dnom</key>
   <string>two.dnom.glif</string>
+  <key>two.inferior</key>
+  <string>two.inferior.glif</string>
   <key>two.numr</key>
   <string>two.numr.glif</string>
   <key>two.pnum</key>
@@ -760,776 +1548,76 @@
   <string>uacute.glif</string>
   <key>ubreve</key>
   <string>ubreve.glif</string>
+  <key>ucaron</key>
+  <string>ucaron.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
+  <key>ucyr</key>
+  <string>ucyr.glif</string>
   <key>udieresis</key>
   <string>udieresis.glif</string>
+  <key>udieresisacute</key>
+  <string>udieresisacute.glif</string>
+  <key>udieresiscaron</key>
+  <string>udieresiscaron.glif</string>
+  <key>udieresisgrave</key>
+  <string>udieresisgrave.glif</string>
+  <key>udieresismacron</key>
+  <string>udieresismacron.glif</string>
+  <key>udotbelow</key>
+  <string>udotbelow.glif</string>
   <key>ugrave</key>
   <string>ugrave.glif</string>
+  <key>uhoi</key>
+  <string>uhoi.glif</string>
   <key>uhorn</key>
   <string>uhorn.glif</string>
+  <key>uhornacute</key>
+  <string>uhornacute.glif</string>
+  <key>uhorndotbelow</key>
+  <string>uhorndotbelow.glif</string>
+  <key>uhorngrave</key>
+  <string>uhorngrave.glif</string>
+  <key>uhornhoi</key>
+  <string>uhornhoi.glif</string>
+  <key>uhorntilde</key>
+  <string>uhorntilde.glif</string>
   <key>uhungarumlaut</key>
   <string>uhungarumlaut.glif</string>
+  <key>ukcyr</key>
+  <string>ukcyr.glif</string>
   <key>umacron</key>
   <string>umacron.glif</string>
+  <key>umacroncyr</key>
+  <string>umacroncyr.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
-  <key>uni000D</key>
-  <string>uni000D_.glif</string>
-  <key>uni00A0</key>
-  <string>uni00A_0.glif</string>
-  <key>uni00AD</key>
-  <string>uni00A_D_.glif</string>
-  <key>uni00B5</key>
-  <string>uni00B_5.glif</string>
-  <key>uni0122</key>
-  <string>uni0122.glif</string>
-  <key>uni0123</key>
-  <string>uni0123.glif</string>
-  <key>uni0123.ss01</key>
-  <string>uni0123.ss01.glif</string>
-  <key>uni0136</key>
-  <string>uni0136.glif</string>
-  <key>uni0137</key>
-  <string>uni0137.glif</string>
-  <key>uni013B</key>
-  <string>uni013B_.glif</string>
-  <key>uni013C</key>
-  <string>uni013C_.glif</string>
-  <key>uni0145</key>
-  <string>uni0145.glif</string>
-  <key>uni0146</key>
-  <string>uni0146.glif</string>
-  <key>uni0156</key>
-  <string>uni0156.glif</string>
-  <key>uni0157</key>
-  <string>uni0157.glif</string>
-  <key>uni0162</key>
-  <string>uni0162.glif</string>
-  <key>uni0163</key>
-  <string>uni0163.glif</string>
-  <key>uni01C3</key>
-  <string>uni01C_3.glif</string>
-  <key>uni01C4</key>
-  <string>uni01C_4.glif</string>
-  <key>uni01C5</key>
-  <string>uni01C_5.glif</string>
-  <key>uni01C6</key>
-  <string>uni01C_6.glif</string>
-  <key>uni01C7</key>
-  <string>uni01C_7.glif</string>
-  <key>uni01C8</key>
-  <string>uni01C_8.glif</string>
-  <key>uni01C9</key>
-  <string>uni01C_9.glif</string>
-  <key>uni01CA</key>
-  <string>uni01C_A_.glif</string>
-  <key>uni01CB</key>
-  <string>uni01C_B_.glif</string>
-  <key>uni01CC</key>
-  <string>uni01C_C_.glif</string>
-  <key>uni01CD</key>
-  <string>uni01C_D_.glif</string>
-  <key>uni01CE</key>
-  <string>uni01C_E_.glif</string>
-  <key>uni01CF</key>
-  <string>uni01C_F_.glif</string>
-  <key>uni01D0</key>
-  <string>uni01D_0.glif</string>
-  <key>uni01D1</key>
-  <string>uni01D_1.glif</string>
-  <key>uni01D2</key>
-  <string>uni01D_2.glif</string>
-  <key>uni01D3</key>
-  <string>uni01D_3.glif</string>
-  <key>uni01D4</key>
-  <string>uni01D_4.glif</string>
-  <key>uni01D5</key>
-  <string>uni01D_5.glif</string>
-  <key>uni01D6</key>
-  <string>uni01D_6.glif</string>
-  <key>uni01D7</key>
-  <string>uni01D_7.glif</string>
-  <key>uni01D8</key>
-  <string>uni01D_8.glif</string>
-  <key>uni01D9</key>
-  <string>uni01D_9.glif</string>
-  <key>uni01DA</key>
-  <string>uni01D_A_.glif</string>
-  <key>uni01DB</key>
-  <string>uni01D_B_.glif</string>
-  <key>uni01DC</key>
-  <string>uni01D_C_.glif</string>
-  <key>uni01DD</key>
-  <string>uni01D_D_.glif</string>
-  <key>uni01E3</key>
-  <string>uni01E_3.glif</string>
-  <key>uni01EA</key>
-  <string>uni01E_A_.glif</string>
-  <key>uni01EB</key>
-  <string>uni01E_B_.glif</string>
-  <key>uni01F1</key>
-  <string>uni01F_1.glif</string>
-  <key>uni01F2</key>
-  <string>uni01F_2.glif</string>
-  <key>uni01F3</key>
-  <string>uni01F_3.glif</string>
-  <key>uni0218</key>
-  <string>uni0218.glif</string>
-  <key>uni0219</key>
-  <string>uni0219.glif</string>
-  <key>uni021A</key>
-  <string>uni021A_.glif</string>
-  <key>uni021B</key>
-  <string>uni021B_.glif</string>
-  <key>uni0237</key>
-  <string>uni0237.glif</string>
-  <key>uni0250</key>
-  <string>uni0250.glif</string>
-  <key>uni0254</key>
-  <string>uni0254.glif</string>
-  <key>uni0258</key>
-  <string>uni0258.glif</string>
-  <key>uni0259</key>
-  <string>uni0259.glif</string>
-  <key>uni0261</key>
-  <string>uni0261.glif</string>
-  <key>uni02BC</key>
-  <string>uni02B_C_.glif</string>
-  <key>uni02D0</key>
-  <string>uni02D_0.glif</string>
-  <key>uni02D1</key>
-  <string>uni02D_1.glif</string>
-  <key>uni02F5</key>
-  <string>uni02F_5.glif</string>
-  <key>uni02F6</key>
-  <string>uni02F_6.glif</string>
-  <key>uni0302</key>
-  <string>uni0302.glif</string>
-  <key>uni03020300</key>
-  <string>uni03020300.glif</string>
-  <key>uni03020301</key>
-  <string>uni03020301.glif</string>
-  <key>uni03020303</key>
-  <string>uni03020303.glif</string>
-  <key>uni03020309</key>
-  <string>uni03020309.glif</string>
-  <key>uni0304</key>
-  <string>uni0304.glif</string>
-  <key>uni0306</key>
-  <string>uni0306.glif</string>
-  <key>uni03060300</key>
-  <string>uni03060300.glif</string>
-  <key>uni03060301</key>
-  <string>uni03060301.glif</string>
-  <key>uni03060309</key>
-  <string>uni03060309.glif</string>
-  <key>uni0307</key>
-  <string>uni0307.glif</string>
-  <key>uni0308</key>
-  <string>uni0308.glif</string>
-  <key>uni03080300</key>
-  <string>uni03080300.glif</string>
-  <key>uni03080301</key>
-  <string>uni03080301.glif</string>
-  <key>uni03080304</key>
-  <string>uni03080304.glif</string>
-  <key>uni0308030C</key>
-  <string>uni0308030C_.glif</string>
-  <key>uni030A</key>
-  <string>uni030A_.glif</string>
-  <key>uni030A0301</key>
-  <string>uni030A_0301.glif</string>
-  <key>uni030B</key>
-  <string>uni030B_.glif</string>
-  <key>uni030C</key>
-  <string>uni030C_.glif</string>
-  <key>uni030F</key>
-  <string>uni030F_.glif</string>
-  <key>uni0312</key>
-  <string>uni0312.glif</string>
-  <key>uni031B</key>
-  <string>uni031B_.glif</string>
-  <key>uni0326</key>
-  <string>uni0326.glif</string>
-  <key>uni0327</key>
-  <string>uni0327.glif</string>
-  <key>uni0328</key>
-  <string>uni0328.glif</string>
-  <key>uni0400</key>
-  <string>uni0400.glif</string>
-  <key>uni0401</key>
-  <string>uni0401.glif</string>
-  <key>uni0402</key>
-  <string>uni0402.glif</string>
-  <key>uni0403</key>
-  <string>uni0403.glif</string>
-  <key>uni0404</key>
-  <string>uni0404.glif</string>
-  <key>uni0405</key>
-  <string>uni0405.glif</string>
-  <key>uni0406</key>
-  <string>uni0406.glif</string>
-  <key>uni0407</key>
-  <string>uni0407.glif</string>
-  <key>uni0408</key>
-  <string>uni0408.glif</string>
-  <key>uni0409</key>
-  <string>uni0409.glif</string>
-  <key>uni040A</key>
-  <string>uni040A_.glif</string>
-  <key>uni040B</key>
-  <string>uni040B_.glif</string>
-  <key>uni040C</key>
-  <string>uni040C_.glif</string>
-  <key>uni040D</key>
-  <string>uni040D_.glif</string>
-  <key>uni040E</key>
-  <string>uni040E_.glif</string>
-  <key>uni040F</key>
-  <string>uni040F_.glif</string>
-  <key>uni0410</key>
-  <string>uni0410.glif</string>
-  <key>uni0411</key>
-  <string>uni0411.glif</string>
-  <key>uni0412</key>
-  <string>uni0412.glif</string>
-  <key>uni0413</key>
-  <string>uni0413.glif</string>
-  <key>uni0414</key>
-  <string>uni0414.glif</string>
-  <key>uni0414.loclBGR</key>
-  <string>uni0414.loclB_G_R_.glif</string>
-  <key>uni0415</key>
-  <string>uni0415.glif</string>
-  <key>uni0416</key>
-  <string>uni0416.glif</string>
-  <key>uni0417</key>
-  <string>uni0417.glif</string>
-  <key>uni0418</key>
-  <string>uni0418.glif</string>
-  <key>uni0419</key>
-  <string>uni0419.glif</string>
-  <key>uni041A</key>
-  <string>uni041A_.glif</string>
-  <key>uni041B</key>
-  <string>uni041B_.glif</string>
-  <key>uni041B.loclBGR</key>
-  <string>uni041B_.loclB_G_R_.glif</string>
-  <key>uni041C</key>
-  <string>uni041C_.glif</string>
-  <key>uni041D</key>
-  <string>uni041D_.glif</string>
-  <key>uni041E</key>
-  <string>uni041E_.glif</string>
-  <key>uni041F</key>
-  <string>uni041F_.glif</string>
-  <key>uni0420</key>
-  <string>uni0420.glif</string>
-  <key>uni0421</key>
-  <string>uni0421.glif</string>
-  <key>uni0422</key>
-  <string>uni0422.glif</string>
-  <key>uni0423</key>
-  <string>uni0423.glif</string>
-  <key>uni0424</key>
-  <string>uni0424.glif</string>
-  <key>uni0425</key>
-  <string>uni0425.glif</string>
-  <key>uni0426</key>
-  <string>uni0426.glif</string>
-  <key>uni0427</key>
-  <string>uni0427.glif</string>
-  <key>uni0428</key>
-  <string>uni0428.glif</string>
-  <key>uni0429</key>
-  <string>uni0429.glif</string>
-  <key>uni042A</key>
-  <string>uni042A_.glif</string>
-  <key>uni042B</key>
-  <string>uni042B_.glif</string>
-  <key>uni042C</key>
-  <string>uni042C_.glif</string>
-  <key>uni042D</key>
-  <string>uni042D_.glif</string>
-  <key>uni042E</key>
-  <string>uni042E_.glif</string>
-  <key>uni042F</key>
-  <string>uni042F_.glif</string>
-  <key>uni0430</key>
-  <string>uni0430.glif</string>
-  <key>uni0431</key>
-  <string>uni0431.glif</string>
-  <key>uni0431.loclSRB</key>
-  <string>uni0431.loclS_R_B_.glif</string>
-  <key>uni0432</key>
-  <string>uni0432.glif</string>
-  <key>uni0432.loclBGR</key>
-  <string>uni0432.loclB_G_R_.glif</string>
-  <key>uni0433</key>
-  <string>uni0433.glif</string>
-  <key>uni0433.loclBGR</key>
-  <string>uni0433.loclB_G_R_.glif</string>
-  <key>uni0434</key>
-  <string>uni0434.glif</string>
-  <key>uni0434.loclBGR</key>
-  <string>uni0434.loclB_G_R_.glif</string>
-  <key>uni0435</key>
-  <string>uni0435.glif</string>
-  <key>uni0436</key>
-  <string>uni0436.glif</string>
-  <key>uni0436.loclBGR</key>
-  <string>uni0436.loclB_G_R_.glif</string>
-  <key>uni0437</key>
-  <string>uni0437.glif</string>
-  <key>uni0437.loclBGR</key>
-  <string>uni0437.loclB_G_R_.glif</string>
-  <key>uni0438</key>
-  <string>uni0438.glif</string>
-  <key>uni0438.loclBGR</key>
-  <string>uni0438.loclB_G_R_.glif</string>
-  <key>uni0439</key>
-  <string>uni0439.glif</string>
-  <key>uni0439.loclBGR</key>
-  <string>uni0439.loclB_G_R_.glif</string>
-  <key>uni043A</key>
-  <string>uni043A_.glif</string>
-  <key>uni043A.loclBGR</key>
-  <string>uni043A_.loclB_G_R_.glif</string>
-  <key>uni043B</key>
-  <string>uni043B_.glif</string>
-  <key>uni043B.loclBGR</key>
-  <string>uni043B_.loclB_G_R_.glif</string>
-  <key>uni043C</key>
-  <string>uni043C_.glif</string>
-  <key>uni043D</key>
-  <string>uni043D_.glif</string>
-  <key>uni043E</key>
-  <string>uni043E_.glif</string>
-  <key>uni043F</key>
-  <string>uni043F_.glif</string>
-  <key>uni043F.loclBGR</key>
-  <string>uni043F_.loclB_G_R_.glif</string>
-  <key>uni0440</key>
-  <string>uni0440.glif</string>
-  <key>uni0441</key>
-  <string>uni0441.glif</string>
-  <key>uni0442</key>
-  <string>uni0442.glif</string>
-  <key>uni0442.loclBGR</key>
-  <string>uni0442.loclB_G_R_.glif</string>
-  <key>uni0443</key>
-  <string>uni0443.glif</string>
-  <key>uni0444</key>
-  <string>uni0444.glif</string>
-  <key>uni0445</key>
-  <string>uni0445.glif</string>
-  <key>uni0446</key>
-  <string>uni0446.glif</string>
-  <key>uni0446.loclBGR</key>
-  <string>uni0446.loclB_G_R_.glif</string>
-  <key>uni0447</key>
-  <string>uni0447.glif</string>
-  <key>uni0448</key>
-  <string>uni0448.glif</string>
-  <key>uni0448.loclBGR</key>
-  <string>uni0448.loclB_G_R_.glif</string>
-  <key>uni0449</key>
-  <string>uni0449.glif</string>
-  <key>uni0449.loclBGR</key>
-  <string>uni0449.loclB_G_R_.glif</string>
-  <key>uni044A</key>
-  <string>uni044A_.glif</string>
-  <key>uni044A.loclBGR</key>
-  <string>uni044A_.loclB_G_R_.glif</string>
-  <key>uni044B</key>
-  <string>uni044B_.glif</string>
-  <key>uni044B.loclBGR</key>
-  <string>uni044B_.loclB_G_R_.glif</string>
-  <key>uni044C</key>
-  <string>uni044C_.glif</string>
-  <key>uni044C.loclBGR</key>
-  <string>uni044C_.loclB_G_R_.glif</string>
-  <key>uni044D</key>
-  <string>uni044D_.glif</string>
-  <key>uni044E</key>
-  <string>uni044E_.glif</string>
-  <key>uni044E.loclBGR</key>
-  <string>uni044E_.loclB_G_R_.glif</string>
-  <key>uni044F</key>
-  <string>uni044F_.glif</string>
-  <key>uni0450</key>
-  <string>uni0450.glif</string>
-  <key>uni0451</key>
-  <string>uni0451.glif</string>
-  <key>uni0452</key>
-  <string>uni0452.glif</string>
-  <key>uni0453</key>
-  <string>uni0453.glif</string>
-  <key>uni0454</key>
-  <string>uni0454.glif</string>
-  <key>uni0455</key>
-  <string>uni0455.glif</string>
-  <key>uni0456</key>
-  <string>uni0456.glif</string>
-  <key>uni0457</key>
-  <string>uni0457.glif</string>
-  <key>uni0458</key>
-  <string>uni0458.glif</string>
-  <key>uni0459</key>
-  <string>uni0459.glif</string>
-  <key>uni045A</key>
-  <string>uni045A_.glif</string>
-  <key>uni045B</key>
-  <string>uni045B_.glif</string>
-  <key>uni045C</key>
-  <string>uni045C_.glif</string>
-  <key>uni045D</key>
-  <string>uni045D_.glif</string>
-  <key>uni045D.loclBGR</key>
-  <string>uni045D_.loclB_G_R_.glif</string>
-  <key>uni045E</key>
-  <string>uni045E_.glif</string>
-  <key>uni045F</key>
-  <string>uni045F_.glif</string>
-  <key>uni0462</key>
-  <string>uni0462.glif</string>
-  <key>uni0463</key>
-  <string>uni0463.glif</string>
-  <key>uni0464</key>
-  <string>uni0464.glif</string>
-  <key>uni0465</key>
-  <string>uni0465.glif</string>
-  <key>uni0466</key>
-  <string>uni0466.glif</string>
-  <key>uni0467</key>
-  <string>uni0467.glif</string>
-  <key>uni0468</key>
-  <string>uni0468.glif</string>
-  <key>uni0469</key>
-  <string>uni0469.glif</string>
-  <key>uni046A</key>
-  <string>uni046A_.glif</string>
-  <key>uni046B</key>
-  <string>uni046B_.glif</string>
-  <key>uni046C</key>
-  <string>uni046C_.glif</string>
-  <key>uni046D</key>
-  <string>uni046D_.glif</string>
-  <key>uni0472</key>
-  <string>uni0472.glif</string>
-  <key>uni0473</key>
-  <string>uni0473.glif</string>
-  <key>uni0474</key>
-  <string>uni0474.glif</string>
-  <key>uni0475</key>
-  <string>uni0475.glif</string>
-  <key>uni0478</key>
-  <string>uni0478.glif</string>
-  <key>uni0479</key>
-  <string>uni0479.glif</string>
-  <key>uni0483</key>
-  <string>uni0483.glif</string>
-  <key>uni0490</key>
-  <string>uni0490.glif</string>
-  <key>uni0491</key>
-  <string>uni0491.glif</string>
-  <key>uni0492</key>
-  <string>uni0492.glif</string>
-  <key>uni0493</key>
-  <string>uni0493.glif</string>
-  <key>uni0496</key>
-  <string>uni0496.glif</string>
-  <key>uni0497</key>
-  <string>uni0497.glif</string>
-  <key>uni049A</key>
-  <string>uni049A_.glif</string>
-  <key>uni049B</key>
-  <string>uni049B_.glif</string>
-  <key>uni04A2</key>
-  <string>uni04A_2.glif</string>
-  <key>uni04A3</key>
-  <string>uni04A_3.glif</string>
-  <key>uni04AE</key>
-  <string>uni04A_E_.glif</string>
-  <key>uni04AF</key>
-  <string>uni04A_F_.glif</string>
-  <key>uni04B0</key>
-  <string>uni04B_0.glif</string>
-  <key>uni04B1</key>
-  <string>uni04B_1.glif</string>
-  <key>uni04B2</key>
-  <string>uni04B_2.glif</string>
-  <key>uni04B3</key>
-  <string>uni04B_3.glif</string>
-  <key>uni04B6</key>
-  <string>uni04B_6.glif</string>
-  <key>uni04B7</key>
-  <string>uni04B_7.glif</string>
-  <key>uni04BA</key>
-  <string>uni04B_A_.glif</string>
-  <key>uni04BB</key>
-  <string>uni04B_B_.glif</string>
-  <key>uni04C0</key>
-  <string>uni04C_0.glif</string>
-  <key>uni04CF</key>
-  <string>uni04C_F_.glif</string>
-  <key>uni04D8</key>
-  <string>uni04D_8.glif</string>
-  <key>uni04D9</key>
-  <string>uni04D_9.glif</string>
-  <key>uni04E2</key>
-  <string>uni04E_2.glif</string>
-  <key>uni04E3</key>
-  <string>uni04E_3.glif</string>
-  <key>uni04E8</key>
-  <string>uni04E_8.glif</string>
-  <key>uni04E9</key>
-  <string>uni04E_9.glif</string>
-  <key>uni04EE</key>
-  <string>uni04E_E_.glif</string>
-  <key>uni04EF</key>
-  <string>uni04E_F_.glif</string>
-  <key>uni1EA0</key>
-  <string>uni1E_A_0.glif</string>
-  <key>uni1EA1</key>
-  <string>uni1E_A_1.glif</string>
-  <key>uni1EA2</key>
-  <string>uni1E_A_2.glif</string>
-  <key>uni1EA3</key>
-  <string>uni1E_A_3.glif</string>
-  <key>uni1EA4</key>
-  <string>uni1E_A_4.glif</string>
-  <key>uni1EA5</key>
-  <string>uni1E_A_5.glif</string>
-  <key>uni1EA6</key>
-  <string>uni1E_A_6.glif</string>
-  <key>uni1EA7</key>
-  <string>uni1E_A_7.glif</string>
-  <key>uni1EA8</key>
-  <string>uni1E_A_8.glif</string>
-  <key>uni1EA9</key>
-  <string>uni1E_A_9.glif</string>
-  <key>uni1EAA</key>
-  <string>uni1E_A_A_.glif</string>
-  <key>uni1EAB</key>
-  <string>uni1E_A_B_.glif</string>
-  <key>uni1EAC</key>
-  <string>uni1E_A_C_.glif</string>
-  <key>uni1EAD</key>
-  <string>uni1E_A_D_.glif</string>
-  <key>uni1EAE</key>
-  <string>uni1E_A_E_.glif</string>
-  <key>uni1EAF</key>
-  <string>uni1E_A_F_.glif</string>
-  <key>uni1EB0</key>
-  <string>uni1E_B_0.glif</string>
-  <key>uni1EB1</key>
-  <string>uni1E_B_1.glif</string>
-  <key>uni1EB2</key>
-  <string>uni1E_B_2.glif</string>
-  <key>uni1EB3</key>
-  <string>uni1E_B_3.glif</string>
-  <key>uni1EB4</key>
-  <string>uni1E_B_4.glif</string>
-  <key>uni1EB5</key>
-  <string>uni1E_B_5.glif</string>
-  <key>uni1EB6</key>
-  <string>uni1E_B_6.glif</string>
-  <key>uni1EB7</key>
-  <string>uni1E_B_7.glif</string>
-  <key>uni1EB8</key>
-  <string>uni1E_B_8.glif</string>
-  <key>uni1EB9</key>
-  <string>uni1E_B_9.glif</string>
-  <key>uni1EBA</key>
-  <string>uni1E_B_A_.glif</string>
-  <key>uni1EBB</key>
-  <string>uni1E_B_B_.glif</string>
-  <key>uni1EBC</key>
-  <string>uni1E_B_C_.glif</string>
-  <key>uni1EBD</key>
-  <string>uni1E_B_D_.glif</string>
-  <key>uni1EBE</key>
-  <string>uni1E_B_E_.glif</string>
-  <key>uni1EBF</key>
-  <string>uni1E_B_F_.glif</string>
-  <key>uni1EC0</key>
-  <string>uni1E_C_0.glif</string>
-  <key>uni1EC1</key>
-  <string>uni1E_C_1.glif</string>
-  <key>uni1EC2</key>
-  <string>uni1E_C_2.glif</string>
-  <key>uni1EC3</key>
-  <string>uni1E_C_3.glif</string>
-  <key>uni1EC4</key>
-  <string>uni1E_C_4.glif</string>
-  <key>uni1EC5</key>
-  <string>uni1E_C_5.glif</string>
-  <key>uni1EC6</key>
-  <string>uni1E_C_6.glif</string>
-  <key>uni1EC7</key>
-  <string>uni1E_C_7.glif</string>
-  <key>uni1EC8</key>
-  <string>uni1E_C_8.glif</string>
-  <key>uni1EC9</key>
-  <string>uni1E_C_9.glif</string>
-  <key>uni1ECA</key>
-  <string>uni1E_C_A_.glif</string>
-  <key>uni1ECB</key>
-  <string>uni1E_C_B_.glif</string>
-  <key>uni1ECC</key>
-  <string>uni1E_C_C_.glif</string>
-  <key>uni1ECD</key>
-  <string>uni1E_C_D_.glif</string>
-  <key>uni1ECE</key>
-  <string>uni1E_C_E_.glif</string>
-  <key>uni1ECF</key>
-  <string>uni1E_C_F_.glif</string>
-  <key>uni1ED0</key>
-  <string>uni1E_D_0.glif</string>
-  <key>uni1ED1</key>
-  <string>uni1E_D_1.glif</string>
-  <key>uni1ED2</key>
-  <string>uni1E_D_2.glif</string>
-  <key>uni1ED3</key>
-  <string>uni1E_D_3.glif</string>
-  <key>uni1ED4</key>
-  <string>uni1E_D_4.glif</string>
-  <key>uni1ED5</key>
-  <string>uni1E_D_5.glif</string>
-  <key>uni1ED6</key>
-  <string>uni1E_D_6.glif</string>
-  <key>uni1ED7</key>
-  <string>uni1E_D_7.glif</string>
-  <key>uni1ED8</key>
-  <string>uni1E_D_8.glif</string>
-  <key>uni1ED9</key>
-  <string>uni1E_D_9.glif</string>
-  <key>uni1EDA</key>
-  <string>uni1E_D_A_.glif</string>
-  <key>uni1EDB</key>
-  <string>uni1E_D_B_.glif</string>
-  <key>uni1EDC</key>
-  <string>uni1E_D_C_.glif</string>
-  <key>uni1EDD</key>
-  <string>uni1E_D_D_.glif</string>
-  <key>uni1EDE</key>
-  <string>uni1E_D_E_.glif</string>
-  <key>uni1EDF</key>
-  <string>uni1E_D_F_.glif</string>
-  <key>uni1EE0</key>
-  <string>uni1E_E_0.glif</string>
-  <key>uni1EE1</key>
-  <string>uni1E_E_1.glif</string>
-  <key>uni1EE2</key>
-  <string>uni1E_E_2.glif</string>
-  <key>uni1EE3</key>
-  <string>uni1E_E_3.glif</string>
-  <key>uni1EE4</key>
-  <string>uni1E_E_4.glif</string>
-  <key>uni1EE5</key>
-  <string>uni1E_E_5.glif</string>
-  <key>uni1EE6</key>
-  <string>uni1E_E_6.glif</string>
-  <key>uni1EE7</key>
-  <string>uni1E_E_7.glif</string>
-  <key>uni1EE8</key>
-  <string>uni1E_E_8.glif</string>
-  <key>uni1EE9</key>
-  <string>uni1E_E_9.glif</string>
-  <key>uni1EEA</key>
-  <string>uni1E_E_A_.glif</string>
-  <key>uni1EEB</key>
-  <string>uni1E_E_B_.glif</string>
-  <key>uni1EEC</key>
-  <string>uni1E_E_C_.glif</string>
-  <key>uni1EED</key>
-  <string>uni1E_E_D_.glif</string>
-  <key>uni1EEE</key>
-  <string>uni1E_E_E_.glif</string>
-  <key>uni1EEF</key>
-  <string>uni1E_E_F_.glif</string>
-  <key>uni1EF0</key>
-  <string>uni1E_F_0.glif</string>
-  <key>uni1EF1</key>
-  <string>uni1E_F_1.glif</string>
-  <key>uni1EF4</key>
-  <string>uni1E_F_4.glif</string>
-  <key>uni1EF5</key>
-  <string>uni1E_F_5.glif</string>
-  <key>uni1EF6</key>
-  <string>uni1E_F_6.glif</string>
-  <key>uni1EF7</key>
-  <string>uni1E_F_7.glif</string>
-  <key>uni1EF8</key>
-  <string>uni1E_F_8.glif</string>
-  <key>uni1EF9</key>
-  <string>uni1E_F_9.glif</string>
-  <key>uni2015</key>
-  <string>uni2015.glif</string>
-  <key>uni2023</key>
-  <string>uni2023.glif</string>
-  <key>uni2031</key>
-  <string>uni2031.glif</string>
-  <key>uni2070</key>
-  <string>uni2070.glif</string>
-  <key>uni2074</key>
-  <string>uni2074.glif</string>
-  <key>uni2075</key>
-  <string>uni2075.glif</string>
-  <key>uni2076</key>
-  <string>uni2076.glif</string>
-  <key>uni2077</key>
-  <string>uni2077.glif</string>
-  <key>uni2078</key>
-  <string>uni2078.glif</string>
-  <key>uni2079</key>
-  <string>uni2079.glif</string>
-  <key>uni2080</key>
-  <string>uni2080.glif</string>
-  <key>uni2081</key>
-  <string>uni2081.glif</string>
-  <key>uni2082</key>
-  <string>uni2082.glif</string>
-  <key>uni2083</key>
-  <string>uni2083.glif</string>
-  <key>uni2084</key>
-  <string>uni2084.glif</string>
-  <key>uni2085</key>
-  <string>uni2085.glif</string>
-  <key>uni2086</key>
-  <string>uni2086.glif</string>
-  <key>uni2087</key>
-  <string>uni2087.glif</string>
-  <key>uni2088</key>
-  <string>uni2088.glif</string>
-  <key>uni2089</key>
-  <string>uni2089.glif</string>
-  <key>uni20B1</key>
-  <string>uni20B_1.glif</string>
-  <key>uni20B3</key>
-  <string>uni20B_3.glif</string>
-  <key>uni20B4</key>
-  <string>uni20B_4.glif</string>
-  <key>uni20B8</key>
-  <string>uni20B_8.glif</string>
-  <key>uni20BD</key>
-  <string>uni20B_D_.glif</string>
-  <key>uni2116</key>
-  <string>uni2116.glif</string>
-  <key>uni2126</key>
-  <string>uni2126.glif</string>
-  <key>uni2206</key>
-  <string>uni2206.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
+  <key>upsilon</key>
+  <string>upsilon.glif</string>
+  <key>upsilondieresis</key>
+  <string>upsilondieresis.glif</string>
+  <key>upsilondieresistonos</key>
+  <string>upsilondieresistonos.glif</string>
+  <key>upsilontonos</key>
+  <string>upsilontonos.glif</string>
   <key>uring</key>
   <string>uring.glif</string>
+  <key>ushortcyr</key>
+  <string>ushortcyr.glif</string>
+  <key>ustraightcyr</key>
+  <string>ustraightcyr.glif</string>
+  <key>ustraightstrokecyr</key>
+  <string>ustraightstrokecyr.glif</string>
   <key>utilde</key>
   <string>utilde.glif</string>
   <key>v</key>
   <string>v.glif</string>
+  <key>vecyr</key>
+  <string>vecyr.glif</string>
+  <key>vecyr.loclBGR</key>
+  <string>vecyr.loclB_G_R_.glif</string>
   <key>w</key>
   <string>w.glif</string>
   <key>wacute</key>
@@ -1544,18 +1632,50 @@
   <string>won.glif</string>
   <key>x</key>
   <string>x.glif</string>
+  <key>xatailcyr</key>
+  <string>xatailcyr.glif</string>
+  <key>xi</key>
+  <string>xi.glif</string>
   <key>y</key>
   <string>y.glif</string>
   <key>yacute</key>
   <string>yacute.glif</string>
+  <key>yacyr</key>
+  <string>yacyr.glif</string>
+  <key>yatcyr</key>
+  <string>yatcyr.glif</string>
   <key>ycircumflex</key>
   <string>ycircumflex.glif</string>
   <key>ydieresis</key>
   <string>ydieresis.glif</string>
+  <key>ydotbelow</key>
+  <string>ydotbelow.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
   <key>ygrave</key>
   <string>ygrave.glif</string>
+  <key>yhoi</key>
+  <string>yhoi.glif</string>
+  <key>ylongcyr</key>
+  <string>ylongcyr.glif</string>
+  <key>ylongcyr.loclBGR</key>
+  <string>ylongcyr.loclB_G_R_.glif</string>
+  <key>ytilde</key>
+  <string>ytilde.glif</string>
+  <key>yucyr</key>
+  <string>yucyr.glif</string>
+  <key>yucyr.loclBGR</key>
+  <string>yucyr.loclB_G_R_.glif</string>
+  <key>yukrcyr</key>
+  <string>yukrcyr.glif</string>
+  <key>yusbigcyr</key>
+  <string>yusbigcyr.glif</string>
+  <key>yusbigiotifiedcyr</key>
+  <string>yusbigiotifiedcyr.glif</string>
+  <key>yuslittlecyr</key>
+  <string>yuslittlecyr.glif</string>
+  <key>yuslittleiotifiedcyr</key>
+  <string>yuslittleiotifiedcyr.glif</string>
   <key>z</key>
   <string>z.glif</string>
   <key>zacute</key>
@@ -1564,13 +1684,29 @@
   <string>zcaron.glif</string>
   <key>zdotaccent</key>
   <string>zdotaccent.glif</string>
+  <key>zecyr</key>
+  <string>zecyr.glif</string>
+  <key>zecyr.loclBGR</key>
+  <string>zecyr.loclB_G_R_.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
   <key>zero.dnom</key>
   <string>zero.dnom.glif</string>
+  <key>zero.inferior</key>
+  <string>zero.inferior.glif</string>
   <key>zero.numr</key>
   <string>zero.numr.glif</string>
   <key>zero.pnum</key>
   <string>zero.pnum.glif</string>
+  <key>zero.superior</key>
+  <string>zero.superior.glif</string>
+  <key>zeta</key>
+  <string>zeta.glif</string>
+  <key>zhecyr</key>
+  <string>zhecyr.glif</string>
+  <key>zhecyr.loclBGR</key>
+  <string>zhecyr.loclB_G_R_.glif</string>
+  <key>zhetailcyr</key>
+  <string>zhetailcyr.glif</string>
 </dict>
 </plist>
