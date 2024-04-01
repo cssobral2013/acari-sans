@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokecyr" format="2">
+  <advance width="857"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="32.768" y="0" type="line"/>
+      <point x="296.96" y="0" type="line"/>
+      <point x="486.388" y="827.568" type="line"/>
+      <point x="924.66" y="827.568" type="line"/>
+      <point x="979.968" y="1063.94" type="line"/>
+      <point x="276.48" y="1063.94" type="line"/>
+    </contour>
+    <contour>
+      <point x="58.368" y="652.288" type="line"/>
+      <point x="2.048" y="415.744" type="line"/>
+      <point x="707.584" y="415.744" type="line"/>
+      <point x="764.928" y="652.288" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="77.1055" x="297" y="0"/>
+  <guideline angle="76.6908" x="936" y="878"/>
+</glyph>

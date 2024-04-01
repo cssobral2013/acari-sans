@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbigiotifiedcyr" format="2">
+  <advance width="1825"/>
+  <unicode hex="046D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="yusbigcyr" xOffset="475"/>
+    <contour>
+      <point x="1000.93" y="612.352" type="line"/>
+      <point x="328.272" y="612.352" type="line"/>
+      <point x="285.264" y="424.96" type="line"/>
+      <point x="882.151" y="424.96" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.968" x="960" y="337"/>
+  <guideline angle="76.9931" x="1170" y="0"/>
+</glyph>

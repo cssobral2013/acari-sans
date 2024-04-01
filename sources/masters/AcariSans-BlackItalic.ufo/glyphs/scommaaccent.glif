@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent" format="2">
+  <advance width="964"/>
+  <unicode hex="0219"/>
+  <anchor x="601" y="1192" name="top"/>
+  <anchor x="393" y="0" name="cedilla"/>
+  <outline>
+    <component base="s"/>
+    <component base="commaaccentcomb" xOffset="727"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s+commaaccentcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

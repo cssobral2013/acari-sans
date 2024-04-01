@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1612"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="1353.79" y="0" type="line"/>
+      <point x="1396.8" y="184.32" type="line" smooth="yes"/>
+      <point x="1432.64" y="326.656"/>
+      <point x="1472.58" y="496.64"/>
+      <point x="1472.58" y="621.568" type="curve" smooth="yes"/>
+      <point x="1472.58" y="879.616"/>
+      <point x="1343.55" y="1024"/>
+      <point x="1081.41" y="1024" type="curve" smooth="yes"/>
+      <point x="925.76" y="1024"/>
+      <point x="779.328" y="971.776"/>
+      <point x="620.608" y="861.184" type="curve"/>
+      <point x="620.608" y="709.632" type="line"/>
+      <point x="783.424" y="840.704"/>
+      <point x="911.424" y="892.928"/>
+      <point x="1074.24" y="892.928" type="curve" smooth="yes"/>
+      <point x="1254.46" y="892.928"/>
+      <point x="1337.41" y="806.912"/>
+      <point x="1337.41" y="627.712" type="curve" smooth="yes"/>
+      <point x="1337.41" y="549.888"/>
+      <point x="1313.86" y="431.104"/>
+      <point x="1291.33" y="332.8" type="curve" smooth="yes"/>
+      <point x="1213.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="813" y="1339" type="line"/>
+      <point x="1309" y="1339" type="line"/>
+      <point x="1334" y="1448" type="line"/>
+      <point x="200" y="1448" type="line"/>
+      <point x="173" y="1339" type="line"/>
+      <point x="672" y="1339" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

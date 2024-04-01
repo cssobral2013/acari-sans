@@ -65,15 +65,21 @@
   <array>
     <string>A</string>
     <string>Acyr</string>
+    <string>Alpha</string>
+    <string>Delta</string>
     <string>L</string>
+    <string>Lambda</string>
     <string>Yuslittlecyr</string>
     <string>Yuslittleiotifiedcyr</string>
   </array>
   <key>public.kern1.T</key>
   <array>
     <string>T</string>
+    <string>Tau</string>
     <string>Tbar</string>
     <string>Tcaron</string>
+    <string>Upsilon</string>
+    <string>Upsilondieresis</string>
     <string>Y</string>
     <string>Yacute</string>
     <string>Ycircumflex</string>
@@ -96,13 +102,17 @@
   <array>
     <string>A</string>
     <string>Acyr</string>
+    <string>Alpha</string>
     <string>Yuslittlecyr</string>
   </array>
   <key>public.kern2.T2</key>
   <array>
     <string>T</string>
+    <string>Tau</string>
     <string>Tbar</string>
     <string>Tcaron</string>
+    <string>Upsilon</string>
+    <string>Upsilondieresis</string>
     <string>V</string>
     <string>Y</string>
     <string>Yacute</string>
@@ -177,6 +187,7 @@
   </array>
   <key>public.kern2.v</key>
   <array>
+    <string>nu</string>
     <string>v</string>
     <string>w</string>
     <string>wacute</string>

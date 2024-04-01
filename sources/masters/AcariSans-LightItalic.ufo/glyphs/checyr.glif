@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checyr" format="2">
+  <advance width="1175"/>
+  <unicode hex="0447"/>
+  <anchor x="706" y="1192" name="top"/>
+  <anchor x="872" y="0" name="ogonek"/>
+  <anchor x="1360" y="1064" name="pos"/>
+  <outline>
+    <contour>
+      <point x="476.237" y="276.89" type="curve" smooth="yes"/>
+      <point x="630.064" y="276.89"/>
+      <point x="799.868" y="381.876"/>
+      <point x="867.402" y="515.049" type="curve"/>
+      <point x="860.213" y="519.808" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="1116" y="1064" type="line"/>
+      <point x="984" y="1064" type="line"/>
+      <point x="893.276" y="688.222" type="line" smooth="yes"/>
+      <point x="866.966" y="579.245"/>
+      <point x="688.306" y="384.89"/>
+      <point x="479.237" y="384.89" type="curve" smooth="yes"/>
+      <point x="359.237" y="384.89"/>
+      <point x="318.237" y="459.89"/>
+      <point x="318.237" y="569.89" type="curve" smooth="yes"/>
+      <point x="318.237" y="617.89"/>
+      <point x="325.298" y="665.876"/>
+      <point x="336.237" y="713.89" type="curve" smooth="yes"/>
+      <point x="416" y="1064" type="line"/>
+      <point x="282" y="1064" type="line"/>
+      <point x="210.237" y="738.89" type="line" smooth="yes"/>
+      <point x="198.524" y="685.826"/>
+      <point x="191.237" y="632.89"/>
+      <point x="191.237" y="575.89" type="curve" smooth="yes"/>
+      <point x="191.237" y="388.89"/>
+      <point x="283.237" y="276.89"/>
+    </contour>
+  </outline>
+  <guideline angle="257.394" x="282" y="1064"/>
+  <guideline angle="90" name="vertical" x="706" y="0"/>
+  <guideline angle="257.394" x="282" y="1064"/>
+  <guideline angle="77.1919" x="268" y="413"/>
+  <guideline angle="256.427" x="984" y="1064"/>
+  <guideline angle="77.0841" x="872" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u</string>
+  </dict>
+  </lib>
+</glyph>

@@ -125,6 +125,7 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -145,6 +146,7 @@ feature aalt useExtension {
   sub nine from [nine.superior nine.inferior];
 
 } aalt;
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -153,41 +155,42 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
+
 feature locl {
 # Localized Forms
 
 #> feature
   script cyrl; # Cyrillic
   language BGR; # Bulgarian
-  sub uni0414 by uni0414.loclBGR;
-  sub uni041B by uni041B.loclBGR;
-  sub uni0432 by uni0432.loclBGR;
-  sub uni0434 by uni0434.loclSRB;
-  sub uni0436 by uni0436.loclBGR;
-  sub uni0437 by uni0437.loclBGR;
-  sub uni043A by uni043A.loclBGR;
-  sub uni043B by uni043B.loclBGR;
-  sub uni044E by uni044E.loclBGR;
+  sub Decyr by Decyr.loclBGR;
+  sub Elcyr by Elcyr.loclBGR;
+  sub vecyr by vecyr.loclBGR;
+  sub decyr by decyr.loclSRB;
+  sub zhecyr by zhecyr.loclBGR;
+  sub zecyr by zecyr.loclBGR;
+  sub kacyr by kacyr.loclBGR;
+  sub elcyr by elcyr.loclBGR;
+  sub yucyr by yucyr.loclBGR;
 
   language SRB; # Serbian
-  sub uni0431 by uni0431.loclSRB;
-  sub uni0433 by uni0433.loclSRB;
-  sub uni0434 by uni0434.loclSRB;
-  sub uni043F by uni043F.loclSRB;
-  sub uni0442 by uni0442.loclSRB;
+  sub becyr by becyr.loclSRB;
+  sub gecyr by gecyr.loclSRB;
+  sub decyr by decyr.loclSRB;
+  sub pecyr by pecyr.loclSRB;
+  sub tecyr by tecyr.loclSRB;
 
   script latn; # Latin
   language MOL; # Moldavian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub tcedilla by tcommaaccent;
 
   language ROM; # Romanian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub tcedilla by tcommaaccent;
 
     language TRK ; # Turkish
     sub i by i.loclTRK;
@@ -202,6 +205,7 @@ feature locl {
 
 #< feature
 } locl;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -211,6 +215,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -222,6 +227,7 @@ feature liga {
   sub f l by fl;
 
 } liga;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -238,6 +244,7 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
+
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -245,6 +252,7 @@ feature hist {
   sub s by longs;
 
 } hist;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -261,6 +269,7 @@ feature sinf {
   sub nine by nine.inferior;
 
 } sinf;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -277,6 +286,7 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -285,6 +295,7 @@ feature cpsp {
   pos W <5 1 10 2>;
 
 } cpsp;
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -330,6 +341,7 @@ feature mark {
 
 
 } mark;
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -349,6 +361,7 @@ feature mkmk {
 
 
 } mkmk;
+
 feature pnum {
 # Proportional Figures
 
@@ -365,6 +378,7 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
+
 feature tnum {
 # Tabular Figures
 
@@ -381,3 +395,4 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
+

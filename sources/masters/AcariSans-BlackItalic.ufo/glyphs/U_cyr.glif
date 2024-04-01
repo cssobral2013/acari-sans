@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucyr" format="2">
+  <advance width="1163"/>
+  <unicode hex="0423"/>
+  <anchor x="825" y="1620" name="top"/>
+  <outline>
+    <contour>
+      <point x="458" y="0" type="line"/>
+      <point x="1418" y="1448" type="line"/>
+      <point x="1075" y="1448" type="line"/>
+      <point x="607" y="727" type="line"/>
+      <point x="639" y="723" type="line"/>
+      <point x="523" y="1448" type="line"/>
+      <point x="212" y="1448" type="line"/>
+      <point x="415" y="352" type="line"/>
+      <point x="440" y="494" type="line"/>
+      <point x="116" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="280.489" x="212" y="1448"/>
+  <guideline angle="90" name="vertical" x="825" y="0"/>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacyr" format="2">
+  <advance width="1291"/>
+  <unicode hex="042F"/>
+  <outline>
+    <contour>
+      <point x="986.112" y="-0.048" type="line"/>
+      <point x="1318.91" y="1447.91" type="line"/>
+      <point x="858.112" y="1447.91" type="line" smooth="yes"/>
+      <point x="551.798" y="1447.91"/>
+      <point x="264.423" y="1307.21"/>
+      <point x="264.192" y="958.464" type="curve"/>
+      <point x="264.106" y="828.051"/>
+      <point x="314.339" y="692.08"/>
+      <point x="442.368" y="640" type="curve"/>
+      <point x="-100.352" y="-0.0480347" type="line"/>
+      <point x="209.92" y="-0.0480347" type="line"/>
+      <point x="688.128" y="618.496" type="line"/>
+      <point x="866.304" y="618.496" type="line"/>
+      <point x="726.016" y="-0.0480347" type="line"/>
+    </contour>
+    <contour>
+      <point x="914.432" y="830.464" type="line"/>
+      <point x="692.224" y="830.464" type="line" smooth="yes"/>
+      <point x="577.422" y="830.464"/>
+      <point x="506.835" y="892.928"/>
+      <point x="506.88" y="987.136" type="curve" smooth="yes"/>
+      <point x="506.955" y="1144.71"/>
+      <point x="642.634" y="1215.46"/>
+      <point x="786.432" y="1215.46" type="curve" smooth="yes"/>
+      <point x="1002.5" y="1215.46" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.276" x="866" y="618"/>
+</glyph>

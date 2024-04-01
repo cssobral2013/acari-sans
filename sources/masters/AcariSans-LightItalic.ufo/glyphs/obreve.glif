@@ -7,12 +7,12 @@
   <anchor x="456" y="-120" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni0306" xOffset="1003"/>
+    <component base="brevecomb" xOffset="1003"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>o+uni0306</string>
+  <string>o+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

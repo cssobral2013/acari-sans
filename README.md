@@ -38,7 +38,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
-* March 31-April 1, 2024 Version 1.078R/1.076I
+* March 31-April 1, 2024 Version 1.079R/1.077I
   - MAJOR: Imported Greek support from Perun (https://github.com/StefanPeev/Perun)
   - MAJOR: Modified decyr in Italic (to be a rounded 'd')
 

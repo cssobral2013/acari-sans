@@ -6,12 +6,12 @@
   <anchor x="438" y="-120" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="812"/>
+    <component base="ringcomb" xOffset="812"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>a+uni030A</string>
+  <string>a+ringcomb</string>
   </dict>
   </lib>
 </glyph>

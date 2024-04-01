@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lj" format="2">
+  <advance width="1189"/>
+  <unicode hex="01C9"/>
+  <anchor x="476" y="1620" name="top"/>
+  <anchor x="245" y="-120" name="bottom"/>
+  <anchor x="713" y="774" name="center"/>
+  <outline>
+    <component base="l"/>
+    <component base="j" xOffset="597"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_j</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

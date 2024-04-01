@@ -5,12 +5,28 @@
   <key>public.kern1.A</key>
   <array>
     <string>A</string>
+    <string>Acyr</string>
+    <string>Alpha</string>
+    <string>Delta</string>
+    <string>Lambda</string>
+    <string>Yuslittlecyr</string>
+    <string>Yuslittleiotifiedcyr</string>
+  </array>
+  <key>public.kern1.Gamma</key>
+  <array>
+    <string>Gamma</string>
+    <string>Gecyr</string>
   </array>
   <key>public.kern1.T</key>
   <array>
     <string>T</string>
     <string>Tbar</string>
     <string>Tcaron</string>
+  </array>
+  <key>public.kern1.Tau</key>
+  <array>
+    <string>epsilon</string>
+    <string>epsilontonos</string>
   </array>
   <key>public.kern1.V</key>
   <array>
@@ -28,6 +44,8 @@
   <array>
     <string>a</string>
     <string>ae</string>
+    <string>alpha</string>
+    <string>alphatonos</string>
     <string>c</string>
     <string>cacute</string>
     <string>ccaron</string>
@@ -82,6 +100,7 @@
   </array>
   <key>public.kern2.v</key>
   <array>
+    <string>nu</string>
     <string>v</string>
     <string>w</string>
     <string>wacute</string>
