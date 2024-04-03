@@ -38,9 +38,6 @@ The proof files and QA tests are also available automatically via GitHub Actions
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
-* March 31-April 1, 2024 Version 1.079R/1.077I
-  - MAJOR: Imported Greek support from Perun (https://github.com/StefanPeev/Perun)
-  - MAJOR: Modified decyr in Italic (to be a rounded 'd')
 
 * December 12-26, 2023 Version 1.074R/1.072I
   - MAJOR: Converted currencies to have the same width as zero-nine. Reflow may occur
@@ -51,6 +48,11 @@ When you update your font (new version or new release), please report all notabl
   - Fixes in '1' and '2'
   - Enlarged 'G' crossbar
   - Move up inferior figures in Italic only
+  
+* March 31-April 3, 2024 Version 1.079R/1.077I
+  - MAJOR: Imported Greek support from Perun (https://github.com/StefanPeev/Perun)
+  - MAJOR: Modified decyr in Italic (to be a rounded 'd'), then made some adjusts
+  - MINOR: Fixed some interpolation errors
     
 
 ## License
