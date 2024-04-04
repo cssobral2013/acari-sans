@@ -176,6 +176,14 @@ feature locl {
   sub pecyr by pecyr.loclSRB;
   sub tecyr by tecyr.loclSRB;
 
+  language MKD; # Serbian
+  sub becyr by becyr.loclSRB;
+  sub gecyr by gecyr.loclSRB;
+  sub decyr by decyr.loclSRB;
+  sub pecyr by pecyr.loclSRB;
+  sub tecyr by tecyr.loclSRB;
+  sub gjecyr by gjecyr.loclMKD;
+
   script latn; # Latin
   language MOL; # Moldavian
   sub Scedilla by Scommaaccent;
