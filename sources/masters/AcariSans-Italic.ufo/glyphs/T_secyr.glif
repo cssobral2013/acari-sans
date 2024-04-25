@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="1442"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="1096.93" y="0" type="line"/>
+      <point x="1429.93" y="1448" type="line"/>
+      <point x="1239.5" y="1448" type="line"/>
+      <point x="937.4" y="138.85" type="line"/>
+      <point x="1062.2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="307.475" y="138.85" type="line"/>
+      <point x="610.15" y="1448" type="line"/>
+      <point x="418.725" y="1448" type="line"/>
+      <point x="86.15" y="0" type="line"/>
+      <point x="119.875" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096.93" y="0" type="line"/>
+      <point x="1103.35" y="26.85" type="line"/>
+      <point x="975.4" y="169.425" type="line"/>
+      <point x="283.475" y="169.425" type="line"/>
+      <point x="92.5751" y="27.275" type="line"/>
+      <point x="86.1501" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1170.1" y="-315" type="line"/>
+      <point x="1282.57" y="169.425" type="line"/>
+      <point x="193.1" y="169.425" type="line"/>
+      <point x="193.1" y="0" type="line"/>
+      <point x="1055.55" y="0" type="line"/>
+      <point x="981.4" y="-315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Shchacyr</string>
+  </dict>
+  </lib>
+</glyph>

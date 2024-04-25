@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="2">
+  <advance width="1722"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="174" y="0" type="line" name=".dv01"/>
+      <point x="716" y="0" type="line"/>
+      <point x="716" y="153" type="line"/>
+      <point x="463" y="239"/>
+      <point x="345" y="511"/>
+      <point x="345" y="766" type="curve" smooth="yes" name=".dh02"/>
+      <point x="345" y="1052"/>
+      <point x="564" y="1310"/>
+      <point x="859" y="1310" type="curve" smooth="yes" name=".dv03"/>
+      <point x="1153" y="1310"/>
+      <point x="1372" y="1057"/>
+      <point x="1372" y="766" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1372" y="511"/>
+      <point x="1265" y="228"/>
+      <point x="1000" y="153" type="curve" name=".dh03"/>
+      <point x="1000" y="0" type="line" name=".sv01"/>
+      <point x="1543" y="0" type="line" name=".sh02"/>
+      <point x="1543" y="155" type="line" name=".sv02"/>
+      <point x="1231" y="155" type="line" name=".sv03"/>
+      <point x="1425" y="279"/>
+      <point x="1540" y="516"/>
+      <point x="1540" y="746" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1540" y="1125"/>
+      <point x="1251" y="1468"/>
+      <point x="859" y="1468" type="curve" smooth="yes" name=".dv04"/>
+      <point x="472" y="1468"/>
+      <point x="179" y="1130"/>
+      <point x="179" y="748" type="curve" smooth="yes" name=".dh01"/>
+      <point x="179" y="510"/>
+      <point x="310" y="281"/>
+      <point x="508" y="156" type="curve" name=".ih01"/>
+      <point x="174" y="156" type="line" name=".dv02"/>
+    </contour>
+  </outline>
+</glyph>

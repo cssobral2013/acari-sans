@@ -54,6 +54,12 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: Modified decyr in Italic (to be a rounded 'd'), then made some adjusts
   - MINOR: Fixed some interpolation errors
     
+* April 24, 2024 Version 1.082R/1.080I
+  - MAJOR: New master Regular, with also synced horizontal metrics and kerning from
+    old Regular
+  - MAJOR: Also, old Light master became ExtraLight weight.
+    As such, Acari Sans has now eight weights plus matching italics
+  - MINOR: Fixed some off-center diacritics and tilde
 
 ## License
 

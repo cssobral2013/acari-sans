@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+  <advance width="1171"/>
+  <unicode hex="0075"/>
+  <anchor x="577" y="1192" name="top"/>
+  <anchor x="1015" y="0" name="ogonek"/>
+  <anchor x="1255" y="1064" name="horn"/>
+  <outline>
+    <contour>
+      <point x="509" y="-19" type="curve" smooth="yes" name=".dv01"/>
+      <point x="639" y="-19"/>
+      <point x="769" y="50"/>
+      <point x="834" y="168" type="curve"/>
+      <point x="834" y="0" type="line" name=".ah01"/>
+      <point x="1015" y="0" type="line" name=".sh01"/>
+      <point x="1015" y="1064" type="line" name=".av01"/>
+      <point x="834" y="1064" type="line" name=".sh02"/>
+      <point x="834" y="489" type="line" smooth="yes"/>
+      <point x="834" y="315"/>
+      <point x="729" y="143"/>
+      <point x="539" y="143" type="curve" smooth="yes" name=".dv02"/>
+      <point x="364" y="143"/>
+      <point x="321" y="285"/>
+      <point x="321" y="434" type="curve" smooth="yes"/>
+      <point x="321" y="1064" type="line" name=".av02"/>
+      <point x="139" y="1064" type="line" name=".sh03"/>
+      <point x="139" y="439" type="line" smooth="yes"/>
+      <point x="139" y="204"/>
+      <point x="242" y="-19"/>
+    </contour>
+  </outline>
+</glyph>

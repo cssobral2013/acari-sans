@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow" format="2">
+  <advance width="601"/>
+  <unicode hex="1ECA"/>
+  <anchor x="300" y="1618" name="top"/>
+  <anchor x="395" y="0" name="ogonek"/>
+  <anchor x="301" y="-150" name="_bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotbelowcomb" xOffset="562"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

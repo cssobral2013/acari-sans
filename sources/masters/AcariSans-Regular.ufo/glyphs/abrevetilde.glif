@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevetilde" format="2">
+  <advance width="1075"/>
+  <unicode hex="1EB5"/>
+  <anchor x="541" y="1501" name="_top"/>
+  <anchor x="522" y="-150" name="bottom"/>
+  <anchor x="522" y="1392" name="center"/>
+  <anchor x="947" y="0" name="ogonek"/>
+  <outline>
+    <component base="abreve"/>
+    <component base="tildecomb" xOffset="974" yOffset="340"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

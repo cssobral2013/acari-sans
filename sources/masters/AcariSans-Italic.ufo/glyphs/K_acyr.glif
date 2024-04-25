@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr" format="2">
+  <advance width="1309"/>
+  <unicode hex="041A"/>
+  <outline>
+    <contour>
+      <point x="1132.35" y="0" type="line"/>
+      <point x="1033.2" y="589.15" type="line" smooth="yes"/>
+      <point x="1005.1" y="755.925"/>
+      <point x="915.125" y="847.975"/>
+      <point x="779.6" y="847.975" type="curve"/>
+      <point x="812.625" y="802.575" type="line"/>
+      <point x="1392.17" y="1448" type="line"/>
+      <point x="1143.77" y="1448" type="line"/>
+      <point x="639.9" y="878.15" type="line"/>
+      <point x="444.65" y="878.15" type="line"/>
+      <point x="402.6" y="694.375" type="line"/>
+      <point x="643.55" y="694.375" type="line" smooth="yes"/>
+      <point x="761.225" y="694.375"/>
+      <point x="820.6" y="657.35"/>
+      <point x="839.45" y="533.525" type="curve" smooth="yes"/>
+      <point x="921.475" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276.15" y="0" type="line"/>
+      <point x="609.15" y="1448" type="line"/>
+      <point x="417.725" y="1448" type="line"/>
+      <point x="85.15" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="825" y="0"/>
+</glyph>

@@ -1,6 +1,21 @@
 from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''    
+srcPath  = './ttf/AcariSans-ExtraLight.ttf'
+woffPath = './web/AcariSans-ExtraLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/AcariSans-ExtraLightItalic.ttf'
+woffPath = './web/AcariSans-ExtraLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)   
+
 srcPath  = './ttf/AcariSans-Light.ttf'
 woffPath = './web/AcariSans-Light.woff'
 
@@ -133,16 +148,23 @@ with TTFont(srcPath) as font:
 
 '''Generate WOFF2 from TTF or OTF font.'''
   
-srcPath  = './ttf/AcariSans-Light.ttf'
-woff2Path = './web/AcariSans-Light.woff2'
+srcPath  = './ttf/AcariSans-ExtraLight.ttf'
+woff2Path = './web/AcariSans-ExtraLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)
+  
+srcPath  = './ttf/AcariSans-ExtraLightItalic.ttf'
+woff2Path = './web/AcariSans-ExtraLightItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)    
 
     
-srcPath  = './ttf/AcariSans-LightItalic.ttf'
-woff2Path = './web/AcariSans-LightItalic.woff2'
+srcPath  = './ttf/AcariSans-Light.ttf'
+woff2Path = './web/AcariSans-Light.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'

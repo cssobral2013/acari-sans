@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1865"/>
+  <unicode hex="00C6"/>
+  <anchor x="1066" y="1618" name="top"/>
+  <outline>
+    <contour>
+      <point x="1760" y="0" type="line" name=".dv01"/>
+      <point x="1760" y="164" type="line" name=".dv02"/>
+      <point x="993" y="164" type="line" name=".dh02"/>
+      <point x="993" y="643" type="line" name=".dv07"/>
+      <point x="1669" y="643" type="line"/>
+      <point x="1669" y="804" type="line"/>
+      <point x="993" y="804" type="line" name=".dv08"/>
+      <point x="993" y="1290" type="line" name=".sv01"/>
+      <point x="1760" y="1290" type="line"/>
+      <point x="1760" y="1447" type="line" name=".av01"/>
+      <point x="594" y="1447" type="line" name=".dv04"/>
+      <point x="44" y="0" type="line" name=".sv02"/>
+      <point x="240" y="0" type="line"/>
+      <point x="354" y="314" type="line" name=".dv05"/>
+      <point x="811" y="314" type="line"/>
+      <point x="811" y="0" type="line" name=".dh01"/>
+    </contour>
+    <contour>
+      <point x="811" y="475" type="line" name=".sh01"/>
+      <point x="413" y="475" type="line" name=".dv06"/>
+      <point x="714" y="1290" type="line" name=".dv03"/>
+      <point x="811" y="1290" type="line"/>
+    </contour>
+  </outline>
+</glyph>

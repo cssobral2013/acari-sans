@@ -27,6 +27,16 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
     <key>y</key>
     <real>600.261</real>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>H-height: 1448</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1448</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-13</integer>
@@ -79,7 +89,7 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.078</string>
+  <string>Version 1.080</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -198,7 +208,7 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>78</integer>
+  <integer>80</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

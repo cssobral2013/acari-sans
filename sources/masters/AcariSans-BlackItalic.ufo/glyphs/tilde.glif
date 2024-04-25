@@ -4,26 +4,36 @@
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="736.256" y="1188.86" type="curve" smooth="yes"/>
-      <point x="871.424" y="1188.86"/>
-      <point x="968.704" y="1294.34"/>
-      <point x="1012.74" y="1489.92" type="curve"/>
-      <point x="829.44" y="1489.92" type="line"/>
-      <point x="813.056" y="1424.38"/>
-      <point x="762.88" y="1353.73"/>
-      <point x="732.16" y="1353.73" type="curve" smooth="yes"/>
-      <point x="654.336" y="1353.73"/>
-      <point x="685.056" y="1497.09"/>
-      <point x="512" y="1497.09" type="curve" smooth="yes"/>
-      <point x="380.928" y="1497.09"/>
-      <point x="278.528" y="1383.42"/>
-      <point x="237.568" y="1191.94" type="curve"/>
-      <point x="412.672" y="1191.94" type="line"/>
-      <point x="431.104" y="1265.66"/>
-      <point x="482.304" y="1336.32"/>
-      <point x="517.12" y="1336.32" type="curve" smooth="yes"/>
-      <point x="599.04" y="1336.32"/>
-      <point x="556.032" y="1188.86"/>
+      <point x="1012.8" y="1477" type="line" name=".sv05"/>
+      <point x="1000.79" y="1425" type="line" smooth="yes"/>
+      <point x="965.239" y="1271"/>
+      <point x="847.691" y="1182"/>
+      <point x="722.691" y="1182" type="curve" smooth="yes" name=".dv10"/>
+      <point x="654.691" y="1182"/>
+      <point x="609.497" y="1205.4"/>
+      <point x="570.314" y="1254" type="curve" smooth="yes"/>
+      <point x="548.569" y="1281.02"/>
+      <point x="513.475" y="1324"/>
+      <point x="488.475" y="1324" type="curve" smooth="yes" name=".dv11"/>
+      <point x="453.475" y="1324"/>
+      <point x="416.318" y="1293"/>
+      <point x="402.466" y="1233" type="curve" smooth="yes"/>
+      <point x="393.462" y="1194" type="line" name=".dh00"/>
+      <point x="237.462" y="1194" type="line" name=".sv05"/>
+      <point x="249.467" y="1246" type="line" smooth="yes"/>
+      <point x="285.021" y="1400"/>
+      <point x="402.568" y="1489"/>
+      <point x="527.568" y="1489" type="curve" smooth="yes" name=".dv10"/>
+      <point x="616.246" y="1489"/>
+      <point x="649.772" y="1454.43"/>
+      <point x="701.712" y="1390" type="curve" smooth="yes"/>
+      <point x="720.822" y="1366.26"/>
+      <point x="726.788" y="1347"/>
+      <point x="761.785" y="1347" type="curve" smooth="yes" name=".dv11"/>
+      <point x="796.785" y="1347"/>
+      <point x="833.941" y="1378"/>
+      <point x="847.794" y="1438" type="curve" smooth="yes"/>
+      <point x="856.797" y="1477" type="line" name=".dh00"/>
     </contour>
   </outline>
 </glyph>

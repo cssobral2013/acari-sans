@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="300" tag="wght" maximum="900" name="weight" default="300">
+  <axis minimum="200" tag="wght" maximum="900" name="weight" default="400">
    <labelname xml:lang="en">Weight</labelname>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
+   <map output="800" input="800"/>
+   <map output="900" input="900"/>
   </axis>
  </axes>
  <sources>
@@ -16,17 +24,27 @@
     <dimension xvalue="700" name="weight"/>
    </location>
   </source>
-  <source filename="masters/AcariSans-Light.ufo" stylename="Light" familyname="Acari Sans" name="Light">
+  <source filename="masters/AcariSans-Regular.ufo" stylename="Regular" familyname="Acari Sans" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="300" name="weight"/>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </source>
+  <source filename="masters/AcariSans-Light.ufo" stylename="Light" familyname="Acari Sans" name="Light">
+   <location>
+    <dimension xvalue="200" name="weight"/>
    </location>
   </source>
  </sources>
  <instances>
+   <instance filename="instances/AcariSans-ExtraLight.ufo" stylename="ExtraLight" familyname="Acari Sans" name="ExtraLight">
+   <location>
+    <dimension xvalue="200" name="weight"/>
+   </location>
+  </instance>
   <instance filename="instances/AcariSans-Light.ufo" stylename="Light" familyname="Acari Sans" name="Light">
    <location>
     <dimension xvalue="300" name="weight"/>

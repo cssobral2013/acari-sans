@@ -1,10 +1,10 @@
-#> classes
+#/> classes
 #/> otclasses
 @locl_ss02 = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr];
 @locl_ss022 = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 #/< otclasses
-#< classes
+#/< classes
 
 #/> classes
 #/> otclasses
@@ -465,6 +465,7 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -473,6 +474,7 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 7
@@ -507,6 +509,7 @@ feature locl {
     sub @locl_ss02 by @locl_ss022;
 
 } locl;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -516,6 +519,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -527,6 +531,7 @@ feature liga {
   sub f l by fl;
 
 } liga;
+
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -535,6 +540,7 @@ feature salt {
   sub gbreve from [gbreve.ss01];
 
 } salt;
+
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -542,6 +548,7 @@ feature ss01 {
   sub [g gbreve] by [g.ss01 gbreve.ss01];
 
 } ss01;
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -549,6 +556,7 @@ feature ss02 {
   sub @locl_ss02 by @locl_ss022;
 
 } ss02;
+
 feature numr {
 # Numerator
 
@@ -565,6 +573,7 @@ feature numr {
   sub zero by zero.numr;
 #< feature
 } numr;
+
 feature dnom {
 # Denominator
 
@@ -581,6 +590,7 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -588,6 +598,7 @@ feature sups {
   sub @ordn_sinf_subs_sups_numr_dnom by @sups;
 
 } sups;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -595,6 +606,7 @@ feature sinf {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } sinf;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -602,6 +614,7 @@ feature subs {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } subs;
+
 feature frac {
 # Fractions
 
@@ -685,6 +698,7 @@ lookup frac_dnom {
 
 #< feature
 } frac;
+
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -692,6 +706,7 @@ feature hist {
   sub s by longs;
 
 } hist;
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -699,6 +714,7 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -744,6 +760,7 @@ feature mark {
 
 
 } mark;
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -763,6 +780,7 @@ feature mkmk {
 
 
 } mkmk;
+
 feature pnum {
 # Proportional Figures
 
@@ -779,6 +797,7 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
+
 feature tnum {
 # Tabular Figures
 
@@ -795,3 +814,4 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
+

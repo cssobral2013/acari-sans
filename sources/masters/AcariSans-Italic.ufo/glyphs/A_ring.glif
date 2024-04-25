@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="1342"/>
+  <unicode hex="00C5"/>
+  <anchor x="1176.9" y="0" name="ogonek"/>
+  <anchor x="551.35" y="-120" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb" xOffset="1043.6" yOffset="142"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+ringcomb</string>
+  </dict>
+  </lib>
+</glyph>

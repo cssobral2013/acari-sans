@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="1121"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="1111" y="-245" type="line"/>
+      <point x="1111" y="185" type="line"/>
+      <point x="930" y="185" type="line"/>
+      <point x="930" y="-245" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="479" type="line"/>
+      <point x="533" y="479" type="line" smooth="yes"/>
+      <point x="618" y="479"/>
+      <point x="662" y="427"/>
+      <point x="693" y="347" type="curve" smooth="yes"/>
+      <point x="827" y="0" type="line"/>
+      <point x="1048" y="0" type="line"/>
+      <point x="871" y="420" type="line" smooth="yes"/>
+      <point x="836" y="502"/>
+      <point x="780" y="589"/>
+      <point x="710" y="589" type="curve"/>
+      <point x="985" y="1064" type="line"/>
+      <point x="769" y="1064" type="line"/>
+      <point x="523" y="623" type="line"/>
+      <point x="343" y="623" type="line"/>
+      <point x="343" y="1064" type="line"/>
+      <point x="161" y="1064" type="line"/>
+    </contour>
+  </outline>
+</glyph>
