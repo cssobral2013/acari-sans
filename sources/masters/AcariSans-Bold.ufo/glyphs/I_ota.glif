@@ -5,7 +5,12 @@
   <anchor x="316" y="1617.92" name="top"/>
   <anchor x="446" y="0" name="ogonek"/>
   <outline>
-    <component base="I"/>
+    <contour>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="1448" type="line"/>
+      <point x="186" y="1448" type="line"/>
+      <point x="186" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

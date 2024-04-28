@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotatonos" format="2">
-  <advance width="557"/>
+  <advance width="562"/>
   <unicode hex="03AF"/>
   <anchor x="391" y="0" name="ogonek"/>
   <outline>
@@ -36,6 +36,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>iota</string>
   <key>com.fontlab.recipe</key>
   <string>iota+tonos</string>
   <key>public.markColor</key>

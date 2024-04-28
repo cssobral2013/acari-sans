@@ -2,12 +2,12 @@
 <glyph name="iotatonos" format="2">
   <advance width="521"/>
   <unicode hex="03AF"/>
-  <anchor x="346" y="0" name="ogonek"/>
-  <anchor x="516" y="1620" name="_tonos"/>
-  <anchor x="253" y="1189" name="_tonos.top"/>
+  <anchor x="358" y="0" name="ogonek"/>
+  <anchor x="525" y="1626" name="_tonos"/>
+  <anchor x="258" y="1195" name="_tonos.top"/>
   <outline>
     <component base="iota"/>
-    <component base="tonos" xOffset="234" yOffset="141"/>
+    <component base="tonos" xOffset="229" yOffset="147"/>
   </outline>
   <lib>
   <dict>
@@ -38,6 +38,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>iota</string>
   <key>com.fontlab.recipe</key>
   <string>iota+tonos</string>
   <key>public.markColor</key>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="1164"/>
+  <advance width="1166"/>
   <unicode hex="03CC"/>
-  <anchor x="582" y="1192" name="top"/>
-  <anchor x="1226" y="1064" name="horn"/>
-  <anchor x="700" y="0" name="ogonek"/>
-  <anchor x="851" y="1663" name="_tonos"/>
-  <anchor x="588" y="1232" name="_tonos.top"/>
+  <anchor x="583" y="1192" name="top"/>
+  <anchor x="1227" y="1064" name="horn"/>
+  <anchor x="705" y="0" name="ogonek"/>
+  <anchor x="856" y="1664" name="_tonos"/>
+  <anchor x="589" y="1233" name="_tonos.top"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="570" yOffset="184"/>
+    <component base="tonos" xOffset="560" yOffset="185"/>
   </outline>
   <lib>
   <dict>

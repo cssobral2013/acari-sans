@@ -3,7 +3,15 @@
   <advance width="1355"/>
   <unicode hex="039B"/>
   <outline>
-    <component base="Elcyr.loclBGR"/>
+    <contour>
+      <point x="42" y="0" type="line" name=".av02"/>
+      <point x="262" y="0" type="line"/>
+      <point x="682" y="1143" type="line" name=".iv01"/>
+      <point x="1105" y="0" type="line"/>
+      <point x="1323" y="0" type="line" name=".av01"/>
+      <point x="764" y="1448" type="line" name=".av03"/>
+      <point x="601" y="1448" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

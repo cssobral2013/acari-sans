@@ -7,7 +7,21 @@
   <anchor x="690" y="1555" name="center"/>
   <anchor x="690" y="-150" name="bottom"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="1363" y="0" type="line"/>
+      <point x="786" y="1448" type="line"/>
+      <point x="592" y="1448" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="409" y="314" type="line"/>
+      <point x="971" y="314" type="line"/>
+      <point x="1082" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="883" y="537" type="line"/>
+      <point x="497" y="537" type="line"/>
+      <point x="690" y="1066" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
-  <advance width="502"/>
+  <advance width="629"/>
   <unicode hex="03B9"/>
+  <anchor x="519" y="1620" name="top"/>
+  <anchor x="267" y="-120" name="bottom"/>
+  <anchor x="771" y="774" name="center"/>
   <outline>
     <contour>
-      <point x="18" y="0" type="line"/>
-      <point x="287" y="0" type="line"/>
-      <point x="533" y="1064" type="line"/>
-      <point x="264" y="1064" type="line"/>
+      <point x="276.384" y="-20.48" type="curve" smooth="yes"/>
+      <point x="344.992" y="-20.48"/>
+      <point x="409.504" y="-12.288"/>
+      <point x="476.064" y="-2.048" type="curve"/>
+      <point x="519.072" y="239.616" type="line"/>
+      <point x="495.52" y="234.496"/>
+      <point x="470.944" y="233.472"/>
+      <point x="446.368" y="233.472" type="curve" smooth="yes"/>
+      <point x="410.528" y="233.472"/>
+      <point x="376.76" y="239.616"/>
+      <point x="376.76" y="284.672" type="curve"/>
+      <point x="563.88" y="1064" type="line"/>
+      <point x="275.088" y="1064" type="line"/>
+      <point x="80.8" y="253.952" type="line" smooth="yes"/>
+      <point x="72.2254" y="218.202"/>
+      <point x="62.368" y="161.792"/>
+      <point x="62.368" y="126.976" type="curve" smooth="yes"/>
+      <point x="62.368" y="16.384"/>
+      <point x="160.672" y="-20.48"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="519" y="0"/>
 </glyph>

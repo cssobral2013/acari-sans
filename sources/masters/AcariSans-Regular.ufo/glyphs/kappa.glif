@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-  <advance width="1120"/>
+  <advance width="1155"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
-      <point x="162" y="0" type="line"/>
-      <point x="343" y="0" type="line"/>
-      <point x="343" y="311" type="line"/>
-      <point x="549" y="537" type="line"/>
-      <point x="873" y="0" type="line"/>
-      <point x="1096" y="0" type="line"/>
-      <point x="674" y="664" type="line"/>
-      <point x="1037" y="1064" type="line"/>
-      <point x="798" y="1064" type="line"/>
-      <point x="343" y="545" type="line"/>
-      <point x="343" y="1064" type="line"/>
-      <point x="162" y="1064" type="line"/>
+      <point x="169" y="0" type="line" name=".av02"/>
+      <point x="364" y="0" type="line" name=".sh01"/>
+      <point x="364" y="311" type="line"/>
+      <point x="562" y="529" type="line" name=".iv03"/>
+      <point x="883" y="0" type="line"/>
+      <point x="1123" y="0" type="line" name=".av01"/>
+      <point x="697" y="661" type="line"/>
+      <point x="1068" y="1064" type="line" name=".iv01"/>
+      <point x="808" y="1064" type="line"/>
+      <point x="364" y="560" type="line" name=".iv02"/>
+      <point x="364" y="1064" type="line" name=".av03"/>
+      <point x="169" y="1064" type="line" name=".dh01"/>
     </contour>
   </outline>
   <lib>

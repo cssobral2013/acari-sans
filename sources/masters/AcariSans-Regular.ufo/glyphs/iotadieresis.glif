@@ -2,11 +2,11 @@
 <glyph name="iotadieresis" format="2">
   <advance width="521"/>
   <unicode hex="03CA"/>
-  <anchor x="346" y="0" name="ogonek"/>
-  <anchor x="268" y="1192" name="_top"/>
+  <anchor x="358" y="0" name="ogonek"/>
+  <anchor x="276" y="1192" name="_top"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresiscomb" xOffset="695"/>
+    <component base="dieresiscomb" xOffset="704"/>
   </outline>
   <lib>
   <dict>
@@ -55,6 +55,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>iota</string>
   <key>com.fontlab.recipe</key>
   <string>iota+dieresiscomb</string>
   <key>public.markColor</key>

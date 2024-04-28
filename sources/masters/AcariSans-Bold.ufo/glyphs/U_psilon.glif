@@ -4,7 +4,17 @@
   <unicode hex="03A5"/>
   <anchor x="673" y="1617.92" name="top"/>
   <outline>
-    <component base="Y"/>
+    <contour>
+      <point x="812" y="0" type="line"/>
+      <point x="812" y="564" type="line"/>
+      <point x="1353" y="1448" type="line"/>
+      <point x="1036" y="1448" type="line"/>
+      <point x="673" y="814" type="line"/>
+      <point x="312" y="1448" type="line"/>
+      <point x="-2" y="1448" type="line"/>
+      <point x="541" y="564" type="line"/>
+      <point x="541" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

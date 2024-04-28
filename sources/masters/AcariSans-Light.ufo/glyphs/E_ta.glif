@@ -4,7 +4,20 @@
   <unicode hex="0397"/>
   <anchor x="742" y="1617.92" name="top"/>
   <outline>
-    <component base="H"/>
+    <contour>
+      <point x="1261" y="0" type="line"/>
+      <point x="1261" y="1448" type="line"/>
+      <point x="1120" y="1448" type="line"/>
+      <point x="1120" y="780" type="line"/>
+      <point x="365" y="780" type="line"/>
+      <point x="365" y="1448" type="line"/>
+      <point x="225" y="1448" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="668" type="line"/>
+      <point x="1120" y="668" type="line"/>
+      <point x="1120" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

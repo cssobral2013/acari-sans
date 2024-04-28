@@ -5,12 +5,39 @@
   <anchor x="188" y="1479" name="tonos"/>
   <anchor x="803" y="1632" name="top"/>
   <outline>
-    <component base="Omicron"/>
     <contour>
-      <point x="1112.06" y="622.592" type="line"/>
-      <point x="1112.06" y="858.112" type="line"/>
-      <point x="477.184" y="858.112" type="line"/>
-      <point x="477.184" y="622.592" type="line"/>
+      <point x="1112" y="623" type="line"/>
+      <point x="1112" y="858" type="line"/>
+      <point x="477" y="858" type="line"/>
+      <point x="477" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="782" y="-20" type="curve" smooth="yes"/>
+      <point x="1222" y="-20"/>
+      <point x="1481" y="287"/>
+      <point x="1481" y="724" type="curve" smooth="yes"/>
+      <point x="1481" y="1162"/>
+      <point x="1222" y="1468"/>
+      <point x="782" y="1468" type="curve" smooth="yes"/>
+      <point x="342" y="1468"/>
+      <point x="84" y="1162"/>
+      <point x="84" y="724" type="curve" smooth="yes"/>
+      <point x="84" y="287"/>
+      <point x="342" y="-20"/>
+    </contour>
+    <contour>
+      <point x="782" y="210" type="curve" smooth="yes"/>
+      <point x="470" y="210"/>
+      <point x="358" y="453"/>
+      <point x="358" y="724" type="curve" smooth="yes"/>
+      <point x="358" y="1007"/>
+      <point x="479" y="1238"/>
+      <point x="782" y="1238" type="curve" smooth="yes"/>
+      <point x="1091" y="1238"/>
+      <point x="1206" y="1000"/>
+      <point x="1206" y="724" type="curve" smooth="yes"/>
+      <point x="1206" y="442"/>
+      <point x="1085" y="210"/>
     </contour>
   </outline>
   <lib>

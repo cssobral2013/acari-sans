@@ -98,10 +98,10 @@
     <string>Wdieresis</string>
     <string>Wgrave</string>
   </array>
-  <key>public.kern1.omicron</key>
+  <key>public.kern1.idieresis</key>
   <array>
-    <string>omicron</string>
-    <string>omicrontonos</string>
+    <string>idieresis</string>
+    <string>yukrcyr</string>
   </array>
   <key>public.kern2.A2</key>
   <array>
@@ -184,6 +184,11 @@
     <string>ugrave</string>
     <string>uhungarumlaut</string>
     <string>umacron</string>
+  </array>
+  <key>public.kern2.idieresis</key>
+  <array>
+    <string>idieresis</string>
+    <string>yukrcyr</string>
   </array>
   <key>public.kern2.quoteright</key>
   <array>

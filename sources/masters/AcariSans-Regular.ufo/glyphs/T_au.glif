@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-  <advance width="1260"/>
+  <advance width="1240"/>
   <unicode hex="03A4"/>
-  <anchor x="612" y="0" name="cedilla"/>
+  <anchor x="601" y="0" name="cedilla"/>
   <outline>
-    <component base="T"/>
+    <contour>
+      <point x="517" y="0" type="line"/>
+      <point x="723" y="0" type="line" name=".av01"/>
+      <point x="723" y="1271" type="line" name=".dh02"/>
+      <point x="1196" y="1271" type="line" name=".dv01"/>
+      <point x="1196" y="1448" type="line" name=".dv02"/>
+      <point x="43" y="1448" type="line"/>
+      <point x="43" y="1271" type="line" name=".sv01"/>
+      <point x="517" y="1271" type="line" name=".dh01"/>
+    </contour>
   </outline>
   <lib>
   <dict>

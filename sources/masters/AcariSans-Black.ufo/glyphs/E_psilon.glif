@@ -4,7 +4,20 @@
   <unicode hex="0395"/>
   <anchor x="1147" y="0" name="ogonek"/>
   <outline>
-    <component base="E"/>
+    <contour>
+      <point x="1147" y="0" type="line" name=".dv01"/>
+      <point x="1147" y="276" type="line" name=".dv02"/>
+      <point x="467" y="276" type="line" name=".sh01"/>
+      <point x="467" y="589" type="line" name=".dv05"/>
+      <point x="1116" y="589" type="line" name=".sv01"/>
+      <point x="1116" y="859" type="line" name=".sv02"/>
+      <point x="467" y="859" type="line" name=".dv06"/>
+      <point x="467" y="1179" type="line" name=".dv03"/>
+      <point x="1147" y="1179" type="line"/>
+      <point x="1147" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dv04"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

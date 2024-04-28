@@ -3,7 +3,16 @@
   <advance width="1471"/>
   <unicode hex="03A0"/>
   <outline>
-    <component base="Pecyr"/>
+    <contour>
+      <point x="1247" y="0" type="line"/>
+      <point x="1247" y="1447" type="line"/>
+      <point x="225" y="1447" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="1332" type="line"/>
+      <point x="1110" y="1332" type="line"/>
+      <point x="1110" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

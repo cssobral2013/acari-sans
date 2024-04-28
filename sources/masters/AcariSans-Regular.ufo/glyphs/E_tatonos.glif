@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1496"/>
+  <advance width="1508"/>
   <unicode hex="0389"/>
-  <anchor x="747" y="1618" name="top"/>
-  <anchor x="203" y="1469" name="_tonos"/>
-  <anchor x="-60" y="1038" name="_tonos.top"/>
+  <anchor x="753" y="1618" name="top"/>
+  <anchor x="203" y="1468" name="_tonos"/>
+  <anchor x="-64" y="1037" name="_tonos.top"/>
   <outline>
     <component base="H"/>
-    <component base="tonos" xOffset="-79" yOffset="-10"/>
+    <component base="tonos" xOffset="-92" yOffset="-11"/>
   </outline>
   <lib>
   <dict>

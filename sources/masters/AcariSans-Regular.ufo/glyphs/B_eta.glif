@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Beta" format="2">
-  <advance width="1278"/>
+  <advance width="1288"/>
   <unicode hex="0392"/>
   <outline>
-    <component base="B"/>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="719" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="1001" y="0"/>
+      <point x="1184" y="158"/>
+      <point x="1184" y="401" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1184" y="596"/>
+      <point x="1086" y="730"/>
+      <point x="906" y="781" type="curve" name=".iv01"/>
+      <point x="907" y="755" type="line"/>
+      <point x="1039" y="806"/>
+      <point x="1112" y="923"/>
+      <point x="1112" y="1075" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1112" y="1304"/>
+      <point x="934" y="1448"/>
+      <point x="649" y="1448" type="curve" smooth="yes" name=".dv04"/>
+      <point x="204" y="1448" type="line" name=".dh01"/>
+    </contour>
+    <contour>
+      <point x="406" y="834" type="line" name=".dv06"/>
+      <point x="406" y="1264" type="line" name=".dh02"/>
+      <point x="652" y="1264" type="line" smooth="yes" name=".dv03"/>
+      <point x="821" y="1264"/>
+      <point x="913" y="1189"/>
+      <point x="913" y="1056" type="curve" smooth="yes" name=".dh03"/>
+      <point x="913" y="912"/>
+      <point x="824" y="834"/>
+      <point x="661" y="834" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="406" y="193" type="line" name=".sh02"/>
+      <point x="406" y="654" type="line" name=".dv05"/>
+      <point x="720" y="654" type="line" smooth="yes"/>
+      <point x="883" y="654"/>
+      <point x="982" y="566"/>
+      <point x="982" y="419" type="curve" smooth="yes" name=".ih01"/>
+      <point x="982" y="270"/>
+      <point x="894" y="193"/>
+      <point x="723" y="193" type="curve" smooth="yes" name=".dv02"/>
+    </contour>
   </outline>
   <lib>
   <dict>

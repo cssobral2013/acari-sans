@@ -3,7 +3,14 @@
   <advance width="1097"/>
   <unicode hex="0393"/>
   <outline>
-    <component base="Gecyr"/>
+    <contour>
+      <point x="407" y="0" type="line" name=".av01"/>
+      <point x="407" y="1264" type="line" name=".dv01"/>
+      <point x="1049" y="1264" type="line"/>
+      <point x="1049" y="1446" type="line"/>
+      <point x="204" y="1446" type="line" name=".dv02"/>
+      <point x="204" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

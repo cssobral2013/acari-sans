@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
-  <advance width="1342"/>
+  <advance width="1355"/>
   <unicode hex="0391"/>
-  <anchor x="675" y="1620" name="top"/>
-  <anchor x="1296" y="0" name="ogonek"/>
-  <anchor x="675" y="1552" name="center"/>
-  <anchor x="675" y="-150" name="bottom"/>
+  <anchor x="681" y="1620" name="top"/>
+  <anchor x="1313" y="0" name="ogonek"/>
+  <anchor x="681" y="1552" name="center"/>
+  <anchor x="681" y="-150" name="bottom"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="1313" y="0" type="line" name=".av01"/>
+      <point x="757" y="1448" type="line" name=".av03"/>
+      <point x="602" y="1448" type="line"/>
+      <point x="42" y="0" type="line" name=".av02"/>
+      <point x="265" y="0" type="line"/>
+      <point x="377" y="314" type="line" name=".dv01"/>
+      <point x="982" y="314" type="line"/>
+      <point x="1093" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="495" type="line" name=".av04"/>
+      <point x="446" y="495" type="line" name=".dv02"/>
+      <point x="681" y="1147" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

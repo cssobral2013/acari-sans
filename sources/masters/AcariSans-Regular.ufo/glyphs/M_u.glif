@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mu" format="2">
-  <advance width="1810"/>
+  <advance width="1822"/>
   <unicode hex="039C"/>
   <outline>
-    <component base="M"/>
+    <contour>
+      <point x="1619" y="0" type="line" name=".av03"/>
+      <point x="1619" y="1448" type="line" name=".av01"/>
+      <point x="1321" y="1448" type="line"/>
+      <point x="910" y="342" type="line" name=".iv01"/>
+      <point x="502" y="1448" type="line" name=".av02"/>
+      <point x="204" y="1448" type="line" name=".sh01"/>
+      <point x="204" y="0" type="line" name=".av04"/>
+      <point x="404" y="0" type="line"/>
+      <point x="404" y="1200" type="line" name=".iv02"/>
+      <point x="807" y="126" type="line"/>
+      <point x="1016" y="126" type="line"/>
+      <point x="1419" y="1200" type="line" name=".iv03"/>
+      <point x="1419" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

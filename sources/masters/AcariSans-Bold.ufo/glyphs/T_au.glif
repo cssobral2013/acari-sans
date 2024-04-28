@@ -4,7 +4,16 @@
   <unicode hex="03A4"/>
   <anchor x="582" y="0" name="cedilla"/>
   <outline>
-    <component base="T"/>
+    <contour>
+      <point x="474" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="734" y="1215" type="line"/>
+      <point x="1187" y="1215" type="line"/>
+      <point x="1187" y="1448" type="line"/>
+      <point x="20" y="1448" type="line"/>
+      <point x="20" y="1215" type="line"/>
+      <point x="474" y="1215" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

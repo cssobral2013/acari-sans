@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresis" format="2">
-  <advance width="1180"/>
+  <advance width="1204"/>
   <unicode hex="03CB"/>
-  <anchor x="589" y="1249" name="tonos.top"/>
-  <anchor x="597" y="1192" name="_top"/>
+  <anchor x="601" y="1255" name="tonos.top"/>
+  <anchor x="610" y="1192" name="_top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresiscomb" xOffset="1025"/>
+    <component base="dieresiscomb" xOffset="1038"/>
   </outline>
   <lib>
   <dict>

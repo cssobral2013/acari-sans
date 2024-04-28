@@ -2,14 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>A</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-168</integer>
+    <key>public.kern2.W2</key>
+    <integer>-84</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-168</integer>
+  </dict>
   <key>Acyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
     <key>public.kern2.W2</key>
-    <integer>-0</integer>
+    <integer>-70</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
+  </dict>
+  <key>Alpha</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-168</integer>
+    <key>public.kern2.W2</key>
+    <integer>-84</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-168</integer>
+  </dict>
+  <key>Delta</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-168</integer>
+    <key>public.kern2.W2</key>
+    <integer>-84</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-168</integer>
   </dict>
   <key>F</key>
   <dict>
@@ -19,80 +46,101 @@
   <key>Gamma</key>
   <dict>
     <key>A</key>
-    <integer>-140</integer>
+    <integer>-43</integer>
     <key>Acyr</key>
-    <integer>-140</integer>
+    <integer>-43</integer>
     <key>Alpha</key>
-    <integer>-140</integer>
+    <integer>-43</integer>
     <key>Delta</key>
-    <integer>-140</integer>
+    <integer>-193</integer>
     <key>Lambda</key>
-    <integer>-120</integer>
+    <integer>-190</integer>
     <key>alpha</key>
-    <integer>-250</integer>
+    <integer>-275</integer>
     <key>omicron</key>
-    <integer>-140</integer>
+    <integer>-228</integer>
     <key>omicrontonos</key>
-    <integer>-220</integer>
+    <integer>-340</integer>
     <key>public.kern2.v</key>
-    <integer>-100</integer>
+    <integer>-185</integer>
   </dict>
   <key>Gecyr</key>
   <dict>
     <key>alpha</key>
-    <integer>-250</integer>
+    <integer>-42</integer>
     <key>public.kern2.v</key>
-    <integer>-100</integer>
+    <integer>-17</integer>
   </dict>
   <key>Kappa</key>
   <dict>
     <key>public.kern2.v</key>
-    <integer>-100</integer>
+    <integer>-180</integer>
   </dict>
-  <key>V</key>
+  <key>L</key>
   <dict>
-    <key>Delta</key>
-    <integer>-146</integer>
-    <key>Yuslittlecyr</key>
-    <integer>-0</integer>
+    <key>public.kern2.T2</key>
+    <integer>-168</integer>
+    <key>public.kern2.W2</key>
+    <integer>-84</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-168</integer>
+  </dict>
+  <key>Lambda</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-168</integer>
+    <key>public.kern2.W2</key>
+    <integer>-84</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-168</integer>
   </dict>
   <key>Yuslittlecyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
     <key>public.kern2.W2</key>
-    <integer>-0</integer>
+    <integer>-70</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
   </dict>
   <key>Yuslittleiotifiedcyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
     <key>public.kern2.W2</key>
-    <integer>-0</integer>
+    <integer>-70</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-0</integer>
+    <integer>-140</integer>
   </dict>
   <key>efcyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
   </dict>
   <key>ercyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
   </dict>
   <key>hardcyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
+  </dict>
+  <key>idieresis</key>
+  <dict>
+    <key>idieresis</key>
+    <integer>50</integer>
   </dict>
   <key>ocyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
+  </dict>
+  <key>quotedbl</key>
+  <dict>
+    <key>public.kern2.A2</key>
+    <integer>-370</integer>
   </dict>
   <key>quotedblleft</key>
   <dict>
@@ -110,6 +158,11 @@
     <key>public.kern2.a</key>
     <integer>-146</integer>
   </dict>
+  <key>quotesingle</key>
+  <dict>
+    <key>public.kern2.A2</key>
+    <integer>-370</integer>
+  </dict>
   <key>r</key>
   <dict>
     <key>g.ss01</key>
@@ -124,69 +177,64 @@
   <key>softcyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
   </dict>
   <key>yucyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
   </dict>
   <key>yuslittlecyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
+    <integer>-175</integer>
   </dict>
   <key>yuslittleiotifiedcyr</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-0</integer>
-  </dict>
-  <key>public.kern1.A</key>
-  <dict>
-    <key>public.kern2.T2</key>
-    <integer>-168</integer>
-    <key>public.kern2.W2</key>
-    <integer>-84</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-168</integer>
+    <integer>-175</integer>
   </dict>
   <key>public.kern1.T</key>
   <dict>
     <key>Delta</key>
-    <integer>-168</integer>
+    <integer>-42</integer>
     <key>Yuslittlecyr</key>
-    <integer>-0</integer>
-    <key>alpha</key>
-    <integer>-170</integer>
-    <key>chi</key>
-    <integer>-110</integer>
-    <key>epsilon</key>
-    <integer>-200</integer>
-    <key>iota</key>
     <integer>-140</integer>
+    <key>alpha</key>
+    <integer>-230</integer>
+    <key>chi</key>
+    <integer>-230</integer>
+    <key>epsilon</key>
+    <integer>-323</integer>
+    <key>iota</key>
+    <integer>-228</integer>
     <key>omicron</key>
-    <integer>-250</integer>
+    <integer>-315</integer>
     <key>r</key>
-    <integer>-200</integer>
+    <integer>-235</integer>
     <key>upsilon</key>
-    <integer>-200</integer>
+    <integer>-330</integer>
     <key>upsilondieresis</key>
-    <integer>-120</integer>
+    <integer>-185</integer>
     <key>upsilontonos</key>
-    <integer>-180</integer>
+    <integer>-280</integer>
     <key>x</key>
-    <integer>-80</integer>
+    <integer>-163</integer>
     <key>public.kern2.A2</key>
-    <integer>-170</integer>
+    <integer>-230</integer>
     <key>public.kern2.T2</key>
     <integer>42</integer>
     <key>public.kern2.a</key>
-    <integer>-210</integer>
+    <integer>-176</integer>
     <key>public.kern2.v</key>
     <integer>-230</integer>
   </dict>
   <key>public.kern1.V</key>
   <dict>
+    <key>Delta</key>
+    <integer>-37</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-122</integer>
     <key>public.kern2.A2</key>
     <integer>-146</integer>
     <key>public.kern2.a</key>
@@ -195,9 +243,9 @@
   <key>public.kern1.W</key>
   <dict>
     <key>Delta</key>
-    <integer>-84</integer>
+    <integer>-21</integer>
     <key>Yuslittlecyr</key>
-    <integer>-0</integer>
+    <integer>-70</integer>
     <key>public.kern2.A2</key>
     <integer>-84</integer>
     <key>public.kern2.a</key>

@@ -127,10 +127,20 @@
     <key>public.kern2.T2</key>
     <integer>-175</integer>
   </dict>
+  <key>idieresis</key>
+  <dict>
+    <key>idieresis</key>
+    <integer>50</integer>
+  </dict>
   <key>ocyr</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-175</integer>
+  </dict>
+  <key>quotedbl</key>
+  <dict>
+    <key>public.kern2.A2</key>
+    <integer>-370</integer>
   </dict>
   <key>quotedblleft</key>
   <dict>
@@ -147,6 +157,11 @@
     <integer>-146</integer>
     <key>public.kern2.a</key>
     <integer>-146</integer>
+  </dict>
+  <key>quotesingle</key>
+  <dict>
+    <key>public.kern2.A2</key>
+    <integer>-370</integer>
   </dict>
   <key>r</key>
   <dict>
@@ -210,7 +225,7 @@
     <key>public.kern2.T2</key>
     <integer>42</integer>
     <key>public.kern2.a</key>
-    <integer>-210</integer>
+    <integer>-176</integer>
     <key>public.kern2.v</key>
     <integer>-230</integer>
   </dict>
