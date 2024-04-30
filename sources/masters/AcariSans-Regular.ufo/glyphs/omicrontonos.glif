@@ -5,8 +5,6 @@
   <anchor x="583" y="1192" name="top"/>
   <anchor x="1227" y="1064" name="horn"/>
   <anchor x="705" y="0" name="ogonek"/>
-  <anchor x="856" y="1664" name="_tonos"/>
-  <anchor x="589" y="1233" name="_tonos.top"/>
   <outline>
     <component base="omicron"/>
     <component base="tonos" xOffset="560" yOffset="185"/>

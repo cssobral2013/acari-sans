@@ -5,8 +5,71 @@
   <anchor x="601" y="1192" name="top"/>
   <anchor x="390" y="-120" name="bottom"/>
   <outline>
-    <component base="s"/>
-    <component base="cedillacomb" xOffset="810"/>
+    <contour>
+      <point x="-27.38" y="268.44" type="line"/>
+      <point x="31.27" y="123"/>
+      <point x="160.91" y="18.36"/>
+      <point x="320.85" y="-11.23" type="curve"/>
+      <point x="184.82" y="-174.08" type="line"/>
+      <point x="202.23" y="-204.8" type="line"/>
+      <point x="282.1" y="-204.8" type="line" smooth="yes"/>
+      <point x="329.2" y="-204.8"/>
+      <point x="384.5" y="-229.37"/>
+      <point x="384.5" y="-288.76" type="curve" smooth="yes"/>
+      <point x="384.5" y="-353.28"/>
+      <point x="350.71" y="-386.04"/>
+      <point x="289.27" y="-386.04" type="curve" smooth="yes"/>
+      <point x="268.79" y="-386.04"/>
+      <point x="238.07" y="-377.85"/>
+      <point x="224.76" y="-357.37" type="curve"/>
+      <point x="69.11" y="-395.26" type="line"/>
+      <point x="95" y="-481"/>
+      <point x="188.91" y="-540.66"/>
+      <point x="295.41" y="-540.66" type="curve" smooth="yes"/>
+      <point x="443.89" y="-540.66"/>
+      <point x="550.39" y="-447.48"/>
+      <point x="550.39" y="-297.98" type="curve" smooth="yes"/>
+      <point x="550.39" y="-169.98"/>
+      <point x="474.61" y="-115.71"/>
+      <point x="400.88" y="-103.42" type="curve"/>
+      <point x="477.97" y="-15.95" type="line"/>
+      <point x="670.01" y="7.08"/>
+      <point x="843.91" y="134.03"/>
+      <point x="843.91" y="341.89" type="curve" smooth="yes" name=".sh01"/>
+      <point x="843.91" y="503.52"/>
+      <point x="738.76" y="559.49"/>
+      <point x="635.16" y="608.86" type="curve" smooth="yes"/>
+      <point x="480.77" y="682.45" type="line" smooth="yes"/>
+      <point x="442.57" y="700.65"/>
+      <point x="423.49" y="739.48"/>
+      <point x="423.49" y="773.5" type="curve" smooth="yes"/>
+      <point x="423.49" y="835.55"/>
+      <point x="486.98" y="863.92"/>
+      <point x="546.12" y="863.92" type="curve" smooth="yes"/>
+      <point x="623.95" y="863.92" name=".sh04"/>
+      <point x="697.18" y="817.12"/>
+      <point x="729.2" y="746.92" type="curve"/>
+      <point x="944.2" y="863.92" type="line"/>
+      <point x="888.04" y="996.11"/>
+      <point x="729.05" y="1084.24"/>
+      <point x="553.66" y="1084.24" type="curve" smooth="yes"/>
+      <point x="327.04" y="1084.24"/>
+      <point x="131.9" y="937.1"/>
+      <point x="131.9" y="720.3" type="curve" smooth="yes"/>
+      <point x="131.9" y="575.9" name=".dv04"/>
+      <point x="218.47" y="514.7"/>
+      <point x="314.35" y="471.09" type="curve" smooth="yes"/>
+      <point x="481.22" y="395.19" type="line" smooth="yes"/>
+      <point x="525.16" y="375.2"/>
+      <point x="550.65" y="338.54"/>
+      <point x="550.65" y="296.1" type="curve" smooth="yes"/>
+      <point x="550.65" y="231.98" name=".sh03"/>
+      <point x="492.47" y="207.86"/>
+      <point x="419.83" y="207.86" type="curve" smooth="yes"/>
+      <point x="314.55" y="207.86"/>
+      <point x="224.07" y="270.49"/>
+      <point x="193.61" y="364.44" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>

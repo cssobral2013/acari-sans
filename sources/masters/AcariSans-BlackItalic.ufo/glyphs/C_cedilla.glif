@@ -3,10 +3,61 @@
   <advance width="1466"/>
   <unicode hex="00C7"/>
   <anchor x="990" y="1620" name="top"/>
+  <anchor x="659" y="0" name="cedilla"/>
   <outline>
-    <component base="C"/>
-    <component base="cedillacomb" xOffset="1076"/>
+    <contour>
+      <point x="561.41" y="-540.66" type="curve" smooth="yes"/>
+      <point x="709.89" y="-540.66"/>
+      <point x="816.39" y="-447.48"/>
+      <point x="816.39" y="-297.98" type="curve" smooth="yes"/>
+      <point x="816.39" y="-169.98"/>
+      <point x="740.61" y="-115.71"/>
+      <point x="666.88" y="-103.42" type="curve"/>
+      <point x="742.58" y="-17.52" type="line"/>
+      <point x="1026.91" y="4.30003"/>
+      <point x="1246.27" y="147.07"/>
+      <point x="1406.97" y="394.24" type="curve"/>
+      <point x="1163.26" y="526.33" type="line"/>
+      <point x="1060.85" y="354.3"/>
+      <point x="914.43" y="257.02"/>
+      <point x="710.65" y="257.02" type="curve" smooth="yes"/>
+      <point x="510.97" y="257.02"/>
+      <point x="384" y="345.08"/>
+      <point x="384" y="555" type="curve" smooth="yes"/>
+      <point x="384" y="869.37"/>
+      <point x="602.11" y="1217.53"/>
+      <point x="945.15" y="1217.53" type="curve" smooth="yes"/>
+      <point x="1116.16" y="1217.53"/>
+      <point x="1258.49" y="1137.66"/>
+      <point x="1258.49" y="949.24" type="curve"/>
+      <point x="1549.31" y="1034.24" type="line"/>
+      <point x="1498.11" y="1323"/>
+      <point x="1273.84" y="1470.46"/>
+      <point x="990.2" y="1470.46" type="curve" smooth="yes"/>
+      <point x="464.89" y="1470.46"/>
+      <point x="97.27" y="1025.02"/>
+      <point x="97.27" y="523.26" type="curve" smooth="yes"/>
+      <point x="97.27" y="204.94"/>
+      <point x="289.29" y="13.21"/>
+      <point x="582.51" y="-16.43" type="curve"/>
+      <point x="450.82" y="-174.08" type="line"/>
+      <point x="468.23" y="-204.8" type="line"/>
+      <point x="548.1" y="-204.8" type="line" smooth="yes"/>
+      <point x="595.2" y="-204.8"/>
+      <point x="650.5" y="-229.37"/>
+      <point x="650.5" y="-288.76" type="curve" smooth="yes"/>
+      <point x="650.5" y="-353.28"/>
+      <point x="616.71" y="-386.04"/>
+      <point x="555.27" y="-386.04" type="curve" smooth="yes"/>
+      <point x="534.79" y="-386.04"/>
+      <point x="504.07" y="-377.85"/>
+      <point x="490.76" y="-357.37" type="curve"/>
+      <point x="335.11" y="-395.26" type="line"/>
+      <point x="361" y="-481"/>
+      <point x="454.91" y="-540.66"/>
+    </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="990" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

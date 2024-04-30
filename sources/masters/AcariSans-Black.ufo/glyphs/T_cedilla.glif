@@ -2,9 +2,42 @@
 <glyph name="Tcedilla" format="2">
   <advance width="1191"/>
   <unicode hex="0162"/>
+  <anchor x="581" y="0" name="cedilla"/>
   <outline>
-    <component base="T"/>
-    <component base="cedillacomb" xOffset="855"/>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="418" y="-183" type="line"/>
+      <point x="442" y="-205" type="line"/>
+      <point x="517" y="-205" type="line" smooth="yes"/>
+      <point x="586" y="-205"/>
+      <point x="627" y="-246"/>
+      <point x="627" y="-302" type="curve" smooth="yes" name=".dh01.1"/>
+      <point x="627" y="-354"/>
+      <point x="594" y="-386"/>
+      <point x="550" y="-386" type="curve" smooth="yes" name=".dv02.1"/>
+      <point x="516" y="-386"/>
+      <point x="483" y="-366"/>
+      <point x="464" y="-333" type="curve"/>
+      <point x="318" y="-399" type="line"/>
+      <point x="359" y="-484"/>
+      <point x="450" y="-541"/>
+      <point x="544" y="-541" type="curve" smooth="yes" name=".dv01.1"/>
+      <point x="689" y="-541"/>
+      <point x="785" y="-447"/>
+      <point x="785" y="-304" type="curve" smooth="yes" name=".dh02.1"/>
+      <point x="785" y="-202"/>
+      <point x="713" y="-119"/>
+      <point x="606" y="-97" type="curve"/>
+      <point x="669" y="0" type="line" name=".av01.1"/>
+      <point x="740" y="0" type="line" name=".av01"/>
+      <point x="740" y="1185" type="line" name=".dh02"/>
+      <point x="1182" y="1185" type="line" name=".dv01"/>
+      <point x="1182" y="1448" type="line" name=".dv02"/>
+      <point x="7" y="1448" type="line"/>
+      <point x="7" y="1185" type="line" name=".sv01"/>
+      <point x="451" y="1185" type="line" name=".dh01"/>
+    </contour>
   </outline>
   <lib>
   <dict>
