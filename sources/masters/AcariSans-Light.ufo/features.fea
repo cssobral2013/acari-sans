@@ -141,29 +141,8 @@ feature liga {
   sub f i by fi;
   sub f l by fl;
 
+
 } liga;
-feature salt {
-# GSUB feature: Stylistic Alternates
-# Lookups: 1
-
-  sub g from [g.ss01];
-  sub gbreve from [gbreve.ss01];
-
-} salt;
-feature ss01 {
-# GSUB feature: Stylistic Set 1
-# Lookups: 1
-
-  sub [g gbreve] by [g.ss01 gbreve.ss01];
-
-} ss01;
-feature ss02 {
-# GSUB feature: Stylistic Set 2
-# Lookups: 1
-
-  sub @locl_ss02 by @locl_ss022;
-
-} ss02;
 feature numr {
 # Numerator
 
@@ -203,13 +182,6 @@ feature sups {
   sub @ordn_sinf_subs_sups_numr_dnom by @sups;
 
 } sups;
-feature sinf {
-# GSUB feature: Scientific Inferiors
-# Lookups: 1
-
-  sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
-
-} sinf;
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -217,6 +189,13 @@ feature subs {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } subs;
+feature sinf {
+# GSUB feature: Scientific Inferiors
+# Lookups: 1
+
+  sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
+
+} sinf;
 feature frac {
 # Fractions
 
@@ -1333,3 +1312,38 @@ feature mark {
   lookup markLTR6;
 #< feature
 } mark;
+feature calt {
+# Contextual Alternates
+
+#> feature
+
+lookup yukrcyr_double {
+
+sub yukrcyr' yukrcyr by yukrcyr.calt;
+sub yukrcyr.calt yukrcyr' by yukrcyr.calt2;
+
+} yukrcyr_double;
+#< feature
+} calt;
+feature ss02 {
+# GSUB feature: Stylistic Set 2
+# Lookups: 1
+
+  sub @locl_ss02 by @locl_ss022;
+
+} ss02;
+feature salt {
+# GSUB feature: Stylistic Alternates
+# Lookups: 1
+
+  sub g from [g.ss01];
+  sub gbreve from [gbreve.ss01];
+
+} salt;
+feature ss01 {
+# GSUB feature: Stylistic Set 1
+# Lookups: 1
+
+  sub [g gbreve] by [g.ss01 gbreve.ss01];
+
+} ss01;

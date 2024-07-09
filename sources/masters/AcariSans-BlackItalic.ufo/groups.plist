@@ -2,6 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>locl_ss02</key>
+  <array>
+    <string>Decyr</string>
+    <string>Elcyr</string>
+    <string>vecyr</string>
+    <string>zhecyr</string>
+    <string>zecyr</string>
+    <string>kacyr</string>
+    <string>elcyr</string>
+    <string>yucyr</string>
+  </array>
+  <key>locl_ss022</key>
+  <array>
+    <string>Decyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>vecyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+  </array>
   <key>public.kern1.A</key>
   <array>
     <string>A</string>

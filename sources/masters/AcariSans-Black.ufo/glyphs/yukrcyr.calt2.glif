@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr.calt2" format="2">
+  <advance width="537"/>
+  <anchor x="417" y="0" name="ogonek"/>
+  <anchor x="270" y="1192" name="top"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="410" y="0" type="line" name=".av02"/>
+      <point x="410" y="1064" type="line" name=".dh02"/>
+      <point x="130" y="1064" type="line" name=".dh01"/>
+    </contour>
+    <contour>
+      <point x="345" y="1230" type="line"/>
+      <point x="565" y="1230" type="line" name=".dv00.1"/>
+      <point x="565" y="1470" type="line" name=".dv07.1"/>
+      <point x="345" y="1470" type="line" name=".sh00.1"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr</string>
+  </dict>
+  </lib>
+</glyph>
