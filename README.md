@@ -60,6 +60,13 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: Also, old Light master became ExtraLight weight.
     As such, Acari Sans has now eight weights plus matching italics
   - MINOR: Fixed some off-center diacritics and tilde
+  
+  * November 7, 2024 Version 1.083
+  - MAJOR: Last inconsistencies between Roman & Italic fixed.
+           As such, it is safe now to make versions in Roman & Italic equal
+  - MAJOR: Generated (automatic) kerning for Latin & Cyrillic
+  - MINOR: Made many fixes in contrast for Greek
+  - MINOR: Redone Bold masters for zecyr in Roman and zecyr.loclBGR in Italic
 
 ## License
 

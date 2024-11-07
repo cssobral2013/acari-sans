@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.pnum" format="2">
+  <advance width="1249"/>
+  <outline>
+    <contour>
+      <point x="636" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="908" y="-20"/>
+      <point x="1167" y="201"/>
+      <point x="1167" y="482" type="curve" smooth="yes"/>
+      <point x="1167" y="773"/>
+      <point x="927" y="986"/>
+      <point x="643" y="986" type="curve" smooth="yes"/>
+      <point x="638" y="986"/>
+      <point x="630" y="986"/>
+      <point x="624" y="985" type="curve"/>
+      <point x="936" y="1447" type="line" name=".av01"/>
+      <point x="600" y="1447" type="line"/>
+      <point x="162" y="741" type="line" smooth="yes"/>
+      <point x="107" y="653"/>
+      <point x="82" y="575"/>
+      <point x="82" y="471" type="curve" smooth="yes"/>
+      <point x="82" y="175"/>
+      <point x="361" y="-20"/>
+    </contour>
+    <contour>
+      <point x="634" y="253" type="curve" smooth="yes" name=".dv02"/>
+      <point x="506" y="253"/>
+      <point x="366" y="345"/>
+      <point x="366" y="485" type="curve" smooth="yes" name=".sh04"/>
+      <point x="366" y="621"/>
+      <point x="483" y="730"/>
+      <point x="618" y="730" type="curve" smooth="yes"/>
+      <point x="760" y="730"/>
+      <point x="883" y="633"/>
+      <point x="883" y="485" type="curve" smooth="yes"/>
+      <point x="883" y="357"/>
+      <point x="758" y="253"/>
+    </contour>
+  </outline>
+</glyph>
