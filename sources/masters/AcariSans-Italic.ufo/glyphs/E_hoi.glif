@@ -2,11 +2,11 @@
 <glyph name="Ehoi" format="2">
   <advance width="1277"/>
   <unicode hex="1EBA"/>
-  <anchor x="1038.32" y="0" name="ogonek"/>
-  <anchor x="576.3" y="-120" name="bottom"/>
+  <anchor x="1038" y="0" name="ogonek"/>
+  <anchor x="576" y="-120" name="bottom"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb" xOffset="1059.65" yOffset="516.25"/>
+    <component base="hookabovecomb" xOffset="1060" yOffset="516"/>
   </outline>
   <lib>
   <dict>

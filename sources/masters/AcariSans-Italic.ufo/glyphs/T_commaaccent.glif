@@ -2,11 +2,11 @@
 <glyph name="Tcommaaccent" format="2">
   <advance width="1124"/>
   <unicode hex="021A"/>
-  <anchor x="738.45" y="1620" name="top"/>
-  <anchor x="385.425" y="0" name="cedilla"/>
+  <anchor x="738" y="1620" name="top"/>
+  <anchor x="385" y="0" name="cedilla"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb" xOffset="695.625"/>
+    <component base="commaaccentcomb" xOffset="696"/>
   </outline>
   <lib>
   <dict>

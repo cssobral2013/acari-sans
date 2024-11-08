@@ -2,11 +2,11 @@
 <glyph name="omicron" format="2">
   <advance width="1159"/>
   <unicode hex="03BF"/>
-  <anchor x="359.55" y="-120" name="bottom"/>
-  <anchor x="477.575" y="0" name="ogonek"/>
-  <anchor x="1279.7" y="1064" name="pos"/>
-  <anchor x="640.6" y="1192" name="top"/>
+  <anchor x="360" y="-120" name="bottom"/>
+  <anchor x="478" y="0" name="ogonek"/>
+  <anchor x="1280" y="1064" name="pos"/>
+  <anchor x="641" y="1192" name="top"/>
   <outline>
-    <component base="o" xOffset="-97.5"/>
+    <component base="o" xOffset="-98"/>
   </outline>
 </glyph>

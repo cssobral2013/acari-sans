@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threefifths" format="2">
+  <advance width="2307"/>
+  <unicode hex="2157"/>
+  <outline>
+    <component base="three.numr"/>
+    <component base="fraction" xOffset="937"/>
+    <component base="five.dnom" xOffset="1376"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>three.numr_fraction_five.dnom</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,12 +2,12 @@
 <glyph name="Uring" format="2">
   <advance width="1393"/>
   <unicode hex="016E"/>
-  <anchor x="671.75" y="0" name="ogonek"/>
-  <anchor x="1686.25" y="1447" name="pos"/>
-  <anchor x="558.3" y="-120" name="bottom"/>
+  <anchor x="672" y="0" name="ogonek"/>
+  <anchor x="1686" y="1447" name="pos"/>
+  <anchor x="558" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb" xOffset="1042.7" yOffset="428"/>
+    <component base="ringcomb" xOffset="1043" yOffset="428"/>
   </outline>
   <lib>
   <dict>

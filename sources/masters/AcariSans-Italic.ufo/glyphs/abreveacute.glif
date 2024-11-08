@@ -2,11 +2,11 @@
 <glyph name="abreveacute" format="2">
   <advance width="1175"/>
   <unicode hex="1EAF"/>
-  <anchor x="903.85" y="0" name="ogonek"/>
-  <anchor x="409.225" y="-120" name="bottom"/>
+  <anchor x="904" y="0" name="ogonek"/>
+  <anchor x="409" y="-120" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_acutecomb" xOffset="888.6"/>
+    <component base="brevecomb_acutecomb" xOffset="889"/>
   </outline>
   <lib>
   <dict>

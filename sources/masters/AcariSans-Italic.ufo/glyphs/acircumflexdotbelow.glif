@@ -2,11 +2,11 @@
 <glyph name="acircumflexdotbelow" format="2">
   <advance width="1175"/>
   <unicode hex="1EAD"/>
-  <anchor x="903.85" y="0" name="ogonek"/>
+  <anchor x="904" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="847.05"/>
-    <component base="dotbelowcomb" xOffset="736.25"/>
+    <component base="circumflexcomb" xOffset="847"/>
+    <component base="dotbelowcomb" xOffset="736"/>
   </outline>
   <lib>
   <dict>

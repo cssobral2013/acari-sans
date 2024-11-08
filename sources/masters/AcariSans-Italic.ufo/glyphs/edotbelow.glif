@@ -2,11 +2,11 @@
 <glyph name="edotbelow" format="2">
   <advance width="1089"/>
   <unicode hex="1EB9"/>
-  <anchor x="708.65" y="1192" name="top"/>
-  <anchor x="566.125" y="0" name="ogonek"/>
+  <anchor x="709" y="1192" name="top"/>
+  <anchor x="566" y="0" name="ogonek"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="789.225"/>
+    <component base="dotbelowcomb" xOffset="789"/>
   </outline>
   <lib>
   <dict>

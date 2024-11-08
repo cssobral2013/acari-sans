@@ -2,12 +2,12 @@
 <glyph name="IJ" format="2">
   <advance width="1764"/>
   <unicode hex="0132"/>
-  <anchor x="1693.15" y="1620" name="top"/>
-  <anchor x="282.3" y="0" name="ogonek"/>
-  <anchor x="161.55" y="-120" name="bottom"/>
+  <anchor x="1693" y="1620" name="top"/>
+  <anchor x="282" y="0" name="ogonek"/>
+  <anchor x="162" y="-120" name="bottom"/>
   <outline>
     <component base="I" xOffset="-1"/>
-    <component base="J" xOffset="609.875"/>
+    <component base="J" xOffset="610"/>
   </outline>
   <lib>
   <dict>

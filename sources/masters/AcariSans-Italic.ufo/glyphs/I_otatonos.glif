@@ -2,11 +2,11 @@
 <glyph name="Iotatonos" format="2">
   <advance width="603"/>
   <unicode hex="038A"/>
-  <anchor x="173.55" y="-120" name="bottom"/>
-  <anchor x="294.3" y="0" name="ogonek"/>
+  <anchor x="174" y="-120" name="bottom"/>
+  <anchor x="294" y="0" name="ogonek"/>
   <anchor x="530" y="1620" name="top"/>
   <outline>
     <component base="I" xOffset="11"/>
-    <component base="tonos" xOffset="-163.5" yOffset="-20.25"/>
+    <component base="tonos" xOffset="-164" yOffset="-20"/>
   </outline>
 </glyph>

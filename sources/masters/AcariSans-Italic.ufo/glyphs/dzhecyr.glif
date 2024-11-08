@@ -2,17 +2,17 @@
 <glyph name="dzhecyr" format="2">
   <advance width="1199"/>
   <unicode hex="045F"/>
-  <anchor x="418.95" y="-120" name="bottom"/>
-  <anchor x="904.275" y="0" name="ogonek"/>
-  <anchor x="1396.53" y="1064" name="pos"/>
+  <anchor x="419" y="-120" name="bottom"/>
+  <anchor x="904" y="0" name="ogonek"/>
+  <anchor x="1397" y="1064" name="pos"/>
   <anchor x="703" y="1192" name="top"/>
   <outline>
     <component base="u" xOffset="2"/>
     <contour>
-      <point x="500.33" y="-314.957" type="line"/>
-      <point x="583.292" y="29.868" type="line"/>
-      <point x="394.375" y="29.89" type="line"/>
-      <point x="312.529" y="-314.957" type="line"/>
+      <point x="500" y="-315" type="line"/>
+      <point x="583" y="30" type="line"/>
+      <point x="394" y="30" type="line"/>
+      <point x="313" y="-315" type="line"/>
     </contour>
   </outline>
   <guideline angle="257.084" x="301" y="1064"/>

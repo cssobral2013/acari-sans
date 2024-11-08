@@ -5,28 +5,28 @@
   <outline>
     <component base="I"/>
     <contour>
-      <point x="1176.58" y="2.048" type="line"/>
-      <point x="1274.88" y="432.128" type="line" smooth="yes"/>
-      <point x="1292.29" y="502.784"/>
-      <point x="1300.48" y="569.344"/>
-      <point x="1300.48" y="631.808" type="curve" smooth="yes"/>
-      <point x="1300.48" y="881.664"/>
-      <point x="1154.05" y="1027.07"/>
-      <point x="847.872" y="1027.07" type="curve" smooth="yes"/>
-      <point x="737.645" y="1027.07"/>
-      <point x="627.418" y="999.892"/>
-      <point x="515.833" y="944.175" type="curve"/>
-      <point x="458.143" y="623.35" type="line"/>
-      <point x="561.169" y="725.679"/>
-      <point x="679.628" y="776.192"/>
-      <point x="816.128" y="776.192" type="curve" smooth="yes"/>
-      <point x="937.704" y="776.192"/>
-      <point x="1007.34" y="722.944"/>
-      <point x="1007.34" y="591.872" type="curve" smooth="yes"/>
-      <point x="1007.34" y="550.912"/>
-      <point x="1000.19" y="494.356"/>
-      <point x="983.784" y="423.936" type="curve" smooth="yes"/>
-      <point x="885.48" y="2.048" type="line"/>
+      <point x="1177" y="2" type="line"/>
+      <point x="1275" y="432" type="line" smooth="yes"/>
+      <point x="1292" y="503"/>
+      <point x="1300" y="570"/>
+      <point x="1300" y="632" type="curve" smooth="yes"/>
+      <point x="1300" y="882"/>
+      <point x="1154" y="1027"/>
+      <point x="848" y="1027" type="curve" smooth="yes"/>
+      <point x="738" y="1027"/>
+      <point x="628" y="1000"/>
+      <point x="516" y="944" type="curve"/>
+      <point x="458" y="623" type="line"/>
+      <point x="561" y="725"/>
+      <point x="680" y="776"/>
+      <point x="816" y="776" type="curve" smooth="yes"/>
+      <point x="938" y="776"/>
+      <point x="1007" y="723"/>
+      <point x="1007" y="592" type="curve" smooth="yes"/>
+      <point x="1007" y="551"/>
+      <point x="1000" y="494"/>
+      <point x="984" y="424" type="curve" smooth="yes"/>
+      <point x="885" y="2" type="line"/>
     </contour>
   </outline>
 </glyph>

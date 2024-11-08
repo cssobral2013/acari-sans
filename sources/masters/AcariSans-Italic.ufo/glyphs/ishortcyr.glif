@@ -2,12 +2,12 @@
 <glyph name="ishortcyr" format="2">
   <advance width="1188"/>
   <unicode hex="0439"/>
-  <anchor x="902.275" y="0" name="ogonek"/>
-  <anchor x="1394.53" y="1064" name="pos"/>
-  <anchor x="416.95" y="-120" name="bottom"/>
+  <anchor x="902" y="0" name="ogonek"/>
+  <anchor x="1395" y="1064" name="pos"/>
+  <anchor x="417" y="-120" name="bottom"/>
   <outline>
     <component base="icyr"/>
-    <component base="brevecomb" xOffset="953.775"/>
+    <component base="brevecomb" xOffset="954"/>
   </outline>
   <lib>
   <dict>

@@ -2,12 +2,12 @@
 <glyph name="Ohorngrave" format="2">
   <advance width="1522"/>
   <unicode hex="1EDC"/>
-  <anchor x="742.075" y="0" name="ogonek"/>
-  <anchor x="615.1" y="-120" name="bottom"/>
+  <anchor x="742" y="0" name="ogonek"/>
+  <anchor x="615" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="horncomb" xOffset="1668.32" yOffset="-1"/>
-    <component base="gravecomb" xOffset="1041.22" yOffset="428.425"/>
+    <component base="horncomb" xOffset="1668" yOffset="-1"/>
+    <component base="gravecomb" xOffset="1041" yOffset="428"/>
   </outline>
   <lib>
   <dict>

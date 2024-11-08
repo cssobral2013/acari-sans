@@ -2,10 +2,10 @@
 <glyph name="Ncaron" format="2">
   <advance width="1461"/>
   <unicode hex="0147"/>
-  <anchor x="641.175" y="-120" name="bottom"/>
+  <anchor x="641" y="-120" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="caroncomb" xOffset="1150.12" yOffset="428"/>
+    <component base="caroncomb" xOffset="1150" yOffset="428"/>
   </outline>
   <lib>
   <dict>

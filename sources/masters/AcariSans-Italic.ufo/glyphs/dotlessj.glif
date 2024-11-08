@@ -2,25 +2,25 @@
 <glyph name="dotlessj" format="2">
   <advance width="543"/>
   <unicode hex="0237"/>
-  <anchor x="386.8" y="1192" name="top"/>
+  <anchor x="387" y="1192" name="top"/>
   <outline>
     <contour>
-      <point x="-145.722" y="-449.101" type="curve" smooth="yes"/>
-      <point x="48.019" y="-449.101"/>
-      <point x="161.018" y="-324.403"/>
-      <point x="202.259" y="-145.28" type="curve" smooth="yes"/>
-      <point x="484.627" y="1063.94" type="line"/>
-      <point x="295.853" y="1063.94" type="line"/>
-      <point x="13.024" y="-149.734" type="line" smooth="yes"/>
-      <point x="-4.691" y="-230.374"/>
-      <point x="-49.798" y="-280.781"/>
-      <point x="-127.008" y="-280.781" type="curve" smooth="yes"/>
-      <point x="-165.203" y="-280.781"/>
-      <point x="-202.963" y="-276.685"/>
-      <point x="-239.853" y="-266.726" type="curve"/>
-      <point x="-307.718" y="-414.746" type="line"/>
-      <point x="-254.368" y="-436.813"/>
-      <point x="-199.686" y="-449.101"/>
+      <point x="-146" y="-449" type="curve" smooth="yes"/>
+      <point x="48" y="-449"/>
+      <point x="161" y="-324"/>
+      <point x="202" y="-145" type="curve" smooth="yes"/>
+      <point x="485" y="1064" type="line"/>
+      <point x="296" y="1064" type="line"/>
+      <point x="13" y="-150" type="line" smooth="yes"/>
+      <point x="-5" y="-231"/>
+      <point x="-50" y="-281"/>
+      <point x="-127" y="-281" type="curve" smooth="yes"/>
+      <point x="-165" y="-281"/>
+      <point x="-203" y="-277"/>
+      <point x="-240" y="-267" type="curve"/>
+      <point x="-308" y="-415" type="line"/>
+      <point x="-255" y="-437"/>
+      <point x="-200" y="-449"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="380" y="0"/>

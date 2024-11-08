@@ -2,11 +2,11 @@
 <glyph name="ecaron" format="2">
   <advance width="1089"/>
   <unicode hex="011B"/>
-  <anchor x="566.125" y="0" name="ogonek"/>
-  <anchor x="462.2" y="-120" name="bottom"/>
+  <anchor x="566" y="0" name="ogonek"/>
+  <anchor x="462" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="907.325"/>
+    <component base="caroncomb" xOffset="907"/>
   </outline>
   <lib>
   <dict>

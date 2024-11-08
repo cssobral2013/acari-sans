@@ -2,12 +2,12 @@
 <glyph name="Uhorndotbelow" format="2">
   <advance width="1393"/>
   <unicode hex="1EF0"/>
-  <anchor x="870.825" y="1620" name="top"/>
-  <anchor x="671.75" y="0" name="ogonek"/>
+  <anchor x="871" y="1620" name="top"/>
+  <anchor x="672" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb" xOffset="1620.55" yOffset="-1"/>
-    <component base="dotbelowcomb" xOffset="885.325"/>
+    <component base="horncomb" xOffset="1621" yOffset="-1"/>
+    <component base="dotbelowcomb" xOffset="885"/>
   </outline>
   <lib>
   <dict>

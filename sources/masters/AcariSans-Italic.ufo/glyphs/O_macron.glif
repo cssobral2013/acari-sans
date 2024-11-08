@@ -2,12 +2,12 @@
 <glyph name="Omacron" format="2">
   <advance width="1522"/>
   <unicode hex="014C"/>
-  <anchor x="742.075" y="0" name="ogonek"/>
-  <anchor x="1734.03" y="1447" name="pos"/>
-  <anchor x="615.1" y="-120" name="bottom"/>
+  <anchor x="742" y="0" name="ogonek"/>
+  <anchor x="1734" y="1447" name="pos"/>
+  <anchor x="615" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="macroncomb" xOffset="1234.47" yOffset="428"/>
+    <component base="macroncomb" xOffset="1234" yOffset="428"/>
   </outline>
   <lib>
   <dict>

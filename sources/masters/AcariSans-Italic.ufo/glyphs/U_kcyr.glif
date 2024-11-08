@@ -2,13 +2,13 @@
 <glyph name="Ukcyr" format="2">
   <advance width="2579"/>
   <unicode hex="0478"/>
-  <anchor x="2161.52" y="1192" name="top"/>
-  <anchor x="736.075" y="0" name="ogonek"/>
-  <anchor x="1728.03" y="1447" name="pos"/>
-  <anchor x="2100.52" y="-237.6" name="bottom"/>
+  <anchor x="2162" y="1192" name="top"/>
+  <anchor x="736" y="0" name="ogonek"/>
+  <anchor x="1728" y="1447" name="pos"/>
+  <anchor x="2101" y="-238" name="bottom"/>
   <outline>
     <component base="Ocyr" xOffset="-6"/>
-    <component base="ucyr" xOffset="1526.72"/>
+    <component base="ucyr" xOffset="1527"/>
   </outline>
   <lib>
   <dict>

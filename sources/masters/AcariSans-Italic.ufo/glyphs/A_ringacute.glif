@@ -2,11 +2,11 @@
 <glyph name="Aringacute" format="2">
   <advance width="1342"/>
   <unicode hex="01FA"/>
-  <anchor x="1176.9" y="0" name="ogonek"/>
-  <anchor x="551.35" y="-120" name="bottom"/>
+  <anchor x="1177" y="0" name="ogonek"/>
+  <anchor x="551" y="-120" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb_acutecomb" xOffset="1043.88" yOffset="144.275"/>
+    <component base="ringcomb_acutecomb" xOffset="1044" yOffset="144"/>
   </outline>
   <lib>
   <dict>

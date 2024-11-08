@@ -2,12 +2,12 @@
 <glyph name="uhorntilde" format="2">
   <advance width="1188"/>
   <unicode hex="1EEF"/>
-  <anchor x="902.275" y="0" name="ogonek"/>
-  <anchor x="416.95" y="-120" name="bottom"/>
+  <anchor x="902" y="0" name="ogonek"/>
+  <anchor x="417" y="-120" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1328.82" yOffset="-384"/>
-    <component base="tildecomb" xOffset="943.525"/>
+    <component base="horncomb" xOffset="1329" yOffset="-384"/>
+    <component base="tildecomb" xOffset="944"/>
   </outline>
   <lib>
   <dict>

@@ -2,11 +2,11 @@
 <glyph name="Yukrcyr" format="2">
   <advance width="607"/>
   <unicode hex="0407"/>
-  <anchor x="283.3" y="0" name="ogonek"/>
-  <anchor x="162.55" y="-120" name="bottom"/>
+  <anchor x="283" y="0" name="ogonek"/>
+  <anchor x="163" y="-120" name="bottom"/>
   <outline>
     <component base="Iukrcyr"/>
-    <component base="dieresiscomb" xOffset="793.375" yOffset="428"/>
+    <component base="dieresiscomb" xOffset="793" yOffset="428"/>
   </outline>
   <lib>
   <dict>

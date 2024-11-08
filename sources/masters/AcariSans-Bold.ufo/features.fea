@@ -1,4 +1,13 @@
 #> classes
+#/> kernclasses
+@Hardcyr = [Hardcyr Tshecyr];
+@Yusbigcyr = [Yusbigcyr Yusbigiotifiedcyr];
+@f1 = [f f_f];
+@guillemotright1 = [guillemotright guilsinglright];
+#/< kernclasses
+#< classes
+
+#/> classes
 #/> otclasses
 @locl_ss02 = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr];
 @locl_ss022 = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR];
@@ -168,7 +177,6 @@
 @uni01C6 = [dz dzcaron];
 @uni01C51 = [Dz Dzcaron];
 @g.ss011 = [g.ss01 gbreve.ss01 gdotaccent.ss01];
-@Hardcyr = [Hardcyr Tshecyr];
 @yucyr = [eiotifiedcyr yucyr];
 @Mu = [Beta Epsilon Epsilontonos Eta Etatonos Gamma Iota Iotadieresis Iotatonos Kappa Mu Nu Pi Rho];
 @Alpha = [Alpha Alphatonos];
@@ -177,15 +185,15 @@
 @iota = [iota iotadieresis iotatonos];
 @epsilon = [epsilon epsilontonos];
 @alpha = [alpha alphatonos];
-@omicron = [omicron omicrontonos];
 @upsilon = [upsilon upsilondieresis upsilondieresistonos upsilontonos];
+@omicron = [omicron omicrontonos];
 @omega = [omega omegatonos];
 @eta = [eta etatonos];
 @quoteright1 = [apostrophemod quotedblright quoteright];
-@guillemotright1 = [guillemotright guilsinglright];
+@guillemotleft = [guillemotleft guilsinglleft];
 @two1 = [two two.pnum];
 @zero1 = [zero zero.pnum];
-@Yusbigcyr = [Yusbigcyr Yusbigiotifiedcyr];
+@katailcyr = [katailcyr zhetailcyr];
 @tsecyr.loclBGR = [shchacyr.loclBGR tsecyr.loclBGR];
 @Mu1 = [Eta Etatonos Iota Iotadieresis Iotatonos Mu Nu Pi];
 @Epsilon = [Epsilon Epsilontonos];
@@ -195,14 +203,13 @@
 @iota1 = [iota iotadieresis iotatonos];
 @alpha1 = [alpha alphatonos];
 @epsilon1 = [epsilon epsilontonos];
-@omicron1 = [omicron omicrontonos];
 @upsilon1 = [upsilon upsilondieresis upsilondieresistonos upsilontonos];
+@omicron1 = [omicron omicrontonos];
 @omega1 = [omega omegatonos];
 @eta1 = [eta etatonos];
-@f1 = [f f_f];
 @fl = [f_f_l fl];
 #/< kernclasses
-#< classes
+#/< classes
 
 @aalt = [zero one two three four five six seven eight nine c g i s gbreve gdotaccent gcommaaccent Scedilla scedilla Tcedilla tcedilla becyr];
 @aalt2 = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior g.ss01 i.loclTRK longs gbreve.ss01 gdotaccent.ss01 gcommaaccent.ss01 Scommaaccent scommaaccent Tcommaaccent tcommaaccent becyr.loclSRB Yucyr hardcyr ylongcyr softcyr yucyr];

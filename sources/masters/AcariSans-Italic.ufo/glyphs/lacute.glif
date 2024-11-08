@@ -2,11 +2,11 @@
 <glyph name="lacute" format="2">
   <advance width="551"/>
   <unicode hex="013A"/>
-  <anchor x="189.4" y="-120" name="bottom"/>
-  <anchor x="667.75" y="774" name="center"/>
+  <anchor x="189" y="-120" name="bottom"/>
+  <anchor x="668" y="774" name="center"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb" xOffset="706.5" yOffset="428"/>
+    <component base="acutecomb" xOffset="707" yOffset="428"/>
   </outline>
   <lib>
   <dict>

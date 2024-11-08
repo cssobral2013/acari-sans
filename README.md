@@ -61,12 +61,12 @@ When you update your font (new version or new release), please report all notabl
     As such, Acari Sans has now eight weights plus matching italics
   - MINOR: Fixed some off-center diacritics and tilde
   
-  * November 7, 2024 Version 1.083
+  * November 6-7, 2024 Version 1.084
   - MAJOR: Last inconsistencies between Roman & Italic fixed.
            As such, it is safe now to make versions in Roman & Italic equal
   - MAJOR: Generated (automatic) kerning for Latin & Cyrillic
-  - MINOR: Made many fixes in contrast for Greek
-  - MINOR: Redone Bold masters for zecyr in Roman and zecyr.loclBGR in Italic
+  - MAJOR: Generated standalone fraction glyphs
+  - MAJOR: Made many fixes in contrast for several glyphs
 
 ## License
 

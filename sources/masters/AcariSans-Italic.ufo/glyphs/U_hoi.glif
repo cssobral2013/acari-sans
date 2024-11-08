@@ -2,12 +2,12 @@
 <glyph name="Uhoi" format="2">
   <advance width="1393"/>
   <unicode hex="1EE6"/>
-  <anchor x="671.75" y="0" name="ogonek"/>
-  <anchor x="1686.25" y="1447" name="pos"/>
-  <anchor x="558.3" y="-120" name="bottom"/>
+  <anchor x="672" y="0" name="ogonek"/>
+  <anchor x="1686" y="1447" name="pos"/>
+  <anchor x="558" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="hookabovecomb" xOffset="1072.22" yOffset="516.25"/>
+    <component base="hookabovecomb" xOffset="1072" yOffset="516"/>
   </outline>
   <lib>
   <dict>

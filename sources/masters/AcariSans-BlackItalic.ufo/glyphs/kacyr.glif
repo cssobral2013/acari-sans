@@ -6,22 +6,22 @@
   <outline>
     <component base="dotlessi"/>
     <contour>
-      <point x="1005.58" y="0" type="line"/>
-      <point x="924.688" y="473.088" type="line" smooth="yes"/>
-      <point x="905.344" y="586.214"/>
-      <point x="810.536" y="664.19"/>
-      <point x="692.335" y="664.19" type="curve"/>
-      <point x="725.022" y="590.327" type="line"/>
-      <point x="1203.22" y="1063.94" type="line"/>
-      <point x="894.992" y="1063.94" type="line"/>
-      <point x="558.096" y="685.056" type="line"/>
-      <point x="464.912" y="685.056" type="line"/>
-      <point x="416.047" y="493.568" type="line"/>
-      <point x="551.952" y="493.568" type="line" smooth="yes"/>
-      <point x="622.608" y="493.568"/>
-      <point x="655.902" y="458.929"/>
-      <point x="663.568" y="385.024" type="curve" smooth="yes"/>
-      <point x="703.504" y="0" type="line"/>
+      <point x="1006" y="0" type="line"/>
+      <point x="925" y="473" type="line" smooth="yes"/>
+      <point x="906" y="586"/>
+      <point x="810" y="664"/>
+      <point x="692" y="664" type="curve"/>
+      <point x="725" y="590" type="line"/>
+      <point x="1203" y="1064" type="line"/>
+      <point x="895" y="1064" type="line"/>
+      <point x="558" y="685" type="line"/>
+      <point x="465" y="685" type="line"/>
+      <point x="416" y="494" type="line"/>
+      <point x="552" y="494" type="line" smooth="yes"/>
+      <point x="623" y="494"/>
+      <point x="656" y="459"/>
+      <point x="664" y="385" type="curve" smooth="yes"/>
+      <point x="704" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="677" y="0"/>

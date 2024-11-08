@@ -2,11 +2,11 @@
 <glyph name="emacron" format="2">
   <advance width="1089"/>
   <unicode hex="0113"/>
-  <anchor x="566.125" y="0" name="ogonek"/>
-  <anchor x="462.2" y="-120" name="bottom"/>
+  <anchor x="566" y="0" name="ogonek"/>
+  <anchor x="462" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb" xOffset="985.725"/>
+    <component base="macroncomb" xOffset="986"/>
   </outline>
   <lib>
   <dict>

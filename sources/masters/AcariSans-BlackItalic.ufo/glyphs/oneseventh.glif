@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneseventh" format="2">
+  <advance width="1991"/>
+  <unicode hex="2150"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="723"/>
+    <component base="seven.dnom" xOffset="1180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>one.numr_fraction_seven.dnom</string>
+  </dict>
+  </lib>
+</glyph>

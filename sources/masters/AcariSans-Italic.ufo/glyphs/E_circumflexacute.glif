@@ -2,11 +2,11 @@
 <glyph name="Ecircumflexacute" format="2">
   <advance width="1277"/>
   <unicode hex="1EBE"/>
-  <anchor x="1038.32" y="0" name="ogonek"/>
-  <anchor x="576.3" y="-120" name="bottom"/>
+  <anchor x="1038" y="0" name="ogonek"/>
+  <anchor x="576" y="-120" name="bottom"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb_acutecomb" xOffset="1248.6" yOffset="428"/>
+    <component base="circumflexcomb_acutecomb" xOffset="1249" yOffset="428"/>
   </outline>
   <lib>
   <dict>

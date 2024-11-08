@@ -2,12 +2,12 @@
 <glyph name="Ocircumflexdotbelow" format="2">
   <advance width="1522"/>
   <unicode hex="1ED8"/>
-  <anchor x="742.075" y="0" name="ogonek"/>
-  <anchor x="1734.03" y="1447" name="pos"/>
+  <anchor x="742" y="0" name="ogonek"/>
+  <anchor x="1734" y="1447" name="pos"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb" xOffset="1168.62" yOffset="428"/>
-    <component base="dotbelowcomb" xOffset="942.125"/>
+    <component base="circumflexcomb" xOffset="1169" yOffset="428"/>
+    <component base="dotbelowcomb" xOffset="942"/>
   </outline>
   <lib>
   <dict>
