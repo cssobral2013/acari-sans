@@ -5,7 +5,6 @@
   <anchor x="797" y="1192" name="top"/>
   <anchor x="475" y="-120" name="bottom"/>
   <outline>
-    <component base="dotlessi"/>
     <contour>
       <point x="712" y="0" type="line"/>
       <point x="1000" y="0" type="line"/>
@@ -32,6 +31,16 @@
       <point x="859" y="635"/>
       <point x="849" y="592" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="565" y="1064" type="line"/>
+      <point x="277" y="1064" type="line"/>
+      <point x="22" y="0" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="797" y="0"/>
+  <guideline angle="257.135" x="312" y="1064"/>
+  <guideline angle="77.2698" x="203" y="0"/>
+  <guideline angle="257.161" x="918" y="645"/>
+  <guideline angle="77.3441" x="905" y="0"/>
+  <guideline angle="90" name="vertical" x="780" y="0"/>
 </glyph>

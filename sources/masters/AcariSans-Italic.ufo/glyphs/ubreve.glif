@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="2">
-  <advance width="1188"/>
+  <advance width="1184"/>
   <unicode hex="016D"/>
-  <anchor x="902" y="0" name="ogonek"/>
-  <anchor x="1395" y="1064" name="pos"/>
+  <anchor x="892" y="0" name="ogonek"/>
+  <anchor x="1384" y="1064" name="pos"/>
   <anchor x="417" y="-120" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="954"/>
+    <component base="brevecomb" xOffset="958"/>
   </outline>
   <lib>
   <dict>

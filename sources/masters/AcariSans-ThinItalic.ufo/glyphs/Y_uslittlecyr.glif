@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yuslittlecyr" format="2">
+  <advance width="1323"/>
+  <unicode hex="0466"/>
+  <outline>
+    <component base="Elcyr.loclBGR"/>
+    <contour>
+      <point x="1005" y="574" type="line"/>
+      <point x="337" y="574" type="line"/>
+      <point x="293" y="489" type="line"/>
+      <point x="1012" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="556" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="721" y="556" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.064" x="641" y="714"/>
+  <guideline angle="77.064" x="613" y="0"/>
+</glyph>

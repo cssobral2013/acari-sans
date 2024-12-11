@@ -3,9 +3,9 @@
   <advance width="2865"/>
   <unicode hex="2152"/>
   <outline>
-    <component base="one.numr"/>
+    <component base="one.numr" xOffset="4"/>
     <component base="fraction" xOffset="723"/>
-    <component base="one.dnom" xOffset="1180"/>
+    <component base="one.dnom" xOffset="1177"/>
     <component base="zero.dnom" xOffset="1903"/>
   </outline>
   <lib>

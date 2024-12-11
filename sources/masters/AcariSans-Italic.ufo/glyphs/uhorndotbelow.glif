@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="1188"/>
+  <advance width="1184"/>
   <unicode hex="1EF1"/>
-  <anchor x="701" y="1192" name="top"/>
-  <anchor x="902" y="0" name="ogonek"/>
+  <anchor x="703" y="1192" name="top"/>
+  <anchor x="892" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1329" yOffset="-384"/>
-    <component base="dotbelowcomb" xOffset="744"/>
+    <component base="horncomb" xOffset="1324" yOffset="-384"/>
+    <component base="dotbelowcomb" xOffset="728"/>
   </outline>
   <lib>
   <dict>

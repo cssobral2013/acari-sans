@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflextilde" format="2">
-  <advance width="1568"/>
+  <advance width="1569"/>
   <unicode hex="1ED6"/>
   <anchor x="1545" y="1448" name="horn"/>
   <anchor x="955" y="0" name="ogonek"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_tildecomb" xOffset="1163" yOffset="406"/>
+    <component base="circumflexcomb_tildecomb" xOffset="1159" yOffset="406"/>
   </outline>
   <lib>
   <dict>

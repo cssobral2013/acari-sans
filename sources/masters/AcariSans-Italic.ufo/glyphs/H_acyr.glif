@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hacyr" format="2">
-  <advance width="1245"/>
+  <advance width="1350"/>
   <unicode hex="0425"/>
   <outline>
-    <component base="X" xOffset="1"/>
+    <component base="X"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>X</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>X</string>
   <key>com.fontlab.recipe</key>
   <string>X</string>
   <key>public.markColor</key>

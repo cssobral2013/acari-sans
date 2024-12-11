@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <advance width="1024"/>
+  <anchor x="-405" y="1192" name="_top"/>
+  <outline>
+    <component base="brevecomb"/>
+    <component base="tildecomb" xOffset="71" yOffset="310"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>brevecomb_tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

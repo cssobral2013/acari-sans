@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yatcyr" format="2">
+  <advance width="1198"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="230" y="1236" type="line"/>
+      <point x="211" y="1150" type="line"/>
+      <point x="859" y="1150" type="line"/>
+      <point x="879" y="1236" type="line"/>
+    </contour>
+    <contour>
+      <point x="490.866" y="0" type="line" smooth="yes"/>
+      <point x="752.408" y="0"/>
+      <point x="1028.54" y="174.014"/>
+      <point x="1028.54" y="478.278" type="curve" smooth="yes"/>
+      <point x="1028.54" y="701.266"/>
+      <point x="844.104" y="761.702"/>
+      <point x="665.922" y="761.702" type="curve" smooth="yes"/>
+      <point x="353.322" y="761.702" type="line"/>
+      <point x="353.322" y="681.468" type="line"/>
+      <point x="657.586" y="681.468" type="line" smooth="yes"/>
+      <point x="772.206" y="681.468"/>
+      <point x="933.716" y="650.208"/>
+      <point x="933.716" y="487.656" type="curve" smooth="yes"/>
+      <point x="933.716" y="233.408"/>
+      <point x="725.316" y="81.276"/>
+      <point x="509.622" y="81.276" type="curve" smooth="yes"/>
+      <point x="200.148" y="81.276" type="line"/>
+      <point x="200.148" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="226.198" y="0" type="line"/>
+      <point x="559.638" y="1446.3" type="line"/>
+      <point x="460.648" y="1446.3" type="line"/>
+      <point x="126.166" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.26" x="245" y="1254"/>
+  <guideline angle="76.7873" x="1082" y="1139"/>
+</glyph>

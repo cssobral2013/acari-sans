@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilondieresis" format="2">
-  <advance width="1352"/>
+  <advance width="1446"/>
   <unicode hex="03AB"/>
   <outline>
-    <component base="Upsilon" xOffset="52"/>
-    <component base="dieresiscomb" xOffset="1250" yOffset="384"/>
+    <component base="Upsilon" xOffset="-13"/>
+    <component base="dieresiscomb" xOffset="1275" yOffset="384"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Y</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorndotbelow" format="2">
-  <advance width="1618"/>
+  <advance width="1623"/>
   <unicode hex="1EE2"/>
-  <anchor x="785" y="1618" name="top"/>
+  <anchor x="786" y="1618" name="top"/>
   <anchor x="956" y="0" name="ogonek"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="dotbelowcomb" xOffset="1099"/>
+    <component base="dotbelowcomb" xOffset="1105"/>
   </outline>
   <lib>
   <dict>

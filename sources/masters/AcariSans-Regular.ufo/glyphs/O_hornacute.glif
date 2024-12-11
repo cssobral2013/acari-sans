@@ -2,10 +2,10 @@
 <glyph name="Ohornacute" format="2">
   <advance width="1601"/>
   <unicode hex="1EDA"/>
-  <anchor x="928" y="0" name="ogonek"/>
+  <anchor x="922" y="0" name="ogonek"/>
   <outline>
     <component base="Ohorn" xOffset="-1"/>
-    <component base="acutecomb" xOffset="1188" yOffset="426"/>
+    <component base="acutecomb" xOffset="1186" yOffset="426"/>
   </outline>
   <lib>
   <dict>

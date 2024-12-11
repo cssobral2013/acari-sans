@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerothirds" format="2">
+  <advance width="2062"/>
+  <unicode hex="2189"/>
+  <outline>
+    <component base="zero.numr" xOffset="263"/>
+    <component base="fraction" xOffset="846"/>
+    <component base="three.dnom" xOffset="1137"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>zero.numr_fraction_three.dnom</string>
+  </dict>
+  </lib>
+</glyph>

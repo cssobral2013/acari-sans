@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="palochkacyr" format="2">
-  <advance width="551"/>
+  <advance width="546"/>
   <unicode hex="04CF"/>
-  <anchor x="451" y="1620" name="top"/>
-  <anchor x="189" y="-120" name="bottom"/>
-  <anchor x="668" y="774" name="center"/>
+  <anchor x="448" y="1620" name="top"/>
+  <anchor x="179" y="-120" name="bottom"/>
+  <anchor x="660" y="774" name="center"/>
   <outline>
     <contour>
-      <point x="211" y="0" type="line"/>
-      <point x="556" y="1448" type="line"/>
-      <point x="365" y="1448" type="line"/>
-      <point x="23" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="544" y="1448" type="line"/>
+      <point x="370" y="1448" type="line"/>
+      <point x="29" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="436" y="0"/>

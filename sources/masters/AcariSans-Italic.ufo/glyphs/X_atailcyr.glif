@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xatailcyr" format="2">
-  <advance width="1309"/>
+  <advance width="1439"/>
   <unicode hex="04B2"/>
   <outline>
-    <component base="X" xOffset="9"/>
+    <component base="X"/>
     <contour>
-      <point x="1127" y="-306" type="line"/>
-      <point x="1235" y="166" type="line"/>
-      <point x="1009" y="166" type="line"/>
-      <point x="968" y="1" type="line"/>
-      <point x="1021" y="1" type="line"/>
-      <point x="950" y="-306" type="line"/>
+      <point x="1204" y="-311" type="line"/>
+      <point x="1308" y="138" type="line"/>
+      <point x="1090" y="138" type="line"/>
+      <point x="1057" y="-1" type="line"/>
+      <point x="1109" y="-1" type="line"/>
+      <point x="1036" y="-311" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="2">
-  <advance width="1164"/>
+  <advance width="1111"/>
   <unicode hex="00F6"/>
   <anchor x="1226" y="1064" name="horn"/>
-  <anchor x="700" y="0" name="ogonek"/>
+  <anchor x="695" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="1009"/>
+    <component base="dieresiscomb" xOffset="1008"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
   <key>com.fontlab.recipe</key>
   <string>o+dieresiscomb</string>
   <key>public.markColor</key>

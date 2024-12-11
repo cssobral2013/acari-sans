@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+  <advance width="1859"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="one.numr" xOffset="16"/>
+    <component base="fraction" xOffset="612"/>
+    <component base="two.dnom" xOffset="903"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>one.numr_fraction_two.dnom</string>
+  </dict>
+  </lib>
+</glyph>

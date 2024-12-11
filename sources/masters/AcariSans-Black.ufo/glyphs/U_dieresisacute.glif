@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresisacute" format="2">
-  <advance width="1421"/>
+  <advance width="1423"/>
   <unicode hex="01D7"/>
-  <anchor x="711" y="1618" name="top"/>
-  <anchor x="1606" y="1448" name="horn"/>
+  <anchor x="1627" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb_acutecomb" xOffset="1091" yOffset="384"/>
+    <component base="dieresiscomb_acutecomb" xOffset="1080" yOffset="374"/>
   </outline>
   <lib>
   <dict>

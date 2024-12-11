@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.numr" format="2">
-  <advance width="856"/>
+  <advance width="859"/>
   <outline>
-    <contour>
-      <point x="650" y="496" type="line"/>
-      <point x="708" y="742" type="line"/>
-      <point x="862" y="742" type="line"/>
-      <point x="888" y="867" type="line"/>
-      <point x="737" y="867" type="line"/>
-      <point x="878" y="1463" type="line"/>
-      <point x="757" y="1463" type="line"/>
-      <point x="138" y="823" type="line"/>
-      <point x="122" y="742" type="line"/>
-      <point x="569" y="742" type="line"/>
-      <point x="512" y="496" type="line"/>
-    </contour>
-    <contour>
-      <point x="598" y="867" type="line"/>
-      <point x="310" y="867" type="line"/>
-      <point x="693" y="1268" type="line"/>
-    </contour>
+    <component base="four.dnom" xOffset="112" yOffset="486"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>four.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>four.dnom</string>
+  </dict>
+  </lib>
 </glyph>

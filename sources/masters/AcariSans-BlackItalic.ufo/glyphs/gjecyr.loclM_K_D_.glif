@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gjecyr.loclMKD" format="2">
   <advance width="932"/>
+  <anchor x="675" y="1402" name="_top"/>
   <outline>
     <component base="gecyr.loclSRB"/>
     <component base="acutecomb" xOffset="944" yOffset="210"/>
   </outline>
-  <guideline angle="129.359" x="802.27" y="147"/>
-  <guideline angle="129.359" x="900.472" y="147"/>
-  <guideline angle="90" name="vertical" x="595" y="0"/>
+  <guideline angle="129.357" x="868" y="147"/>
+  <guideline angle="129.359" x="951" y="147"/>
+  <guideline angle="90" name="vertical" x="611" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

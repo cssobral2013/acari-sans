@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oogonek" format="2">
-  <advance width="1164"/>
+  <advance width="1111"/>
   <unicode hex="01EB"/>
-  <anchor x="582" y="1192" name="top"/>
+  <anchor x="581" y="1192" name="top"/>
   <anchor x="1226" y="1064" name="horn"/>
   <outline>
     <component base="o"/>
-    <component base="ogonekcomb" xOffset="862"/>
+    <component base="ogonekcomb" xOffset="856"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
   <key>com.fontlab.recipe</key>
   <string>o+>ogonekcomb</string>
   <key>public.markColor</key>

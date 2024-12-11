@@ -2,9 +2,10 @@
 <glyph name="omegatonos" format="2">
   <advance width="1531"/>
   <unicode hex="03CE"/>
+  <anchor x="1024" y="1712" name="_tonos"/>
   <outline>
     <component base="omega"/>
-    <component base="tonos" xOffset="716" yOffset="232"/>
+    <component base="tonos" xOffset="717" yOffset="103"/>
   </outline>
   <lib>
   <dict>

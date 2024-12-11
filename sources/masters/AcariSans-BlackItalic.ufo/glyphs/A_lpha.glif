@@ -2,6 +2,9 @@
 <glyph name="Alpha" format="2">
   <advance width="1388"/>
   <unicode hex="0391"/>
+  <anchor x="587" y="-120" name="bottom"/>
+  <anchor x="1284" y="0" name="ogonek"/>
+  <anchor x="935" y="1620" name="top"/>
   <outline>
     <component base="A" xOffset="13"/>
   </outline>

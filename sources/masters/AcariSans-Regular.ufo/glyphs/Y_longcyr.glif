@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ylongcyr" format="2">
-  <advance width="1779"/>
+  <advance width="1774"/>
   <unicode hex="042B"/>
-  <anchor x="1481" y="1618" name="top"/>
-  <anchor x="1576" y="0" name="ogonek"/>
+  <anchor x="1477" y="1618" name="top"/>
+  <anchor x="1564" y="0" name="ogonek"/>
   <outline>
-    <component base="Softcyr" xOffset="-4"/>
-    <component base="I" xOffset="1181"/>
+    <component base="Softcyr" xOffset="-3"/>
+    <component base="I" xOffset="1179"/>
   </outline>
   <lib>
   <dict>

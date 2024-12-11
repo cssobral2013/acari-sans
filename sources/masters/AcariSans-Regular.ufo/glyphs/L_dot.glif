@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-  <advance width="1066"/>
+  <advance width="1063"/>
   <unicode hex="013F"/>
-  <anchor x="301" y="1618" name="top"/>
+  <anchor x="299" y="1618" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered" xOffset="515" yOffset="-53"/>
+    <component base="periodcentered" xOffset="508" yOffset="-60"/>
   </outline>
   <lib>
   <dict>

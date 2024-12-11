@@ -3,38 +3,14 @@
   <advance width="853"/>
   <unicode hex="2075"/>
   <outline>
-    <contour>
-      <point x="413" y="484" type="curve" smooth="yes"/>
-      <point x="630" y="484"/>
-      <point x="868" y="669"/>
-      <point x="868" y="896" type="curve" smooth="yes"/>
-      <point x="868" y="1062"/>
-      <point x="748" y="1167"/>
-      <point x="589" y="1167" type="curve" smooth="yes"/>
-      <point x="531" y="1167"/>
-      <point x="476" y="1155"/>
-      <point x="428" y="1129" type="curve"/>
-      <point x="507" y="1283" type="line"/>
-      <point x="929" y="1283" type="line"/>
-      <point x="965" y="1462" type="line"/>
-      <point x="406" y="1462" type="line"/>
-      <point x="184" y="947" type="line"/>
-      <point x="346" y="904" type="line"/>
-      <point x="392" y="956"/>
-      <point x="470" y="992"/>
-      <point x="537" y="992" type="curve" smooth="yes"/>
-      <point x="626" y="992"/>
-      <point x="673" y="947"/>
-      <point x="673" y="881" type="curve" smooth="yes"/>
-      <point x="673" y="767"/>
-      <point x="546" y="660"/>
-      <point x="436" y="660" type="curve" smooth="yes"/>
-      <point x="333" y="660"/>
-      <point x="295" y="724"/>
-      <point x="295" y="819" type="curve"/>
-      <point x="109" y="792" type="line"/>
-      <point x="109" y="617"/>
-      <point x="232" y="484"/>
-    </contour>
+    <component base="five.dnom" xOffset="217" yOffset="936"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>five.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>five.dnom</string>
+  </dict>
+  </lib>
 </glyph>

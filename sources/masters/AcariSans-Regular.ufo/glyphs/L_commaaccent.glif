@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="1066"/>
+  <advance width="1063"/>
   <unicode hex="013B"/>
-  <anchor x="842" y="783" name="center"/>
-  <anchor x="301" y="1618" name="top"/>
+  <anchor x="836" y="780" name="center"/>
+  <anchor x="299" y="1618" name="top"/>
   <outline>
     <component base="L"/>
     <component base="commaaccentcomb" xOffset="769"/>

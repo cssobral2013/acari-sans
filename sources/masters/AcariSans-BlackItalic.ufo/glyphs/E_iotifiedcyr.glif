@@ -3,12 +3,17 @@
   <advance width="1986"/>
   <unicode hex="0464"/>
   <outline>
-    <component base="I"/>
     <contour>
       <point x="404" y="599" type="line"/>
       <point x="1470" y="599" type="line"/>
       <point x="1525" y="838" type="line"/>
       <point x="458" y="838" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="0" type="line"/>
+      <point x="682" y="1448" type="line"/>
+      <point x="392" y="1448" type="line"/>
+      <point x="59" y="0" type="line"/>
     </contour>
     <contour>
       <point x="1184.58" y="-20.48" type="curve" smooth="yes"/>
@@ -39,4 +44,5 @@
       <point x="845.632" y="-20.48"/>
     </contour>
   </outline>
+  <guideline angle="77.2604" x="1342" y="666"/>
 </glyph>

@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslashacute" format="2">
-  <advance width="1158"/>
+  <advance width="1154"/>
   <unicode hex="01FF"/>
   <outline>
     <component base="oslash"/>
-    <component base="acutecomb" xOffset="976"/>
+    <component base="acutecomb" xOffset="969"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>oslash</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>oslash</string>
   <key>com.fontlab.recipe</key>
   <string>oslash+acutecomb</string>
   <key>public.markColor</key>

@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-  <advance width="645"/>
+  <advance width="638"/>
   <unicode hex="02C7"/>
   <outline>
-    <component base="caroncomb" xOffset="645"/>
+    <contour>
+      <point x="313.66" y="1083.56" type="line"/>
+      <point x="633.99" y="1423.46" type="line"/>
+      <point x="430.05" y="1423.46" type="line"/>
+      <point x="313.66" y="1305.01" type="line"/>
+      <point x="200.36" y="1423.46" type="line"/>
+      <point x="-4.61007" y="1423.46" type="line"/>
+    </contour>
   </outline>
 </glyph>

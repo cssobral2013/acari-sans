@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igravecyr.loclBGR" format="2">
   <advance width="1211"/>
-  <anchor x="1070" y="0" name="ogonek"/>
-  <anchor x="1401" y="1064" name="horn"/>
+  <anchor x="1071" y="0" name="ogonek"/>
+  <anchor x="1419" y="1064" name="horn"/>
   <outline>
     <component base="icyr.loclBGR"/>
-    <component base="gravecomb" xOffset="734"/>
+    <component base="gravecomb" xOffset="732"/>
   </outline>
   <lib>
   <dict>

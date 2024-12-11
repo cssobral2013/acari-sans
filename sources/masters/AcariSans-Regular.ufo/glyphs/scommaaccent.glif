@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scommaaccent" format="2">
-  <advance width="913"/>
+  <advance width="914"/>
   <unicode hex="0219"/>
   <outline>
     <component base="s"/>
@@ -8,6 +8,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>s</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>s</string>
   <key>com.fontlab.recipe</key>
   <string>s+commaaccentcomb</string>
   <key>public.markColor</key>

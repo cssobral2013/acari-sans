@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ijacute.loclNLD" format="2">
+  <advance width="1152"/>
+  <anchor x="980" y="1192" name="top"/>
+  <outline>
+    <component base="iacute"/>
+    <component base="dotlessj" xOffset="578"/>
+    <component base="acutecomb" xOffset="1289"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="958" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iacute_jdotless</string>
+  </dict>
+  </lib>
+</glyph>

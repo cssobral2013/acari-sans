@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="2">
-  <advance width="1098"/>
+  <advance width="1097"/>
   <unicode hex="00E0"/>
+  <anchor x="535" y="-150" name="bottom"/>
+  <anchor x="535" y="1414" name="center"/>
+  <anchor x="989" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
-    <component base="gravecomb" xOffset="665"/>
+    <component base="gravecomb" xOffset="661"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+gravecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

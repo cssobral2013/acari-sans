@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="2">
-  <advance width="521"/>
+  <advance width="587"/>
   <unicode hex="013C"/>
-  <anchor x="630" y="783" name="center"/>
-  <anchor x="258" y="1618" name="top"/>
+  <anchor x="623" y="780" name="center"/>
+  <anchor x="257" y="1618" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentcomb" xOffset="496"/>
+    <component base="commaaccentcomb" xOffset="495"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
   <key>com.fontlab.recipe</key>
   <string>l+commaaccentcomb</string>
   <key>public.markColor</key>

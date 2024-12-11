@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="1273"/>
+  <advance width="1272"/>
   <unicode hex="0395"/>
-  <anchor x="1152" y="0" name="ogonek"/>
+  <anchor x="1153" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="1152" y="0" type="line" name=".dv01"/>
-      <point x="1152" y="191" type="line" name=".dv02"/>
-      <point x="409" y="191" type="line" name=".sh01"/>
-      <point x="409" y="634" type="line" name=".dv05"/>
-      <point x="1074" y="634" type="line" name=".sv01"/>
-      <point x="1074" y="815" type="line" name=".sv02"/>
-      <point x="409" y="815" type="line" name=".dv06"/>
-      <point x="409" y="1265" type="line" name=".dv03"/>
-      <point x="1152" y="1265" type="line"/>
-      <point x="1152" y="1448" type="line" name=".av01"/>
-      <point x="204" y="1448" type="line" name=".dv04"/>
-      <point x="204" y="0" type="line"/>
+      <point x="1153" y="0" type="line" name=".dv01"/>
+      <point x="1153" y="170" type="line" name=".dv02"/>
+      <point x="395" y="170" type="line" name=".sh01"/>
+      <point x="395" y="645" type="line" name=".dv05"/>
+      <point x="1064" y="645" type="line" name=".sv01"/>
+      <point x="1064" y="804" type="line" name=".sv02"/>
+      <point x="395" y="804" type="line" name=".dv06"/>
+      <point x="395" y="1286" type="line" name=".dv03"/>
+      <point x="1153" y="1286" type="line"/>
+      <point x="1153" y="1448" type="line" name=".av01"/>
+      <point x="211" y="1448" type="line" name=".dv04"/>
+      <point x="211" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

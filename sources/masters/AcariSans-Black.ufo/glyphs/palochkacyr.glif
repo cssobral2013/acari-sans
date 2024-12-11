@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="palochkacyr" format="2">
-  <advance width="563"/>
+  <advance width="582"/>
   <unicode hex="04CF"/>
   <outline>
     <contour>
-      <point x="421" y="0" type="line" name=".av02"/>
-      <point x="421" y="1444" type="line" name=".av01"/>
-      <point x="141" y="1444" type="line" name=".dh01"/>
-      <point x="141" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="1444" type="line"/>
+      <point x="139" y="1444" type="line"/>
+      <point x="139" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

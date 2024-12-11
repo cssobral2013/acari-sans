@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotbelow" format="2">
-  <advance width="1277"/>
+  <advance width="1278"/>
   <unicode hex="1EB8"/>
-  <anchor x="663" y="1618" name="top"/>
+  <anchor x="660" y="1618" name="top"/>
   <anchor x="1147" y="0" name="ogonek"/>
   <outline>
     <component base="E"/>
-    <component base="dotbelowcomb" xOffset="929"/>
+    <component base="dotbelowcomb" xOffset="933"/>
   </outline>
   <lib>
   <dict>

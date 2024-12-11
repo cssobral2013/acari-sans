@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ukcyr" format="2">
-  <advance width="2615"/>
+  <advance width="2609"/>
   <unicode hex="0478"/>
-  <anchor x="2096" y="1192" name="top"/>
+  <anchor x="2095" y="1192" name="top"/>
   <outline>
-    <component base="Ocyr" xOffset="-7"/>
-    <component base="ucyr" xOffset="1570"/>
+    <component base="Ocyr" xOffset="-5"/>
+    <component base="ucyr" xOffset="1571"/>
   </outline>
   <lib>
   <dict>

@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="2">
-  <advance width="1388"/>
+  <advance width="1391"/>
   <unicode hex="0102"/>
+  <anchor x="698" y="-150" name="bottom"/>
+  <anchor x="698" y="1549" name="center"/>
+  <anchor x="1397" y="0" name="ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="1105" yOffset="421"/>
+    <component base="brevecomb" xOffset="1099" yOffset="419"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorngrave" format="2">
-  <advance width="1286"/>
+  <advance width="1292"/>
   <unicode hex="1EDD"/>
   <anchor x="723" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
-    <component base="gravecomb" xOffset="724"/>
+    <component base="gravecomb" xOffset="722"/>
   </outline>
   <lib>
   <dict>

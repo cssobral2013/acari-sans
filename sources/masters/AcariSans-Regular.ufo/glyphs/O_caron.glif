@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocaron" format="2">
-  <advance width="1571"/>
+  <advance width="1572"/>
   <unicode hex="01D1"/>
   <anchor x="1546" y="1448" name="horn"/>
-  <anchor x="928" y="0" name="ogonek"/>
+  <anchor x="922" y="0" name="ogonek"/>
   <outline>
     <component base="O" xOffset="-1"/>
-    <component base="caroncomb" xOffset="1179" yOffset="426"/>
+    <component base="caroncomb" xOffset="1180" yOffset="426"/>
   </outline>
   <lib>
   <dict>

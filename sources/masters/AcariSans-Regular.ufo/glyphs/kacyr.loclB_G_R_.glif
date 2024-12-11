@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr.loclBGR" format="2">
-  <advance width="1083"/>
+  <advance width="1075"/>
   <outline>
     <contour>
-      <point x="164" y="0" type="line" name=".av02"/>
-      <point x="346" y="0" type="line" name=".sh01"/>
-      <point x="346" y="479" type="line" name=".dv01"/>
-      <point x="536" y="479" type="line" smooth="yes"/>
-      <point x="621" y="479"/>
-      <point x="665" y="427"/>
-      <point x="696" y="347" type="curve" smooth="yes"/>
-      <point x="830" y="0" type="line"/>
-      <point x="1051" y="0" type="line" name=".av01"/>
-      <point x="874" y="420" type="line" smooth="yes"/>
-      <point x="839" y="502"/>
-      <point x="783" y="589"/>
-      <point x="713" y="589" type="curve" name=".iv01"/>
-      <point x="988" y="1064" type="line" name=".iv02"/>
-      <point x="772" y="1064" type="line"/>
-      <point x="526" y="623" type="line"/>
-      <point x="346" y="623" type="line" name=".dv02"/>
-      <point x="346" y="1447" type="line" name=".av03"/>
-      <point x="164" y="1447" type="line" name=".dh01"/>
+      <point x="171" y="0" type="line" name=".av02"/>
+      <point x="337" y="0" type="line" name=".sh01"/>
+      <point x="337" y="486" type="line" name=".dv01"/>
+      <point x="540" y="486" type="line" smooth="yes"/>
+      <point x="628" y="486"/>
+      <point x="673" y="431"/>
+      <point x="704" y="351" type="curve" smooth="yes"/>
+      <point x="839" y="0" type="line"/>
+      <point x="1040" y="0" type="line" name=".av01"/>
+      <point x="865" y="416" type="line" smooth="yes"/>
+      <point x="833" y="493"/>
+      <point x="777" y="586"/>
+      <point x="703" y="586" type="curve" name=".iv01"/>
+      <point x="975" y="1064" type="line" name=".iv02"/>
+      <point x="779" y="1064" type="line"/>
+      <point x="533" y="620" type="line"/>
+      <point x="337" y="620" type="line" name=".dv02"/>
+      <point x="337" y="1447" type="line" name=".av03"/>
+      <point x="171" y="1447" type="line" name=".dh01"/>
     </contour>
   </outline>
   <lib>

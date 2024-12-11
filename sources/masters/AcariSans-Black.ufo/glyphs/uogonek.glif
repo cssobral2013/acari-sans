@@ -2,11 +2,11 @@
 <glyph name="uogonek" format="2">
   <advance width="1211"/>
   <unicode hex="0173"/>
-  <anchor x="588" y="1192" name="top"/>
-  <anchor x="1401" y="1064" name="horn"/>
+  <anchor x="586" y="1192" name="top"/>
+  <anchor x="1419" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="1205"/>
+    <component base="ogonekcomb" xOffset="1197"/>
   </outline>
   <lib>
   <dict>

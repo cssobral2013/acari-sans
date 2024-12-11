@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="decyr.loclBGR" format="2">
-  <advance width="1177"/>
+  <advance width="1167"/>
   <outline>
     <contour>
-      <point x="559" y="-440" type="curve" smooth="yes" name=".dv01"/>
-      <point x="862" y="-440"/>
-      <point x="1043" y="-276"/>
-      <point x="1043" y="0" type="curve" smooth="yes" name=".dh04"/>
-      <point x="1043" y="1039" type="line" name=".sh01"/>
-      <point x="767" y="1039" type="line" name=".sh02"/>
-      <point x="767" y="949" type="line" name=".iv01"/>
-      <point x="693" y="1033"/>
-      <point x="584" y="1059"/>
-      <point x="477" y="1059" type="curve" smooth="yes"/>
-      <point x="224" y="1059"/>
-      <point x="54" y="844"/>
-      <point x="54" y="523" type="curve" smooth="yes" name=".dh01"/>
-      <point x="54" y="212"/>
-      <point x="228" y="5"/>
-      <point x="487" y="5" type="curve" smooth="yes" name=".dv05"/>
-      <point x="592" y="5"/>
-      <point x="696" y="31"/>
-      <point x="767" y="115" type="curve" name=".iv02"/>
-      <point x="767" y="0" type="line" smooth="yes" name=".dh03"/>
-      <point x="767" y="-138"/>
-      <point x="704" y="-200"/>
-      <point x="565" y="-200" type="curve" smooth="yes" name=".dv02"/>
-      <point x="450" y="-200"/>
-      <point x="346" y="-148"/>
-      <point x="307" y="-69" type="curve"/>
-      <point x="98" y="-219" type="line"/>
-      <point x="206" y="-366"/>
-      <point x="361" y="-440"/>
+      <point x="554" y="-438" type="curve" smooth="yes"/>
+      <point x="861" y="-438"/>
+      <point x="1036" y="-270"/>
+      <point x="1036" y="0" type="curve" smooth="yes"/>
+      <point x="1036" y="1033" type="line"/>
+      <point x="754" y="1033" type="line"/>
+      <point x="754" y="946" type="line"/>
+      <point x="681" y="1029"/>
+      <point x="572" y="1053"/>
+      <point x="467" y="1053" type="curve" smooth="yes"/>
+      <point x="224" y="1053"/>
+      <point x="51" y="851"/>
+      <point x="51" y="518" type="curve" smooth="yes"/>
+      <point x="51" y="201"/>
+      <point x="227" y="6"/>
+      <point x="478" y="6" type="curve" smooth="yes"/>
+      <point x="581" y="6"/>
+      <point x="684" y="30"/>
+      <point x="754" y="113" type="curve"/>
+      <point x="754" y="0" type="line" smooth="yes"/>
+      <point x="754" y="-134"/>
+      <point x="695" y="-193"/>
+      <point x="560" y="-193" type="curve" smooth="yes"/>
+      <point x="444" y="-193"/>
+      <point x="342" y="-138"/>
+      <point x="307" y="-64" type="curve"/>
+      <point x="94" y="-217" type="line"/>
+      <point x="203" y="-366"/>
+      <point x="361" y="-438"/>
     </contour>
     <contour>
-      <point x="562" y="259" type="curve" smooth="yes" name=".dv06"/>
-      <point x="422" y="259"/>
-      <point x="331" y="366"/>
-      <point x="331" y="532" type="curve" smooth="yes" name=".dh02"/>
-      <point x="331" y="701"/>
-      <point x="422" y="810"/>
-      <point x="562" y="810" type="curve" smooth="yes" name=".dv03"/>
-      <point x="700" y="810"/>
-      <point x="790" y="700"/>
-      <point x="790" y="532" type="curve" smooth="yes" name=".sh03"/>
-      <point x="790" y="364"/>
-      <point x="702" y="259"/>
+      <point x="557" y="266" type="curve" smooth="yes"/>
+      <point x="428" y="266"/>
+      <point x="333" y="364"/>
+      <point x="333" y="529" type="curve" smooth="yes"/>
+      <point x="333" y="697"/>
+      <point x="426" y="798"/>
+      <point x="557" y="798" type="curve" smooth="yes"/>
+      <point x="685" y="798"/>
+      <point x="778" y="696"/>
+      <point x="778" y="529" type="curve" smooth="yes"/>
+      <point x="778" y="361"/>
+      <point x="686" y="266"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss01</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

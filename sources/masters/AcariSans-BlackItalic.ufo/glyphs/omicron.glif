@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
-  <advance width="1154"/>
+  <advance width="1178"/>
   <unicode hex="03BF"/>
+  <anchor x="433" y="-120" name="bottom"/>
+  <anchor x="591" y="-0" name="ogonek"/>
+  <anchor x="1398" y="1064" name="pos"/>
+  <anchor x="732" y="1192" name="top"/>
   <outline>
-    <component base="o" xOffset="-100"/>
+    <component base="o"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
+  </dict>
+  </lib>
 </glyph>

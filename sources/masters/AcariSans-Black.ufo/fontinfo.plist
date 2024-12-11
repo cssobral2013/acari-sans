@@ -50,18 +50,18 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>1468</integer>
+  <integer>-0</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-629</integer>
+  <integer>-0</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>188</integer>
+  <integer>-0</integer>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/)
 HK Grotesk is a trademark of Alfredo Marco Pradil
 Copyright (c) 2016-2021 The Perun Project Authors
-Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>openTypeNameDesigner</key>
   <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic and Greek glyphs) &amp; Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
@@ -77,9 +77,9 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredFamilyName</key>
   <string>Acari Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Black</string>
+  <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.084</string>
+  <string>Version 1.086</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -172,32 +172,15 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <array>
     <integer>-20</integer>
     <integer>0</integer>
-    <integer>1064</integer>
-    <integer>1084</integer>
-    <integer>1448</integer>
-    <integer>1468</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AcariSans-Black</string>
+  <string>AcariSans-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Acari Sans Black</string>
+  <string>Acari Sans Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptStemSnapH</key>
-  <array>
-    <integer>239</integer>
-    <integer>165</integer>
-    <integer>207</integer>
-  </array>
-  <key>postscriptStemSnapV</key>
-  <array>
-    <integer>150</integer>
-    <integer>101</integer>
-    <integer>187</integer>
-    <integer>204</integer>
-  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
@@ -209,13 +192,13 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Black</string>
+  <string>Regular</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>84</integer>
+  <integer>86</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

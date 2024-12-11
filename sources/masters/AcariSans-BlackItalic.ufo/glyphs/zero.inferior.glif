@@ -1,35 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="854"/>
+  <advance width="910"/>
   <unicode hex="2080"/>
   <outline>
-    <contour>
-      <point x="216" y="-492" type="curve" smooth="yes"/>
-      <point x="527" y="-492"/>
-      <point x="732" y="-139"/>
-      <point x="732" y="146" type="curve" smooth="yes"/>
-      <point x="732" y="348"/>
-      <point x="634" y="500"/>
-      <point x="424" y="500" type="curve" smooth="yes"/>
-      <point x="102" y="500"/>
-      <point x="-94" y="142"/>
-      <point x="-94" y="-146" type="curve" smooth="yes"/>
-      <point x="-94" y="-351"/>
-      <point x="5" y="-492"/>
-    </contour>
-    <contour>
-      <point x="236" y="-312" type="curve" smooth="yes"/>
-      <point x="132" y="-312"/>
-      <point x="91" y="-231"/>
-      <point x="91" y="-127" type="curve" smooth="yes"/>
-      <point x="91" y="42"/>
-      <point x="205" y="316"/>
-      <point x="397" y="316" type="curve" smooth="yes"/>
-      <point x="500" y="316"/>
-      <point x="538" y="236"/>
-      <point x="538" y="133" type="curve" smooth="yes"/>
-      <point x="538" y="-26"/>
-      <point x="428" y="-312"/>
-    </contour>
+    <component base="zero.dnom" xOffset="-109" yOffset="-470"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zero.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=59</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.dnom</string>
+  </dict>
+  </lib>
 </glyph>

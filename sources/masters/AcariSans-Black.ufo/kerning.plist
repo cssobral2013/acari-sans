@@ -5,11 +5,20 @@
   <key>A</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
     <key>public.kern2.W2</key>
-    <integer>-18</integer>
+    <integer>-10</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
+  </dict>
+  <key>Acyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-74</integer>
+    <key>public.kern2.W2</key>
+    <integer>-61</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-56</integer>
   </dict>
   <key>B</key>
   <dict>
@@ -20,7 +29,7 @@
     <key>public.kern2.T2</key>
     <integer>-32</integer>
     <key>public.kern2.W2</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>public.kern2.a</key>
     <integer>-27</integer>
   </dict>
@@ -30,8 +39,10 @@
     <integer>-24</integer>
     <key>Hardcyr</key>
     <integer>-24</integer>
+    <key>Tshecyr</key>
+    <integer>6</integer>
     <key>hardcyr</key>
-    <integer>-36</integer>
+    <integer>-32</integer>
     <key>question</key>
     <integer>-32</integer>
     <key>quotesingle</key>
@@ -46,64 +57,68 @@
   <key>Decyr</key>
   <dict>
     <key>Checyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>Hardcyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>Tecyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
+    <key>Tshecyr</key>
+    <integer>5</integer>
     <key>hardcyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
   </dict>
   <key>Djecyr</key>
   <dict>
     <key>public.kern2.uni040E</key>
-    <integer>-50</integer>
+    <integer>-51</integer>
   </dict>
   <key>Efcyr</key>
   <dict>
     <key>Tecyr</key>
-    <integer>-28</integer>
+    <integer>-27</integer>
+    <key>Tshecyr</key>
+    <integer>5</integer>
     <key>Yacyr</key>
     <integer>-20</integer>
     <key>comma</key>
-    <integer>-59</integer>
+    <integer>-63</integer>
     <key>period</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>slash</key>
-    <integer>-67</integer>
+    <integer>-68</integer>
     <key>public.kern2.A2</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-39</integer>
-    <key>public.kern2.uni040E</key>
-    <integer>-35</integer>
-    <key>public.kern2.uni043B</key>
     <integer>-40</integer>
+    <key>public.kern2.uni040E</key>
+    <integer>-36</integer>
+    <key>public.kern2.uni043B</key>
+    <integer>-41</integer>
   </dict>
   <key>Ercyr</key>
   <dict>
     <key>Decyr</key>
     <integer>-51</integer>
     <key>Hacyr</key>
-    <integer>-20</integer>
+    <integer>-19</integer>
     <key>Yacyr</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
     <key>Zhecyr</key>
-    <integer>-35</integer>
+    <integer>-34</integer>
     <key>comma</key>
-    <integer>-76</integer>
+    <integer>-77</integer>
     <key>period</key>
-    <integer>-59</integer>
+    <integer>-61</integer>
     <key>slash</key>
     <integer>-91</integer>
     <key>public.kern2.A2</key>
@@ -111,88 +126,96 @@
     <key>public.kern2.endash</key>
     <integer>-16</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-44</integer>
+    <integer>-45</integer>
     <key>public.kern2.uni040E</key>
     <integer>-12</integer>
   </dict>
   <key>Escyr</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.endash</key>
-    <integer>-96</integer>
+    <integer>-98</integer>
   </dict>
   <key>Eukrcyr</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.endash</key>
-    <integer>-32</integer>
+    <integer>-27</integer>
   </dict>
   <key>F</key>
   <dict>
     <key>A</key>
-    <integer>-28</integer>
+    <integer>-16</integer>
+    <key>Acyr</key>
+    <integer>-46</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-46</integer>
     <key>comma</key>
-    <integer>-86</integer>
+    <integer>-88</integer>
     <key>period</key>
-    <integer>-68</integer>
+    <integer>-70</integer>
     <key>semicolon</key>
-    <integer>-20</integer>
-    <key>public.kern2.A2</key>
-    <integer>-47</integer>
+    <integer>-19</integer>
+    <key>x</key>
+    <integer>8</integer>
     <key>public.kern2.AE</key>
-    <integer>-47</integer>
+    <integer>-46</integer>
     <key>public.kern2.J</key>
     <integer>-131</integer>
     <key>public.kern2.a</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
+    <key>public.kern2.t</key>
+    <integer>2</integer>
     <key>public.kern2.v</key>
-    <integer>-20</integer>
+    <integer>-19</integer>
+    <key>public.kern2.z</key>
+    <integer>3</integer>
   </dict>
   <key>Hacyr</key>
   <dict>
     <key>acyr</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
     <key>hardcyr</key>
     <integer>-40</integer>
     <key>tecyr</key>
     <integer>-40</integer>
     <key>public.kern2.endash</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>public.kern2.uni0435</key>
     <integer>-27</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>public.kern2.uni0443</key>
     <integer>-44</integer>
   </dict>
   <key>Jecyr</key>
   <dict>
     <key>slash</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>public.kern2.A2</key>
     <integer>-12</integer>
   </dict>
   <key>L</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
     <key>public.kern2.W2</key>
-    <integer>-18</integer>
+    <integer>-10</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
   </dict>
   <key>Ljecyr</key>
   <dict>
     <key>quotesingle</key>
-    <integer>-96</integer>
+    <integer>-100</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-106</integer>
+    <integer>-107</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-55</integer>
+    <integer>-56</integer>
     <key>public.kern2.uni0443</key>
     <integer>-27</integer>
   </dict>
@@ -201,7 +224,7 @@
     <key>public.kern2.G</key>
     <integer>-12</integer>
     <key>public.kern2.O</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
     <key>public.kern2.T2</key>
     <integer>-95</integer>
   </dict>
@@ -213,67 +236,69 @@
   <key>P</key>
   <dict>
     <key>comma</key>
-    <integer>-76</integer>
+    <integer>-77</integer>
     <key>period</key>
-    <integer>-59</integer>
+    <integer>-61</integer>
     <key>public.kern2.A2</key>
     <integer>-56</integer>
     <key>public.kern2.T2</key>
     <integer>-20</integer>
+    <key>public.kern2.Z</key>
+    <integer>1</integer>
     <key>public.kern2.endash</key>
     <integer>-16</integer>
   </dict>
   <key>Q</key>
   <dict>
     <key>public.kern2.T2</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
     <key>public.kern2.a</key>
-    <integer>-34</integer>
+    <integer>-35</integer>
   </dict>
   <key>T</key>
   <dict>
     <key>ccaron</key>
-    <integer>-46</integer>
+    <integer>-41</integer>
     <key>ecaron</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>ecircumflex</key>
-    <integer>-32</integer>
+    <integer>-23</integer>
     <key>egrave</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>emacron</key>
-    <integer>-38</integer>
+    <integer>-31</integer>
     <key>f</key>
-    <integer>-40</integer>
+    <integer>-33</integer>
     <key>i</key>
-    <integer>-22</integer>
+    <integer>-11</integer>
     <key>j</key>
-    <integer>-26</integer>
+    <integer>-16</integer>
     <key>l</key>
-    <integer>-26</integer>
+    <integer>-16</integer>
     <key>ocircumflex</key>
-    <integer>-38</integer>
+    <integer>-31</integer>
     <key>omacron</key>
-    <integer>-46</integer>
+    <integer>-41</integer>
     <key>otilde</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>partialdiff</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>ucircumflex</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
   </dict>
   <key>Tbar</key>
   <dict>
     <key>partialdiff</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
   </dict>
   <key>Tcaron</key>
   <dict>
     <key>i</key>
-    <integer>-22</integer>
+    <integer>-11</integer>
     <key>j</key>
-    <integer>-26</integer>
+    <integer>-16</integer>
     <key>partialdiff</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
   </dict>
   <key>Tecyr</key>
   <dict>
@@ -284,214 +309,218 @@
     <key>acyr</key>
     <integer>-79</integer>
     <key>colon</key>
-    <integer>-59</integer>
+    <integer>-58</integer>
     <key>comma</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>ercyr</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
     <key>hardcyr</key>
     <integer>-75</integer>
     <key>period</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>semicolon</key>
-    <integer>-86</integer>
+    <integer>-88</integer>
     <key>slash</key>
     <integer>-111</integer>
     <key>yacyr</key>
-    <integer>-73</integer>
+    <integer>-74</integer>
     <key>public.kern2.A2</key>
     <integer>-79</integer>
     <key>public.kern2.endash</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-12</integer>
+    <integer>-10</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-51</integer>
+    <integer>-52</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
     <key>public.kern2.uni0432</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-73</integer>
+    <integer>-74</integer>
     <key>public.kern2.uni043B</key>
     <integer>-79</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-73</integer>
+    <integer>-74</integer>
     <key>public.kern2.uni0443</key>
     <integer>-79</integer>
   </dict>
   <key>Tshecyr</key>
   <dict>
     <key>question</key>
-    <integer>-47</integer>
+    <integer>-46</integer>
     <key>quotesingle</key>
-    <integer>-12</integer>
+    <integer>-9</integer>
     <key>public.kern2.quoteright</key>
     <integer>-16</integer>
     <key>public.kern2.uni040E</key>
     <integer>-32</integer>
-  </dict>
-  <key>V</key>
-  <dict>
-    <key>A</key>
-    <integer>-32</integer>
-    <key>colon</key>
-    <integer>-24</integer>
-    <key>comma</key>
-    <integer>-50</integer>
-    <key>i</key>
-    <integer>-20</integer>
-    <key>j</key>
-    <integer>-24</integer>
-    <key>l</key>
-    <integer>-22</integer>
-    <key>p</key>
-    <integer>-16</integer>
-    <key>period</key>
-    <integer>-35</integer>
-    <key>semicolon</key>
-    <integer>-44</integer>
-    <key>x</key>
-    <integer>-24</integer>
   </dict>
   <key>Vecyr</key>
   <dict>
     <key>Hacyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
+    <key>Hardcyr</key>
+    <integer>1</integer>
     <key>Zhecyr</key>
     <integer>-16</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>1</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
   </dict>
   <key>X</key>
   <dict>
     <key>public.kern2.C</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>public.kern2.O</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>public.kern2.a</key>
     <integer>-27</integer>
     <key>public.kern2.endash</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.t</key>
-    <integer>-40</integer>
+    <integer>-41</integer>
     <key>public.kern2.v</key>
     <integer>-44</integer>
   </dict>
   <key>Y</key>
   <dict>
     <key>Y</key>
-    <integer>45</integer>
+    <integer>48</integer>
     <key>Yacute</key>
-    <integer>45</integer>
+    <integer>48</integer>
     <key>Ydieresis</key>
-    <integer>45</integer>
+    <integer>48</integer>
     <key>ccaron</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>ecaron</key>
-    <integer>-38</integer>
+    <integer>-31</integer>
     <key>edieresis</key>
-    <integer>-44</integer>
-    <key>egrave</key>
     <integer>-38</integer>
+    <key>egrave</key>
+    <integer>-31</integer>
     <key>emacron</key>
-    <integer>-34</integer>
+    <integer>-26</integer>
     <key>f</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>i</key>
-    <integer>-18</integer>
+    <integer>-6</integer>
     <key>j</key>
-    <integer>-22</integer>
+    <integer>-11</integer>
     <key>l</key>
-    <integer>-20</integer>
+    <integer>-8</integer>
     <key>ograve</key>
-    <integer>-44</integer>
+    <integer>-38</integer>
     <key>omacron</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>umacron</key>
-    <integer>-44</integer>
+    <integer>-38</integer>
     <key>v</key>
-    <integer>-36</integer>
+    <integer>-14</integer>
     <key>w</key>
-    <integer>-42</integer>
+    <integer>-19</integer>
     <key>y</key>
-    <integer>-36</integer>
+    <integer>-14</integer>
   </dict>
   <key>Yacute</key>
   <dict>
     <key>Y</key>
-    <integer>45</integer>
+    <integer>48</integer>
     <key>Yacute</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>Ycircumflex</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>Ydieresis</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>f</key>
-    <integer>-42</integer>
+    <integer>-36</integer>
     <key>i</key>
-    <integer>-18</integer>
+    <integer>-6</integer>
     <key>j</key>
-    <integer>-22</integer>
+    <integer>-11</integer>
     <key>l</key>
-    <integer>-20</integer>
+    <integer>-8</integer>
     <key>v</key>
-    <integer>-36</integer>
+    <integer>-14</integer>
     <key>w</key>
-    <integer>-42</integer>
+    <integer>-19</integer>
     <key>y</key>
-    <integer>-36</integer>
+    <integer>-14</integer>
   </dict>
   <key>Ycircumflex</key>
   <dict>
     <key>Ycircumflex</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>Ydieresis</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>i</key>
-    <integer>-18</integer>
+    <integer>-6</integer>
   </dict>
   <key>Ydieresis</key>
   <dict>
     <key>Yacute</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>Ycircumflex</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>Ydieresis</key>
-    <integer>55</integer>
+    <integer>59</integer>
     <key>i</key>
-    <integer>-18</integer>
+    <integer>-6</integer>
     <key>l</key>
-    <integer>-20</integer>
+    <integer>-8</integer>
     <key>ugrave</key>
-    <integer>-44</integer>
+    <integer>-38</integer>
     <key>v</key>
-    <integer>-36</integer>
+    <integer>-14</integer>
     <key>w</key>
-    <integer>-42</integer>
+    <integer>-19</integer>
+  </dict>
+  <key>Yuslittlecyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-74</integer>
+    <key>public.kern2.W2</key>
+    <integer>-61</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-56</integer>
+  </dict>
+  <key>Yuslittleiotifiedcyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>-74</integer>
+    <key>public.kern2.W2</key>
+    <integer>-61</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-56</integer>
   </dict>
   <key>Zecyr</key>
   <dict>
     <key>public.kern2.uni040E</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
+  </dict>
+  <key>acyr</key>
+  <dict>
+    <key>public.kern2.uni0443</key>
+    <integer>3</integer>
   </dict>
   <key>b</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.v</key>
     <integer>-16</integer>
   </dict>
   <key>becyr</key>
   <dict>
     <key>comma</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>hacyr</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>hardcyr</key>
     <integer>-12</integer>
     <key>public.kern2.quoteright</key>
@@ -504,49 +533,45 @@
   <key>colon</key>
   <dict>
     <key>Hardcyr</key>
-    <integer>-59</integer>
-    <key>Tecyr</key>
-    <integer>-59</integer>
-    <key>Tshecyr</key>
-    <integer>-59</integer>
+    <integer>-58</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-58</integer>
   </dict>
   <key>comma</key>
   <dict>
     <key>Checyr</key>
-    <integer>-86</integer>
+    <integer>-85</integer>
     <key>Efcyr</key>
-    <integer>-36</integer>
+    <integer>-37</integer>
     <key>Hardcyr</key>
     <integer>-28</integer>
-    <key>Tecyr</key>
-    <integer>-35</integer>
-    <key>Tshecyr</key>
-    <integer>-35</integer>
     <key>checyr</key>
-    <integer>-79</integer>
+    <integer>-80</integer>
     <key>hardcyr</key>
     <integer>-20</integer>
     <key>tecyr</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-36</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-33</integer>
+    <integer>-32</integer>
   </dict>
   <key>decyr</key>
   <dict>
     <key>checyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>hardcyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>tecyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
   </dict>
   <key>djecyr</key>
   <dict>
@@ -556,20 +581,28 @@
   <key>efcyr</key>
   <dict>
     <key>comma</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
+    <key>quotesingle</key>
+    <integer>1</integer>
+    <key>tecyr</key>
+    <integer>1</integer>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
   </dict>
   <key>ercyr</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>hacyr</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>zhecyr</key>
     <integer>-16</integer>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
     <key>public.kern2.uni043B</key>
     <integer>-16</integer>
     <key>public.kern2.uni0443</key>
@@ -578,101 +611,139 @@
   <key>f</key>
   <dict>
     <key>comma</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>period</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
+  </dict>
+  <key>f_f</key>
+  <dict>
+    <key>comma</key>
+    <integer>6</integer>
+  </dict>
+  <key>guillemotleft</key>
+  <dict>
+    <key>Hardcyr</key>
+    <integer>-44</integer>
+    <key>Yacyr</key>
+    <integer>-13</integer>
+    <key>public.kern2.T2</key>
+    <integer>-51</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-51</integer>
+    <key>public.kern2.W2</key>
+    <integer>-23</integer>
+    <key>public.kern2.uni040E</key>
+    <integer>-30</integer>
+  </dict>
+  <key>guilsinglleft</key>
+  <dict>
+    <key>Hardcyr</key>
+    <integer>-41</integer>
+    <key>Yacyr</key>
+    <integer>-13</integer>
+    <key>public.kern2.T2</key>
+    <integer>-51</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-51</integer>
+    <key>public.kern2.W2</key>
+    <integer>-22</integer>
+    <key>public.kern2.uni040E</key>
+    <integer>-30</integer>
   </dict>
   <key>hacyr</key>
   <dict>
     <key>public.kern2.endash</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
   </dict>
   <key>ljecyr</key>
   <dict>
     <key>question</key>
     <integer>-51</integer>
     <key>quotesingle</key>
-    <integer>-88</integer>
+    <integer>-89</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-98</integer>
+    <integer>-99</integer>
     <key>public.kern2.uni0443</key>
     <integer>-32</integer>
   </dict>
   <key>njecyr</key>
   <dict>
     <key>public.kern2.uni0443</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
+  </dict>
+  <key>ocyr</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
   </dict>
   <key>p</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.v</key>
     <integer>-16</integer>
   </dict>
   <key>parenleft</key>
   <dict>
     <key>checyr</key>
-    <integer>-40</integer>
+    <integer>-42</integer>
     <key>hardcyr</key>
-    <integer>-40</integer>
+    <integer>-42</integer>
     <key>tecyr</key>
-    <integer>-40</integer>
+    <integer>-42</integer>
     <key>public.kern2.J</key>
-    <integer>-39</integer>
+    <integer>-41</integer>
     <key>public.kern2.a</key>
-    <integer>-32</integer>
+    <integer>-31</integer>
   </dict>
   <key>period</key>
   <dict>
     <key>Checyr</key>
-    <integer>-86</integer>
+    <integer>-88</integer>
     <key>Efcyr</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>Hardcyr</key>
     <integer>-21</integer>
-    <key>Tecyr</key>
-    <integer>-28</integer>
-    <key>Tshecyr</key>
-    <integer>-28</integer>
     <key>checyr</key>
-    <integer>-63</integer>
+    <integer>-62</integer>
     <key>hardcyr</key>
     <integer>-15</integer>
     <key>tecyr</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>public.kern2.T2</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-30</integer>
     <key>public.kern2.W2</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-26</integer>
+    <integer>-25</integer>
   </dict>
   <key>question</key>
   <dict>
     <key>Jecyr</key>
-    <integer>-51</integer>
+    <integer>-50</integer>
     <key>Zhecyr</key>
-    <integer>-32</integer>
+    <integer>-31</integer>
     <key>public.kern2.A2</key>
-    <integer>-47</integer>
+    <integer>-46</integer>
     <key>public.kern2.uni0409</key>
     <integer>-44</integer>
   </dict>
   <key>questiondown</key>
   <dict>
-    <key>Tecyr</key>
-    <integer>-128</integer>
-    <key>Tshecyr</key>
-    <integer>-128</integer>
+    <key>Hardcyr</key>
+    <integer>31</integer>
     <key>public.kern2.T2</key>
-    <integer>-128</integer>
+    <integer>-130</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-130</integer>
     <key>public.kern2.uni0404</key>
     <integer>-55</integer>
     <key>public.kern2.uni041E</key>
@@ -684,19 +755,19 @@
     <key>public.kern2.uni0441</key>
     <integer>-59</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-51</integer>
+    <integer>-50</integer>
   </dict>
   <key>quotedblleft</key>
   <dict>
     <key>A</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
   </dict>
   <key>quoteright</key>
   <dict>
     <key>i</key>
-    <integer>-28</integer>
+    <integer>-27</integer>
     <key>l</key>
-    <integer>-30</integer>
+    <integer>-29</integer>
     <key>public.kern2.a</key>
     <integer>-32</integer>
     <key>public.kern2.g.ss01</key>
@@ -705,28 +776,32 @@
   <key>quotesingle</key>
   <dict>
     <key>Decyr</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>Jecyr</key>
-    <integer>-106</integer>
+    <integer>-107</integer>
     <key>decyr</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
+    <key>efcyr</key>
+    <integer>3</integer>
     <key>public.kern2.A2</key>
-    <integer>-50</integer>
+    <integer>-51</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-28</integer>
+    <integer>-31</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
     <key>public.kern2.uni043E</key>
     <integer>-10</integer>
+    <key>public.kern2.uni0441</key>
+    <integer>3</integer>
   </dict>
   <key>r</key>
   <dict>
     <key>f</key>
-    <integer>40</integer>
+    <integer>44</integer>
     <key>public.kern2.a</key>
-    <integer>-8</integer>
+    <integer>-4</integer>
     <key>public.kern2.g.ss01</key>
     <integer>-8</integer>
   </dict>
@@ -734,15 +809,13 @@
   <dict>
     <key>Hardcyr</key>
     <integer>-71</integer>
-    <key>Tecyr</key>
-    <integer>-75</integer>
-    <key>Tshecyr</key>
-    <integer>-75</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-76</integer>
   </dict>
   <key>slash</key>
   <dict>
     <key>Decyr</key>
-    <integer>-59</integer>
+    <integer>-58</integer>
     <key>Jecyr</key>
     <integer>-75</integer>
     <key>acyr</key>
@@ -750,15 +823,15 @@
     <key>becyr</key>
     <integer>-35</integer>
     <key>decyr</key>
-    <integer>-83</integer>
+    <integer>-84</integer>
     <key>efcyr</key>
     <integer>-55</integer>
     <key>ercyr</key>
-    <integer>-24</integer>
+    <integer>-23</integer>
     <key>ereversedcyr</key>
-    <integer>-47</integer>
+    <integer>-46</integer>
     <key>shchacyr</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>tsecyr</key>
     <integer>-28</integer>
     <key>yacyr</key>
@@ -768,13 +841,13 @@
     <key>zhecyr</key>
     <integer>-43</integer>
     <key>public.kern2.A2</key>
-    <integer>-86</integer>
+    <integer>-88</integer>
     <key>public.kern2.uni0409</key>
     <integer>-63</integer>
     <key>public.kern2.uni0432</key>
     <integer>-28</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-55</integer>
+    <integer>-54</integer>
     <key>public.kern2.uni043B</key>
     <integer>-87</integer>
     <key>public.kern2.uni043E</key>
@@ -782,22 +855,28 @@
     <key>public.kern2.uni0441</key>
     <integer>-55</integer>
     <key>public.kern2.yucyr</key>
-    <integer>-24</integer>
+    <integer>-23</integer>
   </dict>
   <key>tecyr</key>
   <dict>
     <key>comma</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
     <key>decyr</key>
-    <integer>-44</integer>
+    <integer>-45</integer>
     <key>period</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>slash</key>
     <integer>-87</integer>
     <key>public.kern2.endash</key>
-    <integer>-20</integer>
+    <integer>-22</integer>
+    <key>public.kern2.uni0435</key>
+    <integer>2</integer>
     <key>public.kern2.uni043B</key>
     <integer>-44</integer>
+    <key>public.kern2.uni043E</key>
+    <integer>2</integer>
+    <key>public.kern2.uni0441</key>
+    <integer>2</integer>
   </dict>
   <key>tshecyr</key>
   <dict>
@@ -807,18 +886,20 @@
   <key>v</key>
   <dict>
     <key>comma</key>
-    <integer>-46</integer>
+    <integer>-49</integer>
     <key>period</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>public.kern2.a</key>
     <integer>-12</integer>
   </dict>
   <key>vecyr</key>
   <dict>
     <key>comma</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
     <key>question</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
+    <key>quotesingle</key>
+    <integer>21</integer>
     <key>slash</key>
     <integer>-39</integer>
     <key>public.kern2.uni0443</key>
@@ -827,53 +908,55 @@
   <key>x</key>
   <dict>
     <key>public.kern2.a</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.endash</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
   </dict>
   <key>yucyr</key>
   <dict>
     <key>comma</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>hacyr</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
+    <key>quotesingle</key>
+    <integer>3</integer>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
   </dict>
   <key>zecyr</key>
   <dict>
     <key>question</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
     <key>slash</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
   </dict>
   <key>zhecyr</key>
   <dict>
     <key>public.kern2.endash</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-12</integer>
+    <integer>-10</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
   </dict>
   <key>public.kern1.A</key>
   <dict>
     <key>Checyr</key>
     <integer>-51</integer>
     <key>Djecyr</key>
-    <integer>-75</integer>
+    <integer>-74</integer>
     <key>Efcyr</key>
     <integer>-32</integer>
+    <key>Hardcyr</key>
+    <integer>20</integer>
     <key>Jecyr</key>
     <integer>-16</integer>
-    <key>Tecyr</key>
-    <integer>-75</integer>
-    <key>Tshecyr</key>
-    <integer>-75</integer>
     <key>becyr</key>
     <integer>-16</integer>
     <key>question</key>
     <integer>-51</integer>
     <key>quotesingle</key>
-    <integer>-50</integer>
+    <integer>-51</integer>
     <key>tecyr</key>
     <integer>-51</integer>
     <key>public.kern2.C</key>
@@ -881,19 +964,15 @@
     <key>public.kern2.G</key>
     <integer>-27</integer>
     <key>public.kern2.O</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
     <key>public.kern2.Oslash</key>
-    <integer>-12</integer>
-    <key>public.kern2.T2</key>
-    <integer>-75</integer>
+    <integer>-11</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-74</integer>
     <key>public.kern2.U</key>
     <integer>-16</integer>
-    <key>public.kern2.W2</key>
-    <integer>-59</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-55</integer>
     <key>public.kern2.t</key>
-    <integer>-34</integer>
+    <integer>-35</integer>
     <key>public.kern2.uni0404</key>
     <integer>-27</integer>
     <key>public.kern2.uni040E</key>
@@ -903,31 +982,43 @@
     <key>public.kern2.uni0441</key>
     <integer>-16</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-48</integer>
+    <integer>-49</integer>
     <key>public.kern2.v</key>
-    <integer>-48</integer>
+    <integer>-49</integer>
+  </dict>
+  <key>public.kern1.AE1</key>
+  <dict>
+    <key>public.kern2.t</key>
+    <integer>6</integer>
   </dict>
   <key>public.kern1.D</key>
   <dict>
     <key>comma</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>public.kern2.A2</key>
     <integer>-27</integer>
     <key>public.kern2.AE</key>
-    <integer>-27</integer>
+    <integer>-28</integer>
     <key>public.kern2.T2</key>
     <integer>-39</integer>
     <key>public.kern2.W2</key>
     <integer>-20</integer>
     <key>public.kern2.Z</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
+  </dict>
+  <key>public.kern1.E</key>
+  <dict>
+    <key>public.kern2.t</key>
+    <integer>2</integer>
+    <key>public.kern2.v</key>
+    <integer>4</integer>
   </dict>
   <key>public.kern1.G1</key>
   <dict>
     <key>public.kern2.T2</key>
     <integer>-36</integer>
     <key>public.kern2.W2</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
   </dict>
   <key>public.kern1.J1</key>
   <dict>
@@ -939,34 +1030,34 @@
   <key>public.kern1.K</key>
   <dict>
     <key>public.kern2.C</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.G</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.O</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.Oslash</key>
-    <integer>-20</integer>
+    <integer>-19</integer>
     <key>public.kern2.a</key>
     <integer>-27</integer>
     <key>public.kern2.endash</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.t</key>
-    <integer>-39</integer>
+    <integer>-38</integer>
     <key>public.kern2.v</key>
-    <integer>-63</integer>
+    <integer>-62</integer>
   </dict>
   <key>public.kern1.O1</key>
   <dict>
     <key>X</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>comma</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>public.kern2.A2</key>
     <integer>-28</integer>
     <key>public.kern2.T2</key>
     <integer>-12</integer>
     <key>public.kern2.W2</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>public.kern2.Z</key>
     <integer>-20</integer>
   </dict>
@@ -986,36 +1077,36 @@
     <key>public.kern2.Oslash</key>
     <integer>-16</integer>
     <key>public.kern2.T2</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>public.kern2.U</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.W2</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>public.kern2.a</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>public.kern2.endash</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-15</integer>
-    <key>public.kern2.t</key>
-    <integer>-12</integer>
-    <key>public.kern2.v</key>
     <integer>-16</integer>
+    <key>public.kern2.t</key>
+    <integer>-13</integer>
+    <key>public.kern2.v</key>
+    <integer>-17</integer>
   </dict>
   <key>public.kern1.S1</key>
   <dict>
     <key>x</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.A2</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>public.kern2.AE</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>public.kern2.W2</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
     <key>public.kern2.a</key>
     <integer>-28</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
     <key>public.kern2.t</key>
     <integer>-24</integer>
     <key>public.kern2.v</key>
@@ -1024,45 +1115,47 @@
   <key>public.kern1.T</key>
   <dict>
     <key>A</key>
-    <integer>-36</integer>
+    <integer>-20</integer>
+    <key>Acyr</key>
+    <integer>-79</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-79</integer>
     <key>colon</key>
-    <integer>-59</integer>
+    <integer>-58</integer>
     <key>comma</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>lslash</key>
     <integer>-16</integer>
     <key>p</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
     <key>period</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>semicolon</key>
-    <integer>-86</integer>
+    <integer>-88</integer>
     <key>x</key>
-    <integer>-79</integer>
-    <key>public.kern2.A2</key>
     <integer>-79</integer>
     <key>public.kern2.AE</key>
     <integer>-79</integer>
     <key>public.kern2.C</key>
     <integer>-39</integer>
     <key>public.kern2.G</key>
-    <integer>-43</integer>
+    <integer>-44</integer>
     <key>public.kern2.J</key>
     <integer>-79</integer>
     <key>public.kern2.O</key>
-    <integer>-43</integer>
+    <integer>-44</integer>
     <key>public.kern2.Oslash</key>
-    <integer>-12</integer>
+    <integer>-10</integer>
     <key>public.kern2.S</key>
     <integer>-35</integer>
     <key>public.kern2.a</key>
-    <integer>-73</integer>
+    <integer>-74</integer>
     <key>public.kern2.endash</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.i</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
     <key>public.kern2.t</key>
     <integer>-32</integer>
     <key>public.kern2.v</key>
@@ -1073,28 +1166,38 @@
   <key>public.kern1.U1</key>
   <dict>
     <key>comma</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.A2</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
   </dict>
   <key>public.kern1.V</key>
   <dict>
+    <key>A</key>
+    <integer>-19</integer>
+    <key>Acyr</key>
+    <integer>-77</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-77</integer>
     <key>colon</key>
-    <integer>-24</integer>
+    <integer>-15</integer>
     <key>comma</key>
-    <integer>-50</integer>
-    <key>p</key>
-    <integer>-16</integer>
-    <key>period</key>
     <integer>-35</integer>
+    <key>i</key>
+    <integer>-14</integer>
+    <key>j</key>
+    <integer>-19</integer>
+    <key>l</key>
+    <integer>-17</integer>
+    <key>p</key>
+    <integer>-10</integer>
+    <key>period</key>
+    <integer>-25</integer>
     <key>semicolon</key>
-    <integer>-44</integer>
+    <integer>-28</integer>
     <key>x</key>
-    <integer>-24</integer>
-    <key>public.kern2.A2</key>
-    <integer>-76</integer>
+    <integer>-18</integer>
     <key>public.kern2.AE</key>
-    <integer>-76</integer>
+    <integer>-80</integer>
     <key>public.kern2.C</key>
     <integer>-27</integer>
     <key>public.kern2.G</key>
@@ -1108,50 +1211,52 @@
     <key>public.kern2.a</key>
     <integer>-43</integer>
     <key>public.kern2.endash</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>public.kern2.i</key>
     <integer>-16</integer>
     <key>public.kern2.t</key>
     <integer>-16</integer>
     <key>public.kern2.v</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.z</key>
-    <integer>-27</integer>
+    <integer>-28</integer>
   </dict>
   <key>public.kern1.W</key>
   <dict>
     <key>A</key>
-    <integer>-18</integer>
+    <integer>-10</integer>
+    <key>Acyr</key>
+    <integer>-61</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-61</integer>
     <key>colon</key>
     <integer>-16</integer>
     <key>comma</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>p</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>period</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>semicolon</key>
     <integer>-36</integer>
     <key>x</key>
     <integer>-16</integer>
-    <key>public.kern2.A2</key>
-    <integer>-59</integer>
     <key>public.kern2.C</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.O</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.S</key>
     <integer>-24</integer>
     <key>public.kern2.a</key>
     <integer>-35</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.i</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>public.kern2.t</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>public.kern2.v</key>
     <integer>-16</integer>
     <key>public.kern2.z</key>
@@ -1166,89 +1271,85 @@
     <key>public.kern2.O</key>
     <integer>-16</integer>
     <key>public.kern2.endash</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>public.kern2.t</key>
     <integer>-16</integer>
     <key>public.kern2.v</key>
-    <integer>-20</integer>
+    <integer>-19</integer>
+  </dict>
+  <key>public.kern1.a11</key>
+  <dict>
+    <key>public.kern2.v</key>
+    <integer>3</integer>
   </dict>
   <key>public.kern1.e1</key>
   <dict>
     <key>x</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
   </dict>
   <key>public.kern1.endash1</key>
   <dict>
     <key>Ereversedcyr</key>
-    <integer>-32</integer>
+    <integer>-27</integer>
     <key>Hacyr</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>Hardcyr</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>Jecyr</key>
-    <integer>-36</integer>
-    <key>Tecyr</key>
-    <integer>-21</integer>
-    <key>Tshecyr</key>
-    <integer>-21</integer>
+    <integer>-32</integer>
     <key>X</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>Yacyr</key>
-    <integer>-9</integer>
-    <key>Zecyr</key>
-    <integer>-42</integer>
-    <key>decyr</key>
     <integer>-10</integer>
+    <key>Zecyr</key>
+    <integer>-43</integer>
+    <key>decyr</key>
+    <integer>-11</integer>
     <key>hacyr</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>hardcyr</key>
     <integer>-10</integer>
     <key>tecyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>x</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>zhecyr</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
     <key>public.kern2.T2</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-22</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
   </dict>
-  <key>public.kern1.guillemotleft</key>
+  <key>public.kern1.f</key>
   <dict>
-    <key>Hardcyr</key>
-    <integer>-42</integer>
-    <key>Tecyr</key>
-    <integer>-50</integer>
-    <key>Tshecyr</key>
-    <integer>-50</integer>
-    <key>Yacyr</key>
-    <integer>-12</integer>
-    <key>public.kern2.T2</key>
-    <integer>-50</integer>
-    <key>public.kern2.W2</key>
-    <integer>-21</integer>
-    <key>public.kern2.uni040E</key>
-    <integer>-28</integer>
+    <key>question</key>
+    <integer>1</integer>
+  </dict>
+  <key>public.kern1.g1</key>
+  <dict>
+    <key>public.kern2.a</key>
+    <integer>3</integer>
   </dict>
   <key>public.kern1.h1</key>
   <dict>
     <key>public.kern2.v</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
   </dict>
   <key>public.kern1.i1</key>
   <dict>
     <key>public.kern2.uni0432</key>
-    <integer>100</integer>
+    <integer>110</integer>
   </dict>
   <key>public.kern1.k</key>
   <dict>
     <key>public.kern2.a</key>
-    <integer>-27</integer>
+    <integer>-28</integer>
     <key>public.kern2.endash</key>
-    <integer>-26</integer>
+    <integer>-29</integer>
   </dict>
   <key>public.kern1.l1</key>
   <dict>
@@ -1260,101 +1361,112 @@
   <key>public.kern1.n</key>
   <dict>
     <key>public.kern2.v</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
   </dict>
   <key>public.kern1.o1</key>
   <dict>
     <key>comma</key>
     <integer>-15</integer>
+    <key>quotesingle</key>
+    <integer>3</integer>
     <key>x</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.a</key>
-    <integer>-33</integer>
+    <integer>-32</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>3</integer>
     <key>public.kern2.v</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
   </dict>
   <key>public.kern1.oslash1</key>
   <dict>
     <key>public.kern2.a</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
     <key>public.kern2.v</key>
     <integer>-16</integer>
   </dict>
   <key>public.kern1.quotedblbase1</key>
   <dict>
     <key>Checyr</key>
-    <integer>-96</integer>
+    <integer>-98</integer>
     <key>Efcyr</key>
     <integer>-36</integer>
     <key>Hardcyr</key>
-    <integer>-28</integer>
-    <key>Tecyr</key>
-    <integer>-35</integer>
-    <key>Tshecyr</key>
-    <integer>-35</integer>
+    <integer>-26</integer>
     <key>checyr</key>
-    <integer>-79</integer>
+    <integer>-80</integer>
     <key>hardcyr</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>tecyr</key>
-    <integer>-33</integer>
+    <integer>-32</integer>
     <key>public.kern2.C</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.G</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.O</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.T2</key>
     <integer>-35</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-35</integer>
     <key>public.kern2.W2</key>
-    <integer>-28</integer>
+    <integer>-30</integer>
     <key>public.kern2.t</key>
     <integer>-15</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni040E</key>
     <integer>-9</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-33</integer>
+    <integer>-32</integer>
     <key>public.kern2.v</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
   </dict>
   <key>public.kern1.quoteleft1</key>
   <dict>
     <key>Decyr</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>Jecyr</key>
-    <integer>-117</integer>
+    <integer>-121</integer>
     <key>Yacyr</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
     <key>decyr</key>
-    <integer>-33</integer>
+    <integer>-36</integer>
+    <key>efcyr</key>
+    <integer>1</integer>
     <key>public.kern2.A2</key>
-    <integer>-59</integer>
+    <integer>-61</integer>
     <key>public.kern2.J</key>
-    <integer>-117</integer>
+    <integer>-121</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-35</integer>
+    <integer>-38</integer>
+    <key>public.kern2.uni0435</key>
+    <integer>3</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
   </dict>
   <key>public.kern1.r</key>
   <dict>
     <key>comma</key>
-    <integer>-54</integer>
+    <integer>-55</integer>
     <key>period</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
     <key>public.kern2.a</key>
     <integer>-20</integer>
     <key>public.kern2.endash</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
   </dict>
   <key>public.kern1.t1</key>
   <dict>
     <key>public.kern2.endash</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
+  </dict>
+  <key>public.kern1.uni04001</key>
+  <dict>
+    <key>tecyr</key>
+    <integer>15</integer>
   </dict>
   <key>public.kern1.uni0403</key>
   <dict>
@@ -1363,119 +1475,119 @@
     <key>acyr</key>
     <integer>-107</integer>
     <key>colon</key>
-    <integer>-86</integer>
+    <integer>-85</integer>
     <key>comma</key>
-    <integer>-59</integer>
+    <integer>-58</integer>
     <key>decyr</key>
-    <integer>-103</integer>
+    <integer>-102</integer>
     <key>ercyr</key>
-    <integer>-82</integer>
+    <integer>-83</integer>
     <key>hardcyr</key>
-    <integer>-103</integer>
+    <integer>-102</integer>
     <key>period</key>
-    <integer>-50</integer>
+    <integer>-51</integer>
     <key>semicolon</key>
-    <integer>-117</integer>
+    <integer>-119</integer>
     <key>slash</key>
     <integer>-115</integer>
     <key>public.kern2.A2</key>
     <integer>-83</integer>
     <key>public.kern2.endash</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-68</integer>
+    <integer>-67</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-51</integer>
+    <integer>-52</integer>
     <key>public.kern2.uni041E</key>
     <integer>-16</integer>
     <key>public.kern2.uni0432</key>
-    <integer>-82</integer>
+    <integer>-83</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-102</integer>
+    <integer>-103</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-107</integer>
+    <integer>-106</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-102</integer>
+    <integer>-103</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-107</integer>
+    <integer>-106</integer>
   </dict>
   <key>public.kern1.uni040C</key>
   <dict>
     <key>hardcyr</key>
-    <integer>-40</integer>
+    <integer>-37</integer>
     <key>question</key>
     <integer>-35</integer>
     <key>tecyr</key>
-    <integer>-56</integer>
+    <integer>-55</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-32</integer>
+    <integer>-35</integer>
     <key>public.kern2.uni0404</key>
     <integer>-28</integer>
     <key>public.kern2.uni041E</key>
     <integer>-28</integer>
     <key>public.kern2.uni0435</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
     <key>public.kern2.uni043E</key>
     <integer>-20</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
   </dict>
   <key>public.kern1.uni040E1</key>
   <dict>
     <key>Decyr</key>
     <integer>-51</integer>
     <key>Efcyr</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>Jecyr</key>
     <integer>-71</integer>
     <key>Yacyr</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
     <key>becyr</key>
     <integer>-27</integer>
     <key>checyr</key>
     <integer>-20</integer>
     <key>colon</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
     <key>comma</key>
-    <integer>-59</integer>
+    <integer>-61</integer>
     <key>decyr</key>
-    <integer>-75</integer>
+    <integer>-76</integer>
     <key>ercyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>hacyr</key>
     <integer>-24</integer>
     <key>period</key>
-    <integer>-42</integer>
+    <integer>-43</integer>
     <key>semicolon</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>slash</key>
-    <integer>-106</integer>
+    <integer>-107</integer>
     <key>tecyr</key>
     <integer>-20</integer>
     <key>yacyr</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>zecyr</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>public.kern2.A2</key>
-    <integer>-76</integer>
+    <integer>-77</integer>
     <key>public.kern2.endash</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>public.kern2.guillemotright</key>
-    <integer>-35</integer>
+    <integer>-36</integer>
     <key>public.kern2.uni0404</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-56</integer>
+    <integer>-57</integer>
     <key>public.kern2.uni041E</key>
-    <integer>-32</integer>
+    <integer>-33</integer>
     <key>public.kern2.uni0432</key>
     <integer>-20</integer>
     <key>public.kern2.uni043B</key>
     <integer>-79</integer>
     <key>public.kern2.uni043E</key>
-    <integer>-51</integer>
+    <integer>-52</integer>
     <key>public.kern2.uni0441</key>
-    <integer>-51</integer>
+    <integer>-52</integer>
   </dict>
   <key>public.kern1.uni041E1</key>
   <dict>
@@ -1484,34 +1596,36 @@
     <key>Djecyr</key>
     <integer>-12</integer>
     <key>Hacyr</key>
-    <integer>-35</integer>
-    <key>Tecyr</key>
-    <integer>-12</integer>
-    <key>Tshecyr</key>
-    <integer>-12</integer>
+    <integer>-36</integer>
+    <key>Hardcyr</key>
+    <integer>3</integer>
     <key>Yacyr</key>
-    <integer>-20</integer>
-    <key>Zhecyr</key>
-    <integer>-35</integer>
-    <key>comma</key>
     <integer>-21</integer>
+    <key>Zhecyr</key>
+    <integer>-38</integer>
+    <key>comma</key>
+    <integer>-22</integer>
     <key>decyr</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
     <key>slash</key>
-    <integer>-63</integer>
+    <integer>-64</integer>
     <key>public.kern2.A2</key>
     <integer>-28</integer>
+    <key>public.kern2.Tecyr</key>
+    <integer>-12</integer>
     <key>public.kern2.uni0409</key>
-    <integer>-27</integer>
+    <integer>-28</integer>
     <key>public.kern2.uni040E</key>
-    <integer>-32</integer>
+    <integer>-35</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-27</integer>
+    <integer>-28</integer>
   </dict>
   <key>public.kern1.uni04261</key>
   <dict>
     <key>Tecyr</key>
     <integer>-16</integer>
+    <key>Tshecyr</key>
+    <integer>2</integer>
     <key>public.kern2.uni040E</key>
     <integer>-20</integer>
     <key>public.kern2.uni0443</key>
@@ -1520,35 +1634,41 @@
   <key>public.kern1.uni042A</key>
   <dict>
     <key>Hacyr</key>
-    <integer>-32</integer>
+    <integer>-34</integer>
     <key>Tecyr</key>
-    <integer>-75</integer>
+    <integer>-74</integer>
+    <key>Tshecyr</key>
+    <integer>8</integer>
     <key>Zhecyr</key>
-    <integer>-24</integer>
+    <integer>-26</integer>
     <key>quotesingle</key>
-    <integer>-24</integer>
+    <integer>-8</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-24</integer>
+    <integer>-19</integer>
   </dict>
   <key>public.kern1.uni0433</key>
   <dict>
     <key>comma</key>
-    <integer>-46</integer>
+    <integer>-45</integer>
     <key>decyr</key>
-    <integer>-44</integer>
+    <integer>-45</integer>
     <key>period</key>
-    <integer>-33</integer>
+    <integer>-34</integer>
     <key>slash</key>
     <integer>-91</integer>
     <key>public.kern2.endash</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
+    <key>public.kern2.uni0435</key>
+    <integer>2</integer>
     <key>public.kern2.uni043B</key>
     <integer>-44</integer>
+    <key>public.kern2.uni043E</key>
+    <integer>2</integer>
   </dict>
   <key>public.kern1.uni043A</key>
   <dict>
     <key>public.kern2.endash</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
     <key>public.kern2.uni0435</key>
     <integer>-16</integer>
     <key>public.kern2.uni043E</key>
@@ -1561,28 +1681,32 @@
     <key>comma</key>
     <integer>-15</integer>
     <key>hacyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
+    <key>quotesingle</key>
+    <integer>3</integer>
     <key>zhecyr</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>3</integer>
     <key>public.kern2.uni043B</key>
-    <integer>-12</integer>
+    <integer>-10</integer>
     <key>public.kern2.uni0443</key>
-    <integer>-16</integer>
+    <integer>-15</integer>
   </dict>
   <key>public.kern1.uni04431</key>
   <dict>
     <key>acyr</key>
     <integer>-12</integer>
     <key>comma</key>
-    <integer>-39</integer>
+    <integer>-38</integer>
     <key>decyr</key>
-    <integer>-44</integer>
+    <integer>-45</integer>
     <key>efcyr</key>
     <integer>-16</integer>
     <key>period</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>slash</key>
-    <integer>-88</integer>
+    <integer>-89</integer>
     <key>yacyr</key>
     <integer>-12</integer>
     <key>public.kern2.uni0435</key>
@@ -1597,9 +1721,9 @@
   <key>public.kern1.uni0446</key>
   <dict>
     <key>tecyr</key>
-    <integer>-24</integer>
+    <integer>-25</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-15</integer>
+    <integer>-16</integer>
   </dict>
   <key>public.kern1.uni044A</key>
   <dict>
@@ -1608,27 +1732,38 @@
     <key>question</key>
     <integer>-51</integer>
     <key>quotesingle</key>
-    <integer>-79</integer>
+    <integer>-80</integer>
     <key>tecyr</key>
-    <integer>-56</integer>
+    <integer>-55</integer>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-88</integer>
+    <integer>-89</integer>
+  </dict>
+  <key>public.kern1.uni0467</key>
+  <dict>
+    <key>public.kern2.T2</key>
+    <integer>4</integer>
   </dict>
   <key>public.kern1.w1</key>
   <dict>
     <key>comma</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
+    <key>lslash</key>
+    <integer>3</integer>
     <key>period</key>
-    <integer>-20</integer>
+    <integer>-21</integer>
+    <key>public.kern2.a</key>
+    <integer>3</integer>
   </dict>
   <key>public.kern1.y1</key>
   <dict>
     <key>comma</key>
-    <integer>-39</integer>
+    <integer>-38</integer>
     <key>lslash</key>
-    <integer>-12</integer>
+    <integer>-11</integer>
     <key>period</key>
-    <integer>-26</integer>
+    <integer>-27</integer>
     <key>public.kern2.a</key>
     <integer>-12</integer>
   </dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="2">
-  <advance width="1750"/>
+  <advance width="1745"/>
   <unicode hex="0132"/>
-  <anchor x="393" y="0" name="ogonek"/>
-  <anchor x="1477" y="1618" name="top"/>
+  <anchor x="384" y="0" name="ogonek"/>
+  <anchor x="1472" y="1618" name="top"/>
   <outline>
-    <component base="I" xOffset="-2"/>
-    <component base="J" xOffset="604"/>
+    <component base="I" xOffset="-1"/>
+    <component base="J" xOffset="599"/>
   </outline>
   <lib>
   <dict>

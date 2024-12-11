@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="521"/>
+  <advance width="587"/>
   <unicode hex="013A"/>
-  <anchor x="630" y="783" name="center"/>
+  <anchor x="623" y="780" name="center"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb" xOffset="660" yOffset="426"/>
+    <component base="acutecomb" xOffset="656" yOffset="426"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
   <key>com.fontlab.recipe</key>
   <string>l+acutecomb</string>
   <key>public.markColor</key>

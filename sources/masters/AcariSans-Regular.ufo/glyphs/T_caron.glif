@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-  <advance width="1260"/>
+  <advance width="1266"/>
   <unicode hex="0164"/>
-  <anchor x="612" y="0" name="cedilla"/>
+  <anchor x="616" y="0" name="cedilla"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb" xOffset="1025" yOffset="384"/>
+    <component base="caroncomb" xOffset="1028" yOffset="384"/>
   </outline>
   <lib>
   <dict>

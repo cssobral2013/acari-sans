@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pecyr.loclSRB" format="2">
-  <advance width="1188"/>
-  <anchor x="902" y="0" name="ogonek"/>
-  <anchor x="1395" y="1064" name="pos"/>
+  <advance width="1184"/>
+  <anchor x="892" y="0" name="ogonek"/>
+  <anchor x="1384" y="1064" name="pos"/>
   <anchor x="417" y="-120" name="bottom"/>
   <outline>
     <component base="icyr"/>
-    <component base="macroncomb" xOffset="978"/>
+    <component base="macroncomb" xOffset="983"/>
   </outline>
   <lib>
   <dict>

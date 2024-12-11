@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onefraction" format="2">
-  <advance width="1915"/>
+  <advance width="1905"/>
   <unicode hex="215F"/>
   <outline>
-    <component base="one.numr"/>
-    <component base="fraction" xOffset="653"/>
+    <component base="one.numr" xOffset="-37"/>
+    <component base="fraction" xOffset="646"/>
   </outline>
   <lib>
   <dict>

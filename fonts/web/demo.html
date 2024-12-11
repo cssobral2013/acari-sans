@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -57,9 +57,9 @@
             border-collapse: collapse;
             border-spacing: 0;
         }
-        /* demo styles */
+        /* common styles */
         body {
-            background: #f0f0f0;
+            background: #f1f1f1;
             color: #000;
         }
         .page {
@@ -134,18 +134,36 @@
         }
         pre {
             display: block;
+            position: relative;
             padding: 9px;
-            margin: 0 0 12px;
-            font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+            margin: 0 0 10px;
+            font-family: Monaco, Menlo, Consolas, "Courier New", monospace !important;
             font-size: 13px;
             line-height: 1.428571429;
             color: #333;
-            font-weight: normal;
-            font-style: normal;
+            font-weight: normal !important;
+            font-style: normal !important;
             background-color: #f5f5f5;
             border: 1px solid #ccc;
             overflow-x: auto;
             border-radius: 4px;
+        }
+        pre:after {
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 0;
+            content: 'Usage';
+            line-height: 1;
+            padding: 5px 8px;
+            font-size: 12px;
+            color: #767676;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-right: none;
+            border-top: none;
+            border-radius: 0 4px 0 4px;
+            z-index: 10;
         }
         /* responsive */
         @media (max-width: 959px) {
@@ -157,21 +175,71 @@
     </style>
 </head>
 <body>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 200; font-style: normal;">Acari Sans ExtraLight</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 100; font-style: normal;">
+        <h1>Acari Sans Thin</h1>
+        <pre>.your-style {
+    font-family: 'Acari Sans';
+    font-weight: 100;
+    font-style: normal;
+}</pre>
+        <div class="font-container">
+            <p class="letters">
+                abcdefghijklmnopqrstuvwxyz<br>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+                0123456789.:,;()*!?'@#<>$%&^+-=~
+            </p>
+            <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s12" style="font-size: 12px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s14" style="font-size: 14px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s18" style="font-size: 18px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s24" style="font-size: 24px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s30" style="font-size: 30px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s36" style="font-size: 36px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s48" style="font-size: 48px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s60" style="font-size: 60px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+    </div>
+<div class="page">
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 100; font-style: italic;">
+        <h1>Acari Sans Thin Italic</h1>
+        <pre>.your-style {
+    font-family: 'Acari Sans';
+    font-weight: 100;
+    font-style: italic;
+}</pre>
+        <div class="font-container">
+            <p class="letters">
+                abcdefghijklmnopqrstuvwxyz<br>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+                0123456789.:,;()*!?'@#<>$%&^+-=~
+            </p>
+            <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s12" style="font-size: 12px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s14" style="font-size: 14px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s18" style="font-size: 18px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s24" style="font-size: 24px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s30" style="font-size: 30px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s36" style="font-size: 36px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s48" style="font-size: 48px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s60" style="font-size: 60px;">The quick brown fox jumps over the lazy dog.</p>
+            <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+    </div>
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 200; font-style: normal;">
+        <h1>Acari Sans ExtraLight</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 200;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-ExtraLight.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 200; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -186,21 +254,19 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 200; font-style: italic;">Acari Sans ExtraLight Italic</h1>
-        <pre title="Usage">.your-style {
+<div class="page">
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 200; font-style: italic;">
+        <h1>Acari Sans ExtraLight Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 200;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-ExtraLightItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 200; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -215,21 +281,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-   <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 300; font-style: normal;">Acari Sans Light</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 300; font-style: normal;">
+        <h1>Acari Sans Light</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 300;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-Light.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 300; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -244,21 +307,19 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 300; font-style: italic;">Acari Sans Light Italic</h1>
-        <pre title="Usage">.your-style {
+    </div>
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 300; font-style: italic;">
+        <h1>Acari Sans Light Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 300;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-LightItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 300; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -273,21 +334,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: normal; font-style: normal;">Acari Sans Regular</h1>
-        <pre title="Usage">.your-style {
+	<div class="demo" style="font-family: 'Acari Sans'; font-weight: normal; font-style: normal;">
+        <h1>Acari Sans</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: normal;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: normal; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -302,21 +360,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: normal; font-style: italic;">Acari Sans Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: normal; font-style: italic;">
+        <h1>Acari Sans Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: normal;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-Italic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: normal; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -331,21 +386,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 500; font-style: normal;">Acari Sans Medium</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 500; font-style: normal;">
+        <h1>Acari Sans Medium</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 500;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-Medium.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 500; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -360,21 +412,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 500; font-style: italic;">Acari Sans Medium Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 500; font-style: italic;">
+        <h1>Acari Sans Medium Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 500;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-MediumItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 500; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -389,21 +438,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 600; font-style: normal;">Acari Sans SemiBold</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 600; font-style: normal;">
+        <h1>Acari Sans SemiBold</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 600;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-SemiBold.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 500; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -418,21 +464,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 600; font-style: italic;">Acari Sans SemiBold Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 600; font-style: italic;">
+        <h1>Acari Sans SemiBold Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 600;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-SemiBoldItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 500; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -447,21 +490,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: bold; font-style: normal;">Acari Sans Bold</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: bold; font-style: normal;">
+        <h1>Acari Sans Bold</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: bold;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-Bold.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: bold; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -477,20 +517,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
         </div>
     </div>
 
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: bold; font-style: italic;">Acari Sans Bold Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: bold; font-style: italic;">
+        <h1>Acari Sans Bold Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: bold;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-BoldItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: bold; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -505,21 +543,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: bold; font-style: normal;">Acari Sans ExtraBold</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 800; font-style: normal;">
+        <h1>Acari Sans ExtraBold</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-ExtraBold.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: bold; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -534,21 +569,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-	
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: bold; font-style: italic;">Acari Sans ExtraBold Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 800; font-style: italic;">
+        <h1>Acari Sans ExtraBold Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 800;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-ExtraBoldItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: bold; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -563,21 +595,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
     </div>
-	
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 900; font-style: normal;">Acari Sans Black</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 900; font-style: normal;">
+        <h1>Acari Sans Black</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 900;
     font-style: normal;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-Black.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 900; font-style: normal;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>
@@ -591,23 +620,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
             <p class="s60" style="font-size: 60px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s72" style="font-size: 72px;">The quick brown fox jumps over the lazy dog.</p>
         </div>
-    </div>
-
-<div class="page">
-    <div class="demo">
-        <h1 style="font-family: 'Acari Sans'; font-weight: 900; font-style: italic;">Acari Sans Black Italic</h1>
-        <pre title="Usage">.your-style {
+    <div class="demo" style="font-family: 'Acari Sans'; font-weight: 900; font-style: italic;">
+        <h1>Acari Sans Black Italic</h1>
+        <pre>.your-style {
     font-family: 'Acari Sans';
     font-weight: 900;
     font-style: italic;
 }</pre>
-        <pre title="Preload (optional)">
-&lt;link rel=&quot;preload&quot; href=&quot;AcariSans-BlackItalic.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</pre>
-        <div class="font-container" style="font-family: 'Acari Sans'; font-weight: 900; font-style: italic;">
+        <div class="font-container">
             <p class="letters">
                 abcdefghijklmnopqrstuvwxyz<br>
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-                0123456789.:,;()*!?'@#&lt;&gt;$%&^+-=~
+                0123456789.:,;()*!?'@#<>$%&^+-=~
             </p>
             <p class="s10" style="font-size: 10px;">The quick brown fox jumps over the lazy dog.</p>
             <p class="s11" style="font-size: 11px;">The quick brown fox jumps over the lazy dog.</p>

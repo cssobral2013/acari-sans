@@ -34,7 +34,7 @@
       <point x="417" y="1380" type="curve" smooth="yes"/>
       <point x="417" y="1355"/>
       <point x="413" y="1325"/>
-      <point x="406" y="1291" type="curve" smooth="yes"/>
+      <point x="406" y="1291" type="curve"/>
       <point x="321" y="924" type="line" smooth="yes"/>
       <point x="316" y="904"/>
       <point x="312" y="883"/>
@@ -54,5 +54,5 @@
     </contour>
   </outline>
   <guideline angle="0" x="0" y="1640"/>
-  <guideline angle="77.1012" x="150" y="899"/>
+  <guideline angle="78.1402" x="148" y="942"/>
 </glyph>

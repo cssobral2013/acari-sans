@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcircumflex" format="2">
-  <advance width="1073"/>
+  <advance width="1097"/>
   <unicode hex="011D"/>
   <outline>
     <component base="g"/>
-    <component base="circumflexcomb" xOffset="917" yOffset="-26"/>
+    <component base="circumflexcomb" xOffset="913" yOffset="-28"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>g</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>g</string>
   <key>com.fontlab.recipe</key>
   <string>g+circumflexcomb</string>
   <key>public.markColor</key>

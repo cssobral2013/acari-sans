@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="2">
-  <advance width="532"/>
+  <advance width="528"/>
   <unicode hex="0129"/>
+  <anchor x="408" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="-4"/>
-    <component base="tildecomb" xOffset="716" yOffset="-27"/>
+    <component base="dotlessi" xOffset="-5"/>
+    <component base="tildecomb" xOffset="713" yOffset="-34"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tildecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

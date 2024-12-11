@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ijacute.loclNLD" format="2">
+  <advance width="1099"/>
+  <anchor x="815" y="1192" name="top"/>
+  <anchor x="413" y="0" name="ogonek"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotlessj" xOffset="538"/>
+    <component base="acutecomb" xOffset="1229"/>
+    <component base="acutecomb" xOffset="690"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>idotless_jdotless</string>
+  </dict>
+  </lib>
+</glyph>

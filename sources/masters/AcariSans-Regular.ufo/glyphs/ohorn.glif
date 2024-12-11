@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorn" format="2">
-  <advance width="1271"/>
+  <advance width="1272"/>
   <unicode hex="01A1"/>
-  <anchor x="584" y="1192" name="top"/>
-  <anchor x="702" y="0" name="ogonek"/>
+  <anchor x="583" y="1192" name="top"/>
+  <anchor x="696" y="0" name="ogonek"/>
   <outline>
-    <component base="o" xOffset="2"/>
-    <component base="horncomb" xOffset="1336" yOffset="-384"/>
+    <component base="o" xOffset="1"/>
+    <component base="horncomb" xOffset="1341" yOffset="-384"/>
   </outline>
   <lib>
   <dict>

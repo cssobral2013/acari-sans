@@ -1,5 +1,24 @@
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
+    src: url('AcariSans-Thin.woff2') format('woff2'),
+        url('AcariSans-Thin.woff') format('woff'),
+        url('AcariSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acari Sans';
+    src: url('AcariSans-ThinItalic.woff2') format('woff2'),
+        url('AcariSans-ThinItalic.woff') format('woff'),
+        url('AcariSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Acari Sans';
     src: url('AcariSans-ExtraLight.woff2') format('woff2'),
         url('AcariSans-ExtraLight.woff') format('woff'),
         url('AcariSans-ExtraLight.ttf') format('truetype');
@@ -9,7 +28,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-ExtraLightItalic.woff2') format('woff2'),
         url('AcariSans-ExtraLightItalic.woff') format('woff'),
         url('AcariSans-ExtraLightItalic.ttf') format('truetype');
@@ -19,7 +38,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Light.woff2') format('woff2'),
         url('AcariSans-Light.woff') format('woff'),
         url('AcariSans-Light.ttf') format('truetype');
@@ -29,7 +48,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-LightItalic.woff2') format('woff2'),
         url('AcariSans-LightItalic.woff') format('woff'),
         url('AcariSans-LightItalic.ttf') format('truetype');
@@ -39,7 +58,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Regular.woff2') format('woff2'),
         url('AcariSans-Regular.woff') format('woff'),
         url('AcariSans-Regular.ttf') format('truetype');
@@ -49,7 +68,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Italic.woff2') format('woff2'),
         url('AcariSans-Italic.woff') format('woff'),
         url('AcariSans-Italic.ttf') format('truetype');
@@ -59,7 +78,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Medium.woff2') format('woff2'),
         url('AcariSans-Medium.woff') format('woff'),
         url('AcariSans-Medium.ttf') format('truetype');
@@ -70,7 +89,7 @@
 
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-MediumItalic.woff2') format('woff2'),
         url('AcariSans-MediumItalic.woff') format('woff'),
         url('AcariSans-MediumItalic.ttf') format('truetype');
@@ -80,7 +99,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-SemiBold.woff2') format('woff2'),
         url('AcariSans-SemiBold.woff') format('woff'),
         url('AcariSans-SemiBold.ttf') format('truetype');
@@ -90,7 +109,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-SemiBoldItalic.woff2') format('woff2'),
         url('AcariSans-SemiBoldItalic.woff') format('woff'),
         url('AcariSans-SemiBoldItalic.ttf') format('truetype');
@@ -100,7 +119,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Bold.woff2') format('woff2'),
         url('AcariSans-Bold.woff') format('woff'),
         url('AcariSans-Bold.ttf') format('truetype');
@@ -110,7 +129,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-BoldItalic.woff2') format('woff2'),
         url('AcariSans-BoldItalic.woff') format('woff'),
         url('AcariSans-BoldItalic.ttf') format('truetype');
@@ -120,7 +139,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-ExtraBold.woff2') format('woff2'),
         url('AcariSans-ExtraBold.woff') format('woff'),
         url('AcariSans-ExtraBold.ttf') format('truetype');
@@ -130,7 +149,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-ExtraBoldItalic.woff2') format('woff2'),
         url('AcariSans-ExtraBoldItalic.woff') format('woff'),
         url('AcariSans-ExtraBoldItalic.ttf') format('truetype');
@@ -140,7 +159,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-Black.woff2') format('woff2'),
         url('AcariSans-Black.woff') format('woff'),
         url('AcariSans-Black.ttf') format('truetype');
@@ -150,7 +169,7 @@
 }
 
 @font-face {
-    font-family: 'Rising Sun';
+    font-family: 'Acari Sans';
     src: url('AcariSans-BlackItalic.woff2') format('woff2'),
         url('AcariSans-BlackItalic.woff') format('woff'),
         url('AcariSans-BlackItalic.ttf') format('truetype');

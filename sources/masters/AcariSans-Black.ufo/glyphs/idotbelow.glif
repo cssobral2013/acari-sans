@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotbelow" format="2">
-  <advance width="537"/>
+  <advance width="532"/>
   <unicode hex="1ECB"/>
-  <anchor x="417" y="0" name="ogonek"/>
+  <anchor x="423" y="0" name="ogonek"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="559"/>
+    <component base="dotbelowcomb" xOffset="560"/>
   </outline>
   <lib>
   <dict>

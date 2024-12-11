@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-  <advance width="1256"/>
+  <advance width="1263"/>
   <unicode hex="03A4"/>
-  <anchor x="390" y="-120" name="bottom"/>
-  <anchor x="416" y="0" name="cedilla"/>
-  <anchor x="769" y="1620" name="top"/>
+  <anchor x="359" y="-120" name="bottom"/>
+  <anchor x="391" y="0" name="cedilla"/>
+  <anchor x="745" y="1620" name="top"/>
   <outline>
-    <component base="T" xOffset="31"/>
+    <component base="T" xOffset="25"/>
   </outline>
 </glyph>

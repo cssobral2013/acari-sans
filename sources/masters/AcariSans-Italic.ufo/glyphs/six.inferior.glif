@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.inferior" format="2">
-  <advance width="870"/>
+  <advance width="848"/>
   <unicode hex="2086"/>
   <outline>
-    <contour>
-      <point x="203" y="-502" type="curve" smooth="yes"/>
-      <point x="409" y="-502"/>
-      <point x="626" y="-319"/>
-      <point x="626" y="-105" type="curve" smooth="yes"/>
-      <point x="626" y="55"/>
-      <point x="513" y="146"/>
-      <point x="354" y="146" type="curve" smooth="yes"/>
-      <point x="327" y="146"/>
-      <point x="301" y="143"/>
-      <point x="275" y="137" type="curve"/>
-      <point x="583" y="478" type="line"/>
-      <point x="429" y="478" type="line"/>
-      <point x="21" y="-4" type="line" smooth="yes"/>
-      <point x="-38" y="-73"/>
-      <point x="-74" y="-159"/>
-      <point x="-74" y="-243" type="curve" smooth="yes"/>
-      <point x="-74" y="-401"/>
-      <point x="51" y="-502"/>
-    </contour>
-    <contour>
-      <point x="221" y="-373" type="curve" smooth="yes"/>
-      <point x="133" y="-373"/>
-      <point x="63" y="-312"/>
-      <point x="63" y="-222" type="curve" smooth="yes"/>
-      <point x="63" y="-87"/>
-      <point x="197" y="27"/>
-      <point x="330" y="27" type="curve" smooth="yes"/>
-      <point x="417" y="27"/>
-      <point x="489" y="-27"/>
-      <point x="489" y="-118" type="curve" smooth="yes"/>
-      <point x="489" y="-252"/>
-      <point x="351" y="-373"/>
-    </contour>
+    <component base="six.dnom" xOffset="-109" yOffset="-470"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>six.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>six.dnom</string>
+  </dict>
+  </lib>
 </glyph>

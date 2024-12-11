@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Beta" format="2">
+  <advance width="1255"/>
+  <unicode hex="0392"/>
+  <outline>
+    <contour>
+      <point x="241" y="0" type="line"/>
+      <point x="654" y="0" type="line" smooth="yes" name=".dv01"/>
+      <point x="949" y="0"/>
+      <point x="1105" y="125"/>
+      <point x="1105" y="363" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1105" y="591"/>
+      <point x="1007" y="720"/>
+      <point x="791" y="774" type="curve" name=".iv01"/>
+      <point x="793" y="743" type="line"/>
+      <point x="964" y="810"/>
+      <point x="1033" y="918"/>
+      <point x="1033" y="1112" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1033" y="1318"/>
+      <point x="855" y="1448"/>
+      <point x="570" y="1448" type="curve" smooth="yes" name=".dv04"/>
+      <point x="241" y="1448" type="line" name=".dh01"/>
+    </contour>
+    <contour>
+      <point x="326" y="771" type="line" name=".dv06"/>
+      <point x="326" y="1367" type="line" name=".dh02"/>
+      <point x="572" y="1367" type="line" smooth="yes" name=".dv03"/>
+      <point x="809" y="1367"/>
+      <point x="917" y="1278"/>
+      <point x="917" y="1086" type="curve" smooth="yes" name=".dh03"/>
+      <point x="917" y="891"/>
+      <point x="779" y="771"/>
+      <point x="553" y="771" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="326" y="79" type="line" name=".sh02"/>
+      <point x="326" y="684" type="line" name=".dv05"/>
+      <point x="669" y="684" type="line" smooth="yes"/>
+      <point x="904" y="684"/>
+      <point x="1014" y="578"/>
+      <point x="1014" y="358" type="curve" smooth="yes" name=".ih01"/>
+      <point x="1014" y="172"/>
+      <point x="894" y="79"/>
+      <point x="658" y="79" type="curve" smooth="yes" name=".dv02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>337</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>635</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>474</integer>
+        <key>width</key>
+        <integer>93</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>496</integer>
+        <key>width</key>
+        <integer>97</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>B</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

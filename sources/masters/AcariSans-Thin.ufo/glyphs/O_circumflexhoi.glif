@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexhoi" format="2">
+  <advance width="1575"/>
+  <unicode hex="1ED4"/>
+  <anchor x="1546" y="1448" name="horn"/>
+  <anchor x="893" y="0" name="ogonek"/>
+  <outline>
+    <component base="O" xOffset="1"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="1184" yOffset="391"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+circumflexcomb_hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

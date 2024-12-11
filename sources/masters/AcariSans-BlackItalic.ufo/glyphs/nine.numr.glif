@@ -2,6 +2,14 @@
 <glyph name="nine.numr" format="2">
   <advance width="853"/>
   <outline>
-    <component base="nine.inferior" xOffset="206" yOffset="979"/>
+    <component base="nine.dnom" xOffset="111" yOffset="478"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>nine.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>nine.dnom</string>
+  </dict>
+  </lib>
 </glyph>

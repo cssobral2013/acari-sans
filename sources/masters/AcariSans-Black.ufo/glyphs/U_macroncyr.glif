@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacroncyr" format="2">
-  <advance width="1135"/>
+  <advance width="1133"/>
   <unicode hex="04EE"/>
   <outline>
     <component base="Ucyr"/>
-    <component base="macroncomb" xOffset="990" yOffset="424"/>
+    <component base="macroncomb" xOffset="983" yOffset="424"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ucyr+macroncomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

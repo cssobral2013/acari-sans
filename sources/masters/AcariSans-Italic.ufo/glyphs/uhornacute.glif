@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhornacute" format="2">
-  <advance width="1188"/>
+  <advance width="1184"/>
   <unicode hex="1EE9"/>
-  <anchor x="902" y="0" name="ogonek"/>
+  <anchor x="892" y="0" name="ogonek"/>
   <anchor x="417" y="-120" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1329" yOffset="-384"/>
-    <component base="acutecomb" xOffset="957"/>
+    <component base="horncomb" xOffset="1324" yOffset="-384"/>
+    <component base="acutecomb" xOffset="955"/>
   </outline>
   <lib>
   <dict>

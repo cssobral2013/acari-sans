@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1699"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="1552" y="0" type="line"/>
+      <point x="1552" y="384" type="line" smooth="yes"/>
+      <point x="1552" y="695"/>
+      <point x="1444" y="1024"/>
+      <point x="1073" y="1024" type="curve" smooth="yes"/>
+      <point x="925" y="1024"/>
+      <point x="790" y="982"/>
+      <point x="701" y="859" type="curve"/>
+      <point x="701" y="1379" type="line"/>
+      <point x="1212" y="1379" type="line"/>
+      <point x="1212" y="1448" type="line"/>
+      <point x="88" y="1448" type="line"/>
+      <point x="88" y="1379" type="line"/>
+      <point x="599" y="1379" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="701" y="0" type="line"/>
+      <point x="701" y="761" type="line"/>
+      <point x="786" y="870"/>
+      <point x="944" y="931"/>
+      <point x="1073" y="931" type="curve" smooth="yes"/>
+      <point x="1383" y="931"/>
+      <point x="1449" y="662"/>
+      <point x="1449" y="410" type="curve" smooth="yes"/>
+      <point x="1449" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

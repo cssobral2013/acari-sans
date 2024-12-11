@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1215"/>
+  <advance width="1192"/>
   <unicode hex="0388"/>
-  <anchor x="1152" y="0" name="ogonek"/>
   <outline>
     <component base="Epsilon"/>
-    <component base="tonos" xOffset="-85" yOffset="-9"/>
+    <component base="tonos" xOffset="-74" yOffset="-6"/>
   </outline>
   <lib>
   <dict>

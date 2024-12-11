@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icaron" format="2">
-  <advance width="532"/>
+  <advance width="528"/>
   <unicode hex="01D0"/>
+  <anchor x="408" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="-4"/>
-    <component base="caroncomb" xOffset="586"/>
+    <component base="dotlessi" xOffset="-5"/>
+    <component base="caroncomb" xOffset="565"/>
   </outline>
   <lib>
   <dict>

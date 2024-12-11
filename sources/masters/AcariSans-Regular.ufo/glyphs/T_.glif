@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="1260"/>
+  <advance width="1266"/>
   <unicode hex="0054"/>
-  <anchor x="612" y="0" name="cedilla"/>
+  <anchor x="616" y="0" name="cedilla"/>
   <outline>
     <contour>
-      <point x="533" y="0" type="line"/>
-      <point x="726" y="0" type="line"/>
-      <point x="726" y="1285" type="line"/>
-      <point x="1204" y="1285" type="line"/>
-      <point x="1204" y="1448" type="line"/>
-      <point x="55" y="1448" type="line"/>
-      <point x="55" y="1285" type="line"/>
-      <point x="533" y="1285" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="1302" type="line"/>
+      <point x="1205" y="1302" type="line"/>
+      <point x="1205" y="1448" type="line"/>
+      <point x="60" y="1448" type="line"/>
+      <point x="60" y="1302" type="line"/>
+      <point x="544" y="1302" type="line"/>
     </contour>
   </outline>
 </glyph>

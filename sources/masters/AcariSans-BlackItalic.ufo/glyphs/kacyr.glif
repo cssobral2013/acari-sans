@@ -4,7 +4,6 @@
   <unicode hex="043A"/>
   <anchor x="677" y="1192" name="top"/>
   <outline>
-    <component base="dotlessi"/>
     <contour>
       <point x="1006" y="0" type="line"/>
       <point x="925" y="473" type="line" smooth="yes"/>
@@ -23,6 +22,12 @@
       <point x="664" y="385" type="curve" smooth="yes"/>
       <point x="704" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="565" y="1064" type="line"/>
+      <point x="277" y="1064" type="line"/>
+      <point x="22" y="0" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="677" y="0"/>
+  <guideline angle="90" name="vertical" x="622" y="0"/>
 </glyph>

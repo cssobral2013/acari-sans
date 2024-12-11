@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twofifths" format="2">
+  <advance width="2186"/>
+  <unicode hex="2156"/>
+  <outline>
+    <component base="two.numr"/>
+    <component base="fraction" xOffset="884"/>
+    <component base="five.dnom" xOffset="1102"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>two.numr_fraction_five.dnom</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="2">
-  <advance width="644"/>
+  <advance width="647"/>
   <unicode hex="012C"/>
-  <anchor x="467" y="0" name="ogonek"/>
+  <anchor x="472" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
-    <component base="brevecomb" xOffset="734" yOffset="426"/>
+    <component base="brevecomb" xOffset="729" yOffset="426"/>
   </outline>
   <lib>
   <dict>

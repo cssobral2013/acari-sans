@@ -4,22 +4,30 @@
   <unicode hex="04B2"/>
   <outline>
     <contour>
-      <point x="1310" y="-245" type="line"/>
-      <point x="1310" y="170" type="line"/>
-      <point x="1145" y="170" type="line"/>
-      <point x="779" y="724" type="line"/>
-      <point x="1255" y="1447" type="line"/>
-      <point x="1029" y="1447" type="line"/>
-      <point x="658" y="857" type="line"/>
-      <point x="290" y="1447" type="line"/>
-      <point x="63" y="1447" type="line"/>
-      <point x="540" y="724" type="line"/>
-      <point x="61" y="0" type="line"/>
-      <point x="288" y="0" type="line"/>
-      <point x="656" y="580" type="line"/>
-      <point x="1031" y="0" type="line"/>
-      <point x="1130" y="0" type="line"/>
-      <point x="1130" y="-245" type="line"/>
+      <point x="1275" y="-245" type="line"/>
+      <point x="1275" y="170" type="line"/>
+      <point x="1123" y="170" type="line"/>
+      <point x="758" y="724" type="line"/>
+      <point x="1233" y="1447" type="line"/>
+      <point x="1027" y="1447" type="line"/>
+      <point x="651" y="850" type="line"/>
+      <point x="278" y="1447" type="line"/>
+      <point x="71" y="1447" type="line"/>
+      <point x="547" y="724" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="649" y="587" type="line"/>
+      <point x="1029" y="0" type="line"/>
+      <point x="1111" y="0" type="line"/>
+      <point x="1111" y="-245" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=69</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
 </glyph>

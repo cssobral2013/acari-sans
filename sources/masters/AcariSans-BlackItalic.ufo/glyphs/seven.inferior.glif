@@ -3,14 +3,14 @@
   <advance width="810"/>
   <unicode hex="2087"/>
   <outline>
-    <contour>
-      <point x="115" y="-490" type="line"/>
-      <point x="743" y="376" type="line"/>
-      <point x="763" y="475" type="line"/>
-      <point x="67" y="475" type="line"/>
-      <point x="31" y="298" type="line"/>
-      <point x="515" y="298" type="line"/>
-      <point x="-80" y="-490" type="line"/>
-    </contour>
+    <component base="seven.dnom" xOffset="-108" yOffset="-470"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>seven.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>seven.dnom</string>
+  </dict>
+  </lib>
 </glyph>

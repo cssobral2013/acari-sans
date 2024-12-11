@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="601"/>
+  <advance width="597"/>
   <unicode hex="0049"/>
-  <anchor x="300" y="1618" name="top"/>
-  <anchor x="395" y="0" name="ogonek"/>
+  <anchor x="298" y="1618" name="top"/>
+  <anchor x="385" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="395" y="0" type="line"/>
-      <point x="395" y="1448" type="line"/>
-      <point x="204" y="1448" type="line"/>
-      <point x="204" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="1448" type="line"/>
+      <point x="211" y="1448" type="line"/>
+      <point x="211" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ukcyr" format="2">
-  <advance width="2579"/>
+  <advance width="2569"/>
   <unicode hex="0478"/>
-  <anchor x="2162" y="1192" name="top"/>
-  <anchor x="736" y="0" name="ogonek"/>
-  <anchor x="1728" y="1447" name="pos"/>
-  <anchor x="2101" y="-238" name="bottom"/>
+  <anchor x="2153" y="1192" name="top"/>
+  <anchor x="731" y="0" name="ogonek"/>
+  <anchor x="1722" y="1447" name="pos"/>
+  <anchor x="2081" y="-245" name="bottom"/>
   <outline>
-    <component base="Ocyr" xOffset="-6"/>
-    <component base="ucyr" xOffset="1527"/>
+    <component base="Ocyr" xOffset="-4"/>
+    <component base="ucyr" xOffset="1521"/>
   </outline>
   <lib>
   <dict>

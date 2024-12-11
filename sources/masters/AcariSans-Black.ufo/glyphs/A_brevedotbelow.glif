@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevedotbelow" format="2">
-  <advance width="1388"/>
+  <advance width="1391"/>
   <unicode hex="1EB6"/>
-  <anchor x="1390" y="0" name="ogonek"/>
-  <anchor x="696" y="1550" name="center"/>
+  <anchor x="1397" y="0" name="ogonek"/>
+  <anchor x="698" y="1549" name="center"/>
   <outline>
     <component base="Adotbelow"/>
-    <component base="brevecomb" xOffset="1108" yOffset="428"/>
+    <component base="brevecomb" xOffset="1103" yOffset="428"/>
   </outline>
   <lib>
   <dict>

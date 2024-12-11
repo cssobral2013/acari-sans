@@ -2,7 +2,14 @@
 <glyph name="circumflexcomb_acutecomb" format="2">
   <anchor x="-524" y="1192" name="_top"/>
   <outline>
-    <component base="circumflexcomb" xOffset="-210"/>
+    <contour>
+      <point x="-130" y="1192" type="line"/>
+      <point x="-370" y="1551" type="line"/>
+      <point x="-770" y="1192" type="line"/>
+      <point x="-561" y="1192" type="line"/>
+      <point x="-412" y="1327" type="line"/>
+      <point x="-325" y="1192" type="line"/>
+    </contour>
     <contour>
       <point x="-53" y="1410" type="line"/>
       <point x="258" y="1642" type="line"/>
@@ -10,7 +17,7 @@
       <point x="-256" y="1410" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="1642"/>
-  <guideline angle="226.207" x="46" y="1725"/>
+  <guideline angle="0" x="0" y="1632"/>
+  <guideline angle="225.788" x="265" y="1705"/>
   <guideline angle="0" x="0" y="1410"/>
 </glyph>

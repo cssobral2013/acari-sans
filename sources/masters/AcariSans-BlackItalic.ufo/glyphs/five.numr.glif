@@ -2,6 +2,14 @@
 <glyph name="five.numr" format="2">
   <advance width="853"/>
   <outline>
-    <component base="five.inferior" xOffset="219" yOffset="984"/>
+    <component base="five.dnom" xOffset="111" yOffset="478"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>five.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>five.dnom</string>
+  </dict>
+  </lib>
 </glyph>

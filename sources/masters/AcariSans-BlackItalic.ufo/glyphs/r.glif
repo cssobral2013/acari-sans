@@ -18,13 +18,14 @@
       <point x="950" y="1054"/>
       <point x="863" y="1079"/>
       <point x="780" y="1079" type="curve" smooth="yes"/>
-      <point x="659" y="1079"/>
-      <point x="573" y="1008"/>
-      <point x="513" y="912" type="curve"/>
+      <point x="648" y="1079"/>
+      <point x="557" y="994"/>
+      <point x="497" y="885" type="curve"/>
+      <point x="507" y="882" type="line"/>
       <point x="542" y="1064" type="line"/>
       <point x="268" y="1064" type="line"/>
       <point x="25" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="659" y="0"/>
+  <guideline angle="90" name="vertical" x="628" y="0"/>
 </glyph>

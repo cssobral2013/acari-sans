@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevehoi" format="2">
+  <advance width="1059"/>
+  <unicode hex="1EB3"/>
+  <anchor x="896" y="0" name="ogonek"/>
+  <anchor x="509" y="1357" name="center"/>
+  <anchor x="509" y="-150" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_hookabovecomb" xOffset="935"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+brevecomb_hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

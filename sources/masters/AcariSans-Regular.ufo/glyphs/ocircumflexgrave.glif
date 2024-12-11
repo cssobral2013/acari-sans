@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexgrave" format="2">
-  <advance width="1164"/>
+  <advance width="1111"/>
   <unicode hex="1ED3"/>
   <anchor x="1226" y="1064" name="horn"/>
-  <anchor x="700" y="0" name="ogonek"/>
+  <anchor x="695" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_gravecomb" xOffset="977" yOffset="-26"/>
+    <component base="circumflexcomb_gravecomb" xOffset="976" yOffset="-28"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
   <key>com.fontlab.recipe</key>
   <string>o+circumflexcomb_gravecomb</string>
   <key>public.markColor</key>

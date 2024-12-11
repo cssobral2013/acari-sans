@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexdotbelow" format="2">
-  <advance width="1388"/>
+  <advance width="1391"/>
   <unicode hex="1EAC"/>
-  <anchor x="1390" y="0" name="ogonek"/>
-  <anchor x="696" y="1550" name="center"/>
+  <anchor x="1397" y="0" name="ogonek"/>
+  <anchor x="698" y="1549" name="center"/>
   <outline>
     <component base="Adotbelow"/>
-    <component base="circumflexcomb" xOffset="1003" yOffset="408"/>
+    <component base="circumflexcomb" xOffset="982" yOffset="408"/>
   </outline>
   <lib>
   <dict>

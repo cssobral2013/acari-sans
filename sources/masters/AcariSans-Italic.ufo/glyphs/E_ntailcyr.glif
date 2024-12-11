@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Entailcyr" format="2">
-  <advance width="1502"/>
+  <advance width="1499"/>
   <unicode hex="04A2"/>
-  <anchor x="939" y="1620" name="top"/>
+  <anchor x="940" y="1620" name="top"/>
   <outline>
     <component base="H" xOffset="-1"/>
     <contour>
-      <point x="1263" y="-307" type="line"/>
-      <point x="1371" y="165" type="line"/>
-      <point x="1145" y="165" type="line"/>
-      <point x="1104" y="0" type="line"/>
-      <point x="1157" y="0" type="line"/>
-      <point x="1086" y="-307" type="line"/>
+      <point x="1294" y="-307" type="line"/>
+      <point x="1399" y="149" type="line"/>
+      <point x="1188" y="149" type="line"/>
+      <point x="1151" y="0" type="line"/>
+      <point x="1204" y="0" type="line"/>
+      <point x="1133" y="-307" type="line"/>
     </contour>
   </outline>
 </glyph>

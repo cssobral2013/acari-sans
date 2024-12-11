@@ -2,11 +2,11 @@
 <glyph name="Iocyr" format="2">
   <advance width="1277"/>
   <unicode hex="0401"/>
-  <anchor x="1038" y="0" name="ogonek"/>
-  <anchor x="576" y="-120" name="bottom"/>
+  <anchor x="1040" y="0" name="ogonek"/>
+  <anchor x="571" y="-120" name="bottom"/>
   <outline>
     <component base="Iecyr"/>
-    <component base="dieresiscomb" xOffset="1202" yOffset="428"/>
+    <component base="dieresiscomb" xOffset="1196" yOffset="428"/>
   </outline>
   <lib>
   <dict>

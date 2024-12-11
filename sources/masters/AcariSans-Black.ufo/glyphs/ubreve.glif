@@ -2,11 +2,11 @@
 <glyph name="ubreve" format="2">
   <advance width="1211"/>
   <unicode hex="016D"/>
-  <anchor x="1070" y="0" name="ogonek"/>
-  <anchor x="1401" y="1064" name="horn"/>
+  <anchor x="1071" y="0" name="ogonek"/>
+  <anchor x="1419" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="1000"/>
+    <component base="brevecomb" xOffset="991"/>
   </outline>
   <lib>
   <dict>

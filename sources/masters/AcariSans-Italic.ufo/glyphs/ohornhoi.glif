@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohornhoi" format="2">
-  <advance width="1179"/>
+  <advance width="1178"/>
   <unicode hex="1EDF"/>
-  <anchor x="576" y="0" name="ogonek"/>
-  <anchor x="458" y="-120" name="bottom"/>
+  <anchor x="571" y="0" name="ogonek"/>
+  <anchor x="457" y="-120" name="bottom"/>
   <outline>
     <component base="o" xOffset="1"/>
     <component base="horncomb" xOffset="1312" yOffset="-384"/>
-    <component base="hookabovecomb" xOffset="940" yOffset="88"/>
+    <component base="hookabovecomb" xOffset="943" yOffset="87"/>
   </outline>
   <lib>
   <dict>

@@ -3,6 +3,14 @@
   <advance width="915"/>
   <unicode hex="2088"/>
   <outline>
-    <component base="eight.superior" xOffset="-212" yOffset="-990"/>
+    <component base="eight.dnom" xOffset="-109" yOffset="-470"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>eight.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>eight.dnom</string>
+  </dict>
+  </lib>
 </glyph>

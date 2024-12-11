@@ -2,9 +2,11 @@
 <glyph name="alphatonos" format="2">
   <advance width="1195"/>
   <unicode hex="03AC"/>
+  <anchor x="775" y="1657" name="_tonos"/>
+  <anchor x="487" y="1222" name="_tonos.top"/>
   <outline>
-    <component base="alpha" xOffset="-14"/>
-    <component base="tonos" xOffset="468" yOffset="170"/>
+    <component base="alpha" xOffset="-13"/>
+    <component base="tonos" xOffset="468" yOffset="178"/>
   </outline>
   <lib>
   <dict>
