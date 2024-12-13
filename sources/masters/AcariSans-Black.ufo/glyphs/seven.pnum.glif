@@ -5,11 +5,20 @@
     <contour>
       <point x="167" y="0" type="line"/>
       <point x="497" y="0" type="line"/>
-      <point x="1146" y="1294" type="line"/>
-      <point x="1146" y="1447" type="line"/>
-      <point x="69" y="1447" type="line"/>
-      <point x="69" y="1174" type="line"/>
-      <point x="782" y="1174" type="line"/>
+      <point x="1146" y="1295" type="line"/>
+      <point x="1146" y="1448" type="line"/>
+      <point x="69" y="1448" type="line"/>
+      <point x="69" y="1175" type="line"/>
+      <point x="813" y="1175" type="line"/>
+      <point x="796" y="1202" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=69</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=47</string>
+  </dict>
+  </lib>
 </glyph>

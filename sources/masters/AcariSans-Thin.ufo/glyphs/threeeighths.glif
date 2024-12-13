@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threeeighths" format="2">
-  <advance width="2116"/>
+  <advance width="1988"/>
   <unicode hex="215C"/>
   <outline>
     <component base="three.numr"/>
@@ -9,6 +9,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>three.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>eight.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>three.numr_fraction_eight.dnom</string>
   </dict>

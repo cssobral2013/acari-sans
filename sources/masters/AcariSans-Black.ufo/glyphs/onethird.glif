@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onethird" format="2">
-  <advance width="2186"/>
+  <advance width="2187"/>
   <unicode hex="2153"/>
   <outline>
     <component base="one.numr"/>
@@ -9,6 +9,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>three.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_three.dnom</string>
   </dict>

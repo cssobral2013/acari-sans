@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kappa" format="2">
-  <advance width="1464"/>
+  <advance width="1474"/>
   <unicode hex="039A"/>
   <outline>
-    <contour>
-      <point x="1356" y="0" type="line" name=".av03"/>
-      <point x="786" y="893" type="line"/>
-      <point x="1311" y="1448" type="line" name=".av01"/>
-      <point x="1198" y="1448" type="line"/>
-      <point x="334" y="535" type="line" name=".iv01"/>
-      <point x="334" y="1448" type="line" name=".av02"/>
-      <point x="241" y="1448" type="line" name=".dh01"/>
-      <point x="241" y="0" type="line" name=".av04"/>
-      <point x="334" y="0" type="line" name=".sh01"/>
-      <point x="334" y="414" type="line"/>
-      <point x="725" y="819" type="line"/>
-      <point x="1252" y="0" type="line"/>
-    </contour>
+    <component base="K"/>
   </outline>
   <lib>
   <dict>

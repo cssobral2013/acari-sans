@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twofifths" format="2">
-  <advance width="2279"/>
+  <advance width="2207"/>
   <unicode hex="2156"/>
   <outline>
     <component base="two.numr"/>
@@ -9,6 +9,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>two.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>five.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>two.numr_fraction_five.dnom</string>
   </dict>

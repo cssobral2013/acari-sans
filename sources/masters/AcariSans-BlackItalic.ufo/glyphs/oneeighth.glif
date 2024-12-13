@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oneeighth" format="2">
-  <advance width="2113"/>
+  <advance width="2093"/>
   <unicode hex="215B"/>
   <outline>
-    <component base="one.numr" xOffset="4"/>
-    <component base="fraction" xOffset="723"/>
-    <component base="eight.dnom" xOffset="1180"/>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="721"/>
+    <component base="eight.dnom" xOffset="1178"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>eight.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_eight.dnom</string>
   </dict>

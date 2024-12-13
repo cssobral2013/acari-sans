@@ -5,10 +5,12 @@
   <outline>
     <component base="one.numr"/>
     <component base="fraction" xOffset="613"/>
-    <component base="seven.dnom" xOffset="832"/>
+    <component base="seven.dnom" xOffset="1002"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_seven.dnom</string>
   </dict>

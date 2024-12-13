@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="1235"/>
+  <advance width="1260"/>
   <unicode hex="03A7"/>
+  <anchor x="631" y="0" name="bottom"/>
+  <anchor x="631" y="1427" name="top"/>
   <outline>
-    <contour>
-      <point x="1122" y="0" type="line" name=".av03"/>
-      <point x="653" y="724" type="line"/>
-      <point x="1120" y="1448" type="line" name=".av01"/>
-      <point x="1020" y="1448" type="line"/>
-      <point x="620" y="814" type="line" name=".iv01"/>
-      <point x="220" y="1448" type="line" name=".av02"/>
-      <point x="112" y="1448" type="line"/>
-      <point x="588" y="724" type="line"/>
-      <point x="110" y="0" type="line" name=".av04"/>
-      <point x="218" y="0" type="line"/>
-      <point x="616" y="620" type="line" name=".iv02"/>
-      <point x="1022" y="0" type="line"/>
-    </contour>
+    <component base="X"/>
   </outline>
   <lib>
   <dict>

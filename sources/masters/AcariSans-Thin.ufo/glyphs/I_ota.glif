@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota" format="2">
-  <advance width="573"/>
+  <advance width="582"/>
   <unicode hex="0399"/>
-  <anchor x="287" y="1618" name="top"/>
-  <anchor x="332" y="0" name="ogonek"/>
+  <anchor x="291" y="1618" name="top"/>
+  <anchor x="343" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="332" y="0" type="line" name=".av02"/>
-      <point x="332" y="1448" type="line" name=".av01"/>
-      <point x="241" y="1448" type="line" name=".dh01"/>
-      <point x="241" y="0" type="line"/>
-    </contour>
+    <component base="I"/>
   </outline>
   <lib>
   <dict>

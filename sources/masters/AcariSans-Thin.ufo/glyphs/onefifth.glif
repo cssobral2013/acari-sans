@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onefifth" format="2">
-  <advance width="1916"/>
+  <advance width="1688"/>
   <unicode hex="2155"/>
   <outline>
     <component base="one.numr"/>
@@ -9,6 +9,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>five.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_five.dnom</string>
   </dict>

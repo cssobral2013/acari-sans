@@ -38,10 +38,6 @@ The proof files and QA tests are also available automatically via GitHub Actions
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
-* December 11, 2024 Version 1.086R
-  - MAJOR: Remastered weights (now has 9 weights plus matching italics)
-  - MAJOR: Imported some glyphs from older versions of Hanken Grotesk, but newer than the one
-           used to fork into Acari Sans
 
 * December 12-26, 2023 Version 1.074R/1.072I
   - MAJOR: Converted currencies to have the same width as zero-nine. Reflow may occur
@@ -72,11 +68,16 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: Generated standalone fraction glyphs
   - MAJOR: Made many fixes in contrast for several glyphs
 
-* December 11, 2024 Version 1.086
+* December 11-12, 2024 Version 1.087
   - MAJOR: Remastered weights (now has nine weights plus matching italics)
   - MAJOR: Imported some glyphs from older versions of Hanken Grotesk, but newer than the one
            used to fork into Acari Sans
+  - MAJOR: percent, perthousand, pertenthousand are now tabularized. (Reflow may occur.)
+           As such, percent's AW is 0.6 times the UPM, perthousand's is 0.9 and pertenthousand's
+		   is 1.2
   - MINOR: Sync kerning between Roman & Italic
+  - MINOR: Improved 1
+  - MINOR: Adjusted weight inconsistencies in many Cyrillic glyphs (Thin & Thin Italic)
 
 ## License
 

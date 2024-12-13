@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zeta" format="2">
-  <advance width="1309"/>
+  <advance width="1308"/>
   <unicode hex="0396"/>
   <outline>
-    <contour>
-      <point x="1188" y="0" type="line" name=".dv00"/>
-      <point x="1188" y="84" type="line" name=".dv05"/>
-      <point x="195" y="84" type="line"/>
-      <point x="1188" y="1355" type="line"/>
-      <point x="1188" y="1448" type="line" name=".av01"/>
-      <point x="156" y="1448" type="line" name=".dv06"/>
-      <point x="156" y="1379" type="line" name=".dv07"/>
-      <point x="1107" y="1379" type="line"/>
-      <point x="110" y="87" type="line"/>
-      <point x="110" y="0" type="line"/>
-    </contour>
+    <component base="Z"/>
   </outline>
   <lib>
   <dict>

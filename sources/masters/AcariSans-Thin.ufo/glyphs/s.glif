@@ -2,11 +2,11 @@
 <glyph name="s" format="2">
   <advance width="893"/>
   <unicode hex="0073"/>
-  <anchor x="468" y="-0" name="b.uni0326_2"/>
-  <anchor x="3" y="-0" name="b.uni0328_1"/>
+  <anchor x="468" y="0" name="b.uni0326_2"/>
+  <anchor x="3" y="0" name="b.uni0328_1"/>
   <anchor x="443" y="1018" name="t.uni0308_2"/>
-  <anchor x="3" y="-0" name="m.uni0335_3"/>
-  <anchor x="3" y="-0" name="m.uni031B_4"/>
+  <anchor x="3" y="0" name="m.uni0335_3"/>
+  <anchor x="3" y="0" name="m.uni031B_4"/>
   <outline>
     <contour>
       <point x="69" y="258" type="line"/>
@@ -66,8 +66,8 @@
         <array>
           <string>hstem -14 80</string>
           <string>hstem 955 78</string>
-          <string>vstem 128.03 84.18</string>
-          <string>vstem 705.23 85.1</string>
+          <string>vstem 128.02 84.18</string>
+          <string>vstem 705.22 85.1</string>
         </array>
       </dict>
     </array>

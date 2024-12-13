@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zerothirds" format="2">
-  <advance width="2425"/>
+  <advance width="2235"/>
   <unicode hex="2189"/>
   <outline>
     <component base="zero.numr"/>
-    <component base="fraction" xOffset="969"/>
-    <component base="three.dnom" xOffset="1430"/>
+    <component base="fraction" xOffset="859"/>
+    <component base="three.dnom" xOffset="1240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zero.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>three.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>zero.numr_fraction_three.dnom</string>
   </dict>

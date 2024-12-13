@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesixth" format="2">
-  <advance width="2048"/>
+  <advance width="2031"/>
   <unicode hex="2159"/>
   <outline>
-    <component base="one.numr" xOffset="4"/>
-    <component base="fraction" xOffset="723"/>
-    <component base="six.dnom" xOffset="1180"/>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="721"/>
+    <component base="six.dnom" xOffset="1178"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>six.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_six.dnom</string>
   </dict>

@@ -4,12 +4,21 @@
   <outline>
     <contour>
       <point x="373" y="0" type="line"/>
-      <point x="1318" y="1298" type="line"/>
-      <point x="1352" y="1447" type="line"/>
-      <point x="282" y="1447" type="line"/>
-      <point x="221" y="1181" type="line"/>
-      <point x="933" y="1181" type="line"/>
+      <point x="1318" y="1299" type="line"/>
+      <point x="1352" y="1448" type="line"/>
+      <point x="282" y="1448" type="line"/>
+      <point x="221" y="1182" type="line"/>
+      <point x="964" y="1182" type="line"/>
+      <point x="951" y="1207" type="line"/>
       <point x="48" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=65</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=92</string>
+  </dict>
+  </lib>
 </glyph>

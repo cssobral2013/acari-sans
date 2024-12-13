@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twothirds" format="2">
-  <advance width="2099"/>
+  <advance width="1986"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numr"/>
@@ -9,6 +9,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>two.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>three.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>two.numr_fraction_three.dnom</string>
   </dict>

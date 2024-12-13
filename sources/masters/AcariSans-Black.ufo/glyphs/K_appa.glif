@@ -3,20 +3,7 @@
   <advance width="1542"/>
   <unicode hex="039A"/>
   <outline>
-    <contour>
-      <point x="1545" y="0" type="line" name=".av03"/>
-      <point x="951" y="845" type="line"/>
-      <point x="1543" y="1448" type="line" name=".av01"/>
-      <point x="1140" y="1448" type="line"/>
-      <point x="472" y="730" type="line" name=".iv01"/>
-      <point x="472" y="1448" type="line" name=".av02"/>
-      <point x="175" y="1448" type="line" name=".dh01"/>
-      <point x="175" y="0" type="line" name=".av04"/>
-      <point x="472" y="0" type="line" name=".sh01"/>
-      <point x="472" y="367" type="line"/>
-      <point x="743" y="646" type="line"/>
-      <point x="1172" y="0" type="line"/>
-    </contour>
+    <component base="K"/>
   </outline>
   <lib>
   <dict>

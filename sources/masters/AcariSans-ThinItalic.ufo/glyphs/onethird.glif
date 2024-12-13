@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onethird" format="2">
-  <advance width="1829"/>
+  <advance width="1758"/>
   <unicode hex="2153"/>
   <outline>
-    <component base="one.numr" xOffset="16"/>
-    <component base="fraction" xOffset="612"/>
-    <component base="three.dnom" xOffset="903"/>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="601"/>
+    <component base="three.dnom" xOffset="892"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>three.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>one.numr_fraction_three.dnom</string>
   </dict>

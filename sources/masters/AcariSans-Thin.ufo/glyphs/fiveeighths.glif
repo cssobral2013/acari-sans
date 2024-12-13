@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fiveeighths" format="2">
-  <advance width="2203"/>
+  <advance width="1945"/>
   <unicode hex="215D"/>
   <outline>
     <component base="five.numr"/>
-    <component base="fraction" xOffset="940"/>
-    <component base="eight.dnom" xOffset="1159"/>
+    <component base="fraction" xOffset="810"/>
+    <component base="eight.dnom" xOffset="1029"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>five.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>eight.dnom</string>
   <key>com.fontlab.recipe</key>
   <string>five.numr_fraction_eight.dnom</string>
   </dict>

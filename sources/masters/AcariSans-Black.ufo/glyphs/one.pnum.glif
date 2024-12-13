@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.pnum" format="2">
-  <advance width="844"/>
+  <advance width="913"/>
   <outline>
     <contour>
-      <point x="396" y="0" type="line"/>
-      <point x="690" y="0" type="line"/>
-      <point x="690" y="1447" type="line"/>
-      <point x="405" y="1447" type="line"/>
-      <point x="405" y="1402" type="line" smooth="yes"/>
-      <point x="405" y="1313"/>
-      <point x="361" y="1257"/>
-      <point x="260" y="1257" type="curve" smooth="yes"/>
-      <point x="84" y="1257" type="line"/>
-      <point x="84" y="1031" type="line"/>
-      <point x="396" y="1031" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="759" y="0" type="line"/>
+      <point x="759" y="1448" type="line"/>
+      <point x="474" y="1448" type="line"/>
+      <point x="474" y="1383" type="line" smooth="yes"/>
+      <point x="474" y="1294"/>
+      <point x="431" y="1238"/>
+      <point x="329" y="1238" type="curve" smooth="yes"/>
+      <point x="84" y="1238" type="line"/>
+      <point x="84" y="1012" type="line"/>
+      <point x="497" y="1012" type="line"/>
+      <point x="466" y="1043" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=84</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=154</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nu" format="2">
-  <advance width="1430"/>
+  <advance width="1439"/>
   <unicode hex="039D"/>
   <outline>
-    <contour>
-      <point x="1191" y="0" type="line" name=".av03"/>
-      <point x="1191" y="1448" type="line" name=".av01"/>
-      <point x="1094" y="1448" type="line" name=".ah01"/>
-      <point x="1094" y="14" type="line" name=".iv01"/>
-      <point x="441" y="1448" type="line" name=".av02"/>
-      <point x="241" y="1448" type="line" name=".sh01"/>
-      <point x="241" y="0" type="line" name=".av04"/>
-      <point x="339" y="0" type="line"/>
-      <point x="339" y="1435" type="line" name=".iv02"/>
-      <point x="985" y="0" type="line" name=".sh02"/>
-    </contour>
+    <component base="N"/>
   </outline>
   <lib>
   <dict>

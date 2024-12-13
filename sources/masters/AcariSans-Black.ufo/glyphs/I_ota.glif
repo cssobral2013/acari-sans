@@ -5,12 +5,7 @@
   <anchor x="324" y="1618" name="top"/>
   <anchor x="472" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="472" y="0" type="line" name=".av02"/>
-      <point x="472" y="1448" type="line" name=".av01"/>
-      <point x="175" y="1448" type="line" name=".dh01"/>
-      <point x="175" y="0" type="line"/>
-    </contour>
+    <component base="I"/>
   </outline>
   <lib>
   <dict>
