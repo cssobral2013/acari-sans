@@ -68,13 +68,15 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: Generated standalone fraction glyphs
   - MAJOR: Made many fixes in contrast for several glyphs
 
-* December 11-12, 2024 Version 1.087
+* December 11, 2024 - January 1, 2025 Version 1.088
   - MAJOR: Remastered weights (now has nine weights plus matching italics)
   - MAJOR: Imported some glyphs from older versions of Hanken Grotesk, but newer than the one
            used to fork into Acari Sans
   - MAJOR: percent, perthousand, pertenthousand are now tabularized. (Reflow may occur.)
            As such, percent's AW is 0.6 times the UPM, perthousand's is 0.9 and pertenthousand's
 		   is 1.2
+  - MAJOR: Synced weight distribution from Bold to Black to be as near as possible from v1.084
+           and earlier
   - MINOR: Sync kerning between Roman & Italic
   - MINOR: Improved 1
   - MINOR: Adjusted weight inconsistencies in many Cyrillic glyphs (Thin & Thin Italic)
