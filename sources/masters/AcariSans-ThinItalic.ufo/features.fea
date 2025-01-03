@@ -249,8 +249,6 @@
 @uni0441 = [escyr eukrcyr];
 @uni043E = [fitacyr obarcyr ocyr];
 @uni0443 = [ucyr umacroncyr ushortcyr];
-@uni043F.loclBGR = [pecyr.loclBGR tecyr.loclBGR];
-@uni0438.loclBGR = [icyr.loclBGR igravecyr.loclBGR ishortcyr.loclBGR];
 @B = [B D DZ DZcaron Dcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehoi Emacron Eogonek Etilde F H Hcircumflex I Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihoi Imacron Iogonek Itilde K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot M N Nacute Ncaron Ncommaaccent Ntilde P R Racute Rcaron Rcommaaccent Thorn];
 @AE = [AE AEacute];
 @A1 = [Aacute Abreve Abrevedotbelow Abrevegrave Abrevetilde Acaron Acircumflex Acircumflexdotbelow Adieresis Adotbelow Agrave Ahoi Amacron Aogonek Aring Atilde];
@@ -324,7 +322,6 @@
 @uni04A3 = [chetailcyr entailcyr];
 @uni0446 = [shchacyr tsecyr];
 @uni04431 = [ucyr ukcyr umacroncyr ushortcyr];
-@uni0438.loclBGR1 = [icyr.loclBGR igravecyr.loclBGR ishortcyr.loclBGR];
 @H = [Eng H Hcircumflex I Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihoi Imacron Iogonek Itilde M N Nacute Ncaron Ncommaaccent Ntilde];
 @A11 = [Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adieresis Adotbelow Agrave Ahoi Amacron Aogonek Aring Aringacute Atilde];
 @R = [R Rcaron Rcommaaccent];
@@ -387,7 +384,6 @@
 @guillemotright1 = [guillemotright guilsinglright];
 @eight11 = [eight three];
 @Yusbigcyr = [Yusbigcyr Yusbigiotifiedcyr];
-@tsecyr.loclBGR = [shchacyr.loclBGR tsecyr.loclBGR];
 @Mu1 = [Eta Etatonos Iota Iotadieresis Iotatonos Mu Nu Pi];
 @Epsilon = [Epsilon Epsilontonos];
 @Alpha1 = [Alpha Alphatonos Lambda];

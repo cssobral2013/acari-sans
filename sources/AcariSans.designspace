@@ -36,47 +36,47 @@
   </source>
  </sources>
  <instances>
-  <instance stylename="Thin" familyname="Acari Sans" filename="instances/AcariSans-Thin.ufo" name="Thin">
+  <instance stylename="Thin" familyname="Acari Sans" filename="instances/AcariSans-Thin.ufo" name="Thin"  stylemapfamilyname="Acari Sans Thin" stylemapstylename="regular">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight" familyname="Acari Sans" filename="instances/AcariSans-ExtraLight.ufo" name="ExtraLight">
+  <instance stylename="ExtraLight" familyname="Acari Sans" filename="instances/AcariSans-ExtraLight.ufo" name="ExtraLight" stylemapfamilyname="Acari Sans ExtraLight" stylemapstylename="regular">
    <location>
     <dimension xvalue="125" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Light" familyname="Acari Sans" filename="instances/AcariSans-Light.ufo" name="Light">
+  <instance stylename="Light" familyname="Acari Sans" filename="instances/AcariSans-Light.ufo" name="Light" stylemapfamilyname="Acari Sans Light"  stylemapstylename="regular">
    <location>
     <dimension xvalue="150" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Regular" familyname="Acari Sans" filename="instances/AcariSans-Regular.ufo" name="Regular">
+  <instance stylename="Regular" familyname="Acari Sans" filename="instances/AcariSans-Regular.ufo" name="Regular" stylemapfamilyname="Acari Sans" stylemapstylename="regular">
    <location>
     <dimension xvalue="180" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Medium" familyname="Acari Sans" filename="instances/AcariSans-Medium.ufo" name="Medium">
+  <instance stylename="Medium" familyname="Acari Sans" filename="instances/AcariSans-Medium.ufo" name="Medium" stylemapfamilyname="Acari Sans Medium"  stylemapstylename="regular">
    <location>
     <dimension xvalue="210" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiBold" familyname="Acari Sans" filename="instances/AcariSans-SemiBold.ufo" name="SemiBold">
+  <instance stylename="SemiBold" familyname="Acari Sans" filename="instances/AcariSans-SemiBold.ufo" name="SemiBold" stylemapfamilyname="Acari Sans SemiBold"  stylemapstylename="regular">
    <location>
     <dimension xvalue="235" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Bold" familyname="Acari Sans" filename="instances/AcariSans-Bold.ufo" name="Bold">
+  <instance stylename="Bold" familyname="Acari Sans" filename="instances/AcariSans-Bold.ufo" name="Bold" stylemapfamilyname="Acari Sans"  stylemapstylename="bold">
    <location>
     <dimension xvalue="260" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold" familyname="Acari Sans" filename="instances/AcariSans-ExtraBold.ufo" name="ExtraBold">
+  <instance stylename="ExtraBold" familyname="Acari Sans" filename="instances/AcariSans-ExtraBold.ufo" name="ExtraBold" stylemapfamilyname="Acari Sans ExtraBold"  stylemapstylename="regular">
    <location>
     <dimension xvalue="280" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Black" familyname="Acari Sans" filename="instances/AcariSans-Black.ufo" name="Black">
+  <instance stylename="Black" familyname="Acari Sans" filename="instances/AcariSans-Black.ufo" name="Black" stylemapfamilyname="Acari Sans Black"  stylemapstylename="regular">
    <location>
     <dimension xvalue="300" name="weight"/>
    </location>

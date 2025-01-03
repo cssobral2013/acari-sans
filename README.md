@@ -80,6 +80,12 @@ When you update your font (new version or new release), please report all notabl
   - MINOR: Sync kerning between Roman & Italic
   - MINOR: Improved 1
   - MINOR: Adjusted weight inconsistencies in many Cyrillic glyphs (Thin & Thin Italic)
+  
+* January 3, 2025 Version 1.089
+  - MAJOR: Acari Sans now uses fontmake to build the fonts.
+           As a result, some changes were made, including removing all anchors
+  - MAJOR: Acari Sans now uses a ligature system to build stress marks for Cyrillic
+           in Russian & Ukrainian
 
 ## License
 
