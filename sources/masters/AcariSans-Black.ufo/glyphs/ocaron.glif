@@ -2,8 +2,6 @@
 <glyph name="ocaron" format="2">
   <advance width="1150"/>
   <unicode hex="01D2"/>
-  <anchor x="1290" y="1064" name="horn"/>
-  <anchor x="721" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
     <component base="caroncomb" xOffset="873"/>

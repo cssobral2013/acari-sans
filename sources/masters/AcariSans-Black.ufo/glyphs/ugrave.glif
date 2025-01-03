@@ -2,11 +2,9 @@
 <glyph name="ugrave" format="2">
   <advance width="1211"/>
   <unicode hex="00F9"/>
-  <anchor x="1419" y="1064" name="horn"/>
-  <anchor x="1071" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="gravecomb" xOffset="741"/>
+    <component base="gravecomb" xOffset="712"/>
   </outline>
   <lib>
   <dict>

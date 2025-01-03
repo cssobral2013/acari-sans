@@ -2,8 +2,6 @@
 <glyph name="ohorntilde" format="2">
   <advance width="1178"/>
   <unicode hex="1EE1"/>
-  <anchor x="591" y="0" name="ogonek"/>
-  <anchor x="433" y="-120" name="bottom"/>
   <outline>
     <component base="o"/>
     <component base="horncomb" xOffset="1274" yOffset="-384"/>

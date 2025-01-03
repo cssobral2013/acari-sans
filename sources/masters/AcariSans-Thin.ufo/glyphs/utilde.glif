@@ -2,8 +2,6 @@
 <glyph name="utilde" format="2">
   <advance width="1147"/>
   <unicode hex="0169"/>
-  <anchor x="1175" y="1064" name="horn"/>
-  <anchor x="961" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
     <component base="tildecomb" xOffset="1006"/>

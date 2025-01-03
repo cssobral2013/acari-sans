@@ -2,8 +2,6 @@
 <glyph name="Tcaron" format="2">
   <advance width="1115"/>
   <unicode hex="0164"/>
-  <anchor x="366" y="0" name="cedilla"/>
-  <anchor x="334" y="-120" name="bottom"/>
   <outline>
     <component base="T"/>
     <component base="caroncomb" xOffset="929" yOffset="428"/>

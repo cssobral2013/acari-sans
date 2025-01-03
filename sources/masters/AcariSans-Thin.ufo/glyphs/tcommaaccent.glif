@@ -2,7 +2,6 @@
 <glyph name="tcommaaccent" format="2">
   <advance width="670"/>
   <unicode hex="021B"/>
-  <anchor x="402" y="0" name="cedilla"/>
   <outline>
     <component base="t"/>
     <component base="commaaccentcomb" xOffset="580"/>

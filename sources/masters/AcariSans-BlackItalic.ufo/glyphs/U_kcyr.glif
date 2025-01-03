@@ -2,10 +2,6 @@
 <glyph name="Ukcyr" format="2">
   <advance width="2687"/>
   <unicode hex="0478"/>
-  <anchor x="2240" y="1192" name="top"/>
-  <anchor x="784" y="0" name="ogonek"/>
-  <anchor x="1810" y="1448" name="pos"/>
-  <anchor x="2257" y="-205" name="bottom"/>
   <outline>
     <component base="Ocyr"/>
     <component base="ucyr" xOffset="1566"/>

@@ -2,8 +2,6 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="1570"/>
   <unicode hex="0150"/>
-  <anchor x="1570" y="1448" name="horn"/>
-  <anchor x="980" y="0" name="ogonek"/>
   <outline>
     <component base="O" xOffset="25"/>
     <component base="hungarumlautcomb" xOffset="1348" yOffset="420"/>

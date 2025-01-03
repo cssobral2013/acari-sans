@@ -2,9 +2,6 @@
 <glyph name="ishortcyr" format="2">
   <advance width="1165"/>
   <unicode hex="0439"/>
-  <anchor x="850" y="0" name="ogonek"/>
-  <anchor x="1333" y="1064" name="pos"/>
-  <anchor x="415" y="-120" name="bottom"/>
   <outline>
     <component base="icyr"/>
     <component base="brevecomb" xOffset="975"/>

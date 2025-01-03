@@ -2,7 +2,6 @@
 <glyph name="Cdotaccent" format="2">
   <advance width="1458"/>
   <unicode hex="010A"/>
-  <anchor x="638" y="0" name="cedilla"/>
   <outline>
     <component base="C" xOffset="-1"/>
     <component base="dotaccentcomb" xOffset="1108" yOffset="428"/>

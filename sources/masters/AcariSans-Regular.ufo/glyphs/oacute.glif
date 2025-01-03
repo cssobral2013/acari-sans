@@ -2,11 +2,9 @@
 <glyph name="oacute" format="2">
   <advance width="1111"/>
   <unicode hex="00F3"/>
-  <anchor x="1226" y="1064" name="horn"/>
-  <anchor x="695" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="acutecomb" xOffset="981"/>
+    <component base="acutecomb" xOffset="955"/>
   </outline>
   <lib>
   <dict>

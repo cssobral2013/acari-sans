@@ -2,7 +2,6 @@
 <glyph name="Iotadieresis" format="2">
   <advance width="573"/>
   <unicode hex="03AA"/>
-  <anchor x="332" y="0" name="ogonek"/>
   <outline>
     <component base="Iota"/>
     <component base="dieresiscomb" xOffset="711" yOffset="426"/>

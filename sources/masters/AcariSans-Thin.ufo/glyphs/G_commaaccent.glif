@@ -2,10 +2,9 @@
 <glyph name="Gcommaaccent" format="2">
   <advance width="1538"/>
   <unicode hex="0122"/>
-  <anchor x="791" y="1618" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccentcomb" xOffset="1014"/>
+    <component base="commaaccentcomb" xOffset="987"/>
   </outline>
   <lib>
   <dict>

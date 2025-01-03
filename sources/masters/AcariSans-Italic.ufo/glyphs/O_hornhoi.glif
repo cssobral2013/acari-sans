@@ -2,8 +2,6 @@
 <glyph name="Ohornhoi" format="2">
   <advance width="1517"/>
   <unicode hex="1EDE"/>
-  <anchor x="736" y="0" name="ogonek"/>
-  <anchor x="604" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
     <component base="horncomb" xOffset="1666" yOffset="-1"/>

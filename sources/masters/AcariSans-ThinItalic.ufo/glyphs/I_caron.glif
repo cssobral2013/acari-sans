@@ -2,8 +2,6 @@
 <glyph name="Icaron" format="2">
   <advance width="591"/>
   <unicode hex="01CF"/>
-  <anchor x="232" y="0" name="ogonek"/>
-  <anchor x="163" y="-120" name="bottom"/>
   <outline>
     <component base="I"/>
     <component base="caroncomb" xOffset="774" yOffset="428"/>

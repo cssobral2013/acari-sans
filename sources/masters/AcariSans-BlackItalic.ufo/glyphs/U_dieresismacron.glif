@@ -2,9 +2,6 @@
 <glyph name="Udieresismacron" format="2">
   <advance width="1420"/>
   <unicode hex="01D5"/>
-  <anchor x="686" y="0" name="ogonek"/>
-  <anchor x="1782" y="1448" name="pos"/>
-  <anchor x="587" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="dieresiscomb_macroncomb" xOffset="1266" yOffset="428"/>

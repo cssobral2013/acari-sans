@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icyr_acutecomb" format="2">
+  <advance width="1448"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="acutecomb" xOffset="1118" yOffset="428"/>
+  </outline>
+  <guideline angle="0" x="0" y="434"/>
+  <guideline angle="0" x="0" y="1016"/>
+  <guideline angle="77.0439" x="282" y="144"/>
+  <guideline angle="256.98" x="1266" y="1306"/>
+  <guideline angle="90" name="vertical" x="889" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Icyr_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

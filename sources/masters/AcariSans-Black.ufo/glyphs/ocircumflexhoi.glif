@@ -2,8 +2,6 @@
 <glyph name="ocircumflexhoi" format="2">
   <advance width="1150"/>
   <unicode hex="1ED5"/>
-  <anchor x="1291" y="1064" name="horn"/>
-  <anchor x="722" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
     <component base="circumflexcomb_hookabovecomb" xOffset="950" yOffset="-20"/>

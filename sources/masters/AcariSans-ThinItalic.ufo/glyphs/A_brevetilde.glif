@@ -2,8 +2,6 @@
 <glyph name="Abrevetilde" format="2">
   <advance width="1323"/>
   <unicode hex="1EB4"/>
-  <anchor x="1104" y="0" name="ogonek"/>
-  <anchor x="543" y="-120" name="bottom"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb_tildecomb" xOffset="1172" yOffset="428"/>

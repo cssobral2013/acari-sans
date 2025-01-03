@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eukrcyr_acutecomb" format="2">
+  <advance width="1058"/>
+  <outline>
+    <component base="eukrcyr"/>
+    <component base="acutecomb" xOffset="1058"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>eukrcyr_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

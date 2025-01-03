@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iecyr_acutecomb" format="2">
+  <advance width="1116"/>
+  <outline>
+    <component base="iecyr"/>
+    <component base="acutecomb" xOffset="983"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iecyr_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

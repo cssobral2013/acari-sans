@@ -2,9 +2,6 @@
 <glyph name="obreve" format="2">
   <advance width="1174"/>
   <unicode hex="014F"/>
-  <anchor x="548" y="0" name="ogonek"/>
-  <anchor x="1347" y="1064" name="pos"/>
-  <anchor x="455" y="-120" name="bottom"/>
   <outline>
     <component base="o" xOffset="-1"/>
     <component base="brevecomb" xOffset="1012"/>

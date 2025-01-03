@@ -2,9 +2,6 @@
 <glyph name="Ucircumflex" format="2">
   <advance width="1420"/>
   <unicode hex="00DB"/>
-  <anchor x="686" y="0" name="ogonek"/>
-  <anchor x="1782" y="1448" name="pos"/>
-  <anchor x="587" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="circumflexcomb" xOffset="1202" yOffset="428"/>

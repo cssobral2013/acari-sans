@@ -2,10 +2,9 @@
 <glyph name="Uacute" format="2">
   <advance width="1376"/>
   <unicode hex="00DA"/>
-  <anchor x="1382" y="1448" name="horn"/>
   <outline>
     <component base="U"/>
-    <component base="acutecomb" xOffset="1077" yOffset="426"/>
+    <component base="acutecomb" xOffset="1077" yOffset="408"/>
   </outline>
   <lib>
   <dict>

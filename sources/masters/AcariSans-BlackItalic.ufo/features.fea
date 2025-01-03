@@ -2,6 +2,7 @@
 #/> otclasses
 @locl_ss02 = [Decyr Elcyr vecyr zhecyr zecyr kacyr elcyr yucyr];
 @locl_ss022 = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR elcyr.loclBGR yucyr.loclBGR];
+@liga3 = [Acyr Iecyr Icyr Ocyr Ucyr Ylongcyr Yucyr Yacyr Iocyr Iukrcyr Yukrcyr Eukrcyr acyr iecyr icyr ocyr ucyr ylongcyr yucyr yacyr iocyr iukrcyr yukrcyr eukrcyr];
 #/< otclasses
 
 #/> kernclasses
@@ -551,6 +552,38 @@ feature liga {
   sub f f by f_f;
   sub f i by fi;
   sub f l by fl;
+
+ lookup liga_3 {
+  # GSUB lookup 43, type 11 (Single)
+    sub @liga3 [acutecomb gravecomb acute grave]' by [acutecomb.cyr acutecomb.cyr acutecomb.cyr acutecomb.cyr];
+  } liga_3;
+
+ lookup liga_4 {
+sub Acyr acutecomb by Acyr_acutecomb; 
+sub Iecyr acutecomb by Iecyr_acutecomb; 
+sub Icyr acutecomb by Icyr_acutecomb; 
+sub Ocyr acutecomb by Ocyr_acutecomb; 
+sub Ucyr acutecomb by Ucyr_acutecomb; 
+sub Ylongcyr acutecomb by Ylongcyr_acutecomb; 
+sub Yucyr acutecomb by Yucyr_acutecomb; 
+sub Yacyr acutecomb by Yacyr_acutecomb; 
+sub Iocyr acutecomb by Iocyr_acutecomb; 
+sub Iukrcyr acutecomb by Iukrcyr_acutecomb;
+sub Yukrcyr acutecomb by Yukrcyr_acutecomb; 
+sub Eukrcyr acutecomb by Eukrcyr_acutecomb; 
+sub acyr acutecomb by acyr_acutecomb; 
+sub iecyr acutecomb by iecyr_acutecomb; 
+sub icyr acutecomb by icyr_acutecomb; 
+sub ocyr acutecomb by ocyr_acutecomb; 
+sub ucyr acutecomb by ucyr_acutecomb; 
+sub ylongcyr acutecomb by ylongcyr_acutecomb; 
+sub yucyr acutecomb by yucyr_acutecomb; 
+sub yacyr acutecomb by yacyr_acutecomb; 
+sub iocyr acutecomb by iocyr_acutecomb; 
+sub iukrcyr acutecomb by iukrcyr_acutecomb;
+sub yukrcyr acutecomb by yukrcyr_acutecomb;  
+sub eukrcyr acutecomb by eukrcyr_acutecomb; 
+ } liga_4;
 
 } liga;
 feature numr {
@@ -1896,3 +1929,14 @@ feature ss02 {
   sub @locl_ss02 by @locl_ss022;
 
 } ss02;
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+  sub g by g.ss01;
+  sub gbreve by gbreve.ss01;
+  sub gcircumflex by gcircumflex.ss01;
+  sub gcommaaccent by gcommaaccent.ss01;
+  sub gdotaccent by gdotaccent.ss01;
+#< feature
+} ss01;

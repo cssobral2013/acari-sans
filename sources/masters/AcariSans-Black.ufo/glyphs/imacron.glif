@@ -2,7 +2,6 @@
 <glyph name="imacron" format="2">
   <advance width="528"/>
   <unicode hex="012B"/>
-  <anchor x="408" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi" xOffset="-5"/>
     <component base="macroncomb" xOffset="679"/>

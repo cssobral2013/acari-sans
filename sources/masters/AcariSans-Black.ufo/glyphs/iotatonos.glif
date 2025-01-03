@@ -2,7 +2,6 @@
 <glyph name="iotatonos" format="2">
   <advance width="572"/>
   <unicode hex="03AF"/>
-  <anchor x="425" y="0" name="ogonek"/>
   <outline>
     <component base="iota"/>
     <component base="tonos" xOffset="236" yOffset="170"/>

@@ -2,11 +2,9 @@
 <glyph name="otilde" format="2">
   <advance width="1150"/>
   <unicode hex="00F5"/>
-  <anchor x="1290" y="1064" name="horn"/>
-  <anchor x="721" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="1021" yOffset="-34"/>
+    <component base="tildecomb" xOffset="1017" yOffset="-8"/>
   </outline>
   <lib>
   <dict>

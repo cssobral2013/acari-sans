@@ -2,10 +2,9 @@
 <glyph name="igrave" format="2">
   <advance width="538"/>
   <unicode hex="00EC"/>
-  <anchor x="413" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="gravecomb" xOffset="415"/>
+    <component base="gravecomb" xOffset="395"/>
   </outline>
   <lib>
   <dict>

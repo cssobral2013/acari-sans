@@ -2,12 +2,9 @@
 <glyph name="aacute" format="2">
   <advance width="1097"/>
   <unicode hex="00E1"/>
-  <anchor x="535" y="-150" name="bottom"/>
-  <anchor x="535" y="1414" name="center"/>
-  <anchor x="989" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
-    <component base="acutecomb" xOffset="907"/>
+    <component base="acutecomb" xOffset="949"/>
   </outline>
   <lib>
   <dict>

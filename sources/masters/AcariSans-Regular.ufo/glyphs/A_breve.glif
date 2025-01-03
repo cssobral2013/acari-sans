@@ -2,12 +2,9 @@
 <glyph name="Abreve" format="2">
   <advance width="1338"/>
   <unicode hex="0102"/>
-  <anchor x="673" y="-150" name="bottom"/>
-  <anchor x="673" y="1551" name="center"/>
-  <anchor x="1282" y="0" name="ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="1105" yOffset="428"/>
+    <component base="brevecomb" xOffset="1105" yOffset="408"/>
   </outline>
   <lib>
   <dict>

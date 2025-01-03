@@ -2,9 +2,6 @@
 <glyph name="Iotatonos" format="2">
   <advance width="598"/>
   <unicode hex="038A"/>
-  <anchor x="175" y="-120" name="bottom"/>
-  <anchor x="285" y="0" name="ogonek"/>
-  <anchor x="532" y="1620" name="top"/>
   <outline>
     <component base="I" xOffset="12"/>
     <component base="tonos" xOffset="-159" yOffset="-19"/>

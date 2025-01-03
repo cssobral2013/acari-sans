@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Einvertedbreve" format="2">
+  <advance width="1278"/>
+  <unicode hex="0206"/>
+  <outline>
+    <component base="E"/>
+    <component base="breveinvertedcomb" xOffset="661" yOffset="410"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

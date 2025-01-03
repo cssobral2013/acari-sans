@@ -2,8 +2,6 @@
 <glyph name="Iegravecyr" format="2">
   <advance width="1277"/>
   <unicode hex="0400"/>
-  <anchor x="1040" y="0" name="ogonek"/>
-  <anchor x="571" y="-120" name="bottom"/>
   <outline>
     <component base="Iecyr"/>
     <component base="gravecomb" xOffset="962" yOffset="428"/>

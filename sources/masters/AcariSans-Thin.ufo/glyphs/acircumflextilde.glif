@@ -2,9 +2,6 @@
 <glyph name="acircumflextilde" format="2">
   <advance width="1066"/>
   <unicode hex="1EAB"/>
-  <anchor x="916" y="0" name="ogonek"/>
-  <anchor x="513" y="1372" name="center"/>
-  <anchor x="513" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
     <component base="circumflexcomb_tildecomb" xOffset="908" yOffset="-31"/>

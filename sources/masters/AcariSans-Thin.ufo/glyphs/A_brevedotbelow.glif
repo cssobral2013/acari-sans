@@ -2,8 +2,6 @@
 <glyph name="Abrevedotbelow" format="2">
   <advance width="1323"/>
   <unicode hex="1EB6"/>
-  <anchor x="1223" y="0" name="ogonek"/>
-  <anchor x="666" y="1547" name="center"/>
   <outline>
     <component base="Adotbelow"/>
     <component base="brevecomb" xOffset="1092" yOffset="428"/>

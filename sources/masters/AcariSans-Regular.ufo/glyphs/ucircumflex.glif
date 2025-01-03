@@ -2,11 +2,9 @@
 <glyph name="ucircumflex" format="2">
   <advance width="1166"/>
   <unicode hex="00FB"/>
-  <anchor x="1240" y="1064" name="horn"/>
-  <anchor x="1005" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="971" yOffset="-28"/>
+    <component base="circumflexcomb" xOffset="971" yOffset="-8"/>
   </outline>
   <lib>
   <dict>
