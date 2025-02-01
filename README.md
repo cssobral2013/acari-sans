@@ -86,6 +86,11 @@ When you update your font (new version or new release), please report all notabl
            As a result, some changes were made, including removing all anchors
   - MAJOR: Acari Sans now uses a ligature system to build stress marks for Cyrillic
            in Russian & Ukrainian
+		   
+* February 1, 2025 Version 1.090
+  - MAJOR: Improved percent/perthousand glyphs
+  - MAJOR: 0-9 figures now have horizontal terminals by default
+  - MINOR: Improved Cyrillic in Light/LightItalic masters
 
 ## License
 

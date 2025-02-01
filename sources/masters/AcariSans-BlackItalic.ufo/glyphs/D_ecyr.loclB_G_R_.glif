@@ -2,15 +2,7 @@
 <glyph name="Decyr.loclBGR" format="2">
   <advance width="1510"/>
   <outline>
-    <contour>
-      <point x="1321" y="0" type="line"/>
-      <point x="1067" y="1448" type="line"/>
-      <point x="850" y="1448" type="line"/>
-      <point x="-73" y="0" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="868" y="1020" type="line"/>
-      <point x="1012" y="0" type="line"/>
-    </contour>
+    <component base="Elcyr.loclBGR" xOffset="50"/>
     <contour>
       <point x="345" y="233" type="line"/>
       <point x="-52" y="233" type="line"/>
