@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="2">
-  <advance width="1097"/>
+  <advance width="1098"/>
   <unicode hex="00E1"/>
   <outline>
     <component base="a"/>
-    <component base="acutecomb" xOffset="949"/>
+    <component base="acutecomb" xOffset="915"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>a+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

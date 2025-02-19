@@ -2,23 +2,6 @@
 <glyph name="four.dnom" format="2">
   <advance width="820"/>
   <outline>
-    <contour>
-      <point x="545" y="0" type="line"/>
-      <point x="596" y="220" type="line"/>
-      <point x="750" y="220" type="line"/>
-      <point x="786" y="399" type="line"/>
-      <point x="638" y="399" type="line"/>
-      <point x="770" y="970" type="line"/>
-      <point x="610" y="970" type="line"/>
-      <point x="-12" y="334" type="line"/>
-      <point x="-33" y="220" type="line"/>
-      <point x="402" y="220" type="line"/>
-      <point x="352" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="445" y="399" type="line"/>
-      <point x="221" y="399" type="line"/>
-      <point x="515" y="706" type="line"/>
-    </contour>
+    <component base="uni2084" xOffset="104.923" yOffset="468"/>
   </outline>
 </glyph>

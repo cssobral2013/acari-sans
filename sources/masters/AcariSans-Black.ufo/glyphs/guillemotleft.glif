@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="2">
-  <advance width="973"/>
+  <advance width="974"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="459" y="149" type="line"/>
-      <point x="459" y="384" type="line"/>
-      <point x="281" y="521" type="line"/>
-      <point x="459" y="664" type="line"/>
-      <point x="459" y="898" type="line"/>
-      <point x="-3" y="521" type="line"/>
+      <point x="458" y="151" type="line" name=".av03"/>
+      <point x="458" y="382" type="line"/>
+      <point x="279" y="521" type="line"/>
+      <point x="458" y="665" type="line"/>
+      <point x="458" y="896" type="line" name=".av01"/>
+      <point x="1" y="521" type="line"/>
     </contour>
     <contour>
-      <point x="830" y="149" type="line"/>
-      <point x="830" y="384" type="line"/>
-      <point x="652" y="521" type="line"/>
-      <point x="830" y="664" type="line"/>
-      <point x="830" y="898" type="line"/>
-      <point x="369" y="521" type="line"/>
+      <point x="829" y="151" type="line" name=".av04"/>
+      <point x="829" y="382" type="line"/>
+      <point x="650" y="521" type="line"/>
+      <point x="829" y="665" type="line"/>
+      <point x="829" y="896" type="line" name=".av02"/>
+      <point x="373" y="521" type="line"/>
     </contour>
   </outline>
 </glyph>

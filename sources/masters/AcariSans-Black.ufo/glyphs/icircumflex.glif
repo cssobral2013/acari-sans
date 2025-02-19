@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-  <advance width="528"/>
+  <advance width="532"/>
   <unicode hex="00EE"/>
   <outline>
-    <component base="dotlessi" xOffset="-5"/>
-    <component base="circumflexcomb" xOffset="554" yOffset="-8"/>
+    <component base="dotlessi" xOffset="-4"/>
+    <component base="uni0302" xOffset="584"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>dotlessi+circumflexcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -4,12 +4,12 @@
   <unicode hex="0124"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb" xOffset="1184" yOffset="428"/>
+    <component base="uni0302" xOffset="1184" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>H+circumflexcomb</string>
+  <string>H+uni0302</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0428" format="2">
+  <advance width="1848"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="1543" y="0" type="line"/>
+      <point x="1876" y="1448" type="line"/>
+      <point x="1616" y="1448" type="line"/>
+      <point x="1330" y="209" type="line"/>
+      <point x="1510" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="209" type="line"/>
+      <point x="663" y="1448" type="line"/>
+      <point x="402" y="1448" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="984" y="209" type="line"/>
+      <point x="1270" y="1448" type="line"/>
+      <point x="1009" y="1448" type="line"/>
+      <point x="723" y="209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1543" y="0" type="line"/>
+      <point x="1550" y="28" type="line"/>
+      <point x="1368" y="239" type="line"/>
+      <point x="353" y="239" type="line"/>
+      <point x="77" y="29" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

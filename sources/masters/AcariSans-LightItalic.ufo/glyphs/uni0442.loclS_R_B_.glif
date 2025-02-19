@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442.loclSRB" format="2">
+  <advance width="1811"/>
+  <outline>
+    <component base="uni0448"/>
+    <contour>
+      <point x="543" y="1252" type="line"/>
+      <point x="1639" y="1252" type="line"/>
+      <point x="1663" y="1358" type="line"/>
+      <point x="567" y="1358" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1252"/>
+  <guideline angle="77" x="543" y="1252"/>
+  <guideline angle="77" x="1639" y="1252"/>
+  <guideline angle="0" x="0" y="1358"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0448</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0448</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,14 +2,15 @@
 <glyph name="ccaron" format="2">
   <advance width="1065"/>
   <unicode hex="010D"/>
+  <anchor x="456" y="0" name="cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="caroncomb" xOffset="877"/>
+    <component base="uni030C" xOffset="877"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>c+caroncomb</string>
+  <string>c+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.pnum" format="2">
-  <advance width="1193"/>
+  <advance width="1183"/>
   <outline>
     <contour>
-      <point x="167" y="0" type="line"/>
-      <point x="497" y="0" type="line"/>
-      <point x="1146" y="1295" type="line"/>
-      <point x="1146" y="1448" type="line"/>
-      <point x="69" y="1448" type="line"/>
-      <point x="69" y="1175" type="line"/>
-      <point x="813" y="1175" type="line"/>
-      <point x="796" y="1202" type="line"/>
+      <point x="489" y="0" type="line" name=".av01"/>
+      <point x="1137" y="1298" type="line"/>
+      <point x="1137" y="1447" type="line"/>
+      <point x="66" y="1447" type="line" name=".dv02"/>
+      <point x="66" y="1181" type="line" name=".dv01"/>
+      <point x="783" y="1181" type="line"/>
+      <point x="168" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=69</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=47</string>
-  </dict>
-  </lib>
 </glyph>

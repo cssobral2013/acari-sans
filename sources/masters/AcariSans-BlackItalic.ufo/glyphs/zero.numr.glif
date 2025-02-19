@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.numr" format="2">
-  <advance width="910"/>
+  <advance width="854"/>
   <outline>
-    <component base="zero.dnom" xOffset="110" yOffset="478"/>
+    <component base="uni2080" xOffset="214.314" yOffset="958.468"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>zero.dnom</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=59</string>
-  </dict>
-  </lib>
 </glyph>

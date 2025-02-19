@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="2">
-  <advance width="1367"/>
+  <advance width="1366"/>
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="794" y="109" type="line"/>
-      <point x="794" y="529" type="line"/>
-      <point x="1259" y="529" type="line"/>
-      <point x="1259" y="748" type="line"/>
-      <point x="794" y="748" type="line"/>
-      <point x="794" y="1170" type="line"/>
-      <point x="576" y="1170" type="line"/>
-      <point x="576" y="748" type="line"/>
-      <point x="109" y="748" type="line"/>
-      <point x="109" y="529" type="line"/>
-      <point x="576" y="529" type="line"/>
-      <point x="576" y="109" type="line"/>
+      <point x="790" y="109" type="line" name=".sh01"/>
+      <point x="790" y="532" type="line" name=".dv03"/>
+      <point x="1256" y="532" type="line"/>
+      <point x="1256" y="745" type="line"/>
+      <point x="790" y="745" type="line" name=".dv04"/>
+      <point x="790" y="1170" type="line" name=".av01"/>
+      <point x="578" y="1170" type="line" name=".dh01"/>
+      <point x="578" y="745" type="line" name=".sv01"/>
+      <point x="111" y="745" type="line"/>
+      <point x="111" y="532" type="line" name=".sv02"/>
+      <point x="578" y="532" type="line" name=".sh02"/>
+      <point x="578" y="109" type="line"/>
     </contour>
     <contour>
-      <point x="1256" y="-217" type="line"/>
-      <point x="1256" y="0" type="line"/>
-      <point x="111" y="0" type="line"/>
-      <point x="111" y="-217" type="line"/>
+      <point x="1253" y="-211" type="line" name=".dv01"/>
+      <point x="1253" y="0" type="line" name=".dv02"/>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="-211" type="line"/>
     </contour>
   </outline>
 </glyph>

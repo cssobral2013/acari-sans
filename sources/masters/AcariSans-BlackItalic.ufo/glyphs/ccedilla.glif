@@ -2,64 +2,15 @@
 <glyph name="ccedilla" format="2">
   <advance width="1065"/>
   <unicode hex="00E7"/>
+  <anchor x="683" y="1192" name="top"/>
   <outline>
-    <contour>
-      <point x="358" y="-541" type="curve" smooth="yes"/>
-      <point x="506" y="-541"/>
-      <point x="613" y="-448"/>
-      <point x="613" y="-298" type="curve" smooth="yes"/>
-      <point x="613" y="-170"/>
-      <point x="538" y="-115"/>
-      <point x="464" y="-103" type="curve"/>
-      <point x="538" y="-19" type="line"/>
-      <point x="727" y="4"/>
-      <point x="881" y="114"/>
-      <point x="977" y="282" type="curve"/>
-      <point x="734" y="409" type="line"/>
-      <point x="683" y="315"/>
-      <point x="597" y="244"/>
-      <point x="489" y="244" type="curve" smooth="yes"/>
-      <point x="383" y="244"/>
-      <point x="314" y="297"/>
-      <point x="314" y="412" type="curve" smooth="yes"/>
-      <point x="314" y="606"/>
-      <point x="439" y="813"/>
-      <point x="644" y="813" type="curve" smooth="yes"/>
-      <point x="729" y="813"/>
-      <point x="796" y="760"/>
-      <point x="796" y="673" type="curve"/>
-      <point x="1087" y="759" type="line"/>
-      <point x="1047" y="963"/>
-      <point x="892" y="1081"/>
-      <point x="683" y="1081" type="curve" smooth="yes"/>
-      <point x="315" y="1081"/>
-      <point x="35" y="763"/>
-      <point x="35" y="399" type="curve" smooth="yes"/>
-      <point x="35" y="162"/>
-      <point x="166" y="12"/>
-      <point x="378" y="-18" type="curve"/>
-      <point x="248" y="-174" type="line"/>
-      <point x="265" y="-205" type="line"/>
-      <point x="345" y="-205" type="line" smooth="yes"/>
-      <point x="392" y="-205"/>
-      <point x="448" y="-230"/>
-      <point x="448" y="-289" type="curve" smooth="yes"/>
-      <point x="448" y="-354"/>
-      <point x="413" y="-386"/>
-      <point x="352" y="-386" type="curve" smooth="yes"/>
-      <point x="332" y="-386"/>
-      <point x="301" y="-377"/>
-      <point x="288" y="-357" type="curve"/>
-      <point x="132" y="-395" type="line"/>
-      <point x="158" y="-481"/>
-      <point x="252" y="-541"/>
-    </contour>
+    <component base="c"/>
+    <component base="uni0327" xOffset="873"/>
   </outline>
-  <guideline angle="90" name="vertical" x="663" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>c+cedillacomb</string>
+  <string>c+uni0327</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

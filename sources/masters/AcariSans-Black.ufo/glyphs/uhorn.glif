@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn" format="2">
-  <advance width="1464"/>
+  <advance width="1446"/>
   <unicode hex="01B0"/>
+  <anchor x="588" y="1192" name="top"/>
+  <anchor x="1070" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1481" yOffset="-384"/>
+    <component base="uni031B" xOffset="1468" yOffset="-384"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>u+horncomb</string>
+  <string>u+uni031B</string>
   </dict>
   </lib>
 </glyph>

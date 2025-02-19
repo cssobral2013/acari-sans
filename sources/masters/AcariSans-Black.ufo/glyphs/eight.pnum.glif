@@ -1,68 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight.pnum" format="2">
-  <advance width="1333"/>
+  <advance width="1325"/>
   <outline>
     <contour>
-      <point x="654" y="-20" type="curve" smooth="yes"/>
-      <point x="979" y="-20"/>
-      <point x="1220" y="170"/>
-      <point x="1220" y="426" type="curve" smooth="yes"/>
-      <point x="1220" y="579"/>
-      <point x="1157" y="696"/>
-      <point x="1027" y="782" type="curve"/>
-      <point x="1106" y="861"/>
-      <point x="1148" y="960"/>
-      <point x="1148" y="1069" type="curve" smooth="yes"/>
-      <point x="1148" y="1288"/>
-      <point x="930" y="1468"/>
-      <point x="665" y="1468" type="curve" smooth="yes"/>
-      <point x="407" y="1468"/>
-      <point x="185" y="1282"/>
-      <point x="185" y="1065" type="curve" smooth="yes"/>
+      <point x="652" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="976" y="-20"/>
+      <point x="1212" y="167"/>
+      <point x="1212" y="424" type="curve" smooth="yes" name=".sh01"/>
+      <point x="1212" y="578"/>
+      <point x="1147" y="697"/>
+      <point x="1016" y="782" type="curve"/>
+      <point x="1097" y="860"/>
+      <point x="1140" y="960"/>
+      <point x="1140" y="1070" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1140" y="1290"/>
+      <point x="926" y="1468"/>
+      <point x="661" y="1468" type="curve" smooth="yes"/>
+      <point x="401" y="1468"/>
+      <point x="185" y="1286"/>
+      <point x="185" y="1067" type="curve" smooth="yes" name=".ih02"/>
       <point x="185" y="956"/>
-      <point x="225" y="862"/>
-      <point x="306" y="782" type="curve"/>
-      <point x="181" y="696"/>
-      <point x="113" y="569"/>
-      <point x="113" y="422" type="curve" smooth="yes"/>
-      <point x="113" y="174"/>
-      <point x="350" y="-20"/>
+      <point x="226" y="861"/>
+      <point x="309" y="782" type="curve"/>
+      <point x="182" y="697"/>
+      <point x="113" y="570"/>
+      <point x="113" y="421" type="curve" smooth="yes" name=".dh01"/>
+      <point x="113" y="171"/>
+      <point x="346" y="-20"/>
     </contour>
     <contour>
-      <point x="669" y="898" type="curve" smooth="yes"/>
-      <point x="557" y="898"/>
-      <point x="480" y="964"/>
-      <point x="480" y="1060" type="curve" smooth="yes"/>
-      <point x="480" y="1161"/>
-      <point x="548" y="1221"/>
-      <point x="661" y="1221" type="curve" smooth="yes"/>
-      <point x="786" y="1221"/>
-      <point x="861" y="1161"/>
-      <point x="861" y="1060" type="curve" smooth="yes"/>
-      <point x="861" y="961"/>
-      <point x="786" y="898"/>
+      <point x="665" y="894" type="curve" smooth="yes" name=".dv06"/>
+      <point x="550" y="894"/>
+      <point x="472" y="962"/>
+      <point x="472" y="1062" type="curve" smooth="yes" name=".sh02"/>
+      <point x="472" y="1165"/>
+      <point x="543" y="1227"/>
+      <point x="659" y="1227" type="curve" smooth="yes"/>
+      <point x="785" y="1227"/>
+      <point x="861" y="1165"/>
+      <point x="861" y="1061" type="curve" smooth="yes" name=".dh03"/>
+      <point x="861" y="959"/>
+      <point x="784" y="894"/>
     </contour>
     <contour>
-      <point x="663" y="236" type="curve" smooth="yes"/>
-      <point x="504" y="236"/>
-      <point x="405" y="314"/>
-      <point x="405" y="438" type="curve" smooth="yes"/>
-      <point x="405" y="560"/>
-      <point x="506" y="638"/>
-      <point x="663" y="638" type="curve" smooth="yes"/>
-      <point x="824" y="638"/>
-      <point x="924" y="561"/>
-      <point x="924" y="434" type="curve" smooth="yes"/>
-      <point x="924" y="313"/>
-      <point x="823" y="236"/>
+      <point x="659" y="229" type="curve" smooth="yes" name=".dv02"/>
+      <point x="498" y="229"/>
+      <point x="397" y="309"/>
+      <point x="397" y="436" type="curve" smooth="yes" name=".dh02"/>
+      <point x="397" y="562"/>
+      <point x="499" y="642"/>
+      <point x="659" y="642" type="curve" smooth="yes" name=".dv05"/>
+      <point x="822" y="642"/>
+      <point x="924" y="562"/>
+      <point x="924" y="433" type="curve" smooth="yes" name=".ih01"/>
+      <point x="924" y="308"/>
+      <point x="821" y="229"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=113</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=113</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,14 +2,17 @@
 <glyph name="Obreve" format="2">
   <advance width="1566"/>
   <unicode hex="014E"/>
+  <anchor x="784" y="0" name="ogonek"/>
+  <anchor x="1810" y="1448" name="pos"/>
+  <anchor x="663" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="brevecomb" xOffset="1335" yOffset="428"/>
+    <component base="uni0306" xOffset="1335" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>O+brevecomb</string>
+  <string>O+uni0306</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

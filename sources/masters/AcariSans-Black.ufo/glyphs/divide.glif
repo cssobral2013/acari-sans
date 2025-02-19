@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="2">
-  <advance width="1420"/>
+  <advance width="1395"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="862" y="825" type="line"/>
-      <point x="862" y="1124" type="line"/>
-      <point x="561" y="1124" type="line"/>
-      <point x="561" y="825" type="line"/>
+      <point x="846" y="831" type="line" name=".dv03"/>
+      <point x="846" y="1124" type="line" name=".dv04"/>
+      <point x="551" y="1124" type="line" name=".dh01"/>
+      <point x="551" y="831" type="line"/>
     </contour>
     <contour>
-      <point x="1354" y="536" type="line"/>
-      <point x="1354" y="753" type="line"/>
-      <point x="70" y="753" type="line"/>
-      <point x="70" y="536" type="line"/>
+      <point x="1325" y="539" type="line" name=".dv05"/>
+      <point x="1325" y="750" type="line" name=".dv06"/>
+      <point x="73" y="750" type="line"/>
+      <point x="73" y="539" type="line"/>
     </contour>
     <contour>
-      <point x="862" y="146" type="line"/>
-      <point x="862" y="447" type="line"/>
-      <point x="561" y="447" type="line"/>
-      <point x="561" y="146" type="line"/>
+      <point x="846" y="146" type="line" name=".dv01"/>
+      <point x="846" y="441" type="line" name=".dv02"/>
+      <point x="551" y="441" type="line" name=".sh01"/>
+      <point x="551" y="146" type="line"/>
     </contour>
   </outline>
 </glyph>

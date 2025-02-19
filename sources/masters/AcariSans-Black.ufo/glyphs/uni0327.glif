@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0327" format="2">
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="-341" y="0" type="line"/>
+      <point x="-448" y="-205" type="line"/>
+      <point x="-337" y="-205" type="line" smooth="yes"/>
+      <point x="-268" y="-205"/>
+      <point x="-227" y="-246"/>
+      <point x="-227" y="-302" type="curve" smooth="yes" name=".dh01"/>
+      <point x="-227" y="-354"/>
+      <point x="-260" y="-386"/>
+      <point x="-304" y="-386" type="curve" smooth="yes" name=".dv02"/>
+      <point x="-338" y="-386"/>
+      <point x="-371" y="-366"/>
+      <point x="-390" y="-333" type="curve"/>
+      <point x="-536" y="-399" type="line"/>
+      <point x="-495" y="-484"/>
+      <point x="-404" y="-541"/>
+      <point x="-310" y="-541" type="curve" smooth="yes" name=".dv01"/>
+      <point x="-165" y="-541"/>
+      <point x="-69" y="-447"/>
+      <point x="-69" y="-304" type="curve" smooth="yes" name=".dh02"/>
+      <point x="-69" y="-202"/>
+      <point x="-141" y="-119"/>
+      <point x="-248" y="-97" type="curve"/>
+      <point x="-185" y="0" type="line" name=".av01"/>
+    </contour>
+  </outline>
+</glyph>

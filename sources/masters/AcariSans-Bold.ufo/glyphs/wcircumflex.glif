@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex" format="2">
+  <advance width="1560"/>
+  <unicode hex="0175"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni0302" xOffset="1176" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

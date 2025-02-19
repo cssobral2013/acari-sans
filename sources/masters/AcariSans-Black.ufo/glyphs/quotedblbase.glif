@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
-  <advance width="933"/>
+  <advance width="931"/>
   <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="258" y="-230" type="line"/>
-      <point x="520" y="270" type="line"/>
-      <point x="237" y="270" type="line"/>
-      <point x="94" y="-230" type="line"/>
+      <point x="257" y="-230" type="line" name=".dv01"/>
+      <point x="517" y="270" type="line"/>
+      <point x="239" y="270" type="line" name=".dv02"/>
+      <point x="97" y="-230" type="line"/>
     </contour>
     <contour>
-      <point x="628" y="-230" type="line"/>
-      <point x="890" y="270" type="line"/>
-      <point x="606" y="270" type="line"/>
+      <point x="624" y="-230" type="line" name=".sv01"/>
+      <point x="884" y="270" type="line" name=".sv02"/>
+      <point x="605" y="270" type="line"/>
       <point x="465" y="-230" type="line"/>
     </contour>
   </outline>

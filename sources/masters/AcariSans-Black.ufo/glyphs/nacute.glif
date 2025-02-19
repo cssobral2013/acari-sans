@@ -4,12 +4,10 @@
   <unicode hex="0144"/>
   <outline>
     <component base="n"/>
-    <component base="acutecomb" xOffset="1009"/>
+    <component base="acutecomb" xOffset="1013"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>n+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

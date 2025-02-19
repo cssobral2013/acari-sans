@@ -4,12 +4,10 @@
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="1061" yOffset="-8"/>
+    <component base="tildecomb" xOffset="1063" yOffset="-27"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>n+tildecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB0" format="2">
+  <advance width="1331"/>
+  <unicode hex="1EB0"/>
+  <anchor x="1254" y="0" name="ogonek"/>
+  <anchor x="670" y="1549" name="center"/>
+  <anchor x="670" y="-150" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni03060300" xOffset="1126" yOffset="384"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Abreve+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

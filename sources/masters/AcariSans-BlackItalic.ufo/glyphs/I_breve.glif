@@ -2,14 +2,16 @@
 <glyph name="Ibreve" format="2">
   <advance width="642"/>
   <unicode hex="012C"/>
+  <anchor x="349" y="0" name="ogonek"/>
+  <anchor x="184" y="-120" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="brevecomb" xOffset="817" yOffset="428"/>
+    <component base="uni0306" xOffset="817" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>I+brevecomb</string>
+  <string>I+uni0306</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

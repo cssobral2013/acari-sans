@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="2">
-  <advance width="1125"/>
+  <advance width="1082"/>
   <unicode hex="0121"/>
   <outline>
     <component base="g"/>
-    <component base="dotaccentcomb" xOffset="832" yOffset="8"/>
+    <component base="uni0307" xOffset="805"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>g</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>g</string>
-  <key>com.fontlab.recipe</key>
-  <string>g+dotaccentcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

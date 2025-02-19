@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccircumflex" format="2">
-  <advance width="1033"/>
+  <advance width="1037"/>
   <unicode hex="0109"/>
   <outline>
     <component base="c"/>
-    <component base="circumflexcomb" xOffset="817" yOffset="-8"/>
+    <component base="uni0302" xOffset="838"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>c+circumflexcomb</string>
+  <string>c+uni0302</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

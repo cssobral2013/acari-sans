@@ -2,14 +2,16 @@
 <glyph name="Aring" format="2">
   <advance width="1388"/>
   <unicode hex="00C5"/>
+  <anchor x="1271" y="0" name="ogonek"/>
+  <anchor x="574" y="-120" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb" xOffset="1048" yOffset="114"/>
+    <component base="uni030A" xOffset="1048" yOffset="114"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+ringcomb</string>
+  <string>A+uni030A</string>
   </dict>
   </lib>
 </glyph>

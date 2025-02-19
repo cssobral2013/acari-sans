@@ -2,14 +2,15 @@
 <glyph name="ycircumflex" format="2">
   <advance width="1121"/>
   <unicode hex="0177"/>
+  <anchor x="691" y="-205" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="circumflexcomb" xOffset="916"/>
+    <component base="uni0302" xOffset="916"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>y+circumflexcomb</string>
+  <string>y+uni0302</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>
