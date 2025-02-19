@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.pnum" format="2">
+  <advance width="1210"/>
+  <outline>
+    <contour>
+      <point x="745" y="0" type="line"/>
+      <point x="827" y="347" type="line"/>
+      <point x="1063" y="347" type="line"/>
+      <point x="1085" y="442" type="line"/>
+      <point x="846" y="442" type="line"/>
+      <point x="1079" y="1448" type="line"/>
+      <point x="979" y="1448" type="line"/>
+      <point x="-2" y="418" type="line"/>
+      <point x="-20" y="347" type="line"/>
+      <point x="726" y="347" type="line"/>
+      <point x="648" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="442" type="line"/>
+      <point x="86" y="442" type="line"/>
+      <point x="87" y="405" type="line"/>
+      <point x="963" y="1332" type="line"/>
+      <point x="954" y="1338" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=17</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=109</string>
+  </dict>
+  </lib>
+</glyph>

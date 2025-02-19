@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivesixths" format="2">
+  <advance width="1829"/>
+  <unicode hex="215A"/>
+  <outline>
+    <component base="five.numr" xOffset="-29"/>
+    <component base="fraction" xOffset="810"/>
+    <component base="six.dnom" xOffset="974"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>six.dnom</string>
+  <key>com.fontlab.recipe</key>
+  <string>five.numr_fraction_six.dnom</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr.calt" format="2">
+  <advance width="517"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="1064" type="line"/>
+      <point x="169" y="1064" type="line"/>
+    </contour>
+    <contour>
+      <point x="-7" y="1239" type="line"/>
+      <point x="168" y="1239" type="line"/>
+      <point x="168" y="1437" type="line"/>
+      <point x="-7" y="1437" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="1239" type="line"/>
+      <point x="606" y="1239" type="line"/>
+      <point x="606" y="1437" type="line"/>
+      <point x="430" y="1437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr</string>
+  </dict>
+  </lib>
+</glyph>

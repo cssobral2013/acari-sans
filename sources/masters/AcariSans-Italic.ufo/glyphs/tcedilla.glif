@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="2">
+  <advance width="710"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="210" y="-520" type="curve" smooth="yes"/>
+      <point x="356" y="-520"/>
+      <point x="444" y="-441"/>
+      <point x="444" y="-294" type="curve" smooth="yes"/>
+      <point x="444" y="-203"/>
+      <point x="381" y="-138"/>
+      <point x="281" y="-121" type="curve"/>
+      <point x="368" y="-21" type="line"/>
+      <point x="412" y="-21"/>
+      <point x="462" y="-15"/>
+      <point x="503" y="-1" type="curve"/>
+      <point x="527" y="147" type="line"/>
+      <point x="485" y="130"/>
+      <point x="443" y="117"/>
+      <point x="401" y="117" type="curve" smooth="yes"/>
+      <point x="334" y="117"/>
+      <point x="305" y="147"/>
+      <point x="305" y="200" type="curve" smooth="yes"/>
+      <point x="305" y="238"/>
+      <point x="328" y="341"/>
+      <point x="342" y="403" type="curve" smooth="yes"/>
+      <point x="462" y="928" type="line"/>
+      <point x="735" y="928" type="line"/>
+      <point x="766" y="1064" type="line"/>
+      <point x="494" y="1064" type="line"/>
+      <point x="584" y="1403" type="line"/>
+      <point x="380" y="1273" type="line"/>
+      <point x="326" y="1064" type="line"/>
+      <point x="162" y="1064" type="line"/>
+      <point x="130" y="928" type="line"/>
+      <point x="293" y="928" type="line"/>
+      <point x="152" y="294" type="line" smooth="yes"/>
+      <point x="144" y="257"/>
+      <point x="139" y="221"/>
+      <point x="139" y="184" type="curve" smooth="yes"/>
+      <point x="139" y="88"/>
+      <point x="182" y="26"/>
+      <point x="256" y="-3" type="curve"/>
+      <point x="119" y="-175" type="line"/>
+      <point x="133" y="-197" type="line"/>
+      <point x="187" y="-197" type="line" smooth="yes"/>
+      <point x="267" y="-197"/>
+      <point x="330" y="-233"/>
+      <point x="330" y="-298" type="curve" smooth="yes"/>
+      <point x="330" y="-372"/>
+      <point x="285" y="-412"/>
+      <point x="208" y="-412" type="curve" smooth="yes"/>
+      <point x="166" y="-412"/>
+      <point x="120" y="-384"/>
+      <point x="113" y="-349" type="curve"/>
+      <point x="0" y="-386" type="line"/>
+      <point x="20" y="-459"/>
+      <point x="115" y="-520"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t+cedillacomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

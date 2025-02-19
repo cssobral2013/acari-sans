@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute.loclNLD" format="2">
+  <advance width="1745"/>
+  <outline>
+    <component base="I" xOffset="-1"/>
+    <component base="J" xOffset="599"/>
+    <component base="acutecomb" xOffset="1878" yOffset="344"/>
+    <component base="acutecomb" xOffset="716" yOffset="344"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>IJ</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>IJ</string>
+  </dict>
+  </lib>
+</glyph>

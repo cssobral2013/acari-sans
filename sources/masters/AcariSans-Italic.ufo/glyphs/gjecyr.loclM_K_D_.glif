@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyr.loclMKD" format="2">
+  <advance width="1019"/>
+  <outline>
+    <component base="gecyr.loclSRB" xOffset="4"/>
+    <component base="acutecomb" xOffset="920" yOffset="252"/>
+  </outline>
+  <guideline angle="129.359" x="868" y="147"/>
+  <guideline angle="129.359" x="951" y="147"/>
+  <guideline angle="90" name="vertical" x="611" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>gjecyr</string>
+  </dict>
+  </lib>
+</glyph>

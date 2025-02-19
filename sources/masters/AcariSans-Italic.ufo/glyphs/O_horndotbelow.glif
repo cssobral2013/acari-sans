@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorndotbelow" format="2">
+  <advance width="1517"/>
+  <unicode hex="1EE2"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb" xOffset="1666" yOffset="-1"/>
+    <component base="dotbelowcomb" xOffset="915"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+horncomb+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

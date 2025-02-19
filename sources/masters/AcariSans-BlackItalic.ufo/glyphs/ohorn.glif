@@ -2,17 +2,14 @@
 <glyph name="ohorn" format="2">
   <advance width="1178"/>
   <unicode hex="01A1"/>
-  <anchor x="732" y="1192" name="top"/>
-  <anchor x="591" y="0" name="ogonek"/>
-  <anchor x="433" y="-120" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni031B" xOffset="1274" yOffset="-384"/>
+    <component base="horncomb" xOffset="1274" yOffset="-384"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>o+uni031B</string>
+  <string>o+horncomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

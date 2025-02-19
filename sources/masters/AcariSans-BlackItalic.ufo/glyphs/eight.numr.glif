@@ -2,6 +2,14 @@
 <glyph name="eight.numr" format="2">
   <advance width="915"/>
   <outline>
-    <component base="uni2078" xOffset="-4.38956" yOffset="-31.6936"/>
+    <component base="eight.dnom" xOffset="110" yOffset="478"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>eight.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>eight.dnom</string>
+  </dict>
+  </lib>
 </glyph>

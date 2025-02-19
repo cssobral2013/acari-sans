@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="1488"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="1277" y="0" type="line" name=".av01"/>
+      <point x="1277" y="1446" type="line" name=".sh01"/>
+      <point x="211" y="1446" type="line" name=".dv02"/>
+      <point x="211" y="0" type="line" name=".av02"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="1286" type="line" name=".dv01"/>
+      <point x="1095" y="1286" type="line" name=".ah01"/>
+      <point x="1095" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>635</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>508</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Pecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

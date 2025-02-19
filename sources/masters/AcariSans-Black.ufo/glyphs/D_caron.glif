@@ -4,10 +4,12 @@
   <unicode hex="010E"/>
   <outline>
     <component base="D"/>
-    <component base="uni030C" xOffset="1058" yOffset="421"/>
+    <component base="caroncomb" xOffset="1041" yOffset="340"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>D+caroncomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

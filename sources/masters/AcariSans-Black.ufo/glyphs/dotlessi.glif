@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="540"/>
+  <advance width="538"/>
   <unicode hex="0131"/>
-  <anchor x="270" y="1191.94" name="top"/>
-  <anchor x="410" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="130" y="0" type="line"/>
-      <point x="410" y="0" type="line" name=".av02"/>
-      <point x="410" y="1064" type="line" name=".dh02"/>
-      <point x="130" y="1064" type="line" name=".dh01"/>
+      <point x="125" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="413" y="1064" type="line"/>
+      <point x="125" y="1064" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=130</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=130</string>
-  </dict>
-  </lib>
 </glyph>

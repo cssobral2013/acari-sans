@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="2">
-  <advance width="1388"/>
+  <advance width="1391"/>
   <unicode hex="01FA"/>
-  <anchor x="696" y="1620" name="top"/>
-  <anchor x="1390" y="0" name="ogonek"/>
-  <anchor x="696" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni030A0301" xOffset="1020" yOffset="242"/>
+    <component base="ringcomb_acutecomb" xOffset="1013" yOffset="239"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+uni030A0301</string>
+  <string>A+ringcomb_acutecomb</string>
   </dict>
   </lib>
 </glyph>

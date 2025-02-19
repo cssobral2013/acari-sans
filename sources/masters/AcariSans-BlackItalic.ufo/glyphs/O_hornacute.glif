@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornacute" format="2">
+  <advance width="1566"/>
+  <unicode hex="1EDA"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb" xOffset="1686"/>
+    <component base="acutecomb" xOffset="1349" yOffset="428"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+horncomb+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.pnum" format="2">
+  <advance width="1212"/>
+  <outline>
+    <contour>
+      <point x="442" y="-15" type="curve" smooth="yes"/>
+      <point x="834" y="-15"/>
+      <point x="1063" y="246"/>
+      <point x="1068" y="500" type="curve" smooth="yes"/>
+      <point x="1072" y="658"/>
+      <point x="957" y="735"/>
+      <point x="825" y="775" type="curve"/>
+      <point x="1002" y="831"/>
+      <point x="1138" y="969"/>
+      <point x="1143" y="1153" type="curve" smooth="yes"/>
+      <point x="1147" y="1338"/>
+      <point x="996" y="1464"/>
+      <point x="777" y="1464" type="curve" smooth="yes"/>
+      <point x="515" y="1464"/>
+      <point x="293" y="1302"/>
+      <point x="239" y="1059" type="curve"/>
+      <point x="408" y="1059" type="line"/>
+      <point x="453" y="1204"/>
+      <point x="584" y="1299"/>
+      <point x="745" y="1299" type="curve" smooth="yes"/>
+      <point x="883" y="1299"/>
+      <point x="970" y="1228"/>
+      <point x="967" y="1124" type="curve" smooth="yes"/>
+      <point x="962" y="946"/>
+      <point x="798" y="845"/>
+      <point x="601" y="845" type="curve" smooth="yes"/>
+      <point x="510" y="845" type="line"/>
+      <point x="473" y="687" type="line"/>
+      <point x="570" y="687" type="line" smooth="yes"/>
+      <point x="732" y="687"/>
+      <point x="904" y="648"/>
+      <point x="899" y="492" type="curve" smooth="yes"/>
+      <point x="896" y="342"/>
+      <point x="751" y="148"/>
+      <point x="473" y="148" type="curve" smooth="yes"/>
+      <point x="292" y="148"/>
+      <point x="186" y="234"/>
+      <point x="189" y="379" type="curve"/>
+      <point x="189" y="399"/>
+      <point x="192" y="420"/>
+      <point x="197" y="444" type="curve"/>
+      <point x="28" y="445" type="line"/>
+      <point x="20" y="410"/>
+      <point x="16" y="376"/>
+      <point x="15" y="343" type="curve" smooth="yes"/>
+      <point x="11" y="120"/>
+      <point x="181" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=43</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=131</string>
+  </dict>
+  </lib>
+</glyph>

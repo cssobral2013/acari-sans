@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odblgrave" format="2">
+  <advance width="1150"/>
+  <unicode hex="020D"/>
+  <outline>
+    <component base="o"/>
+    <component base="dblgravecomb" xOffset="934" yOffset="78"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

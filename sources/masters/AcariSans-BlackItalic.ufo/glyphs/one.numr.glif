@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numr" format="2">
-  <advance width="748"/>
+  <advance width="722"/>
   <outline>
-    <component base="uni2081" xOffset="146.57" yOffset="974.312"/>
+    <component base="one.dnom" xOffset="110" yOffset="478"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one.dnom</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>one.dnom</string>
+  </dict>
+  </lib>
 </glyph>

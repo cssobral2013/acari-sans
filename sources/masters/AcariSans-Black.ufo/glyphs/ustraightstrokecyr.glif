@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraightstrokecyr" format="2">
+  <advance width="1051"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="667" y="0" type="line"/>
+      <point x="667" y="138" type="line"/>
+      <point x="971" y="138" type="line"/>
+      <point x="971" y="390" type="line"/>
+      <point x="667" y="390" type="line"/>
+      <point x="667" y="429" type="line"/>
+      <point x="1074" y="1064" type="line"/>
+      <point x="744" y="1064" type="line"/>
+      <point x="525" y="676" type="line"/>
+      <point x="306" y="1064" type="line"/>
+      <point x="-23" y="1064" type="line"/>
+      <point x="383" y="429" type="line"/>
+      <point x="383" y="390" type="line"/>
+      <point x="80" y="390" type="line"/>
+      <point x="80" y="138" type="line"/>
+      <point x="383" y="138" type="line"/>
+      <point x="383" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-23</string>
+  </dict>
+  </lib>
+</glyph>

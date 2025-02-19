@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="1500"/>
+  <advance width="1503"/>
   <unicode hex="0143"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb" xOffset="1150" yOffset="421"/>
+    <component base="acutecomb" xOffset="1146" yOffset="420"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

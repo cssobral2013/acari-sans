@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ainvertedbreve" format="2">
+  <advance width="1388"/>
+  <unicode hex="0202"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveinvertedcomb" xOffset="1521" yOffset="430"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
+  <key>com.fontlab.recipe</key>
+  <string>A+breveinvertedcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceright" format="2">
-  <advance width="639"/>
+  <advance width="641"/>
   <unicode hex="007D"/>
   <outline>
-    <component base="braceleft" xScale="-1" xOffset="635"/>
+    <contour>
+      <point x="465" y="-19" type="line" smooth="yes"/>
+      <point x="465" y="-193"/>
+      <point x="385" y="-284"/>
+      <point x="215" y="-284" type="curve" smooth="yes"/>
+      <point x="47" y="-284" type="line"/>
+      <point x="47" y="-79" type="line"/>
+      <point x="148" y="-79" type="line" smooth="yes"/>
+      <point x="212" y="-79"/>
+      <point x="225" y="-39"/>
+      <point x="225" y="44" type="curve" smooth="yes"/>
+      <point x="225" y="463" type="line" smooth="yes"/>
+      <point x="225" y="577"/>
+      <point x="278" y="654"/>
+      <point x="354" y="693" type="curve"/>
+      <point x="280" y="741"/>
+      <point x="225" y="805"/>
+      <point x="225" y="913" type="curve" smooth="yes"/>
+      <point x="225" y="1373" type="line" smooth="yes"/>
+      <point x="225" y="1410"/>
+      <point x="178" y="1443"/>
+      <point x="148" y="1443" type="curve" smooth="yes"/>
+      <point x="47" y="1443" type="line"/>
+      <point x="47" y="1647" type="line"/>
+      <point x="215" y="1647" type="line" smooth="yes"/>
+      <point x="394" y="1647"/>
+      <point x="465" y="1554"/>
+      <point x="465" y="1367" type="curve" smooth="yes"/>
+      <point x="465" y="929" type="line" smooth="yes"/>
+      <point x="465" y="862"/>
+      <point x="507" y="819"/>
+      <point x="599" y="790" type="curve"/>
+      <point x="599" y="593" type="line"/>
+      <point x="505" y="555"/>
+      <point x="465" y="517"/>
+      <point x="465" y="445" type="curve" smooth="yes"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>braceleft</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="2">
-  <advance width="1579"/>
+  <advance width="1581"/>
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="uni0306" xOffset="1192" yOffset="421"/>
+    <component base="brevecomb" xOffset="1191" yOffset="408"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

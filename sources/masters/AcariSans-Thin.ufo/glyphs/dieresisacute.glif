@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacute" format="2">
+  <advance width="664"/>
+  <unicode hex="1FEE"/>
+  <outline>
+    <contour>
+      <point x="-83" y="1242" type="line"/>
+      <point x="63" y="1242" type="line"/>
+      <point x="63" y="1413" type="line"/>
+      <point x="-83" y="1413" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="1242" type="line"/>
+      <point x="748" y="1242" type="line"/>
+      <point x="748" y="1413" type="line"/>
+      <point x="602" y="1413" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="1192" type="line"/>
+      <point x="515" y="1479" type="line"/>
+      <point x="364" y="1479" type="line"/>
+      <point x="149" y="1192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresistonos</string>
+  </dict>
+  </lib>
+</glyph>

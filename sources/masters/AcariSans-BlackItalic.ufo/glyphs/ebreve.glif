@@ -2,16 +2,14 @@
 <glyph name="ebreve" format="2">
   <advance width="1116"/>
   <unicode hex="0115"/>
-  <anchor x="610" y="0" name="ogonek"/>
-  <anchor x="450" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="uni0306" xOffset="969"/>
+    <component base="brevecomb" xOffset="969"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>e+uni0306</string>
+  <string>e+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

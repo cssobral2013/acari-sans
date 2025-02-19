@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr.loclBGR" format="2">
+  <advance width="1501"/>
+  <outline>
+    <component base="Elcyr.loclBGR" xOffset="85"/>
+    <contour>
+      <point x="434" y="152" type="line"/>
+      <point x="-25" y="152" type="line"/>
+      <point x="-134" y="-315" type="line"/>
+      <point x="39" y="-315" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="434" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1252" y="-315" type="line"/>
+      <point x="1361" y="152" type="line"/>
+      <point x="281" y="152" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="1155" y="0" type="line"/>
+      <point x="1080" y="-315" type="line"/>
+    </contour>
+  </outline>
+</glyph>

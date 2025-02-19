@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="2060"/>
+  <advance width="2062"/>
   <unicode hex="0057"/>
-  <anchor x="1028" y="1617.92" name="top"/>
   <outline>
     <contour>
-      <point x="1608" y="0" type="line" name=".av03"/>
-      <point x="2050" y="1448" type="line" name=".av01"/>
-      <point x="1748" y="1448" type="line"/>
-      <point x="1450" y="439" type="line" name=".iv01"/>
-      <point x="1142" y="1448" type="line"/>
-      <point x="919" y="1448" type="line"/>
-      <point x="610" y="439" type="line" name=".iv02"/>
-      <point x="312" y="1448" type="line" name=".av02"/>
-      <point x="10" y="1448" type="line"/>
-      <point x="453" y="0" type="line" name=".av04"/>
-      <point x="726" y="0" type="line"/>
-      <point x="1028" y="990" type="line" name=".iv03"/>
-      <point x="1334" y="0" type="line"/>
+      <point x="1612" y="0" type="line"/>
+      <point x="2056" y="1448" type="line"/>
+      <point x="1746" y="1448" type="line"/>
+      <point x="1451" y="453" type="line"/>
+      <point x="1146" y="1448" type="line"/>
+      <point x="918" y="1448" type="line"/>
+      <point x="612" y="453" type="line"/>
+      <point x="316" y="1448" type="line"/>
+      <point x="6" y="1448" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="730" y="0" type="line"/>
+      <point x="1029" y="978" type="line"/>
+      <point x="1333" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

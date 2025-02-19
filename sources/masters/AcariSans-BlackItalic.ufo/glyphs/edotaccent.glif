@@ -2,16 +2,14 @@
 <glyph name="edotaccent" format="2">
   <advance width="1116"/>
   <unicode hex="0117"/>
-  <anchor x="610" y="0" name="ogonek"/>
-  <anchor x="450" y="-120" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="uni0307" xOffset="834"/>
+    <component base="dotaccentcomb" xOffset="834"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>e+uni0307</string>
+  <string>e+dotaccentcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

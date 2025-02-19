@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="1277"/>
+  <advance width="1278"/>
   <unicode hex="0045"/>
-  <anchor x="663" y="1617.92" name="top"/>
-  <anchor x="1147" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="1147" y="0" type="line" name=".dv01"/>
-      <point x="1147" y="276" type="line" name=".dv02"/>
-      <point x="467" y="276" type="line" name=".sh01"/>
-      <point x="467" y="589" type="line" name=".dv05"/>
-      <point x="1116" y="589" type="line" name=".sv01"/>
-      <point x="1116" y="859" type="line" name=".sv02"/>
-      <point x="467" y="859" type="line" name=".dv06"/>
-      <point x="467" y="1179" type="line" name=".dv03"/>
-      <point x="1147" y="1179" type="line"/>
-      <point x="1147" y="1448" type="line" name=".av01"/>
-      <point x="177" y="1448" type="line" name=".dv04"/>
-      <point x="177" y="0" type="line"/>
+      <point x="1147" y="0" type="line"/>
+      <point x="1147" y="284" type="line"/>
+      <point x="472" y="284" type="line"/>
+      <point x="472" y="585" type="line"/>
+      <point x="1120" y="585" type="line"/>
+      <point x="1120" y="863" type="line"/>
+      <point x="472" y="863" type="line"/>
+      <point x="472" y="1172" type="line"/>
+      <point x="1147" y="1172" type="line"/>
+      <point x="1147" y="1448" type="line"/>
+      <point x="175" y="1448" type="line"/>
+      <point x="175" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

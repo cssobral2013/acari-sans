@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="2">
+  <advance width="1154"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line" name=".av02"/>
+      <point x="425" y="0" type="line" name=".sh01"/>
+      <point x="425" y="297" type="line"/>
+      <point x="557" y="443" type="line" name=".iv03"/>
+      <point x="848" y="0" type="line"/>
+      <point x="1186" y="0" type="line" name=".av01"/>
+      <point x="755" y="614" type="line"/>
+      <point x="1153" y="1064" type="line" name=".iv01"/>
+      <point x="778" y="1064" type="line"/>
+      <point x="425" y="641" type="line" name=".iv02"/>
+      <point x="425" y="1064" type="line" name=".av03"/>
+      <point x="138" y="1064" type="line" name=".dh01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>81</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

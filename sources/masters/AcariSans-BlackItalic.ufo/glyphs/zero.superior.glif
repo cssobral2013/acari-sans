@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.superior" format="2">
+  <advance width="910"/>
+  <unicode hex="2070"/>
+  <outline>
+    <component base="zero.dnom" xOffset="216" yOffset="936"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zero.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=59</string>
+  </dict>
+  </lib>
+</glyph>

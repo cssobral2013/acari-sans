@@ -38,16 +38,59 @@ The proof files and QA tests are also available automatically via GitHub Actions
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
+
 * December 12-26, 2023 Version 1.074R/1.072I
   - MAJOR: Converted currencies to have the same width as zero-nine. Reflow may occur
   - MAJOR: Added proportional figures
   - MINOR: Adjusts in A/abrevetilde and A/abrevegrave
 
 * January 9-26, 2024 Version 1.076R/1.074I
-  - Fixes in 1 and 2
-  - Enlarged G crossbar
+  - Fixes in '1' and '2'
+  - Enlarged 'G' crossbar
   - Move up inferior figures in Italic only
+  
+* March 31-April 3, 2024 Version 1.079R/1.077I
+  - MAJOR: Imported Greek support from Perun (https://github.com/StefanPeev/Perun)
+  - MAJOR: Modified decyr in Italic (to be a rounded 'd'), then made some adjusts
+  - MINOR: Fixed some interpolation errors
     
+* April 24, 2024 Version 1.082R/1.080I
+  - MAJOR: New master Regular, with also synced horizontal metrics and kerning from
+    old Regular
+  - MAJOR: Also, old Light master became ExtraLight weight.
+    As such, Acari Sans has now eight weights plus matching italics
+  - MINOR: Fixed some off-center diacritics and tilde
+  
+* November 6-7, 2024 Version 1.084
+  - MAJOR: Last inconsistencies between Roman & Italic fixed.
+           As such, it is safe now to make versions in Roman & Italic equal
+  - MAJOR: Generated (automatic) kerning for Latin & Cyrillic
+  - MAJOR: Generated standalone fraction glyphs
+  - MAJOR: Made many fixes in contrast for several glyphs
+
+* December 11, 2024 - January 1, 2025 Version 1.088
+  - MAJOR: Remastered weights (now has nine weights plus matching italics)
+  - MAJOR: Imported some glyphs from older versions of Hanken Grotesk, but newer than the one
+           used to fork into Acari Sans
+  - MAJOR: percent, perthousand, pertenthousand are now tabularized. (Reflow may occur.)
+           As such, percent's AW is 0.6 times the UPM, perthousand's is 0.9 and pertenthousand's
+		   is 1.2
+  - MAJOR: Synced weight distribution from Bold to Black to be as near as possible from v1.084
+           and earlier
+  - MINOR: Sync kerning between Roman & Italic
+  - MINOR: Improved 1
+  - MINOR: Adjusted weight inconsistencies in many Cyrillic glyphs (Thin & Thin Italic)
+  
+* January 3, 2025 Version 1.089
+  - MAJOR: Acari Sans now uses fontmake to build the fonts.
+           As a result, some changes were made, including removing all anchors
+  - MAJOR: Acari Sans now uses a ligature system to build stress marks for Cyrillic
+           in Russian & Ukrainian
+		   
+* February 1, 2025 Version 1.090
+  - MAJOR: Improved percent/perthousand glyphs
+  - MAJOR: 0-9 figures now have horizontal terminals by default
+  - MINOR: Improved Cyrillic in Light/LightItalic masters
 
 ## License
 
