@@ -4,40 +4,20 @@
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="172" y="156" type="line"/>
-      <point x="180" y="133" type="line"/>
-      <point x="976" y="1279" type="line"/>
-      <point x="947" y="1279" type="line"/>
-      <point x="1220" y="133" type="line"/>
-      <point x="1239" y="156" type="line"/>
+      <point x="75" y="168" type="line"/>
+      <point x="84" y="143" type="line"/>
+      <point x="857" y="1257" type="line"/>
+      <point x="829" y="1257" type="line"/>
+      <point x="1095" y="143" type="line"/>
+      <point x="1116" y="168" type="line"/>
     </contour>
     <contour>
-      <point x="-15" y="0" type="line"/>
-      <point x="1355" y="0" type="line"/>
-      <point x="1388" y="147" type="line"/>
-      <point x="1084" y="1448" type="line"/>
-      <point x="918" y="1448" type="line"/>
-      <point x="18" y="147" type="line"/>
+      <point x="-128" y="0" type="line"/>
+      <point x="1242" y="0" type="line"/>
+      <point x="1277" y="154" type="line"/>
+      <point x="975" y="1448" type="line"/>
+      <point x="801" y="1448" type="line"/>
+      <point x="-93" y="154" type="line"/>
     </contour>
   </outline>
-  <guideline angle="245.962" x="735" y="1292"/>
-  <guideline angle="65.9842" x="39" y="184"/>
-  <guideline angle="114.291" x="1217" y="162"/>
-  <guideline angle="294.274" x="825" y="1479"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>75</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

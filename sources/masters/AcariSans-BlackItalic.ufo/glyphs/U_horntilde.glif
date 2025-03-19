@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorntilde" format="2">
-  <advance width="1420"/>
+  <advance width="1418"/>
   <unicode hex="1EEE"/>
   <outline>
-    <component base="U"/>
-    <component base="horncomb" xOffset="1658"/>
-    <component base="tildecomb" xOffset="1208" yOffset="428"/>
+    <component base="U" xOffset="-1"/>
+    <component base="horncomb" xOffset="1657"/>
+    <component base="tildecomb" xOffset="1207" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+horncomb+tildecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

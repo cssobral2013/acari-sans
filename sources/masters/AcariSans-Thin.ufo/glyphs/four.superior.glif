@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.superior" format="2">
-  <advance width="851"/>
+  <advance width="855"/>
   <unicode hex="2074"/>
   <outline>
-    <component base="four.dnom" xOffset="4" yOffset="936"/>
+    <contour>
+      <point x="597" y="931" type="line"/>
+      <point x="597" y="1208" type="line"/>
+      <point x="751" y="1208" type="line"/>
+      <point x="751" y="1273" type="line"/>
+      <point x="597" y="1273" type="line"/>
+      <point x="597" y="1900" type="line"/>
+      <point x="519" y="1900" type="line"/>
+      <point x="69" y="1253" type="line"/>
+      <point x="69" y="1208" type="line"/>
+      <point x="516" y="1208" type="line"/>
+      <point x="516" y="931" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="1273" type="line"/>
+      <point x="153" y="1273" type="line"/>
+      <point x="516" y="1780" type="line"/>
+    </contour>
   </outline>
 </glyph>

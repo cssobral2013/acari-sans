@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numr" format="2">
-  <advance width="613"/>
+  <advance width="619"/>
   <outline>
-    <component base="one.dnom" yOffset="501"/>
+    <contour>
+      <point x="413" y="501" type="line"/>
+      <point x="413" y="1470" type="line"/>
+      <point x="341" y="1470" type="line"/>
+      <point x="341" y="1458" type="line" smooth="yes"/>
+      <point x="341" y="1400"/>
+      <point x="279" y="1327"/>
+      <point x="213" y="1327" type="qcurve" smooth="yes"/>
+      <point x="69" y="1327" type="line"/>
+      <point x="69" y="1260" type="line"/>
+      <point x="330" y="1260" type="line"/>
+      <point x="330" y="501" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevetilde" format="2">
-  <advance width="1059"/>
+  <advance width="1062"/>
   <unicode hex="1EB5"/>
   <outline>
-    <component base="a"/>
-    <component base="brevecomb_tildecomb" xOffset="956"/>
+    <component base="abreve"/>
+    <component base="tildecomb" xOffset="974" yOffset="292"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>abreve+tildecomb</string>
-  </dict>
-  </lib>
 </glyph>

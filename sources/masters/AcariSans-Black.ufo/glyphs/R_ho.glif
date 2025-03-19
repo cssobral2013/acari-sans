@@ -1,55 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rho" format="2">
-  <advance width="1203"/>
+  <advance width="1201"/>
   <unicode hex="03A1"/>
   <outline>
-    <component base="P"/>
+    <contour>
+      <point x="177" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="584" type="line"/>
+      <point x="656" y="584" type="line" smooth="yes"/>
+      <point x="751" y="584"/>
+      <point x="936" y="639"/>
+      <point x="1082" y="748"/>
+      <point x="1171" y="910"/>
+      <point x="1171" y="1017" type="qcurve" smooth="yes"/>
+      <point x="1171" y="1125"/>
+      <point x="1082" y="1287"/>
+      <point x="937" y="1394"/>
+      <point x="752" y="1448"/>
+      <point x="656" y="1448" type="qcurve" smooth="yes"/>
+      <point x="177" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="857" type="line"/>
+      <point x="465" y="1175" type="line"/>
+      <point x="645" y="1175" type="line" smooth="yes"/>
+      <point x="708" y="1175"/>
+      <point x="798" y="1154"/>
+      <point x="856" y="1113"/>
+      <point x="883" y="1051"/>
+      <point x="883" y="1010" type="qcurve" smooth="yes"/>
+      <point x="883" y="969"/>
+      <point x="854" y="911"/>
+      <point x="795" y="874"/>
+      <point x="705" y="857"/>
+      <point x="645" y="857" type="qcurve" smooth="yes"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>306</integer>
-        <key>width</key>
-        <integer>88</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>635</integer>
-        <key>width</key>
-        <integer>87</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>60</integer>
-        <key>width</key>
-        <integer>101</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>446</integer>
-        <key>width</key>
-        <integer>97</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>P</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

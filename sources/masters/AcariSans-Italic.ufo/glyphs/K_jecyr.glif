@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kjecyr" format="2">
-  <advance width="1301"/>
+  <advance width="1309"/>
   <unicode hex="040C"/>
   <outline>
     <component base="Kacyr" xOffset="-1"/>
-    <component base="acutecomb" xOffset="1086" yOffset="428"/>
+    <component base="acutecomb" xOffset="1089" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Kacyr+acutecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

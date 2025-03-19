@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
-  <advance width="1059"/>
+  <advance width="1062"/>
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb_acutecomb" xOffset="823" yOffset="105"/>
+    <component base="ringcomb_acutecomb" xOffset="828" yOffset="106"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>a+ringcomb_acutecomb</string>
-  </dict>
-  </lib>
 </glyph>

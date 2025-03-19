@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numr" format="2">
-  <advance width="904"/>
+  <advance width="836"/>
   <outline>
-    <component base="seven.dnom" xOffset="110" yOffset="478"/>
+    <contour>
+      <point x="325" y="506" type="line"/>
+      <point x="953" y="1402" type="line"/>
+      <point x="967" y="1473" type="line"/>
+      <point x="307" y="1473" type="line"/>
+      <point x="282" y="1347" type="line"/>
+      <point x="789" y="1347" type="line"/>
+      <point x="181" y="506" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>seven.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>seven.dnom</string>
-  </dict>
-  </lib>
 </glyph>

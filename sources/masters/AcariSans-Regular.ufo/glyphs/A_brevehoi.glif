@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevehoi" format="2">
-  <advance width="1338"/>
+  <advance width="1342"/>
   <unicode hex="1EB2"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_hookabovecomb" xOffset="1105" yOffset="428"/>
+    <component base="brevecomb_hookabovecomb" xOffset="1108" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>A+brevecomb_hookabovecomb</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,41 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fitacyr" format="2">
-  <advance width="1163"/>
+  <advance width="1164"/>
   <unicode hex="0473"/>
   <outline>
     <contour>
-      <point x="202" y="490" type="line"/>
-      <point x="983" y="490" type="line"/>
-      <point x="983" y="613" type="line"/>
-      <point x="202" y="613" type="line"/>
+      <point x="205" y="484" type="line"/>
+      <point x="977" y="484" type="line"/>
+      <point x="977" y="619" type="line"/>
+      <point x="205" y="619" type="line"/>
     </contour>
     <contour>
-      <point x="581" y="-20" type="curve" smooth="yes" name=".dv01"/>
-      <point x="897" y="-20"/>
-      <point x="1085" y="191"/>
-      <point x="1085" y="532" type="curve" smooth="yes" name=".sh01"/>
-      <point x="1085" y="868"/>
-      <point x="893" y="1084"/>
-      <point x="581" y="1084" type="curve" smooth="yes" name=".dv04"/>
-      <point x="272" y="1084"/>
-      <point x="78" y="869"/>
-      <point x="78" y="532" type="curve" smooth="yes" name=".sh02"/>
-      <point x="78" y="196"/>
-      <point x="271" y="-20"/>
+      <point x="582" y="-20" type="qcurve" smooth="yes"/>
+      <point x="702" y="-20"/>
+      <point x="891" y="57"/>
+      <point x="1022" y="200"/>
+      <point x="1091" y="405"/>
+      <point x="1091" y="532" type="qcurve" smooth="yes"/>
+      <point x="1091" y="658"/>
+      <point x="1021" y="862"/>
+      <point x="890" y="1006"/>
+      <point x="701" y="1084"/>
+      <point x="582" y="1084" type="qcurve" smooth="yes"/>
+      <point x="464" y="1084"/>
+      <point x="275" y="1006"/>
+      <point x="143" y="862"/>
+      <point x="72" y="658"/>
+      <point x="72" y="532" type="qcurve" smooth="yes"/>
+      <point x="72" y="406"/>
+      <point x="143" y="202"/>
+      <point x="275" y="58"/>
+      <point x="464" y="-20"/>
     </contour>
     <contour>
-      <point x="581" y="127" type="curve" smooth="yes" name=".dv02"/>
-      <point x="381" y="127"/>
-      <point x="255" y="301"/>
-      <point x="255" y="532" type="curve" smooth="yes" name=".sh03"/>
-      <point x="255" y="767"/>
-      <point x="377" y="937"/>
-      <point x="581" y="937" type="curve" smooth="yes" name=".dv03"/>
-      <point x="789" y="937"/>
-      <point x="907" y="770"/>
-      <point x="907" y="532" type="curve" smooth="yes" name=".ah01"/>
-      <point x="907" y="294"/>
-      <point x="792" y="127"/>
+      <point x="582" y="140" type="qcurve" smooth="yes"/>
+      <point x="507" y="140"/>
+      <point x="389" y="200"/>
+      <point x="308" y="306"/>
+      <point x="265" y="449"/>
+      <point x="265" y="532" type="qcurve" smooth="yes"/>
+      <point x="265" y="616"/>
+      <point x="307" y="760"/>
+      <point x="388" y="865"/>
+      <point x="506" y="924"/>
+      <point x="582" y="924" type="qcurve" smooth="yes"/>
+      <point x="659" y="924"/>
+      <point x="777" y="865"/>
+      <point x="857" y="761"/>
+      <point x="898" y="617"/>
+      <point x="898" y="532" type="qcurve" smooth="yes"/>
+      <point x="898" y="447"/>
+      <point x="858" y="303"/>
+      <point x="778" y="199"/>
+      <point x="660" y="140"/>
     </contour>
   </outline>
 </glyph>

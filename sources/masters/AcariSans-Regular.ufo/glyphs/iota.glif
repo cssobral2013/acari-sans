@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
-  <advance width="516"/>
+  <advance width="521"/>
   <unicode hex="03B9"/>
   <outline>
     <contour>
-      <point x="355" y="-20" type="curve" smooth="yes"/>
-      <point x="401" y="-20"/>
-      <point x="449" y="-13"/>
-      <point x="500" y="-1" type="curve"/>
-      <point x="500" y="134" type="line"/>
-      <point x="468" y="129"/>
-      <point x="435" y="125"/>
-      <point x="400" y="125" type="curve" smooth="yes"/>
-      <point x="364" y="125"/>
-      <point x="343" y="147"/>
-      <point x="343" y="183" type="curve" smooth="yes"/>
-      <point x="343" y="1064" type="line"/>
-      <point x="171" y="1064" type="line"/>
-      <point x="171" y="172" type="line" smooth="yes"/>
-      <point x="171" y="39"/>
-      <point x="233" y="-20"/>
+      <point x="356" y="-20" type="qcurve" smooth="yes"/>
+      <point x="391" y="-20"/>
+      <point x="466" y="-10"/>
+      <point x="508" y="-1" type="qcurve"/>
+      <point x="508" y="149" type="line"/>
+      <point x="485" y="145"/>
+      <point x="437" y="140"/>
+      <point x="411" y="140" type="qcurve" smooth="yes"/>
+      <point x="382" y="140"/>
+      <point x="351" y="171"/>
+      <point x="351" y="200" type="qcurve" smooth="yes"/>
+      <point x="351" y="1064" type="line"/>
+      <point x="164" y="1064" type="line"/>
+      <point x="164" y="178" type="line" smooth="yes"/>
+      <point x="164" y="127"/>
+      <point x="188" y="52"/>
+      <point x="236" y="3"/>
+      <point x="308" y="-20"/>
     </contour>
   </outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevegrave" format="2">
-  <advance width="1323"/>
+  <advance width="1326"/>
   <unicode hex="1EB0"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb_gravecomb" xOffset="1125" yOffset="384"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Abreve+gravecomb</string>
-  </dict>
-  </lib>
 </glyph>

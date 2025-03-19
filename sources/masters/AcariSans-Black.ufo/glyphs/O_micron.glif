@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-  <advance width="1571"/>
+  <advance width="1568"/>
   <unicode hex="039F"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="784" y="-20" type="qcurve" smooth="yes"/>
+      <point x="943" y="-20"/>
+      <point x="1205" y="88"/>
+      <point x="1394" y="285"/>
+      <point x="1498" y="559"/>
+      <point x="1498" y="724" type="qcurve" smooth="yes"/>
+      <point x="1498" y="890"/>
+      <point x="1394" y="1164"/>
+      <point x="1205" y="1360"/>
+      <point x="943" y="1468"/>
+      <point x="784" y="1468" type="qcurve" smooth="yes"/>
+      <point x="625" y="1468"/>
+      <point x="363" y="1360"/>
+      <point x="174" y="1163"/>
+      <point x="70" y="889"/>
+      <point x="70" y="724" type="qcurve" smooth="yes"/>
+      <point x="70" y="559"/>
+      <point x="174" y="285"/>
+      <point x="363" y="88"/>
+      <point x="625" y="-20"/>
+    </contour>
+    <contour>
+      <point x="784" y="236" type="qcurve" smooth="yes"/>
+      <point x="689" y="236"/>
+      <point x="539" y="302"/>
+      <point x="436" y="427"/>
+      <point x="381" y="609"/>
+      <point x="381" y="724" type="qcurve" smooth="yes"/>
+      <point x="381" y="840"/>
+      <point x="436" y="1021"/>
+      <point x="539" y="1146"/>
+      <point x="689" y="1212"/>
+      <point x="784" y="1212" type="qcurve" smooth="yes"/>
+      <point x="879" y="1212"/>
+      <point x="1029" y="1146"/>
+      <point x="1133" y="1021"/>
+      <point x="1187" y="840"/>
+      <point x="1187" y="724" type="qcurve" smooth="yes"/>
+      <point x="1187" y="608"/>
+      <point x="1133" y="427"/>
+      <point x="1029" y="302"/>
+      <point x="879" y="236"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-14</integer>
-        <key>width</key>
-        <integer>88</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>649</integer>
-        <key>width</key>
-        <integer>87</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>50</integer>
-        <key>width</key>
-        <integer>103</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>601</integer>
-        <key>width</key>
-        <integer>103</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>O</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

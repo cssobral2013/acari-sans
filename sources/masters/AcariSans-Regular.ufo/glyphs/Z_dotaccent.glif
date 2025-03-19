@@ -4,14 +4,6 @@
   <unicode hex="017B"/>
   <outline>
     <component base="Z" xOffset="-1"/>
-    <component base="dotaccentcomb" xOffset="939" yOffset="426"/>
+    <component base="dotaccentcomb" xOffset="945" yOffset="426"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Z+dotaccentcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

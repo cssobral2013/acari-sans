@@ -3,16 +3,8 @@
   <advance width="1498"/>
   <unicode hex="1EE0"/>
   <outline>
-    <component base="O"/>
-    <component base="horncomb" xOffset="1725" yOffset="-1"/>
-    <component base="tildecomb" xOffset="1163" yOffset="428"/>
+    <component base="O" xOffset="-2"/>
+    <component base="horncomb" xOffset="1656" yOffset="-1"/>
+    <component base="tildecomb" xOffset="1167" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>O+horncomb+tildecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

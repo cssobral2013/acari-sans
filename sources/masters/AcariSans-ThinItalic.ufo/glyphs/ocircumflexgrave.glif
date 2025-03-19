@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexgrave" format="2">
-  <advance width="1174"/>
+  <advance width="1175"/>
   <unicode hex="1ED3"/>
   <outline>
     <component base="o" xOffset="-1"/>
-    <component base="circumflexcomb_gravecomb" xOffset="1004"/>
+    <component base="circumflexcomb_gravecomb" xOffset="997"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>o+circumflexcomb_gravecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

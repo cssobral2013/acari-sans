@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jecyr" format="2">
-  <advance width="1152"/>
+  <advance width="1150"/>
   <unicode hex="0408"/>
   <outline>
-    <component base="J"/>
+    <component base="J" xOffset="-2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>J</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

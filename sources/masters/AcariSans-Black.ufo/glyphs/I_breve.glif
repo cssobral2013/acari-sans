@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="2">
-  <advance width="647"/>
+  <advance width="644"/>
   <unicode hex="012C"/>
   <outline>
     <component base="I"/>
-    <component base="brevecomb" xOffset="729" yOffset="426"/>
+    <component base="brevecomb" xOffset="734" yOffset="426"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>I+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

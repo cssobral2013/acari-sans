@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ytilde" format="2">
-  <advance width="1351"/>
+  <advance width="1358"/>
   <unicode hex="1EF8"/>
   <outline>
-    <component base="Y"/>
-    <component base="tildecomb" xOffset="1082" yOffset="428"/>
+    <component base="Y" xOffset="2"/>
+    <component base="tildecomb" xOffset="1084" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Y+tildecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Geupcyr" format="2">
-  <advance width="1106"/>
+  <advance width="1105"/>
   <unicode hex="0490"/>
   <outline>
     <contour>
-      <point x="1224" y="1296" type="line"/>
-      <point x="1331" y="1760" type="line"/>
-      <point x="1160" y="1760" type="line"/>
-      <point x="1073" y="1385" type="line"/>
+      <point x="1226" y="1279" type="line"/>
+      <point x="1336" y="1760" type="line"/>
+      <point x="1148" y="1760" type="line"/>
+      <point x="1061" y="1382" type="line"/>
     </contour>
     <contour>
-      <point x="275" y="0" type="line"/>
-      <point x="574" y="1296" type="line"/>
-      <point x="1224" y="1296" type="line"/>
-      <point x="1259" y="1448" type="line"/>
-      <point x="434" y="1448" type="line"/>
-      <point x="101" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="581" y="1279" type="line"/>
+      <point x="1226" y="1279" type="line"/>
+      <point x="1265" y="1448" type="line"/>
+      <point x="429" y="1448" type="line"/>
+      <point x="96" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="256.811" x="1187" y="1761"/>
-  <guideline angle="76.9374" x="1223" y="1330"/>
 </glyph>

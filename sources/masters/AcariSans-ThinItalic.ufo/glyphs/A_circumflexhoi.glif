@@ -3,15 +3,7 @@
   <advance width="1323"/>
   <unicode hex="1EA8"/>
   <outline>
-    <component base="A"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="1093" yOffset="428"/>
+    <component base="A" xOffset="-2"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="1088" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>A+circumflexcomb_hookabovecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

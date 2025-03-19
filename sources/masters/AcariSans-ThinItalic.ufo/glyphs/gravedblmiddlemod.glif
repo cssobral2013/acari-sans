@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravedblmiddlemod" format="2">
-  <advance width="822"/>
+  <advance width="836"/>
   <unicode hex="02F5"/>
   <outline>
     <contour>
-      <point x="495" y="660" type="line"/>
-      <point x="324" y="928" type="line"/>
-      <point x="157" y="928" type="line"/>
-      <point x="351" y="660" type="line"/>
+      <point x="502" y="660" type="line"/>
+      <point x="327" y="934" type="line"/>
+      <point x="151" y="934" type="line"/>
+      <point x="355" y="660" type="line"/>
     </contour>
     <contour>
-      <point x="817" y="660" type="line"/>
-      <point x="645" y="928" type="line"/>
-      <point x="477" y="928" type="line"/>
-      <point x="673" y="660" type="line"/>
+      <point x="828" y="660" type="line"/>
+      <point x="652" y="934" type="line"/>
+      <point x="476" y="934" type="line"/>
+      <point x="681" y="660" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="660"/>
 </glyph>

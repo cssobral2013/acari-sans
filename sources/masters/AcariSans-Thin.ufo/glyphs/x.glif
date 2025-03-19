@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="2">
-  <advance width="1027"/>
+  <advance width="936"/>
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="828" y="0" type="line"/>
-      <point x="950" y="0" type="line"/>
-      <point x="577" y="531" type="line"/>
-      <point x="515" y="604" type="line"/>
-      <point x="200" y="1064" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="878" y="0" type="line"/>
+      <point x="526" y="543" type="line"/>
+      <point x="494" y="611" type="line"/>
+      <point x="211" y="1064" type="line"/>
       <point x="76" y="1064" type="line"/>
-      <point x="447" y="535" type="line"/>
-      <point x="509" y="461" type="line"/>
+      <point x="431" y="537" type="line"/>
+      <point x="472" y="449" type="line"/>
     </contour>
     <contour>
       <point x="76" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="532" y="486" type="line"/>
-      <point x="468" y="562" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="497" y="461" type="line"/>
+      <point x="448" y="562" type="line"/>
     </contour>
     <contour>
-      <point x="493" y="579" type="line"/>
-      <point x="557" y="504" type="line"/>
-      <point x="948" y="1064" type="line"/>
-      <point x="827" y="1064" type="line"/>
+      <point x="463" y="608" type="line"/>
+      <point x="515" y="509" type="line"/>
+      <point x="882" y="1064" type="line"/>
+      <point x="751" y="1064" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>=1027</string>
-  <key>public.markColor</key>
-  <string>1,0.821,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.superior" format="2">
-  <advance width="805"/>
+  <advance width="811"/>
   <unicode hex="2077"/>
   <outline>
-    <component base="seven.dnom" xOffset="-9" yOffset="936"/>
+    <contour>
+      <point x="338" y="936" type="line"/>
+      <point x="769" y="1789" type="line"/>
+      <point x="769" y="1900" type="line"/>
+      <point x="56" y="1900" type="line"/>
+      <point x="56" y="1701" type="line"/>
+      <point x="532" y="1701" type="line"/>
+      <point x="123" y="936" type="line"/>
+    </contour>
   </outline>
 </glyph>

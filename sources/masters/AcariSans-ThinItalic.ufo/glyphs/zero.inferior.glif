@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="970"/>
+  <advance width="856"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zero.dnom" xOffset="-108" yOffset="-470"/>
+    <contour>
+      <point x="198" y="-503" type="qcurve" smooth="yes"/>
+      <point x="274" y="-503"/>
+      <point x="401" y="-439"/>
+      <point x="506" y="-331"/>
+      <point x="587" y="-192"/>
+      <point x="641" y="-42"/>
+      <point x="669" y="106"/>
+      <point x="669" y="170" type="qcurve" smooth="yes"/>
+      <point x="669" y="229"/>
+      <point x="643" y="349"/>
+      <point x="584" y="443"/>
+      <point x="486" y="500"/>
+      <point x="415" y="500" type="qcurve" smooth="yes"/>
+      <point x="338" y="500"/>
+      <point x="208" y="436"/>
+      <point x="104" y="328"/>
+      <point x="22" y="188"/>
+      <point x="-33" y="38"/>
+      <point x="-60" y="-113"/>
+      <point x="-60" y="-176" type="qcurve" smooth="yes"/>
+      <point x="-60" y="-239"/>
+      <point x="-35" y="-358"/>
+      <point x="25" y="-449"/>
+      <point x="125" y="-503"/>
+    </contour>
+    <contour>
+      <point x="204" y="-431" type="qcurve" smooth="yes"/>
+      <point x="148" y="-431"/>
+      <point x="75" y="-386"/>
+      <point x="34" y="-313"/>
+      <point x="18" y="-223"/>
+      <point x="18" y="-176" type="qcurve" smooth="yes"/>
+      <point x="18" y="-126"/>
+      <point x="39" y="3"/>
+      <point x="84" y="136"/>
+      <point x="149" y="264"/>
+      <point x="235" y="364"/>
+      <point x="340" y="424"/>
+      <point x="404" y="424" type="qcurve" smooth="yes"/>
+      <point x="457" y="424"/>
+      <point x="527" y="379"/>
+      <point x="567" y="306"/>
+      <point x="583" y="217"/>
+      <point x="583" y="175" type="qcurve" smooth="yes"/>
+      <point x="583" y="124"/>
+      <point x="560" y="-4"/>
+      <point x="517" y="-139"/>
+      <point x="453" y="-268"/>
+      <point x="370" y="-369"/>
+      <point x="265" y="-431"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>zero.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>zero.dnom</string>
-  </dict>
-  </lib>
 </glyph>

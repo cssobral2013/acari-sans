@@ -1,62 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="1278"/>
+  <advance width="1277"/>
   <unicode hex="0395"/>
   <outline>
     <contour>
-      <point x="1147" y="0" type="line" name=".dv01"/>
-      <point x="1147" y="284" type="line" name=".dv02"/>
-      <point x="472" y="284" type="line" name=".sh01"/>
-      <point x="472" y="585" type="line" name=".dv05"/>
-      <point x="1120" y="585" type="line" name=".sv01"/>
-      <point x="1120" y="863" type="line" name=".sv02"/>
-      <point x="472" y="863" type="line" name=".dv06"/>
-      <point x="472" y="1172" type="line" name=".dv03"/>
-      <point x="1147" y="1172" type="line"/>
-      <point x="1147" y="1448" type="line" name=".av01"/>
-      <point x="175" y="1448" type="line" name=".dv04"/>
-      <point x="175" y="0" type="line"/>
+      <point x="1147" y="0" type="line"/>
+      <point x="1147" y="276" type="line"/>
+      <point x="467" y="276" type="line"/>
+      <point x="467" y="589" type="line"/>
+      <point x="1116" y="589" type="line"/>
+      <point x="1116" y="859" type="line"/>
+      <point x="467" y="859" type="line"/>
+      <point x="467" y="1179" type="line"/>
+      <point x="1147" y="1179" type="line"/>
+      <point x="1147" y="1448" type="line"/>
+      <point x="177" y="1448" type="line"/>
+      <point x="177" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>87</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>326</integer>
-        <key>width</key>
-        <integer>87</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>635</integer>
-        <key>width</key>
-        <integer>87</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>60</integer>
-        <key>width</key>
-        <integer>101</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>E</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

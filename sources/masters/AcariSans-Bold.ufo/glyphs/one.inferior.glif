@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.inferior" format="2">
+  <advance width="723"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="531" y="-464" type="line"/>
+      <point x="531" y="500" type="line"/>
+      <point x="346" y="500" type="line"/>
+      <point x="346" y="475" type="line" smooth="yes"/>
+      <point x="346" y="423"/>
+      <point x="290" y="374"/>
+      <point x="243" y="374" type="qcurve" smooth="yes"/>
+      <point x="84" y="374" type="line"/>
+      <point x="84" y="226" type="line"/>
+      <point x="339" y="226" type="line"/>
+      <point x="339" y="-464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

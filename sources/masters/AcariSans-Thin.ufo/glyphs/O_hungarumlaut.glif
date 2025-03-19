@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="2">
-  <advance width="1575"/>
+  <advance width="1574"/>
   <unicode hex="0150"/>
   <outline>
     <component base="O" xOffset="1"/>
-    <component base="hungarumlautcomb" xOffset="1278" yOffset="426"/>
+    <component base="hungarumlautcomb" xOffset="1284" yOffset="426"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>O+hungarumlautcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

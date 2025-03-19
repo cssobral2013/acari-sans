@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="2">
-  <advance width="1224"/>
+  <advance width="1222"/>
   <unicode hex="011F"/>
   <outline>
-    <component base="g"/>
-    <component base="brevecomb" xOffset="942"/>
+    <component base="g" xOffset="-1"/>
+    <component base="brevecomb" xOffset="941"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>g+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

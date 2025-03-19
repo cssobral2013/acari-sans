@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ylongcyr" format="2">
-  <advance width="1710"/>
+  <advance width="1719"/>
   <unicode hex="042B"/>
   <outline>
-    <component base="Softcyr" xOffset="-4"/>
-    <component base="I" xOffset="1111"/>
+    <component base="Softcyr" xOffset="-6"/>
+    <component base="I" xOffset="1119"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Softcyr_I</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,52 +2,56 @@
 <glyph name="circumflexcomb_tildecomb" format="2">
   <outline>
     <contour>
-      <point x="103" y="1192" type="line"/>
-      <point x="-154" y="1553" type="line"/>
-      <point x="-577" y="1192" type="line"/>
-      <point x="-450" y="1192" type="line"/>
-      <point x="-178" y="1429" type="line"/>
-      <point x="-15" y="1192" type="line"/>
+      <point x="111" y="1192" type="line"/>
+      <point x="-145" y="1553" type="line"/>
+      <point x="-567" y="1192" type="line"/>
+      <point x="-416" y="1192" type="line"/>
+      <point x="-171" y="1403" type="line"/>
+      <point x="-32" y="1192" type="line"/>
     </contour>
     <contour>
-      <point x="-345" y="1549" type="line"/>
-      <point x="-289" y="1549" type="line"/>
-      <point x="-277" y="1597" type="line" smooth="yes"/>
-      <point x="-269" y="1632"/>
-      <point x="-246" y="1652"/>
-      <point x="-213" y="1652" type="curve" smooth="yes"/>
-      <point x="-178" y="1652"/>
-      <point x="-157" y="1629"/>
-      <point x="-139" y="1606" type="curve"/>
-      <point x="-132" y="1599" type="line"/>
-      <point x="-85" y="1652" type="line"/>
-      <point x="-93" y="1660" type="line"/>
-      <point x="-127" y="1704"/>
-      <point x="-152" y="1720"/>
-      <point x="-202" y="1720" type="curve" smooth="yes"/>
-      <point x="-261" y="1720"/>
-      <point x="-316" y="1676"/>
-      <point x="-333" y="1602" type="curve" smooth="yes"/>
+      <point x="-340" y="1550" type="line"/>
+      <point x="-279" y="1550" type="line"/>
+      <point x="-268" y="1597" type="line" smooth="yes"/>
+      <point x="-262" y="1623"/>
+      <point x="-227" y="1653"/>
+      <point x="-203" y="1653" type="qcurve" smooth="yes"/>
+      <point x="-178" y="1653"/>
+      <point x="-145" y="1627"/>
+      <point x="-132" y="1609" type="qcurve"/>
+      <point x="-125" y="1602" type="line"/>
+      <point x="-74" y="1656" type="line"/>
+      <point x="-81" y="1664" type="line"/>
+      <point x="-107" y="1698"/>
+      <point x="-155" y="1726"/>
+      <point x="-192" y="1726" type="qcurve" smooth="yes"/>
+      <point x="-214" y="1726"/>
+      <point x="-258" y="1709"/>
+      <point x="-294" y="1678"/>
+      <point x="-320" y="1632"/>
+      <point x="-327" y="1604" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="120" y="1709" type="line"/>
-      <point x="64" y="1709" type="line"/>
-      <point x="52" y="1661" type="line" smooth="yes"/>
-      <point x="44" y="1626"/>
-      <point x="21" y="1607"/>
-      <point x="-12" y="1607" type="curve" smooth="yes"/>
-      <point x="-46" y="1607"/>
-      <point x="-68" y="1629"/>
-      <point x="-85" y="1652" type="curve"/>
-      <point x="-93" y="1659" type="line"/>
-      <point x="-139" y="1606" type="line"/>
-      <point x="-132" y="1598" type="line"/>
-      <point x="-98" y="1555"/>
-      <point x="-73" y="1538"/>
-      <point x="-23" y="1538" type="curve" smooth="yes"/>
-      <point x="36" y="1538"/>
-      <point x="91" y="1582"/>
-      <point x="108" y="1657" type="curve" smooth="yes"/>
+      <point x="134" y="1715" type="line"/>
+      <point x="74" y="1715" type="line"/>
+      <point x="62" y="1668" type="line"/>
+      <point x="57" y="1642"/>
+      <point x="23" y="1612"/>
+      <point x="-3" y="1612" type="qcurve" smooth="yes"/>
+      <point x="-27" y="1612"/>
+      <point x="-60" y="1638"/>
+      <point x="-74" y="1656" type="qcurve"/>
+      <point x="-81" y="1663" type="line"/>
+      <point x="-132" y="1609" type="line"/>
+      <point x="-125" y="1601" type="line"/>
+      <point x="-99" y="1567"/>
+      <point x="-51" y="1539"/>
+      <point x="-14" y="1539" type="qcurve" smooth="yes"/>
+      <point x="9" y="1539"/>
+      <point x="53" y="1556"/>
+      <point x="88" y="1587"/>
+      <point x="115" y="1633"/>
+      <point x="122" y="1661" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

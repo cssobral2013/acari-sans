@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.pnum" format="2">
-  <advance width="1246"/>
+  <advance width="1270"/>
   <outline>
     <contour>
-      <point x="804" y="0" type="line"/>
-      <point x="875" y="325" type="line"/>
-      <point x="1094" y="325" type="line"/>
-      <point x="1152" y="592" type="line"/>
-      <point x="933" y="592" type="line"/>
-      <point x="1121" y="1448" type="line"/>
-      <point x="879" y="1448" type="line"/>
-      <point x="-12" y="489" type="line"/>
-      <point x="-46" y="325" type="line"/>
-      <point x="589" y="325" type="line"/>
-      <point x="519" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="776" y="325" type="line"/>
+      <point x="995" y="325" type="line"/>
+      <point x="1053" y="592" type="line"/>
+      <point x="834" y="592" type="line"/>
+      <point x="1022" y="1447" type="line"/>
+      <point x="780" y="1447" type="line"/>
+      <point x="-111" y="489" type="line"/>
+      <point x="-145" y="325" type="line"/>
+      <point x="490" y="325" type="line"/>
+      <point x="420" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="647" y="592" type="line"/>
-      <point x="353" y="592" type="line"/>
-      <point x="364" y="569" type="line"/>
-      <point x="754" y="1006" type="line"/>
-      <point x="741" y="1013" type="line"/>
+      <point x="548" y="592" type="line"/>
+      <point x="285" y="592" type="line"/>
+      <point x="635" y="982" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-7</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=109</string>
-  </dict>
-  </lib>
 </glyph>

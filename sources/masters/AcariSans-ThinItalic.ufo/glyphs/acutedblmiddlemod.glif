@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutedblmiddlemod" format="2">
-  <advance width="724"/>
+  <advance width="743"/>
   <unicode hex="02F6"/>
   <outline>
     <contour>
-      <point x="228" y="660" type="line"/>
-      <point x="517" y="928" type="line"/>
-      <point x="357" y="928" type="line"/>
-      <point x="101" y="660" type="line"/>
+      <point x="229" y="660" type="line"/>
+      <point x="520" y="934" type="line"/>
+      <point x="351" y="934" type="line"/>
+      <point x="98" y="660" type="line"/>
     </contour>
     <contour>
-      <point x="503" y="660" type="line"/>
-      <point x="793" y="928" type="line"/>
-      <point x="632" y="928" type="line"/>
-      <point x="378" y="660" type="line"/>
+      <point x="512" y="660" type="line"/>
+      <point x="803" y="934" type="line"/>
+      <point x="634" y="934" type="line"/>
+      <point x="382" y="660" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="660"/>
 </glyph>

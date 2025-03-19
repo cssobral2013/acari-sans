@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos" format="2">
-  <advance width="1462"/>
+  <advance width="1460"/>
   <unicode hex="03CE"/>
   <outline>
-    <component base="omega"/>
-    <component base="tonos" xOffset="624" yOffset="94"/>
+    <component base="omega" xOffset="-103"/>
+    <component base="tonos" xOffset="609" yOffset="170"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>omega</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>omega</string>
-  </dict>
-  </lib>
 </glyph>

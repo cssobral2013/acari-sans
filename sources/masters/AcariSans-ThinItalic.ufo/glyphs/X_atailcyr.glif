@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xatailcyr" format="2">
-  <advance width="1361"/>
+  <advance width="1276"/>
   <unicode hex="04B2"/>
   <outline>
-    <component base="X" xOffset="-7"/>
     <contour>
-      <point x="1061" y="-308" type="line"/>
-      <point x="1149" y="76" type="line"/>
-      <point x="948" y="76" type="line"/>
-      <point x="930" y="-1" type="line"/>
-      <point x="1041" y="-1" type="line"/>
-      <point x="968" y="-308" type="line"/>
+      <point x="986" y="0" type="line"/>
+      <point x="681" y="724" type="line"/>
+      <point x="1321" y="1447" type="line"/>
+      <point x="1187" y="1447" type="line"/>
+      <point x="649" y="825" type="line"/>
+      <point x="401" y="1447" type="line"/>
+      <point x="270" y="1447" type="line"/>
+      <point x="575" y="724" type="line"/>
+      <point x="-69" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="605" y="611" type="line"/>
+      <point x="861" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="986" y="-308" type="line"/>
+      <point x="1078" y="90" type="line"/>
+      <point x="924" y="90" type="line"/>
+      <point x="902" y="-1" type="line"/>
+      <point x="954" y="-1" type="line"/>
+      <point x="881" y="-308" type="line"/>
     </contour>
   </outline>
 </glyph>

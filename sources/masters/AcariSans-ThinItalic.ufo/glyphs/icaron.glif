@@ -3,15 +3,7 @@
   <advance width="481"/>
   <unicode hex="01D0"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="caroncomb" xOffset="644"/>
+    <component base="dotlessi" xOffset="-2"/>
+    <component base="caroncomb" xOffset="634"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>dotlessi+caroncomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

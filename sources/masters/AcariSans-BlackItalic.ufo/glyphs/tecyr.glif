@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tecyr" format="2">
-  <advance width="1869"/>
+  <advance width="1871"/>
   <unicode hex="0442"/>
   <outline>
-    <component base="m"/>
+    <component base="m" xOffset="1"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>m</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

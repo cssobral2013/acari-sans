@@ -3,15 +3,7 @@
   <advance width="1380"/>
   <unicode hex="00DC"/>
   <outline>
-    <component base="U"/>
-    <component base="dieresiscomb" xOffset="1130" yOffset="428"/>
+    <component base="U" xOffset="-2"/>
+    <component base="dieresiscomb" xOffset="1133" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+dieresiscomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

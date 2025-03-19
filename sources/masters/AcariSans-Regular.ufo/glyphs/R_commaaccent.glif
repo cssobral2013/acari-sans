@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="2">
-  <advance width="1250"/>
+  <advance width="1255"/>
   <unicode hex="0156"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccentcomb" xOffset="862"/>
+    <component base="commaaccentcomb" xOffset="863"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>R+commaaccentcomb</string>
-  </dict>
-  </lib>
 </glyph>

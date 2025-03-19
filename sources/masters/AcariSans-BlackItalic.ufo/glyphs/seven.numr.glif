@@ -2,14 +2,14 @@
 <glyph name="seven.numr" format="2">
   <advance width="810"/>
   <outline>
-    <component base="seven.dnom" xOffset="111" yOffset="478"/>
+    <contour>
+      <point x="325" y="484" type="line"/>
+      <point x="953" y="1349" type="line"/>
+      <point x="973" y="1448" type="line"/>
+      <point x="277" y="1448" type="line"/>
+      <point x="241" y="1271" type="line"/>
+      <point x="725" y="1271" type="line"/>
+      <point x="131" y="484" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>seven.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>seven.dnom</string>
-  </dict>
-  </lib>
 </glyph>

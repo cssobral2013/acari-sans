@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="2">
-  <advance width="1111"/>
+  <advance width="1164"/>
   <unicode hex="00F6"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="982"/>
+    <component base="dieresiscomb" xOffset="1009"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>o</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>o</string>
-  <key>com.fontlab.recipe</key>
-  <string>o+dieresiscomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

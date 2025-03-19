@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="909"/>
+  <advance width="962"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zero.dnom" yOffset="-470"/>
+    <contour>
+      <point x="486" y="-514" type="qcurve" smooth="yes"/>
+      <point x="556" y="-514"/>
+      <point x="673" y="-470"/>
+      <point x="765" y="-395"/>
+      <point x="834" y="-293"/>
+      <point x="879" y="-178"/>
+      <point x="902" y="-55"/>
+      <point x="902" y="5" type="qcurve" smooth="yes"/>
+      <point x="902" y="65"/>
+      <point x="876" y="186"/>
+      <point x="826" y="296"/>
+      <point x="752" y="393"/>
+      <point x="658" y="463"/>
+      <point x="543" y="504"/>
+      <point x="476" y="504" type="qcurve" smooth="yes"/>
+      <point x="364" y="504"/>
+      <point x="206" y="412"/>
+      <point x="106" y="266"/>
+      <point x="60" y="84"/>
+      <point x="60" y="-6" type="qcurve" smooth="yes"/>
+      <point x="60" y="-103"/>
+      <point x="111" y="-286"/>
+      <point x="216" y="-428"/>
+      <point x="377" y="-514"/>
+    </contour>
+    <contour>
+      <point x="486" y="-307" type="qcurve" smooth="yes"/>
+      <point x="425" y="-307"/>
+      <point x="344" y="-246"/>
+      <point x="295" y="-153"/>
+      <point x="275" y="-44"/>
+      <point x="275" y="5" type="qcurve" smooth="yes"/>
+      <point x="275" y="49"/>
+      <point x="297" y="150"/>
+      <point x="345" y="236"/>
+      <point x="419" y="293"/>
+      <point x="471" y="293" type="qcurve" smooth="yes"/>
+      <point x="526" y="293"/>
+      <point x="604" y="238"/>
+      <point x="654" y="153"/>
+      <point x="678" y="52"/>
+      <point x="678" y="6" type="qcurve" smooth="yes"/>
+      <point x="678" y="-24"/>
+      <point x="670" y="-93"/>
+      <point x="652" y="-163"/>
+      <point x="623" y="-227"/>
+      <point x="580" y="-277"/>
+      <point x="523" y="-307"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=60</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=59</string>
-  </dict>
-  </lib>
 </glyph>

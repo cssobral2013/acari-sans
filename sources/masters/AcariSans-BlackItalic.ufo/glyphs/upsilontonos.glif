@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilontonos" format="2">
-  <advance width="1217"/>
+  <advance width="1271"/>
   <unicode hex="03CD"/>
   <outline>
-    <component base="upsilon"/>
-    <component base="tonos" xOffset="554" yOffset="122"/>
+    <component base="upsilon" xOffset="-103"/>
+    <component base="tonos" xOffset="564" yOffset="232"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>upsilon</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>upsilon</string>
-  </dict>
-  </lib>
 </glyph>

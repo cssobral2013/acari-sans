@@ -3,15 +3,7 @@
   <advance width="1380"/>
   <unicode hex="016A"/>
   <outline>
-    <component base="U"/>
-    <component base="macroncomb" xOffset="1161" yOffset="428"/>
+    <component base="U" xOffset="-2"/>
+    <component base="macroncomb" xOffset="1157" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+macroncomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

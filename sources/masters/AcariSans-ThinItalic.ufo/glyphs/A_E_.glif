@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
-  <advance width="1860"/>
+  <advance width="1863"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="1612" y="0" type="line"/>
-      <point x="1633" y="86" type="line"/>
-      <point x="866" y="86" type="line"/>
-      <point x="1002" y="680" type="line"/>
-      <point x="1681" y="680" type="line"/>
-      <point x="1698" y="765" type="line"/>
-      <point x="1022" y="765" type="line"/>
-      <point x="1160" y="1369" type="line"/>
-      <point x="1927" y="1369" type="line"/>
-      <point x="1945" y="1448" type="line"/>
-      <point x="841" y="1448" type="line"/>
-      <point x="-12" y="0" type="line"/>
-      <point x="101" y="0" type="line"/>
-      <point x="287" y="314" type="line"/>
-      <point x="810" y="314" type="line"/>
-      <point x="737" y="0" type="line"/>
+      <point x="1618" y="0" type="line"/>
+      <point x="1640" y="97" type="line"/>
+      <point x="873" y="97" type="line"/>
+      <point x="1006" y="675" type="line"/>
+      <point x="1684" y="675" type="line"/>
+      <point x="1705" y="771" type="line"/>
+      <point x="1029" y="771" type="line"/>
+      <point x="1163" y="1359" type="line"/>
+      <point x="1930" y="1359" type="line"/>
+      <point x="1951" y="1448" type="line"/>
+      <point x="837" y="1448" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="291" y="314" type="line"/>
+      <point x="804" y="314" type="line"/>
+      <point x="732" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="834" y="421" type="line"/>
-      <point x="341" y="421" type="line"/>
-      <point x="896" y="1369" type="line"/>
-      <point x="1053" y="1369" type="line"/>
+      <point x="831" y="429" type="line"/>
+      <point x="351" y="429" type="line"/>
+      <point x="897" y="1359" type="line"/>
+      <point x="1045" y="1359" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="vertical" x="1328" y="0"/>
 </glyph>

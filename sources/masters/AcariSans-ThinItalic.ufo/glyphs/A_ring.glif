@@ -3,13 +3,7 @@
   <advance width="1323"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="A"/>
-    <component base="ringcomb" xOffset="1057" yOffset="171"/>
+    <component base="A" xOffset="-2"/>
+    <component base="ringcomb" xOffset="1053" yOffset="168"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>A+ringcomb</string>
-  </dict>
-  </lib>
 </glyph>

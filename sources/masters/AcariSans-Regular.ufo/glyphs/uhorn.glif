@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn" format="2">
-  <advance width="1283"/>
+  <advance width="1292"/>
   <unicode hex="01B0"/>
   <outline>
-    <component base="u" xOffset="-3"/>
-    <component base="horncomb" xOffset="1350" yOffset="-384"/>
+    <component base="u" xOffset="-5"/>
+    <component base="horncomb" xOffset="1358" yOffset="-384"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>u+horncomb</string>
-  </dict>
-  </lib>
 </glyph>

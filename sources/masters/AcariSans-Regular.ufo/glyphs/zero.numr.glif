@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.numr" format="2">
-  <advance width="841"/>
+  <advance width="895"/>
   <outline>
-    <component base="zero.dnom" xOffset="-55" yOffset="501"/>
+    <contour>
+      <point x="448" y="478" type="qcurve" smooth="yes"/>
+      <point x="514" y="478"/>
+      <point x="620" y="521"/>
+      <point x="703" y="595"/>
+      <point x="763" y="694"/>
+      <point x="802" y="806"/>
+      <point x="821" y="924"/>
+      <point x="821" y="980" type="qcurve" smooth="yes"/>
+      <point x="821" y="1037"/>
+      <point x="802" y="1157"/>
+      <point x="761" y="1270"/>
+      <point x="700" y="1370"/>
+      <point x="615" y="1445"/>
+      <point x="506" y="1488"/>
+      <point x="439" y="1488" type="qcurve" smooth="yes"/>
+      <point x="337" y="1488"/>
+      <point x="195" y="1396"/>
+      <point x="106" y="1250"/>
+      <point x="65" y="1070"/>
+      <point x="65" y="982" type="qcurve" smooth="yes"/>
+      <point x="65" y="894"/>
+      <point x="108" y="714"/>
+      <point x="200" y="569"/>
+      <point x="345" y="478"/>
+    </contour>
+    <contour>
+      <point x="444" y="609" type="qcurve" smooth="yes"/>
+      <point x="374" y="609"/>
+      <point x="281" y="683"/>
+      <point x="226" y="795"/>
+      <point x="204" y="926"/>
+      <point x="204" y="982" type="qcurve" smooth="yes"/>
+      <point x="204" y="1037"/>
+      <point x="226" y="1166"/>
+      <point x="280" y="1278"/>
+      <point x="370" y="1353"/>
+      <point x="439" y="1353" type="qcurve" smooth="yes"/>
+      <point x="508" y="1353"/>
+      <point x="599" y="1279"/>
+      <point x="652" y="1168"/>
+      <point x="673" y="1038"/>
+      <point x="673" y="983" type="qcurve" smooth="yes"/>
+      <point x="673" y="948"/>
+      <point x="664" y="865"/>
+      <point x="643" y="782"/>
+      <point x="608" y="705"/>
+      <point x="557" y="645"/>
+      <point x="489" y="609"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=60</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=59</string>
-  </dict>
-  </lib>
 </glyph>

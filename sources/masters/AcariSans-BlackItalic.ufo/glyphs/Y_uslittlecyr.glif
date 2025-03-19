@@ -3,7 +3,6 @@
   <advance width="1388"/>
   <unicode hex="0466"/>
   <outline>
-    <component base="Elcyr.loclBGR"/>
     <contour>
       <point x="924" y="468" type="line"/>
       <point x="436" y="468" type="line"/>
@@ -16,7 +15,14 @@
       <point x="705" y="0" type="line"/>
       <point x="783" y="345" type="line"/>
     </contour>
+    <contour>
+      <point x="1271" y="0" type="line"/>
+      <point x="1017" y="1448" type="line"/>
+      <point x="800" y="1448" type="line"/>
+      <point x="-123" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="818" y="1020" type="line"/>
+      <point x="962" y="0" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="257.064" x="641" y="714"/>
-  <guideline angle="77.064" x="613" y="0"/>
 </glyph>

@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ishortcyr.loclBGR" format="2">
-  <advance width="1147"/>
+  <advance width="1150"/>
   <outline>
     <component base="icyr.loclBGR"/>
-    <component base="brevecomb" xOffset="995"/>
+    <component base="brevecomb" xOffset="998"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>icyr.loclBGR+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

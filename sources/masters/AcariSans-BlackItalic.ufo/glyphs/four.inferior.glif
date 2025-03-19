@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.inferior" format="2">
-  <advance width="819"/>
+  <advance width="820"/>
   <unicode hex="2084"/>
   <outline>
-    <component base="four.dnom" xOffset="-109" yOffset="-470"/>
+    <contour>
+      <point x="424" y="-468" type="line"/>
+      <point x="473" y="-255" type="line"/>
+      <point x="623" y="-255" type="line"/>
+      <point x="658" y="-80" type="line"/>
+      <point x="514" y="-80" type="line"/>
+      <point x="642" y="474" type="line"/>
+      <point x="487" y="474" type="line"/>
+      <point x="-117" y="-144" type="line"/>
+      <point x="-138" y="-255" type="line"/>
+      <point x="285" y="-255" type="line"/>
+      <point x="236" y="-468" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="-80" type="line"/>
+      <point x="109" y="-80" type="line"/>
+      <point x="395" y="217" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>four.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>four.dnom</string>
-  </dict>
-  </lib>
 </glyph>

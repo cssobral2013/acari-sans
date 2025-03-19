@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr" format="2">
-  <advance width="1039"/>
+  <advance width="1046"/>
   <unicode hex="043A"/>
   <outline>
     <contour>
-      <point x="203" y="0" type="line"/>
-      <point x="297" y="0" type="line"/>
-      <point x="297" y="514" type="line"/>
-      <point x="555" y="514" type="line" smooth="yes"/>
-      <point x="661" y="514"/>
-      <point x="707" y="450"/>
-      <point x="740" y="366" type="curve" smooth="yes"/>
-      <point x="881" y="0" type="line"/>
-      <point x="992" y="0" type="line"/>
-      <point x="827" y="401" type="line" smooth="yes"/>
-      <point x="804" y="455"/>
-      <point x="753" y="575"/>
-      <point x="659" y="575" type="curve"/>
-      <point x="916" y="1064" type="line"/>
-      <point x="811" y="1064" type="line"/>
-      <point x="566" y="607" type="line"/>
-      <point x="297" y="607" type="line"/>
-      <point x="297" y="1064" type="line"/>
-      <point x="203" y="1064" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="304" y="509" type="line"/>
+      <point x="553" y="509" type="line" smooth="yes"/>
+      <point x="591" y="509"/>
+      <point x="649" y="487"/>
+      <point x="691" y="449"/>
+      <point x="722" y="395"/>
+      <point x="734" y="364" type="qcurve" smooth="yes"/>
+      <point x="874" y="0" type="line"/>
+      <point x="1000" y="0" type="line"/>
+      <point x="834" y="404" type="line" smooth="yes"/>
+      <point x="825" y="426"/>
+      <point x="796" y="486"/>
+      <point x="755" y="540"/>
+      <point x="702" y="577"/>
+      <point x="667" y="577" type="qcurve"/>
+      <point x="927" y="1064" type="line"/>
+      <point x="805" y="1064" type="line"/>
+      <point x="561" y="610" type="line"/>
+      <point x="304" y="610" type="line"/>
+      <point x="304" y="1064" type="line"/>
+      <point x="197" y="1064" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucyr" format="2">
-  <advance width="1111"/>
+  <advance width="1114"/>
   <unicode hex="0423"/>
   <outline>
     <contour>
-      <point x="317" y="0" type="line"/>
-      <point x="1284" y="1448" type="line"/>
-      <point x="1088" y="1448" type="line"/>
-      <point x="551" y="626" type="line"/>
-      <point x="573" y="622" type="line"/>
-      <point x="445" y="1448" type="line"/>
-      <point x="259" y="1448" type="line"/>
-      <point x="442" y="437" type="line"/>
-      <point x="453" y="493" type="line"/>
-      <point x="127" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="1295" y="1448" type="line"/>
+      <point x="1083" y="1448" type="line"/>
+      <point x="559" y="645" type="line"/>
+      <point x="581" y="641" type="line"/>
+      <point x="455" y="1448" type="line"/>
+      <point x="253" y="1448" type="line"/>
+      <point x="437" y="437" type="line"/>
+      <point x="448" y="493" type="line"/>
+      <point x="122" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="280.15" x="271" y="1448"/>
-  <guideline angle="90" name="vertical" x="786" y="0"/>
 </glyph>

@@ -3,47 +3,51 @@
   <advance width="1281"/>
   <outline>
     <contour>
-      <point x="557" y="-20" type="curve" smooth="yes"/>
-      <point x="894" y="-20"/>
-      <point x="1184" y="227"/>
-      <point x="1184" y="621" type="curve" smooth="yes"/>
-      <point x="1184" y="851"/>
-      <point x="1016" y="1010"/>
-      <point x="771" y="1010" type="curve" smooth="yes"/>
-      <point x="700" y="1010"/>
-      <point x="580" y="988"/>
-      <point x="511" y="940" type="curve"/>
-      <point x="523" y="927" type="line"/>
-      <point x="651" y="1207" type="line"/>
-      <point x="607" y="1179" type="line"/>
-      <point x="1240" y="1179" type="line"/>
-      <point x="1301" y="1448" type="line"/>
-      <point x="466" y="1448" type="line"/>
-      <point x="145" y="676" type="line"/>
-      <point x="399" y="607" type="line"/>
-      <point x="468" y="687"/>
-      <point x="581" y="744"/>
-      <point x="670" y="744" type="curve" smooth="yes"/>
-      <point x="792" y="744"/>
-      <point x="866" y="681"/>
-      <point x="866" y="554" type="curve" smooth="yes"/>
-      <point x="866" y="393"/>
-      <point x="753" y="245"/>
-      <point x="552" y="245" type="curve" smooth="yes"/>
-      <point x="437" y="245"/>
-      <point x="352" y="310"/>
-      <point x="335" y="443" type="curve"/>
-      <point x="53" y="443" type="line"/>
-      <point x="53" y="176"/>
-      <point x="267" y="-20"/>
+      <point x="444" y="-20" type="qcurve" smooth="yes"/>
+      <point x="570" y="-20"/>
+      <point x="798" y="69"/>
+      <point x="970" y="235"/>
+      <point x="1071" y="473"/>
+      <point x="1071" y="621" type="qcurve" smooth="yes"/>
+      <point x="1071" y="707"/>
+      <point x="1011" y="850"/>
+      <point x="902" y="953"/>
+      <point x="750" y="1010"/>
+      <point x="658" y="1010" type="qcurve" smooth="yes"/>
+      <point x="634" y="1010"/>
+      <point x="574" y="1003"/>
+      <point x="511" y="990"/>
+      <point x="449" y="970"/>
+      <point x="423" y="955" type="qcurve"/>
+      <point x="525" y="1178" type="line"/>
+      <point x="1127" y="1178" type="line"/>
+      <point x="1188" y="1447" type="line"/>
+      <point x="353" y="1447" type="line"/>
+      <point x="32" y="676" type="line"/>
+      <point x="286" y="607" type="line"/>
+      <point x="312" y="637"/>
+      <point x="378" y="688"/>
+      <point x="450" y="724"/>
+      <point x="523" y="744"/>
+      <point x="557" y="744" type="qcurve" smooth="yes"/>
+      <point x="649" y="744"/>
+      <point x="753" y="650"/>
+      <point x="753" y="554" type="qcurve" smooth="yes"/>
+      <point x="753" y="494"/>
+      <point x="711" y="382"/>
+      <point x="631" y="296"/>
+      <point x="514" y="245"/>
+      <point x="439" y="245" type="qcurve" smooth="yes"/>
+      <point x="391" y="245"/>
+      <point x="310" y="275"/>
+      <point x="252" y="337"/>
+      <point x="219" y="430"/>
+      <point x="219" y="493" type="qcurve"/>
+      <point x="-60" y="443" type="line"/>
+      <point x="-60" y="343"/>
+      <point x="16" y="173"/>
+      <point x="151" y="49"/>
+      <point x="335" y="-20"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=68</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=102</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="-243" y="1098" type="line"/>
+      <point x="-167" y="1109"/>
+      <point x="-49" y="1145"/>
+      <point x="32" y="1201"/>
+      <point x="75" y="1280"/>
+      <point x="75" y="1335" type="qcurve" smooth="yes"/>
+      <point x="75" y="1393"/>
+      <point x="13" y="1462"/>
+      <point x="-80" y="1499"/>
+      <point x="-187" y="1511"/>
+      <point x="-232" y="1511" type="qcurve" smooth="yes"/>
+      <point x="-255" y="1511" type="line"/>
+      <point x="-282" y="1365" type="line"/>
+      <point x="-221" y="1365" type="line" smooth="yes"/>
+      <point x="-202" y="1365"/>
+      <point x="-158" y="1359"/>
+      <point x="-120" y="1343"/>
+      <point x="-95" y="1315"/>
+      <point x="-95" y="1294" type="qcurve" smooth="yes"/>
+      <point x="-95" y="1275"/>
+      <point x="-115" y="1244"/>
+      <point x="-154" y="1220"/>
+      <point x="-212" y="1203"/>
+      <point x="-252" y="1196" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

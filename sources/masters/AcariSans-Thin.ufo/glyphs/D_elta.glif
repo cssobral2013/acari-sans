@@ -4,40 +4,20 @@
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="126" y="97" type="line"/>
-      <point x="131" y="80" type="line"/>
-      <point x="737" y="1390" type="line"/>
-      <point x="704" y="1390" type="line"/>
-      <point x="1317" y="80" type="line"/>
-      <point x="1322" y="97" type="line"/>
+      <point x="139" y="108" type="line"/>
+      <point x="146" y="91" type="line"/>
+      <point x="736" y="1368" type="line"/>
+      <point x="704" y="1368" type="line"/>
+      <point x="1303" y="91" type="line"/>
+      <point x="1310" y="108" type="line"/>
     </contour>
     <contour>
       <point x="39" y="0" type="line"/>
       <point x="1409" y="0" type="line"/>
-      <point x="1409" y="109" type="line"/>
-      <point x="783" y="1448" type="line"/>
-      <point x="660" y="1448" type="line"/>
-      <point x="39" y="109" type="line"/>
+      <point x="1409" y="117" type="line"/>
+      <point x="787" y="1448" type="line"/>
+      <point x="656" y="1448" type="line"/>
+      <point x="39" y="117" type="line"/>
     </contour>
   </outline>
-  <guideline angle="245.984" x="735" y="1292"/>
-  <guideline angle="65.962" x="39" y="184"/>
-  <guideline angle="114.304" x="1217" y="162"/>
-  <guideline angle="294.28" x="825" y="1479"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>75</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

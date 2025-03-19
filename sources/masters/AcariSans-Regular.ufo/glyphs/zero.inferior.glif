@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="841"/>
+  <advance width="895"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zero.dnom" xOffset="-55" yOffset="-470"/>
+    <contour>
+      <point x="448" y="-510" type="qcurve" smooth="yes"/>
+      <point x="514" y="-510"/>
+      <point x="620" y="-467"/>
+      <point x="703" y="-393"/>
+      <point x="763" y="-294"/>
+      <point x="802" y="-182"/>
+      <point x="821" y="-64"/>
+      <point x="821" y="-8" type="qcurve" smooth="yes"/>
+      <point x="821" y="49"/>
+      <point x="802" y="169"/>
+      <point x="761" y="282"/>
+      <point x="700" y="382"/>
+      <point x="615" y="457"/>
+      <point x="506" y="500"/>
+      <point x="439" y="500" type="qcurve" smooth="yes"/>
+      <point x="337" y="500"/>
+      <point x="195" y="408"/>
+      <point x="106" y="262"/>
+      <point x="65" y="82"/>
+      <point x="65" y="-6" type="qcurve" smooth="yes"/>
+      <point x="65" y="-95"/>
+      <point x="108" y="-274"/>
+      <point x="200" y="-419"/>
+      <point x="345" y="-510"/>
+    </contour>
+    <contour>
+      <point x="444" y="-379" type="qcurve" smooth="yes"/>
+      <point x="374" y="-379"/>
+      <point x="281" y="-305"/>
+      <point x="226" y="-193"/>
+      <point x="204" y="-62"/>
+      <point x="204" y="-6" type="qcurve" smooth="yes"/>
+      <point x="204" y="48"/>
+      <point x="226" y="178"/>
+      <point x="280" y="289"/>
+      <point x="370" y="364"/>
+      <point x="439" y="364" type="qcurve" smooth="yes"/>
+      <point x="508" y="364"/>
+      <point x="599" y="290"/>
+      <point x="652" y="179"/>
+      <point x="673" y="50"/>
+      <point x="673" y="-5" type="qcurve" smooth="yes"/>
+      <point x="673" y="-40"/>
+      <point x="664" y="-123"/>
+      <point x="643" y="-206"/>
+      <point x="608" y="-283"/>
+      <point x="557" y="-343"/>
+      <point x="489" y="-379"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=60</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=59</string>
-  </dict>
-  </lib>
 </glyph>

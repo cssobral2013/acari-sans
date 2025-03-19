@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr.loclBGR" format="2">
-  <advance width="1075"/>
+  <advance width="1083"/>
   <outline>
     <contour>
-      <point x="171" y="0" type="line" name=".av02"/>
-      <point x="337" y="0" type="line" name=".sh01"/>
-      <point x="337" y="486" type="line" name=".dv01"/>
-      <point x="540" y="486" type="line" smooth="yes"/>
-      <point x="628" y="486"/>
-      <point x="673" y="431"/>
-      <point x="704" y="351" type="curve" smooth="yes"/>
-      <point x="839" y="0" type="line"/>
-      <point x="1040" y="0" type="line" name=".av01"/>
-      <point x="865" y="416" type="line" smooth="yes"/>
-      <point x="833" y="493"/>
-      <point x="777" y="586"/>
-      <point x="703" y="586" type="curve" name=".iv01"/>
-      <point x="975" y="1064" type="line" name=".iv02"/>
-      <point x="779" y="1064" type="line"/>
-      <point x="533" y="620" type="line"/>
-      <point x="337" y="620" type="line" name=".dv02"/>
-      <point x="337" y="1448" type="line" name=".av03"/>
-      <point x="171" y="1448" type="line" name=".dh01"/>
+      <point x="164" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="479" type="line"/>
+      <point x="536" y="479" type="line" smooth="yes"/>
+      <point x="568" y="479"/>
+      <point x="617" y="460"/>
+      <point x="655" y="426"/>
+      <point x="684" y="377"/>
+      <point x="696" y="347" type="qcurve" smooth="yes"/>
+      <point x="830" y="0" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="874" y="420" type="line" smooth="yes"/>
+      <point x="861" y="451"/>
+      <point x="827" y="511"/>
+      <point x="786" y="559"/>
+      <point x="739" y="589"/>
+      <point x="713" y="589" type="qcurve"/>
+      <point x="988" y="1064" type="line"/>
+      <point x="772" y="1064" type="line"/>
+      <point x="526" y="623" type="line"/>
+      <point x="346" y="623" type="line"/>
+      <point x="346" y="1447" type="line"/>
+      <point x="164" y="1447" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>kacyr</string>
-  </dict>
-  </lib>
 </glyph>

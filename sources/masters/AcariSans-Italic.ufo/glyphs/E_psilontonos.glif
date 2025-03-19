@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1181"/>
+  <advance width="1557"/>
   <unicode hex="0388"/>
   <outline>
-    <component base="Epsilon" xOffset="-113"/>
-    <component base="tonos" xOffset="-244" yOffset="-5"/>
+    <component base="Epsilon" xOffset="239"/>
+    <component base="tonos" xOffset="-2" yOffset="-7"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>tonos</string>
+  </dict>
+  </lib>
 </glyph>

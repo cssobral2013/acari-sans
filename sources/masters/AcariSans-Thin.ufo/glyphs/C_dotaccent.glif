@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="2">
-  <advance width="1451"/>
+  <advance width="1452"/>
   <unicode hex="010A"/>
   <outline>
-    <component base="C" xOffset="10"/>
-    <component base="dotaccentcomb" xOffset="1012" yOffset="408"/>
+    <component base="C"/>
+    <component base="dotaccentcomb" xOffset="1019" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>C+dotaccentcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

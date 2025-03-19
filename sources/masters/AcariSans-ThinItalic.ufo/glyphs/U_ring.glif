@@ -3,15 +3,7 @@
   <advance width="1380"/>
   <unicode hex="016E"/>
   <outline>
-    <component base="U"/>
-    <component base="ringcomb" xOffset="1043" yOffset="428"/>
+    <component base="U" xOffset="-2"/>
+    <component base="ringcomb" xOffset="1042" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+ringcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

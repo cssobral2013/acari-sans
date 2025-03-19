@@ -3,15 +3,7 @@
   <advance width="1380"/>
   <unicode hex="0170"/>
   <outline>
-    <component base="U"/>
-    <component base="hungarumlautcomb" xOffset="1319" yOffset="428"/>
+    <component base="U" xOffset="-2"/>
+    <component base="hungarumlautcomb" xOffset="1314" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+hungarumlautcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="softhyphen" format="2">
-  <advance width="996"/>
+  <advance width="998"/>
   <unicode hex="00AD"/>
   <outline>
     <contour>
-      <point x="841" y="636" type="line"/>
-      <point x="856" y="707" type="line"/>
-      <point x="230" y="707" type="line"/>
-      <point x="214" y="636" type="line"/>
+      <point x="844" y="627" type="line"/>
+      <point x="863" y="707" type="line"/>
+      <point x="227" y="707" type="line"/>
+      <point x="208" y="627" type="line"/>
     </contour>
   </outline>
-  <guideline angle="256.921" x="216" y="707"/>
-  <guideline angle="76.9209" x="848" y="608"/>
-  <guideline angle="0" x="0" y="608"/>
-  <guideline angle="0" x="0" y="707"/>
 </glyph>

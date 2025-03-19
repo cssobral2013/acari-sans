@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-  <advance width="613"/>
+  <advance width="619"/>
   <unicode hex="00B9"/>
   <outline>
-    <component base="one.dnom" yOffset="936"/>
+    <contour>
+      <point x="413" y="931" type="line"/>
+      <point x="413" y="1900" type="line"/>
+      <point x="341" y="1900" type="line"/>
+      <point x="341" y="1889" type="line" smooth="yes"/>
+      <point x="341" y="1831"/>
+      <point x="279" y="1757"/>
+      <point x="213" y="1757" type="qcurve" smooth="yes"/>
+      <point x="69" y="1757" type="line"/>
+      <point x="69" y="1691" type="line"/>
+      <point x="330" y="1691" type="line"/>
+      <point x="330" y="931" type="line"/>
+    </contour>
   </outline>
 </glyph>

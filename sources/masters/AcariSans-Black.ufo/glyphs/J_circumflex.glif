@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="1174"/>
+  <advance width="1172"/>
   <unicode hex="0134"/>
   <outline>
     <component base="J"/>
-    <component base="circumflexcomb" xOffset="1160" yOffset="406"/>
+    <component base="circumflexcomb" xOffset="1183" yOffset="406"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>J+circumflexcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

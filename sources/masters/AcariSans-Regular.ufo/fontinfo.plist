@@ -10,11 +10,11 @@
   <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/)
 HK Grotesk is a trademark of Alfredo Marco Pradil
 Copyright (c) 2016-2021 The Perun Project Authors
-Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+Copyright (c) 2018-2024 The Acari Sans VF Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -25,7 +25,7 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>532</integer>
+    <integer>512</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -56,7 +56,7 @@ Copyright (c) 2018-2024 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeHheaDescender</key>
   <integer>-499</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>27</integer>
+  <integer>-0</integer>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/)
 HK Grotesk is a trademark of Alfredo Marco Pradil
@@ -71,15 +71,15 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>The Acari Sans Project Authors</string>
+  <string>The Acari Sans VF Project Authors</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://hanken.co and https://localfonts.eu/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.090</string>
+  <string>Version 1.092</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -136,7 +136,7 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeOS2TypoDescender</key>
   <integer>-499</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>27</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -174,11 +174,11 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AcariSans-Regular</string>
+  <string>AcariSansVF-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Acari Sans Regular</string>
+  <string>Acari Sans VF Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -188,7 +188,7 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans</string>
+  <string>Acari Sans VF</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -198,7 +198,7 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>90</integer>
+  <integer>92</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

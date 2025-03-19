@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hacyr" format="2">
-  <advance width="1046"/>
+  <advance width="1006"/>
   <unicode hex="0445"/>
   <outline>
-    <component base="x"/>
+    <component base="x" xOffset="-1"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>x</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>x</string>
-  <key>com.fontlab.recipe</key>
-  <string>x</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

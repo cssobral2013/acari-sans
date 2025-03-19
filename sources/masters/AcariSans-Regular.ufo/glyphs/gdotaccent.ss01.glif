@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent.ss01" format="2">
-  <advance width="1189"/>
+  <advance width="1192"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="dotaccentcomb" xOffset="862"/>
+    <component base="dotaccentcomb" xOffset="871"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>g.ss01+dotaccentcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

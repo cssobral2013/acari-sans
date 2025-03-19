@@ -4,14 +4,6 @@
   <unicode hex="0401"/>
   <outline>
     <component base="Iecyr"/>
-    <component base="dieresiscomb" xOffset="1196" yOffset="428"/>
+    <component base="dieresiscomb" xOffset="1202" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Iecyr+dieresiscomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

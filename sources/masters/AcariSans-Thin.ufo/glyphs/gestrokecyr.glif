@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gestrokecyr" format="2">
-  <advance width="791"/>
+  <advance width="795"/>
   <unicode hex="0493"/>
   <outline>
     <contour>
-      <point x="200" y="0" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="291" y="985" type="line"/>
-      <point x="749" y="985" type="line"/>
-      <point x="749" y="1064" type="line"/>
-      <point x="200" y="1064" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="976" type="line"/>
+      <point x="756" y="976" type="line"/>
+      <point x="756" y="1064" type="line"/>
+      <point x="196" y="1064" type="line"/>
     </contour>
     <contour>
-      <point x="28" y="502" type="line"/>
-      <point x="634" y="502" type="line"/>
-      <point x="634" y="565" type="line"/>
-      <point x="28" y="565" type="line"/>
+      <point x="27" y="495" type="line"/>
+      <point x="640" y="495" type="line"/>
+      <point x="640" y="572" type="line"/>
+      <point x="27" y="572" type="line"/>
     </contour>
   </outline>
 </glyph>

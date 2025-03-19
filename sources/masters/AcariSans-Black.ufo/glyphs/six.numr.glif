@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.numr" format="2">
-  <advance width="866"/>
+  <advance width="868"/>
   <outline>
-    <component base="six.dnom" xOffset="4" yOffset="501"/>
+    <contour>
+      <point x="437" y="484" type="qcurve" smooth="yes"/>
+      <point x="512" y="484"/>
+      <point x="649" y="542"/>
+      <point x="753" y="641"/>
+      <point x="815" y="771"/>
+      <point x="815" y="843" type="qcurve" smooth="yes"/>
+      <point x="815" y="911"/>
+      <point x="755" y="1030"/>
+      <point x="653" y="1119"/>
+      <point x="517" y="1171"/>
+      <point x="440" y="1171" type="qcurve" smooth="yes"/>
+      <point x="420" y="1171"/>
+      <point x="372" y="1163"/>
+      <point x="347" y="1155" type="qcurve"/>
+      <point x="347" y="1155"/>
+      <point x="362" y="1146"/>
+      <point x="382" y="1136"/>
+      <point x="398" y="1128"/>
+      <point x="398" y="1129" type="qcurve"/>
+      <point x="639" y="1462" type="line"/>
+      <point x="414" y="1462" type="line"/>
+      <point x="101" y="992" type="line" smooth="yes"/>
+      <point x="70" y="946"/>
+      <point x="44" y="863"/>
+      <point x="44" y="814" type="qcurve" smooth="yes"/>
+      <point x="44" y="746"/>
+      <point x="106" y="626"/>
+      <point x="213" y="536"/>
+      <point x="356" y="484"/>
+    </contour>
+    <contour>
+      <point x="431" y="689" type="qcurve" smooth="yes"/>
+      <point x="395" y="689"/>
+      <point x="332" y="712"/>
+      <point x="285" y="752"/>
+      <point x="258" y="806"/>
+      <point x="258" y="836" type="qcurve" smooth="yes"/>
+      <point x="258" y="866"/>
+      <point x="286" y="918"/>
+      <point x="333" y="957"/>
+      <point x="396" y="980"/>
+      <point x="431" y="980" type="qcurve" smooth="yes"/>
+      <point x="466" y="980"/>
+      <point x="529" y="957"/>
+      <point x="576" y="918"/>
+      <point x="603" y="865"/>
+      <point x="603" y="836" type="qcurve" smooth="yes"/>
+      <point x="603" y="806"/>
+      <point x="576" y="753"/>
+      <point x="529" y="712"/>
+      <point x="466" y="689"/>
+    </contour>
   </outline>
 </glyph>

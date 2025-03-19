@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="2">
-  <advance width="1178"/>
+  <advance width="1179"/>
   <unicode hex="014F"/>
   <outline>
     <component base="o" xOffset="1"/>
-    <component base="brevecomb" xOffset="995"/>
+    <component base="brevecomb" xOffset="991"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>o+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

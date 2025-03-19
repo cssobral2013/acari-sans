@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevedotbelow" format="2">
-  <advance width="1097"/>
+  <advance width="1098"/>
   <unicode hex="1EB7"/>
   <outline>
     <component base="adotbelow"/>
-    <component base="brevecomb" xOffset="940"/>
+    <component base="brevecomb" xOffset="947"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>adotbelow+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

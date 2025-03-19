@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yuslittlecyr" format="2">
-  <advance width="1338"/>
+  <advance width="1342"/>
   <unicode hex="0466"/>
   <outline>
-    <component base="Elcyr.loclBGR"/>
     <contour>
-      <point x="963" y="557" type="line"/>
-      <point x="396" y="557" type="line"/>
-      <point x="308" y="409" type="line"/>
-      <point x="985" y="409" type="line"/>
+      <point x="954" y="553" type="line"/>
+      <point x="410" y="553" type="line"/>
+      <point x="311" y="391" type="line"/>
+      <point x="978" y="391" type="line"/>
     </contour>
     <contour>
-      <point x="573" y="459" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="639" y="0" type="line"/>
-      <point x="744" y="459" type="line"/>
+      <point x="562" y="437" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="750" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="1177" y="0" type="line"/>
+      <point x="959" y="1448" type="line"/>
+      <point x="814" y="1448" type="line"/>
+      <point x="-73" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="829" y="1167" type="line"/>
+      <point x="975" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="257.064" x="641" y="714"/>
-  <guideline angle="77.064" x="613" y="0"/>
 </glyph>

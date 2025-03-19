@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dz" format="2">
-  <advance width="2193"/>
+  <advance width="2204"/>
   <unicode hex="01F3"/>
   <outline>
-    <component base="d" xOffset="-5"/>
-    <component base="z" xOffset="1194"/>
+    <component base="d" xOffset="-8"/>
+    <component base="z" xOffset="1200"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>d_z</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

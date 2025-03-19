@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="1181"/>
+  <advance width="1165"/>
   <unicode hex="03AC"/>
   <outline>
-    <component base="alpha"/>
-    <component base="tonos" xOffset="549" yOffset="176"/>
+    <component base="alpha" xOffset="-121"/>
+    <component base="tonos" xOffset="428" yOffset="169"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>alpha</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>alpha</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colontriangularmod" format="2">
-  <advance width="511"/>
+  <advance width="517"/>
   <unicode hex="02D0"/>
   <outline>
     <contour>
-      <point x="255" y="662" type="line" name=".iv01"/>
-      <point x="445" y="1022" type="line" name=".iv02"/>
-      <point x="66" y="1022" type="line" name=".av01"/>
+      <point x="259" y="653" type="line"/>
+      <point x="453" y="1022" type="line"/>
+      <point x="64" y="1022" type="line"/>
     </contour>
     <contour>
-      <point x="445" y="0" type="line" name=".av02"/>
-      <point x="255" y="359" type="line" name=".iv03"/>
-      <point x="66" y="0" type="line" name=".iv04"/>
+      <point x="453" y="0" type="line"/>
+      <point x="259" y="369" type="line"/>
+      <point x="64" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

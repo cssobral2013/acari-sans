@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="1572"/>
+  <advance width="1633"/>
   <unicode hex="038C"/>
   <outline>
-    <component base="Omicron" xOffset="-101"/>
-    <component base="tonos" xOffset="-210" yOffset="-16"/>
+    <component base="Omicron" xOffset="206"/>
+    <component base="tonos" xOffset="-4" yOffset="-16"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>tonos</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
 </glyph>

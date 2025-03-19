@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhornhoi" format="2">
-  <advance width="1165"/>
+  <advance width="1169"/>
   <unicode hex="1EED"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1301" yOffset="-384"/>
-    <component base="hookabovecomb" xOffset="921" yOffset="81"/>
+    <component base="horncomb" xOffset="1305" yOffset="-384"/>
+    <component base="hookabovecomb" xOffset="919" yOffset="82"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>u+horncomb+hookabovecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

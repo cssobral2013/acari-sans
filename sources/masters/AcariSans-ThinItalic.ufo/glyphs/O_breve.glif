@@ -3,15 +3,7 @@
   <advance width="1498"/>
   <unicode hex="014E"/>
   <outline>
-    <component base="O"/>
-    <component base="brevecomb" xOffset="1196" yOffset="428"/>
+    <component base="O" xOffset="-2"/>
+    <component base="brevecomb" xOffset="1197" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>O+brevecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

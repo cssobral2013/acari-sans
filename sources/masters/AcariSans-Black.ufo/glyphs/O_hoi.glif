@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohoi" format="2">
-  <advance width="1569"/>
+  <advance width="1568"/>
   <unicode hex="1ECE"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xOffset="1108" yOffset="563"/>
+    <component base="hookabovecomb" xOffset="1105" yOffset="554"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>O+hookabovecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

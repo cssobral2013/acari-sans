@@ -3,6 +3,14 @@
   <advance width="870"/>
   <unicode hex="2077"/>
   <outline>
-    <component base="seven.dnom" xOffset="49" yOffset="936"/>
+    <contour>
+      <point x="332" y="931" type="line"/>
+      <point x="743" y="1862" type="line"/>
+      <point x="743" y="1900" type="line"/>
+      <point x="125" y="1900" type="line"/>
+      <point x="125" y="1831" type="line"/>
+      <point x="660" y="1831" type="line"/>
+      <point x="245" y="931" type="line"/>
+    </contour>
   </outline>
 </glyph>

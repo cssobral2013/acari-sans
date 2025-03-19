@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocaron" format="2">
-  <advance width="1150"/>
+  <advance width="1158"/>
   <unicode hex="01D2"/>
   <outline>
-    <component base="o"/>
-    <component base="caroncomb" xOffset="873"/>
+    <component base="o" xOffset="2"/>
+    <component base="caroncomb" xOffset="897"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>o</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>o</string>
-  <key>com.fontlab.recipe</key>
-  <string>o+caroncomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

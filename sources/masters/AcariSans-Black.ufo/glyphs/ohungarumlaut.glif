@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="1150"/>
+  <advance width="1158"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="o"/>
-    <component base="hungarumlautcomb" xOffset="1135"/>
+    <component base="o" xOffset="2"/>
+    <component base="hungarumlautcomb" xOffset="1142"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>o</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>o</string>
-  <key>com.fontlab.recipe</key>
-  <string>o+hungarumlautcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

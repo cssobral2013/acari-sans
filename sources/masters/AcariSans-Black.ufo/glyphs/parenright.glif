@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="2">
-  <advance width="640"/>
+  <advance width="632"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="585" y="724" type="curve" smooth="yes"/>
-      <point x="585" y="1086"/>
-      <point x="473" y="1394"/>
-      <point x="264" y="1614" type="curve"/>
-      <point x="0" y="1614" type="line"/>
-      <point x="219" y="1325"/>
-      <point x="307" y="1083"/>
-      <point x="307" y="724" type="curve" smooth="yes"/>
-      <point x="307" y="364"/>
-      <point x="219" y="124"/>
-      <point x="0" y="-166" type="curve"/>
-      <point x="264" y="-166" type="line"/>
-      <point x="475" y="53"/>
-      <point x="585" y="365"/>
+      <point x="572" y="724" type="qcurve" smooth="yes"/>
+      <point x="572" y="856"/>
+      <point x="531" y="1102"/>
+      <point x="451" y="1325"/>
+      <point x="332" y="1523"/>
+      <point x="255" y="1606" type="qcurve"/>
+      <point x="0" y="1606" type="line"/>
+      <point x="80" y="1500"/>
+      <point x="194" y="1296"/>
+      <point x="267" y="1084"/>
+      <point x="302" y="855"/>
+      <point x="302" y="724" type="qcurve" smooth="yes"/>
+      <point x="302" y="592"/>
+      <point x="267" y="364"/>
+      <point x="194" y="153"/>
+      <point x="80" y="-51"/>
+      <point x="0" y="-158" type="qcurve"/>
+      <point x="255" y="-158" type="line"/>
+      <point x="333" y="-75"/>
+      <point x="451" y="121"/>
+      <point x="531" y="343"/>
+      <point x="572" y="590"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>parenleft</string>
-  </dict>
-  </lib>
 </glyph>

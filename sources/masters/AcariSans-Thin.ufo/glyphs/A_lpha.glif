@@ -1,40 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
-  <advance width="1323"/>
+  <advance width="1319"/>
   <unicode hex="0391"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="1225" y="0" type="line"/>
+      <point x="705" y="1448" type="line"/>
+      <point x="619" y="1448" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="322" y="314" type="line"/>
+      <point x="1000" y="314" type="line"/>
+      <point x="1111" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="965" y="420" type="line"/>
+      <point x="356" y="420" type="line"/>
+      <point x="665" y="1291" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>193</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>A</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

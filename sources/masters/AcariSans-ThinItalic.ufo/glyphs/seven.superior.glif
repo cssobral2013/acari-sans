@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.superior" format="2">
-  <advance width="967"/>
+  <advance width="850"/>
   <unicode hex="2077"/>
   <outline>
-    <component base="seven.dnom" xOffset="216" yOffset="936"/>
+    <contour>
+      <point x="330" y="501" type="line"/>
+      <point x="956" y="1430" type="line"/>
+      <point x="965" y="1469" type="line"/>
+      <point x="346" y="1469" type="line"/>
+      <point x="330" y="1400" type="line"/>
+      <point x="864" y="1400" type="line"/>
+      <point x="241" y="501" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>seven.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>seven.dnom</string>
-  </dict>
-  </lib>
 </glyph>

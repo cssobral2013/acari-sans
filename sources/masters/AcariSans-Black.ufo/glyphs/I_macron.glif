@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-  <advance width="647"/>
+  <advance width="644"/>
   <unicode hex="012A"/>
   <outline>
     <component base="I"/>
-    <component base="macroncomb" xOffset="748" yOffset="426"/>
+    <component base="macroncomb" xOffset="753" yOffset="426"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>I+macroncomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

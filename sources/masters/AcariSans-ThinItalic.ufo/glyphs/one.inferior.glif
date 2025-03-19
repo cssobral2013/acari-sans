@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.inferior" format="2">
-  <advance width="441"/>
+  <advance width="956"/>
   <unicode hex="2081"/>
   <outline>
-    <component base="one.dnom" xOffset="-109" yOffset="-470"/>
+    <contour>
+      <point x="335" y="-488" type="line"/>
+      <point x="569" y="483" type="line"/>
+      <point x="490" y="483" type="line"/>
+      <point x="490" y="482" type="line"/>
+      <point x="476" y="406"/>
+      <point x="388" y="341"/>
+      <point x="301" y="341" type="qcurve" smooth="yes"/>
+      <point x="194" y="341" type="line"/>
+      <point x="179" y="271" type="line"/>
+      <point x="434" y="271" type="line"/>
+      <point x="254" y="-488" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>one.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>one.dnom</string>
-  </dict>
-  </lib>
 </glyph>

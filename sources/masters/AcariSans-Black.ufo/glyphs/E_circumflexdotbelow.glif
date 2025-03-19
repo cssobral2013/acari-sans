@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexdotbelow" format="2">
-  <advance width="1278"/>
+  <advance width="1277"/>
   <unicode hex="1EC6"/>
   <outline>
     <component base="Edotbelow"/>
-    <component base="circumflexcomb" xOffset="960" yOffset="406"/>
+    <component base="circumflexcomb" xOffset="982" yOffset="406"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Edotbelow+circumflexcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

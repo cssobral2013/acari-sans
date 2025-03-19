@@ -1,49 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mu" format="2">
-  <advance width="1855"/>
+  <advance width="1852"/>
   <unicode hex="039C"/>
   <outline>
-    <component base="M"/>
+    <contour>
+      <point x="1675" y="0" type="line"/>
+      <point x="1675" y="1448" type="line"/>
+      <point x="1298" y="1448" type="line"/>
+      <point x="928" y="459" type="line"/>
+      <point x="554" y="1448" type="line"/>
+      <point x="177" y="1448" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="454" y="1013" type="line"/>
+      <point x="788" y="126" type="line"/>
+      <point x="1064" y="126" type="line"/>
+      <point x="1398" y="1013" type="line"/>
+      <point x="1398" y="0" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>60</integer>
-        <key>width</key>
-        <integer>101</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>697</integer>
-        <key>width</key>
-        <integer>101</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>M</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

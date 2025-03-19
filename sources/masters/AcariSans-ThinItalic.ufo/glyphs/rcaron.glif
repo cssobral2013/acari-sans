@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-  <advance width="845"/>
+  <advance width="848"/>
   <unicode hex="0159"/>
   <outline>
-    <component base="r" xOffset="1"/>
-    <component base="caroncomb" xOffset="876"/>
+    <component base="r" xOffset="2"/>
+    <component base="caroncomb" xOffset="871"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>r+caroncomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numr" format="2">
-  <advance width="554"/>
+  <advance width="782"/>
   <outline>
-    <component base="one.dnom" xOffset="110" yOffset="478"/>
+    <contour>
+      <point x="525" y="506" type="line"/>
+      <point x="772" y="1473" type="line"/>
+      <point x="633" y="1473" type="line"/>
+      <point x="629" y="1459" type="line"/>
+      <point x="615" y="1398"/>
+      <point x="535" y="1339"/>
+      <point x="469" y="1339" type="qcurve" smooth="yes"/>
+      <point x="345" y="1339" type="line"/>
+      <point x="319" y="1228" type="line"/>
+      <point x="568" y="1228" type="line"/>
+      <point x="385" y="506" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>one.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>one.dnom</string>
-  </dict>
-  </lib>
 </glyph>

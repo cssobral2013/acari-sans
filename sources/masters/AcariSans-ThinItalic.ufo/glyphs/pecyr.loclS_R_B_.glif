@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pecyr.loclSRB" format="2">
-  <advance width="1165"/>
+  <advance width="1169"/>
   <outline>
     <component base="icyr"/>
-    <component base="macroncomb" xOffset="1002"/>
+    <component base="macroncomb" xOffset="999"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>icyr+macroncomb</string>
-  </dict>
-  </lib>
 </glyph>

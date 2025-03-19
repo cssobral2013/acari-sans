@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="2">
-  <advance width="1075"/>
+  <advance width="1074"/>
   <unicode hex="00E8"/>
   <outline>
-    <component base="e"/>
-    <component base="gravecomb" xOffset="867"/>
+    <component base="e" xOffset="-2"/>
+    <component base="gravecomb" xOffset="855"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>e+gravecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

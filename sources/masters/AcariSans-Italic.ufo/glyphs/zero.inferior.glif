@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="911"/>
+  <advance width="856"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zero.dnom" xOffset="-109" yOffset="-470"/>
+    <contour>
+      <point x="210" y="-509" type="qcurve" smooth="yes"/>
+      <point x="287" y="-509"/>
+      <point x="422" y="-449"/>
+      <point x="533" y="-347"/>
+      <point x="620" y="-213"/>
+      <point x="680" y="-66"/>
+      <point x="711" y="85"/>
+      <point x="711" y="153" type="qcurve" smooth="yes"/>
+      <point x="711" y="223"/>
+      <point x="679" y="349"/>
+      <point x="609" y="444"/>
+      <point x="501" y="501"/>
+      <point x="425" y="501" type="qcurve" smooth="yes"/>
+      <point x="345" y="501"/>
+      <point x="208" y="440"/>
+      <point x="96" y="338"/>
+      <point x="10" y="203"/>
+      <point x="-49" y="54"/>
+      <point x="-79" y="-98"/>
+      <point x="-79" y="-168" type="qcurve" smooth="yes"/>
+      <point x="-79" y="-239"/>
+      <point x="-47" y="-364"/>
+      <point x="23" y="-456"/>
+      <point x="132" y="-509"/>
+    </contour>
+    <contour>
+      <point x="223" y="-378" type="qcurve" smooth="yes"/>
+      <point x="176" y="-378"/>
+      <point x="112" y="-341"/>
+      <point x="73" y="-280"/>
+      <point x="57" y="-200"/>
+      <point x="57" y="-158" type="qcurve" smooth="yes"/>
+      <point x="57" y="-111"/>
+      <point x="78" y="3"/>
+      <point x="118" y="119"/>
+      <point x="177" y="229"/>
+      <point x="254" y="314"/>
+      <point x="349" y="365"/>
+      <point x="405" y="365" type="qcurve" smooth="yes"/>
+      <point x="451" y="365"/>
+      <point x="513" y="329"/>
+      <point x="550" y="268"/>
+      <point x="566" y="190"/>
+      <point x="566" y="149" type="qcurve" smooth="yes"/>
+      <point x="566" y="103"/>
+      <point x="545" y="-10"/>
+      <point x="506" y="-127"/>
+      <point x="448" y="-238"/>
+      <point x="371" y="-325"/>
+      <point x="278" y="-378"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>zero.dnom</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=59</string>
-  </dict>
-  </lib>
 </glyph>

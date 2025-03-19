@@ -1,15 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight.numr" format="2">
-  <advance width="918"/>
+  <advance width="862"/>
   <outline>
-    <component base="eight.dnom" xOffset="110" yOffset="478"/>
+    <contour>
+      <point x="422" y="479" type="qcurve" smooth="yes"/>
+      <point x="496" y="479"/>
+      <point x="633" y="528"/>
+      <point x="740" y="618"/>
+      <point x="802" y="745"/>
+      <point x="802" y="824" type="qcurve" smooth="yes"/>
+      <point x="802" y="894"/>
+      <point x="732" y="992"/>
+      <point x="667" y="1018" type="qcurve"/>
+      <point x="710" y="1035"/>
+      <point x="782" y="1091"/>
+      <point x="836" y="1164"/>
+      <point x="866" y="1250"/>
+      <point x="866" y="1297" type="qcurve" smooth="yes"/>
+      <point x="866" y="1345"/>
+      <point x="829" y="1413"/>
+      <point x="768" y="1458"/>
+      <point x="691" y="1481"/>
+      <point x="652" y="1481" type="qcurve" smooth="yes"/>
+      <point x="589" y="1481"/>
+      <point x="473" y="1436"/>
+      <point x="382" y="1357"/>
+      <point x="327" y="1248"/>
+      <point x="327" y="1182" type="qcurve" smooth="yes"/>
+      <point x="327" y="1131"/>
+      <point x="378" y="1044"/>
+      <point x="423" y="1019" type="qcurve"/>
+      <point x="370" y="1000"/>
+      <point x="274" y="939"/>
+      <point x="203" y="857"/>
+      <point x="162" y="751"/>
+      <point x="162" y="687" type="qcurve" smooth="yes"/>
+      <point x="162" y="633"/>
+      <point x="206" y="553"/>
+      <point x="280" y="503"/>
+      <point x="373" y="479"/>
+    </contour>
+    <contour>
+      <point x="553" y="1039" type="qcurve" smooth="yes"/>
+      <point x="523" y="1039"/>
+      <point x="470" y="1055"/>
+      <point x="431" y="1090"/>
+      <point x="406" y="1140"/>
+      <point x="406" y="1177" type="qcurve" smooth="yes"/>
+      <point x="406" y="1225"/>
+      <point x="444" y="1311"/>
+      <point x="509" y="1375"/>
+      <point x="595" y="1413"/>
+      <point x="643" y="1413" type="qcurve" smooth="yes"/>
+      <point x="672" y="1413"/>
+      <point x="727" y="1396"/>
+      <point x="767" y="1362"/>
+      <point x="789" y="1311"/>
+      <point x="789" y="1276" type="qcurve" smooth="yes"/>
+      <point x="789" y="1228"/>
+      <point x="751" y="1141"/>
+      <point x="687" y="1076"/>
+      <point x="601" y="1039"/>
+    </contour>
+    <contour>
+      <point x="430" y="544" type="qcurve" smooth="yes"/>
+      <point x="394" y="544"/>
+      <point x="326" y="564"/>
+      <point x="275" y="603"/>
+      <point x="243" y="663"/>
+      <point x="243" y="704" type="qcurve" smooth="yes"/>
+      <point x="243" y="765"/>
+      <point x="291" y="867"/>
+      <point x="373" y="943"/>
+      <point x="480" y="984"/>
+      <point x="539" y="984" type="qcurve" smooth="yes"/>
+      <point x="572" y="984"/>
+      <point x="637" y="965"/>
+      <point x="690" y="925"/>
+      <point x="723" y="863"/>
+      <point x="723" y="822" type="qcurve" smooth="yes"/>
+      <point x="723" y="763"/>
+      <point x="675" y="662"/>
+      <point x="595" y="586"/>
+      <point x="488" y="544"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>eight.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>eight.dnom</string>
-  </dict>
-  </lib>
 </glyph>

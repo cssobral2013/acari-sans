@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslashacute" format="2">
-  <advance width="1522"/>
+  <advance width="1526"/>
   <unicode hex="01FE"/>
   <outline>
     <component base="Oslash" xOffset="-1"/>
-    <component base="acutecomb" xOffset="1187" yOffset="428"/>
+    <component base="acutecomb" xOffset="1199" yOffset="428"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Oslash+acutecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

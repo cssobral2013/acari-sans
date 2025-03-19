@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ycircumflex" format="2">
-  <advance width="1029"/>
+  <advance width="1033"/>
   <unicode hex="0177"/>
   <outline>
     <component base="y" xOffset="1"/>
-    <component base="circumflexcomb" xOffset="875"/>
+    <component base="circumflexcomb" xOffset="872"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>y+circumflexcomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>
