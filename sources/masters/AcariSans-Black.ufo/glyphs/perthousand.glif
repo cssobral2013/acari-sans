@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-  <advance width="2912"/>
+  <advance width="2243"/>
   <unicode hex="2030"/>
   <outline>
     <contour>
@@ -141,49 +141,13 @@
       <point x="1927" y="203"/>
       <point x="1893" y="180"/>
     </contour>
-    <contour>
-      <point x="2543" y="-19" type="qcurve" smooth="yes"/>
-      <point x="2610" y="-19"/>
-      <point x="2720" y="32"/>
-      <point x="2799" y="125"/>
-      <point x="2842" y="256"/>
-      <point x="2842" y="335" type="qcurve" smooth="yes"/>
-      <point x="2842" y="406"/>
-      <point x="2796" y="531"/>
-      <point x="2715" y="623"/>
-      <point x="2606" y="676"/>
-      <point x="2543" y="676" type="qcurve" smooth="yes"/>
-      <point x="2478" y="676"/>
-      <point x="2369" y="625"/>
-      <point x="2290" y="533"/>
-      <point x="2246" y="405"/>
-      <point x="2246" y="329" type="qcurve" smooth="yes"/>
-      <point x="2246" y="253"/>
-      <point x="2290" y="125"/>
-      <point x="2369" y="33"/>
-      <point x="2478" y="-19"/>
-    </contour>
-    <contour>
-      <point x="2543" y="180" type="qcurve" smooth="yes"/>
-      <point x="2523" y="180"/>
-      <point x="2488" y="202"/>
-      <point x="2463" y="242"/>
-      <point x="2449" y="297"/>
-      <point x="2449" y="329" type="qcurve" smooth="yes"/>
-      <point x="2449" y="362"/>
-      <point x="2463" y="415"/>
-      <point x="2487" y="454"/>
-      <point x="2522" y="475"/>
-      <point x="2543" y="475" type="qcurve" smooth="yes"/>
-      <point x="2565" y="475"/>
-      <point x="2600" y="455"/>
-      <point x="2624" y="417"/>
-      <point x="2637" y="362"/>
-      <point x="2637" y="328" type="qcurve" smooth="yes"/>
-      <point x="2637" y="298"/>
-      <point x="2622" y="244"/>
-      <point x="2596" y="203"/>
-      <point x="2562" y="180"/>
-    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=70</string>
+  </dict>
+  </lib>
 </glyph>

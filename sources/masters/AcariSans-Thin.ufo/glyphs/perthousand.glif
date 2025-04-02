@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-  <advance width="2784"/>
+  <advance width="2220"/>
   <unicode hex="2030"/>
   <outline>
     <contour>
@@ -141,49 +141,13 @@
       <point x="1926" y="80"/>
       <point x="1870" y="43"/>
     </contour>
-    <contour>
-      <point x="2401" y="-20" type="qcurve" smooth="yes"/>
-      <point x="2452" y="-20"/>
-      <point x="2536" y="25"/>
-      <point x="2598" y="108"/>
-      <point x="2631" y="222"/>
-      <point x="2631" y="291" type="qcurve" smooth="yes"/>
-      <point x="2631" y="360"/>
-      <point x="2596" y="476"/>
-      <point x="2532" y="560"/>
-      <point x="2446" y="607"/>
-      <point x="2395" y="607" type="qcurve" smooth="yes"/>
-      <point x="2343" y="607"/>
-      <point x="2259" y="561"/>
-      <point x="2197" y="478"/>
-      <point x="2163" y="362"/>
-      <point x="2163" y="291" type="qcurve" smooth="yes"/>
-      <point x="2163" y="222"/>
-      <point x="2197" y="108"/>
-      <point x="2260" y="25"/>
-      <point x="2348" y="-20"/>
-    </contour>
-    <contour>
-      <point x="2399" y="43" type="qcurve" smooth="yes"/>
-      <point x="2363" y="43"/>
-      <point x="2302" y="79"/>
-      <point x="2260" y="144"/>
-      <point x="2236" y="235"/>
-      <point x="2236" y="291" type="qcurve" smooth="yes"/>
-      <point x="2236" y="345"/>
-      <point x="2260" y="436"/>
-      <point x="2301" y="502"/>
-      <point x="2359" y="540"/>
-      <point x="2395" y="540" type="qcurve" smooth="yes"/>
-      <point x="2429" y="540"/>
-      <point x="2486" y="503"/>
-      <point x="2528" y="437"/>
-      <point x="2553" y="346"/>
-      <point x="2553" y="293" type="qcurve" smooth="yes"/>
-      <point x="2553" y="239"/>
-      <point x="2529" y="147"/>
-      <point x="2490" y="80"/>
-      <point x="2434" y="43"/>
-    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=152</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=153</string>
+  </dict>
+  </lib>
 </glyph>
