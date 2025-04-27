@@ -2,28 +2,32 @@
 <glyph name="brevecomb_acutecomb" format="2">
   <outline>
     <contour>
-      <point x="-411" y="1192" type="qcurve" smooth="yes"/>
-      <point x="-332" y="1192"/>
-      <point x="-211" y="1228"/>
-      <point x="-128" y="1298"/>
-      <point x="-86" y="1401"/>
-      <point x="-86" y="1468" type="qcurve"/>
+      <point x="-411" y="1192" type="curve" smooth="yes"/>
+      <point x="-306" y="1192"/>
+      <point x="-225" y="1216"/>
+      <point x="-170" y="1263" type="curve" smooth="yes"/>
+      <point x="-114" y="1310"/>
+      <point x="-86" y="1379"/>
+      <point x="-86" y="1468" type="curve"/>
       <point x="-273" y="1468" type="line"/>
-      <point x="-273" y="1440"/>
-      <point x="-292" y="1395"/>
-      <point x="-328" y="1364"/>
-      <point x="-379" y="1348"/>
-      <point x="-411" y="1348" type="qcurve" smooth="yes"/>
-      <point x="-446" y="1348"/>
-      <point x="-498" y="1363"/>
-      <point x="-532" y="1393"/>
-      <point x="-550" y="1438"/>
-      <point x="-550" y="1468" type="qcurve"/>
+      <point x="-273" y="1431"/>
+      <point x="-286" y="1400"/>
+      <point x="-310" y="1380" type="curve" smooth="yes"/>
+      <point x="-334" y="1359"/>
+      <point x="-368" y="1348"/>
+      <point x="-411" y="1348" type="curve" smooth="yes"/>
+      <point x="-458" y="1348"/>
+      <point x="-492" y="1358"/>
+      <point x="-515" y="1378" type="curve" smooth="yes"/>
+      <point x="-538" y="1398"/>
+      <point x="-550" y="1428"/>
+      <point x="-550" y="1468" type="curve"/>
       <point x="-738" y="1468" type="line"/>
-      <point x="-738" y="1403"/>
-      <point x="-693" y="1301"/>
-      <point x="-609" y="1230"/>
-      <point x="-488" y="1192"/>
+      <point x="-738" y="1381"/>
+      <point x="-707" y="1313"/>
+      <point x="-651" y="1266" type="curve" smooth="yes"/>
+      <point x="-595" y="1218"/>
+      <point x="-514" y="1192"/>
     </contour>
     <contour>
       <point x="-315" y="1468" type="line"/>
