@@ -2,23 +2,6 @@
 <glyph name="four.numr" format="2">
   <advance width="820"/>
   <outline>
-    <contour>
-      <point x="642" y="506" type="line"/>
-      <point x="691" y="719" type="line"/>
-      <point x="841" y="719" type="line"/>
-      <point x="876" y="894" type="line"/>
-      <point x="732" y="894" type="line"/>
-      <point x="860" y="1448" type="line"/>
-      <point x="705" y="1448" type="line"/>
-      <point x="101" y="830" type="line"/>
-      <point x="80" y="719" type="line"/>
-      <point x="503" y="719" type="line"/>
-      <point x="454" y="506" type="line"/>
-    </contour>
-    <contour>
-      <point x="544" y="894" type="line"/>
-      <point x="327" y="894" type="line"/>
-      <point x="613" y="1191" type="line"/>
-    </contour>
+    <component base="uni2084" xOffset="218.122" yOffset="974.447"/>
   </outline>
 </glyph>

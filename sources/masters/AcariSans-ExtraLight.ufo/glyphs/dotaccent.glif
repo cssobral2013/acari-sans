@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="507"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="184" y="1240" type="line"/>
+      <point x="323" y="1240" type="line"/>
+      <point x="323" y="1419" type="line"/>
+      <point x="184" y="1419" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=184</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

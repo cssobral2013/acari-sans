@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="1062"/>
+  <unicode hex="013F"/>
+  <anchor x="498.5" y="1620" name="top"/>
+  <anchor x="499" y="-120" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="857.024" y="0" type="line"/>
+      <point x="879.296" y="103.488" type="line"/>
+      <point x="259.584" y="103.488" type="line"/>
+      <point x="570.112" y="1447.94" type="line"/>
+      <point x="453.504" y="1447.94" type="line"/>
+      <point x="119.488" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="800.778" y="657.993" type="curve" smooth="yes"/>
+      <point x="871.05" y="657.993"/>
+      <point x="934.538" y="722.249"/>
+      <point x="934.538" y="792.329" type="curve" smooth="yes"/>
+      <point x="934.538" y="852.105"/>
+      <point x="892.234" y="889.161"/>
+      <point x="833.866" y="889.161" type="curve" smooth="yes"/>
+      <point x="758.73" y="889.161"/>
+      <point x="700.746" y="827.785"/>
+      <point x="700.746" y="754.249" type="curve" smooth="yes"/>
+      <point x="700.746" y="695.305"/>
+      <point x="743.178" y="657.993"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+periodcentered</string>
+  </dict>
+  </lib>
+</glyph>

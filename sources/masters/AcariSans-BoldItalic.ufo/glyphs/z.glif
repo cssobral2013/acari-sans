@@ -2,18 +2,20 @@
 <glyph name="z" format="2">
   <advance width="1073"/>
   <unicode hex="007A"/>
+  <anchor x="631" y="1192" name="top"/>
   <outline>
     <contour>
-      <point x="872" y="0" type="line"/>
-      <point x="923" y="210" type="line"/>
-      <point x="349" y="210" type="line"/>
-      <point x="1077" y="886" type="line"/>
-      <point x="1117" y="1064" type="line"/>
-      <point x="210" y="1064" type="line"/>
-      <point x="160" y="855" type="line"/>
-      <point x="725" y="855" type="line"/>
-      <point x="-29" y="166" type="line"/>
-      <point x="-65" y="0" type="line"/>
+      <point x="872.448" y="0" type="line"/>
+      <point x="922.624" y="209.92" type="line"/>
+      <point x="349.184" y="209.92" type="line"/>
+      <point x="1077.25" y="885.76" type="line"/>
+      <point x="1117.18" y="1063.94" type="line"/>
+      <point x="209.92" y="1063.94" type="line"/>
+      <point x="159.744" y="855.04" type="line"/>
+      <point x="724.992" y="855.04" type="line"/>
+      <point x="-28.672" y="165.888" type="line"/>
+      <point x="-64.512" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="631" y="0"/>
 </glyph>

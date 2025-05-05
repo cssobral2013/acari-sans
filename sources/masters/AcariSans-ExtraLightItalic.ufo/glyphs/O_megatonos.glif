@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="2">
+  <advance width="1725"/>
+  <unicode hex="038F"/>
+  <outline>
+    <component base="tonos"/>
+    <component base="uni03A9" xOffset="127"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=12</string>
+  <key>com.fontlab.recipe</key>
+  <string>tonos_uni03A9</string>
+  </dict>
+  </lib>
+</glyph>

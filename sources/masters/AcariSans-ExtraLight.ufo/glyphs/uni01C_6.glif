@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C6" format="2">
+  <advance width="2118"/>
+  <unicode hex="01C6"/>
+  <outline>
+    <component base="a.cv01" xOffset="21"/>
+    <component base="z" xOffset="1166"/>
+    <component base="uni030C" xOffset="2039"/>
+    <contour>
+      <point x="875" y="1000" type="line"/>
+      <point x="982" y="1000" type="line"/>
+      <point x="982" y="1448" type="line"/>
+      <point x="875" y="1448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

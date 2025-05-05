@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="1440"/>
+  <advance width="1442"/>
   <unicode hex="010E"/>
   <outline>
-    <component base="D" xOffset="-1"/>
-    <component base="caroncomb" xOffset="1084" yOffset="428"/>
+    <component base="D"/>
+    <component base="uni030C" xOffset="1085" yOffset="428"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>D+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

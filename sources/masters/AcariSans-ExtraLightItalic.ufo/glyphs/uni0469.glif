@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0469" format="2">
+  <advance width="1343"/>
+  <unicode hex="0469"/>
+  <outline>
+    <component base="uni043B.loclBGR" xOffset="363.822" yOffset="1.82614e-05"/>
+    <component base="dotlessi" xOffset="-8"/>
+    <contour>
+      <point x="650.909" y="508.992" type="line"/>
+      <point x="241.308" y="508.992" type="line"/>
+      <point x="221.404" y="418.88" type="line"/>
+      <point x="596.573" y="418.88" type="line"/>
+    </contour>
+    <contour>
+      <point x="1071.93" y="418.593" type="line"/>
+      <point x="653.14" y="418.593" type="line"/>
+      <point x="599.38" y="338.097" type="line"/>
+      <point x="1079.31" y="338.097" type="line"/>
+    </contour>
+    <contour>
+      <point x="758.171" y="363.212" type="line"/>
+      <point x="676.362" y="1.11937" type="line"/>
+      <point x="799.201" y="1.11937" type="line"/>
+      <point x="879.956" y="363.165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0467</string>
+  </dict>
+  </lib>
+</glyph>

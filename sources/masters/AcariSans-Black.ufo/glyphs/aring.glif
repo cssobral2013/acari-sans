@@ -2,8 +2,21 @@
 <glyph name="aring" format="2">
   <advance width="1098"/>
   <unicode hex="00E5"/>
+  <anchor x="989" y="0" name="ogonek"/>
+  <anchor x="535" y="1191.94" name="top"/>
+  <anchor x="535" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="840" yOffset="90"/>
+    <component base="uni030A" xOffset="859" yOffset="107"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

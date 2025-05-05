@@ -5,110 +5,73 @@
   <outline>
     <contour>
       <point x="578" y="-20" type="curve" smooth="yes"/>
-      <point x="661" y="-20"/>
-      <point x="735" y="-4"/>
-      <point x="803" y="28" type="curve" smooth="yes"/>
-      <point x="871" y="59"/>
-      <point x="930" y="107"/>
+      <point x="742" y="-20"/>
+      <point x="880" y="44"/>
       <point x="981" y="168" type="curve"/>
       <point x="943" y="165" type="line"/>
-      <point x="986" y="109"/>
-      <point x="1045" y="66"/>
-      <point x="1117" y="35" type="curve" smooth="yes"/>
-      <point x="1188" y="4"/>
-      <point x="1269" y="-12"/>
-      <point x="1356" y="-12" type="curve" smooth="yes"/>
-      <point x="1444" y="-12"/>
-      <point x="1527" y="5"/>
-      <point x="1604" y="39" type="curve" smooth="yes"/>
-      <point x="1681" y="73"/>
-      <point x="1751" y="124"/>
+      <point x="1028" y="54"/>
+      <point x="1183" y="-12"/>
+      <point x="1356" y="-12" type="curve" smooth="yes" name=".sv01"/>
+      <point x="1532" y="-12"/>
+      <point x="1688" y="56"/>
       <point x="1814" y="191" type="curve"/>
       <point x="1609" y="375" type="line"/>
-      <point x="1571" y="336"/>
-      <point x="1532" y="308"/>
-      <point x="1492" y="291" type="curve" smooth="yes"/>
-      <point x="1451" y="274"/>
-      <point x="1405" y="265"/>
-      <point x="1354" y="265" type="curve" smooth="yes"/>
-      <point x="1294" y="265"/>
-      <point x="1242" y="283"/>
-      <point x="1200" y="313" type="curve" smooth="yes"/>
-      <point x="1158" y="343"/>
-      <point x="1127" y="386"/>
-      <point x="1114" y="438" type="curve"/>
+      <point x="1533" y="298"/>
+      <point x="1457" y="265"/>
+      <point x="1354" y="265" type="curve" smooth="yes" name=".sv02"/>
+      <point x="1235" y="265"/>
+      <point x="1140" y="333"/>
+      <point x="1114" y="438" type="curve" name=".dv05"/>
       <point x="1814" y="438" type="line" smooth="yes"/>
       <point x="1817" y="438"/>
-      <point x="1824" y="475"/>
+      <point x="1824" y="476"/>
       <point x="1824" y="534" type="curve" smooth="yes"/>
-      <point x="1824" y="702"/>
-      <point x="1775" y="839"/>
-      <point x="1688" y="935" type="curve" smooth="yes"/>
-      <point x="1600" y="1031"/>
-      <point x="1475" y="1084"/>
-      <point x="1320" y="1084" type="curve" smooth="yes"/>
-      <point x="1161" y="1084"/>
-      <point x="1035" y="1023"/>
+      <point x="1824" y="870"/>
+      <point x="1628" y="1084"/>
+      <point x="1320" y="1084" type="curve" smooth="yes" name=".sv05"/>
+      <point x="1162" y="1084"/>
+      <point x="1034" y="1022"/>
       <point x="935" y="898" type="curve"/>
       <point x="977" y="902" type="line"/>
-      <point x="926" y="961"/>
-      <point x="867" y="1006"/>
-      <point x="798" y="1037" type="curve" smooth="yes"/>
-      <point x="729" y="1068"/>
-      <point x="655" y="1084"/>
-      <point x="578" y="1084" type="curve" smooth="yes"/>
-      <point x="418" y="1084"/>
-      <point x="283" y="1028"/>
-      <point x="189" y="929" type="curve" smooth="yes"/>
-      <point x="95" y="829"/>
-      <point x="40" y="687"/>
-      <point x="40" y="515" type="curve" smooth="yes"/>
-      <point x="40" y="352"/>
-      <point x="92" y="218"/>
-      <point x="185" y="126" type="curve" smooth="yes"/>
-      <point x="278" y="33"/>
-      <point x="413" y="-20"/>
+      <point x="876" y="1019"/>
+      <point x="732" y="1084"/>
+      <point x="578" y="1084" type="curve" smooth="yes" name=".dv04"/>
+      <point x="257" y="1084"/>
+      <point x="40" y="859"/>
+      <point x="40" y="515" type="curve" smooth="yes" name=".dh01"/>
+      <point x="40" y="190"/>
+      <point x="248" y="-20"/>
     </contour>
     <contour>
-      <point x="569" y="212" type="curve" smooth="yes"/>
-      <point x="497" y="212"/>
-      <point x="438" y="245"/>
-      <point x="396" y="299" type="curve" smooth="yes"/>
-      <point x="354" y="353"/>
-      <point x="329" y="428"/>
-      <point x="329" y="515" type="curve" smooth="yes"/>
-      <point x="329" y="616"/>
-      <point x="354" y="699"/>
-      <point x="398" y="757" type="curve" smooth="yes"/>
-      <point x="442" y="815"/>
-      <point x="505" y="847"/>
-      <point x="578" y="847" type="curve" smooth="yes"/>
-      <point x="651" y="847"/>
-      <point x="711" y="816"/>
-      <point x="752" y="760" type="curve" smooth="yes"/>
-      <point x="793" y="703"/>
-      <point x="817" y="619"/>
+      <point x="569" y="212" type="curve" smooth="yes" name=".dv02"/>
+      <point x="426" y="212"/>
+      <point x="329" y="341"/>
+      <point x="329" y="515" type="curve" smooth="yes" name=".dh02"/>
+      <point x="329" y="717"/>
+      <point x="431" y="847"/>
+      <point x="578" y="847" type="curve" smooth="yes" name=".dv03"/>
+      <point x="724" y="847"/>
+      <point x="817" y="724"/>
       <point x="817" y="515" type="curve" smooth="yes"/>
-      <point x="817" y="427"/>
-      <point x="792" y="352"/>
-      <point x="749" y="298" type="curve" smooth="yes"/>
-      <point x="705" y="244"/>
-      <point x="644" y="212"/>
+      <point x="817" y="340"/>
+      <point x="718" y="212"/>
     </contour>
     <contour>
       <point x="1532" y="638" type="curve"/>
-      <point x="1117" y="638" type="line"/>
-      <point x="1124" y="703"/>
-      <point x="1146" y="754"/>
-      <point x="1180" y="788" type="curve" smooth="yes"/>
-      <point x="1214" y="822"/>
-      <point x="1261" y="840"/>
-      <point x="1320" y="840" type="curve" smooth="yes"/>
-      <point x="1383" y="840"/>
-      <point x="1433" y="821"/>
-      <point x="1470" y="786" type="curve" smooth="yes"/>
-      <point x="1506" y="751"/>
-      <point x="1528" y="701"/>
+      <point x="1117" y="638" type="line" name=".dv06"/>
+      <point x="1131" y="768"/>
+      <point x="1202" y="840"/>
+      <point x="1320" y="840" type="curve" smooth="yes" name=".sv04"/>
+      <point x="1444" y="840"/>
+      <point x="1524" y="763"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  </dict>
+  </lib>
 </glyph>

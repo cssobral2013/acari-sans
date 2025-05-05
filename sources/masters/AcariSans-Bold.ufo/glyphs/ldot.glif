@@ -2,8 +2,15 @@
 <glyph name="ldot" format="2">
   <advance width="937"/>
   <unicode hex="0140"/>
+  <anchor x="273" y="1618" name="top"/>
   <outline>
     <component base="l"/>
     <component base="periodcentered" xOffset="356" yOffset="-24"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_periodcentered</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046B" format="2">
+  <advance width="1343"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="1222.78" y="0" type="line"/>
+      <point x="1141.68" y="363.012" type="line" smooth="yes"/>
+      <point x="1101.94" y="540.876"/>
+      <point x="1053.42" y="612.352"/>
+      <point x="972.436" y="612.352" type="curve"/>
+      <point x="1257.59" y="877.568" type="line"/>
+      <point x="1299.58" y="1063.94" type="line"/>
+      <point x="298.104" y="1063.94" type="line"/>
+      <point x="257.144" y="877.568" type="line"/>
+      <point x="452.741" y="612.352" type="line"/>
+      <point x="321.444" y="612.352"/>
+      <point x="191.292" y="550.328"/>
+      <point x="137.909" y="454.597" type="curve" smooth="yes"/>
+      <point x="-115.592" y="0" type="line"/>
+      <point x="195.704" y="0" type="line"/>
+      <point x="352.936" y="273.835" type="line" smooth="yes"/>
+      <point x="406.018" y="366.281"/>
+      <point x="465.24" y="425.446"/>
+      <point x="504.695" y="425.446" type="curve" smooth="yes"/>
+      <point x="515.863" y="425.446" type="line"/>
+      <point x="417.488" y="0" type="line"/>
+      <point x="693.792" y="0" type="line"/>
+      <point x="794.7" y="431.028" type="line"/>
+      <point x="806.841" y="431.065" type="line"/>
+      <point x="839.525" y="431.165"/>
+      <point x="864.581" y="377.353"/>
+      <point x="879.532" y="274.948" type="curve" smooth="yes"/>
+      <point x="919.672" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="753.009" y="601.944" type="line"/>
+      <point x="587.896" y="877.568" type="line"/>
+      <point x="928.888" y="877.568" type="line"/>
+      <point x="668.812" y="601.944" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.986" x="515.811" y="424"/>
+  <guideline angle="76.9856" x="695.424" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0436</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043A</string>
+  </dict>
+  </lib>
+</glyph>

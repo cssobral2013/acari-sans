@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DD" format="2">
+  <advance width="1116"/>
+  <unicode hex="01DD"/>
+  <outline>
+    <contour>
+      <point x="645.816" y="1085.48" type="curve" smooth="yes"/>
+      <point x="465.592" y="1085.48"/>
+      <point x="304.824" y="1031.21"/>
+      <point x="169.656" y="912.424" type="curve"/>
+      <point x="331.448" y="711.72" type="line"/>
+      <point x="412.344" y="789.544"/>
+      <point x="510.648" y="850.984"/>
+      <point x="657.08" y="850.984" type="curve" smooth="yes"/>
+      <point x="760.504" y="850.984"/>
+      <point x="821.944" y="783.4"/>
+      <point x="821.944" y="712.744" type="curve" smooth="yes"/>
+      <point x="821.944" y="687.144"/>
+      <point x="817.848" y="636.968"/>
+      <point x="804.536" y="612.392" type="curve"/>
+      <point x="72.376" y="612.392" type="line"/>
+      <point x="39.6079" y="529.448"/>
+      <point x="34.4879" y="463.912"/>
+      <point x="34.4879" y="373.8" type="curve" smooth="yes"/>
+      <point x="34.4879" y="107.56"/>
+      <point x="200.376" y="-19.4161"/>
+      <point x="450.232" y="-19.4161" type="curve" smooth="yes"/>
+      <point x="811.704" y="-19.4161"/>
+      <point x="1089.21" y="302.12"/>
+      <point x="1089.21" y="659.496" type="curve" smooth="yes"/>
+      <point x="1089.21" y="930.856"/>
+      <point x="902.84" y="1085.48"/>
+    </contour>
+    <contour>
+      <point x="290.488" y="414.76" type="curve"/>
+      <point x="745.144" y="414.76" type="line"/>
+      <point x="690.872" y="286.76"/>
+      <point x="609.976" y="214.056"/>
+      <point x="473.784" y="214.056" type="curve" smooth="yes"/>
+      <point x="347.832" y="214.056"/>
+      <point x="288.44" y="288.808"/>
+      <point x="288.44" y="385.064" type="curve" smooth="yes"/>
+      <point x="288.44" y="395.304"/>
+      <point x="289.464" y="404.52"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|e</string>
+  </dict>
+  </lib>
+</glyph>

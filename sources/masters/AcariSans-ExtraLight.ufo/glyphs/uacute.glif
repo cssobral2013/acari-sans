@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="2">
+  <advance width="1147"/>
+  <unicode hex="00FA"/>
+  <anchor x="1187" y="1064" name="horn"/>
+  <anchor x="968" y="-0" name="ogonek"/>
+  <outline>
+    <component base="u"/>
+    <component base="acutecomb" xOffset="959"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

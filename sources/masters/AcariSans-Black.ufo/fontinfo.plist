@@ -7,14 +7,12 @@
   <key>capHeight</key>
   <integer>1448</integer>
   <key>copyright</key>
-  <string>Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/)
-HK Grotesk is a trademark of Alfredo Marco Pradil
-Copyright (c) 2016-2021 The Perun Project Authors
-Copyright (c) 2018-2024 The Acari Sans VF Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
+Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>descender</key>
   <integer>-499</integer>
   <key>familyName</key>
-  <string>Acari Sans VF</string>
+  <string>Acari Sans</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -25,7 +23,97 @@ Copyright (c) 2018-2024 The Acari Sans VF Project Authors (https://github.com/cs
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>512</integer>
+    <integer>532</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1913</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1913</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1620</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1620</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1487</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1487</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>H-height: 1448</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1448</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1192</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1192</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1193</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1192</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>x-height: 1064</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1064</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>subscript.500</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>500</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>b</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -50,20 +138,18 @@ Copyright (c) 2018-2024 The Acari Sans VF Project Authors (https://github.com/cs
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>1946</integer>
+  <integer>1468</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-499</integer>
+  <integer>-629</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>-0</integer>
+  <integer>188</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/)
-HK Grotesk is a trademark of Alfredo Marco Pradil
-Copyright (c) 2016-2021 The Perun Project Authors
-Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
+  <string>Copyright (c) 2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (https://localfonts.eu/). HK Grotesk is a trademark of Alfredo Marco Pradil.
+Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)</string>
   <key>openTypeNameDesigner</key>
-  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic and Greek glyphs) &amp; Cristiano Sobral (main changes)</string>
+  <string>Alfredo Marco Pradil (initial realese as HK Grotesk, Latin version), Stefan Peev (Cyrillic version) &amp; Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://behance.net/pradil and https://localfonts.eu/</string>
   <key>openTypeNameLicense</key>
@@ -71,24 +157,22 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>The Acari Sans VF Project Authors</string>
+  <string>The Acari Sans Project Authors</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://hanken.co and https://localfonts.eu/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Acari Sans VF</string>
+  <string>Acari Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.094</string>
+  <string>Version 1.096</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>1</integer>
     <integer>2</integer>
-    <integer>3</integer>
     <integer>4</integer>
     <integer>7</integer>
-    <integer>8</integer>
     <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
@@ -143,14 +227,9 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
     <integer>1</integer>
     <integer>2</integer>
     <integer>3</integer>
-    <integer>5</integer>
-    <integer>6</integer>
-    <integer>7</integer>
     <integer>9</integer>
     <integer>29</integer>
-    <integer>31</integer>
     <integer>32</integer>
-    <integer>33</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>AMSP</string>
@@ -172,15 +251,32 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <array>
     <integer>-20</integer>
     <integer>0</integer>
+    <integer>1064</integer>
+    <integer>1084</integer>
+    <integer>1448</integer>
+    <integer>1468</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AcariSansVF-Black</string>
+  <string>AcariSans-Black</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Acari Sans VF Black</string>
+  <string>Acari Sans Black</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>239</integer>
+    <integer>165</integer>
+    <integer>207</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>150</integer>
+    <integer>101</integer>
+    <integer>187</integer>
+    <integer>204</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
@@ -188,7 +284,7 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>postscriptWeightName</key>
   <string>Black</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans VF</string>
+  <string>Acari Sans Black</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -198,7 +294,7 @@ Copyright (c) 2018-2025 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>94</integer>
+  <integer>96</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

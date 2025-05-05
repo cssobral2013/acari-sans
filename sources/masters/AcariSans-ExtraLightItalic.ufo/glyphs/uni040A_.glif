@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040A" format="2">
+  <advance width="2087"/>
+  <unicode hex="040A"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="1395.62" y="0" type="line" smooth="yes"/>
+      <point x="1662.31" y="0"/>
+      <point x="1925.62" y="172.188"/>
+      <point x="1925.62" y="470.688" type="curve" smooth="yes"/>
+      <point x="1925.62" y="686.938"/>
+      <point x="1747.81" y="752.563"/>
+      <point x="1564.81" y="752.563" type="curve" smooth="yes"/>
+      <point x="1253.12" y="752.563" type="line"/>
+      <point x="1253.12" y="656.875" type="line"/>
+      <point x="1552.69" y="656.875" type="line" smooth="yes"/>
+      <point x="1668.19" y="656.875"/>
+      <point x="1815.75" y="625.5"/>
+      <point x="1815.75" y="472.063" type="curve" smooth="yes"/>
+      <point x="1815.75" y="238.25"/>
+      <point x="1621.31" y="96.688"/>
+      <point x="1413.56" y="96.688" type="curve" smooth="yes"/>
+      <point x="1108.25" y="96.688" type="line"/>
+      <point x="1108.25" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  </dict>
+  </lib>
+</glyph>

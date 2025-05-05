@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC7" format="2">
+  <advance width="1075"/>
+  <unicode hex="1EC7"/>
+  <anchor x="541.563" y="0" name="ogonek"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0302" xOffset="950.438"/>
+    <component base="dotbelowcomb" xOffset="708.313"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0302+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436.loclBGR" format="2">
+  <advance width="1472"/>
+  <outline>
+    <contour>
+      <point x="67" y="0" type="line" name=".av02"/>
+      <point x="197" y="0" type="line"/>
+      <point x="331" y="392" type="line" smooth="yes"/>
+      <point x="362" y="484"/>
+      <point x="408" y="557"/>
+      <point x="518" y="557" type="curve" smooth="yes" name=".dv01"/>
+      <point x="685" y="557" type="line" name=".sh01"/>
+      <point x="685" y="0" type="line" name=".av03"/>
+      <point x="795" y="0" type="line" name=".sh02"/>
+      <point x="795" y="557" type="line" name=".sv02"/>
+      <point x="963" y="557" type="line" smooth="yes"/>
+      <point x="1068" y="557"/>
+      <point x="1122" y="481"/>
+      <point x="1152" y="392" type="curve" smooth="yes"/>
+      <point x="1285" y="0" type="line"/>
+      <point x="1414" y="0" type="line" name=".av01"/>
+      <point x="1247" y="453" type="line" smooth="yes"/>
+      <point x="1221" y="523"/>
+      <point x="1169" y="626"/>
+      <point x="1085" y="626" type="curve" name=".iv01"/>
+      <point x="1340" y="1064" type="line" name=".iv02"/>
+      <point x="1195" y="1064" type="line"/>
+      <point x="964" y="661" type="line" name=".sv01"/>
+      <point x="795" y="661" type="line"/>
+      <point x="795" y="1447" type="line" name=".av04"/>
+      <point x="685" y="1447" type="line" name=".dh01"/>
+      <point x="685" y="661" type="line"/>
+      <point x="520" y="661" type="line" name=".dv02"/>
+      <point x="287" y="1064" type="line"/>
+      <point x="141" y="1064" type="line" name=".iv03"/>
+      <point x="397" y="626" type="line" name=".iv04"/>
+      <point x="307" y="626"/>
+      <point x="263" y="525"/>
+      <point x="236" y="453" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436</string>
+  </dict>
+  </lib>
+</glyph>

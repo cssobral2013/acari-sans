@@ -2,11 +2,13 @@
 <glyph name="I" format="2">
   <advance width="644"/>
   <unicode hex="0049"/>
+  <anchor x="322" y="1617.92" name="top"/>
+  <anchor x="467" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="467" y="0" type="line"/>
-      <point x="467" y="1448" type="line"/>
-      <point x="177" y="1448" type="line"/>
+      <point x="467" y="0" type="line" name=".av02"/>
+      <point x="467" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dh01"/>
       <point x="177" y="0" type="line"/>
     </contour>
   </outline>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E.loclBGR" format="2">
+  <advance width="1678"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="409" y="500" type="line"/>
+      <point x="609" y="500" type="line"/>
+      <point x="609" y="686" type="line"/>
+      <point x="409" y="686" type="line"/>
+      <point x="409" y="1447" type="line"/>
+      <point x="155" y="1447" type="line"/>
+    </contour>
+    <contour>
+      <point x="1077" y="-20" type="curve" smooth="yes"/>
+      <point x="1408" y="-20"/>
+      <point x="1627" y="198"/>
+      <point x="1627" y="528" type="curve" smooth="yes"/>
+      <point x="1627" y="860"/>
+      <point x="1410" y="1077"/>
+      <point x="1077" y="1077" type="curve" smooth="yes"/>
+      <point x="747" y="1077"/>
+      <point x="526" y="858"/>
+      <point x="526" y="531" type="curve" smooth="yes"/>
+      <point x="526" y="200"/>
+      <point x="746" y="-20"/>
+    </contour>
+    <contour>
+      <point x="1082" y="195" type="curve" smooth="yes"/>
+      <point x="911" y="195"/>
+      <point x="808" y="320"/>
+      <point x="808" y="528" type="curve" smooth="yes"/>
+      <point x="808" y="738"/>
+      <point x="909" y="861"/>
+      <point x="1082" y="861" type="curve" smooth="yes"/>
+      <point x="1253" y="861"/>
+      <point x="1357" y="735"/>
+      <point x="1357" y="528" type="curve" smooth="yes"/>
+      <point x="1357" y="318"/>
+      <point x="1254" y="195"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni044E</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,20 +1,6 @@
 from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''    
-srcPath  = './ttf/AcariSans-Thin.ttf'
-woffPath = './web/AcariSans-Thin.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)    
-
-    
-srcPath  = './ttf/AcariSans-ThinItalic.ttf'
-woffPath = './web/AcariSans-ThinItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath) 
 
 srcPath  = './ttf/AcariSans-ExtraLight.ttf'
 woffPath = './web/AcariSans-ExtraLight.woff'
@@ -162,19 +148,6 @@ with TTFont(srcPath) as font:
 
 
 '''Generate WOFF2 from TTF or OTF font.'''
-srcPath  = './ttf/AcariSans-Thin.ttf'
-woff2Path = './web/AcariSans-Thin.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-  
-srcPath  = './ttf/AcariSans-ThinItalic.ttf'
-woff2Path = './web/AcariSans-ThinItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
 
 
   

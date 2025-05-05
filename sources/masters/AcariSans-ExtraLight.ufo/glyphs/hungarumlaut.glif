@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="830"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="174" y="1192" type="line"/>
+      <point x="441" y="1482" type="line"/>
+      <point x="278" y="1482" type="line"/>
+      <point x="61" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="1192" type="line"/>
+      <point x="769" y="1482" type="line"/>
+      <point x="606" y="1482" type="line"/>
+      <point x="389" y="1192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=61</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

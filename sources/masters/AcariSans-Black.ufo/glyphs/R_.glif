@@ -4,42 +4,30 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="177" y="0" type="line"/>
+      <point x="177" y="0" type="line" name=".av02"/>
       <point x="467" y="0" type="line"/>
-      <point x="467" y="609" type="line"/>
+      <point x="467" y="609" type="line" name=".dv03"/>
       <point x="622" y="609" type="line"/>
       <point x="976" y="0" type="line"/>
-      <point x="1308" y="0" type="line"/>
-      <point x="902" y="636" type="line"/>
-      <point x="982" y="667"/>
-      <point x="1051" y="718"/>
-      <point x="1100" y="783" type="curve" smooth="yes"/>
-      <point x="1148" y="847"/>
-      <point x="1177" y="926"/>
-      <point x="1177" y="1014" type="curve" smooth="yes"/>
-      <point x="1177" y="1150"/>
-      <point x="1115" y="1260"/>
-      <point x="1020" y="1334" type="curve" smooth="yes"/>
-      <point x="925" y="1408"/>
-      <point x="800" y="1448"/>
-      <point x="672" y="1448" type="curve" smooth="yes"/>
+      <point x="1308" y="0" type="line" name=".av01"/>
+      <point x="902" y="636" type="line" name=".sh01"/>
+      <point x="1062" y="698"/>
+      <point x="1177" y="839"/>
+      <point x="1177" y="1014" type="curve" smooth="yes" name=".sh02"/>
+      <point x="1177" y="1287"/>
+      <point x="927" y="1448"/>
+      <point x="672" y="1448" type="curve" smooth="yes" name=".dv02"/>
       <point x="177" y="1448" type="line"/>
     </contour>
     <contour>
-      <point x="469" y="841" type="line"/>
+      <point x="469" y="841" type="line" name=".dv04"/>
       <point x="469" y="1188" type="line"/>
-      <point x="664" y="1188" type="line" smooth="yes"/>
-      <point x="733" y="1188"/>
-      <point x="789" y="1170"/>
-      <point x="829" y="1139" type="curve" smooth="yes"/>
-      <point x="868" y="1108"/>
-      <point x="889" y="1064"/>
-      <point x="889" y="1009" type="curve" smooth="yes"/>
-      <point x="889" y="958"/>
-      <point x="870" y="916"/>
-      <point x="835" y="887" type="curve" smooth="yes"/>
-      <point x="799" y="858"/>
-      <point x="748" y="841"/>
+      <point x="664" y="1188" type="line" smooth="yes" name=".dv01"/>
+      <point x="803" y="1188"/>
+      <point x="889" y="1117"/>
+      <point x="889" y="1009" type="curve" smooth="yes" name=".ah01"/>
+      <point x="889" y="908"/>
+      <point x="811" y="841"/>
       <point x="684" y="841" type="curve" smooth="yes"/>
     </contour>
   </outline>

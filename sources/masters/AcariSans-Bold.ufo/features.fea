@@ -1,36 +1,48 @@
 #/> classes
 #/> otclasses
-@aalt = [g i s gbreve Scedilla scedilla Decyr Elcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr];
-@aalt2 = [g.ss01 i.loclTRK longs gbreve.ss01 Scommaaccent scommaaccent Decyr.loclBGR Elcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR];
-@cpsp = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Cdotaccent Gdotaccent Hbar Itilde IJ Eng Tcedilla Tbar Utilde Wcircumflex Ycircumflex Iegravecyr Igravecyr Yatcyr Fitacyr Wgrave Wacute Wdieresis Ygrave Gestrokecyr Zhetailcyr Katailcyr Entailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Shhacyr Palochkacyr Schwacyr Imacroncyr Obarcyr Umacroncyr Dzcaron LJ Lj NJ Nj Acaron Icaron Ocaron Ucaron Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave DZ Dz Acircumflexacute Acircumflexgrave Acircumflextilde Abreveacute Abrevegrave Abrevetilde Etilde Ecircumflexacute Ecircumflexgrave Ecircumflextilde Ocircumflexacute Ocircumflexgrave Ocircumflextilde Ytilde Eiotifiedcyr Yuslittlecyr Yuslittleiotifiedcyr Yusbigcyr Yusbigiotifiedcyr Ukcyr DZcaron];
-@dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum = [zero one two three four five six seven eight nine];
-@frac = [slash zero one two three four five six seven eight nine];
-@frac2 = [fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@frac3 = [fraction zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@locl_ss02 = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr];
-@locl_ss022 = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR];
-@pnum_tnum = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
-@sinf_subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
-@sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
+@loclCYR_ss02 = [uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR_ss02 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@ccmp = [gravecomb acutecomb uni0302 uni0306 uni0308 uni0304 uni0307 uni030B tildecomb uni030A uni030C uni0312];
+@ordn_sinf_subs_sups_numr_dnom = [zero one two three four five six seven eight nine];
+@sups = [uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
+@sinf_subs = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
+@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0400 uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040D uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F Ugrave uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni0472 uni0478 uni0490 Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gdotaccent uni0122 Hbar Itilde Imacron Iogonek Idotaccent IJ uni0136 Lacute uni013B Lcaron Lslash Nacute uni0145 Ncaron Eng Omacron Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron uni01C4 uni01C5 uni01C7 uni01C8 uni01CA uni01CB uni01CD uni01CF uni01D1 uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni01F1 uni01F2 uni0218 uni021A uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE Wgrave Wacute Wdieresis uni1EA4 uni1EA6 uni1EAA uni1EAE uni1EB0 uni1EB4 uni1EBC uni1EBE uni1EC0 uni1EC4 uni1ED0 uni1ED2 uni1ED6 Ygrave uni1EF8];
+@g = [g gbreve gcircumflex gdotaccent];
+@g.ss01 = [g.ss01 gbreve.ss01 gcircumflex.ss01 gdotaccent.ss01];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@loclCYR_ss02 = [uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR_ss02 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@ccmp = [gravecomb acutecomb uni0302 uni0306 uni0308 uni0304 uni0307 uni030B tildecomb uni030A uni030C uni0312];
+@ordn_sinf_subs_sups_numr_dnom = [zero one two three four five six seven eight nine];
+@sups = [uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
+@sinf_subs = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
+@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0400 uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040D uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F Ugrave uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni0472 uni0478 uni0490 Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gdotaccent uni0122 Hbar Itilde Imacron Iogonek Idotaccent IJ uni0136 Lacute uni013B Lcaron Lslash Nacute uni0145 Ncaron Eng Omacron Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron uni01C4 uni01C5 uni01C7 uni01C8 uni01CA uni01CB uni01CD uni01CF uni01D1 uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni01F1 uni01F2 uni0218 uni021A uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE Wgrave Wacute Wdieresis uni1EA4 uni1EA6 uni1EAA uni1EAE uni1EB0 uni1EB4 uni1EBC uni1EBE uni1EC0 uni1EC4 uni1ED0 uni1ED2 uni1ED6 Ygrave uni1EF8];
+@g = [g gbreve gcircumflex gdotaccent];
+@g.ss01 = [g.ss01 gbreve.ss01 gcircumflex.ss01 gdotaccent.ss01];
 #/< otclasses
 #/< classes
 
 ###
+
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
-# Generated on: 2025-3-18 23:20
+# Generated on: 2023-4-23 16:50
 # Generated by: FontLab 8.0.0
 # Font PostScript name: AcariSans-Regular
-# Font copyright: Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/)HK Grotesk is a trademark of Alfredo Marco PradilCopyright (c) 2016-2021 The Perun Project AuthorsCopyright (c) 2018-2024 The Acari Sans VF Project Authors (https://github.com/cssobral2013/acari-sans)
+# Font copyright: Copyright (c)2015, HK Grotesk Latin by Alfredo Marco Pradil (ammpradil@gmail.com) and HK Grotesk Cyrillic by Stefan Peev (http://www.contextbg.net/). HK Grotesk is a trademark of Alfredo Marco Pradil. Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssobral2013/acari-sans)
 #
 # Totals:
 # Languagesystems: 14
-# GSUB lookups: 41
-# GSUB features: 16 (aalt, dnom, frac, hist, liga, locl, numr, ordn, pnum, salt, sinf, ss01, ss02, subs, sups, tnum)
-# GPOS lookups: 2
-# GPOS features: 2 (cpsp, kern)
+# GSUB lookups: 23
+# GSUB features: 13 (aalt, ccmp, hist, liga, locl, ordn, salt, sinf, ss01, ss02, ss03, subs, sups)
+# GPOS lookups: 4
+# GPOS features: 4 (cpsp, kern, mark, mkmk)
 
 #
 # Languagesystem definitions
@@ -55,82 +67,100 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 # Lookup definitions
 #
 
+lookup ccmp_2 {
+# GSUB lookup 3, type 11 (Single)
+  sub [A O a i] by [ordfeminine ordmasculine ordfeminine dotlessi];
+  sub [j o] by [uni0237 ordmasculine];
+} ccmp_2;
+
+lookup ordn_2 {
+# GSUB lookup 4, type 11 (Single)
+  sub [A O a o] by [ordfeminine ordmasculine ordfeminine ordmasculine];
+} ordn_2;
+
+lookup loclCYR_ss02_loclBGR_ss02 {
+  sub @loclCYR_ss02 by @loclBGR_ss02;
+} loclCYR_ss02_loclBGR_ss02;
+
+lookup loclCYR_ss03_loclSRB_ss03 {
+  sub uni0431 by uni0431.loclSRB;
+} loclCYR_ss03_loclSRB_ss03;
+
+lookup g_g_ss01 {
+  sub @g by @g.ss01;
+} g_g_ss01;
 
 #
 # Feature definitions
 #
-feature aalt useExtension {
-# GSUB feature: Access All Alternates
-# Lookups: 2
+feature aalt {
+# Access All Alternates
 
-  sub @aalt by @aalt2;
-  sub zero from [zero.numr zero.dnom zero.superior zero.inferior zero.pnum];
-  sub one from [one.numr one.dnom onesuperior one.inferior one.pnum];
-  sub two from [two.numr two.dnom twosuperior two.inferior two.pnum];
-  sub three from [three.numr three.dnom threesuperior three.inferior three.pnum];
-  sub four from [four.numr four.dnom four.superior four.inferior four.pnum];
-  sub five from [five.numr five.dnom five.superior five.inferior five.pnum];
-  sub six from [six.numr six.dnom six.superior six.inferior six.pnum];
-  sub seven from [seven.numr seven.dnom seven.superior seven.inferior seven.pnum];
-  sub eight from [eight.numr eight.dnom eight.superior eight.inferior eight.pnum];
-  sub nine from [nine.numr nine.dnom nine.superior nine.inferior nine.pnum];
-  sub zero.pnum from [zero];
-  sub one.pnum from [one];
-  sub two.pnum from [two];
-  sub three.pnum from [three];
-  sub four.pnum from [four];
-  sub five.pnum from [five];
-  sub six.pnum from [six];
-  sub seven.pnum from [seven];
-  sub eight.pnum from [eight];
-  sub nine.pnum from [nine];
+#> feature
+  feature locl;
+  feature salt;
+  feature ss01;
+  feature ss02;
+  feature ss03;
+  feature pnum;
+  feature tnum;
+  feature numr;
+  feature dnom;
+  feature sups;
+  feature sinf;
+  feature subs;
+  feature hist;
+#< feature
 } aalt;
+feature ccmp {
+# GSUB feature: Glyph Composition / Decomposition
+# Lookups: 1
+
+  sub [i j]' lookup ccmp_2 @ccmp;
+  sub [i j]' lookup ccmp_2 [uni031B uni0327 uni0328] @ccmp;
+
+} ccmp;
 feature locl {
 # GSUB feature: Localized Forms
-# Lookups: 10
+# Lookups: 7
 
   script latn; # Latin
-    language AZE ; # Azerbaijani
-    sub i by i.loclTRK;
-
     language TRK ; # Turkish
+    sub i by i.loclTRK;
+    language CRT ; # Turkish
+    sub i by i.loclTRK;
+    language TAT ; # Turkish
+    sub i by i.loclTRK;
+    language KAZ ; # Turkish
+    sub i by i.loclTRK;
+    language AZE ; # Turkish
     sub i by i.loclTRK;
 
     language MOL ; # Moldavian
-    sub [Scedilla scedilla] by [Scommaaccent scommaaccent];
+    sub [Scedilla scedilla] by [uni0218 uni0219];
 
     language ROM ; # Romanian
-    sub [Scedilla scedilla] by [Scommaaccent scommaaccent];
-
-    language TAT ; # Tatar
-    sub i by i.loclTRK;
-
-    language CRT ; # Crimean Tatar
-    sub i by i.loclTRK;
-
-    language KAZ ; # Kazakh
-    sub i by i.loclTRK;
+    sub [Scedilla scedilla] by [uni0218 uni0219];
 
 
   script cyrl; # Cyrillic
     language SRB ; # Serbian
-    sub becyr by becyr.loclSRB;
+    lookup loclCYR_ss03_loclSRB_ss03;
 
     language MKD ; # Macedonian
-    sub becyr by becyr.loclSRB;
+    lookup loclCYR_ss03_loclSRB_ss03;
 
     language BGR ; # Bulgarian
-    sub @locl_ss02 by @locl_ss022;
-
+    lookup loclCYR_ss02_loclBGR_ss02;
 
 } locl;
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum [A a]' by [ordfeminine ordfeminine];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum [O o]' by [ordmasculine ordmasculine];
-  sub N o period by numero;
+  sub @ordn_sinf_subs_sups_numr_dnom [A a]' lookup ordn_2;
+  sub @ordn_sinf_subs_sups_numr_dnom [O o]' lookup ordn_2;
+  sub N o period by uni2116;
 
 } ordn;
 feature liga {
@@ -156,90 +186,190 @@ feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
 
-  sub [g gbreve] by [g.ss01 gbreve.ss01];
+  lookup g_g_ss01;
 
 } ss01;
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
 
-  sub @locl_ss02 by @locl_ss022;
+  lookup loclCYR_ss02_loclBGR_ss02;
 
 } ss02;
+feature ss03 {
+# Stylistic Set 01–20
+
+#> feature
+	lookup loclCYR_ss03_loclSRB_ss03;
+#< feature
+} ss03;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight by eight.pnum;
+  sub five by five.pnum;
+  sub four by four.pnum;
+  sub nine by nine.pnum;
+  sub one by one.pnum;
+  sub seven by seven.pnum;
+  sub six by six.pnum;
+  sub three by three.pnum;
+  sub two by two.pnum;
+  sub zero by zero.pnum;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight.pnum by eight;
+  sub five.pnum by five;
+  sub four.pnum by four;
+  sub nine.pnum by nine;
+  sub one.pnum by one;
+  sub seven.pnum by seven;
+  sub six.pnum by six;
+  sub three.pnum by three;
+  sub two.pnum by two;
+  sub zero.pnum by zero;
+#< feature
+} tnum;
 feature numr {
-# GSUB feature: Numerators
-# Lookups: 1
+# Numerator
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @frac_numr;
-
+#> feature
+  sub eight by eight.numr;
+  sub five by five.numr;
+  sub four by four.numr;
+  sub nine by nine.numr;
+  sub one by one.numr;
+  sub seven by seven.numr;
+  sub six by six.numr;
+  sub three by three.numr;
+  sub two by two.numr;
+  sub zero by zero.numr;
+#< feature
 } numr;
 feature dnom {
-# GSUB feature: Denominators
-# Lookups: 1
+# Denominator
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @dnom_frac;
-
+#> feature
+  sub eight by eight.dnom;
+  sub five by five.dnom;
+  sub four by four.dnom;
+  sub nine by nine.dnom;
+  sub one by one.dnom;
+  sub seven by seven.dnom;
+  sub six by six.dnom;
+  sub three by three.dnom;
+  sub two by two.dnom;
+  sub zero by zero.dnom;
+#< feature
 } dnom;
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @sups;
+  sub @ordn_sinf_subs_sups_numr_dnom by @sups;
 
 } sups;
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf_subs;
+  sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } sinf;
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
 
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf_subs;
+  sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } subs;
 feature frac {
-# GSUB feature: Fractions
-# Lookups: 12
+# Fractions
 
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
-  ignore sub slash @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash';
-  ignore sub slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash;
+#> feature
+
+# Arbitrary fractions (based on opentypecookbook.com)
+
+@frac_figs = [eight five four nine one seven six three two zero];
+@frac_numr = [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+@frac_dnom = [eight.dnom five.dnom four.dnom nine.dnom one.dnom seven.dnom six.dnom three.dnom two.dnom zero.dnom];
+
+lookup frac_bar {
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs slash';
+  ignore sub slash' @frac_figs slash;
   ignore sub slash slash';
   ignore sub slash' slash;
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum slash' @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by fraction;
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-  sub @frac3 @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+  sub @frac_figs slash' @frac_figs by fraction;
+} frac_bar;
 
+lookup frac_numr1 {
+  sub @frac_figs' fraction by @frac_numr;
+} frac_numr1;
+
+lookup frac_numr2 {
+  sub @frac_figs' @frac_numr fraction by @frac_numr;
+} frac_numr2;
+
+lookup frac_numr3 {
+  sub @frac_figs' @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr3;
+
+lookup frac_numr4 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr4;
+
+lookup frac_numr5 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr5;
+
+lookup frac_numr6 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr6;
+
+lookup frac_numr7 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr7;
+
+lookup frac_numr8 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr8;
+
+lookup frac_numr9 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr9;
+
+lookup frac_numr10 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr10;
+
+lookup frac_dnom {
+  sub [fraction @frac_dnom] @frac_figs' by @frac_dnom;
+} frac_dnom;
+
+#< feature
 } frac;
 feature hist {
 # GSUB feature: Historical Forms
@@ -248,20 +378,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-feature pnum {
-# GSUB feature: Proportional Figures
-# Lookups: 1
-
-  sub @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
-
-} pnum;
-feature tnum {
-# GSUB feature: Tabular Figures
-# Lookups: 1
-
-  sub @pnum_tnum by @dnom_frac_numr_ordn_pnum_sinf_subs_sups_tnum;
-
-} tnum;
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -269,3 +385,282 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
+feature kern {
+  @_T = [T Tbar Tcaron Y Yacute Ycircumflex Ydieresis Ygrave];
+  @_A = [A L uni0410 uni0466 uni0468];
+  @_V = [V];
+  @_W = [W Wacute Wcircumflex Wdieresis Wgrave];
+  @_T2 = [T Tbar Tcaron V Y Yacute Ycircumflex Ydieresis Ygrave];
+  @_A2 = [A uni0410 uni0466];
+  @_a = [a ae c cacute ccaron ccedilla cdotaccent cent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth f g gbreve gdotaccent i infinity j l o oacute ocircumflex odieresis oe ograve ohungarumlaut omacron oslash otilde partialdiff q s u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+  @_v = [v w wacute wcircumflex wdieresis wgrave y];
+  @_W2 = [W Wacute Wcircumflex Wdieresis Wgrave];
+  @_quoteright = [quotedblright quoteright];
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos F A -126;
+    pos r a -42;
+    pos r c -42;
+    pos r d -42;
+    pos r e -42;
+    pos r f -42;
+    pos r g -42;
+    pos r i -42;
+    pos r j -42;
+    pos r l -42;
+    pos r o -42;
+    pos r q -42;
+    pos r s -42;
+    pos r u -42;
+    pos r cent -42;
+    pos r ae -42;
+    pos r ccedilla -42;
+    pos r egrave -42;
+    pos r eacute -42;
+    pos r ecircumflex -42;
+    pos r edieresis -42;
+    pos r eth -42;
+    pos r ograve -42;
+    pos r oacute -42;
+    pos r ocircumflex -42;
+    pos r otilde -42;
+    pos r odieresis -42;
+    pos r oslash -42;
+    pos r ugrave -42;
+    pos r uacute -42;
+    pos r ucircumflex -42;
+    pos r udieresis -42;
+    pos r cacute -42;
+    pos r cdotaccent -42;
+    pos r ccaron -42;
+    pos r dcaron -42;
+    pos r dcroat -42;
+    pos r emacron -42;
+    pos r edotaccent -42;
+    pos r eogonek -42;
+    pos r ecaron -42;
+    pos r gbreve -42;
+    pos r gdotaccent -42;
+    pos r omacron -42;
+    pos r ohungarumlaut -42;
+    pos r oe -42;
+    pos r umacron -42;
+    pos r uhungarumlaut -42;
+    pos r partialdiff -42;
+    pos r infinity -42;
+    pos r g.ss01 -42;
+    pos r gbreve.ss01 -42;
+    pos r gdotaccent.ss01 -42;
+    pos uni043E T -210;
+    pos uni043E V -210;
+    pos uni043E Y -210;
+    pos uni043E Yacute -210;
+    pos uni043E Tcaron -210;
+    pos uni043E Tbar -210;
+    pos uni043E Ycircumflex -210;
+    pos uni043E Ydieresis -210;
+    pos uni043E Ygrave -210;
+    pos uni0440 T -210;
+    pos uni0440 V -210;
+    pos uni0440 Y -210;
+    pos uni0440 Yacute -210;
+    pos uni0440 Tcaron -210;
+    pos uni0440 Tbar -210;
+    pos uni0440 Ycircumflex -210;
+    pos uni0440 Ydieresis -210;
+    pos uni0440 Ygrave -210;
+    pos uni0444 T -210;
+    pos uni0444 V -210;
+    pos uni0444 Y -210;
+    pos uni0444 Yacute -210;
+    pos uni0444 Tcaron -210;
+    pos uni0444 Tbar -210;
+    pos uni0444 Ycircumflex -210;
+    pos uni0444 Ydieresis -210;
+    pos uni0444 Ygrave -210;
+    pos uni044A T -210;
+    pos uni044A V -210;
+    pos uni044A Y -210;
+    pos uni044A Yacute -210;
+    pos uni044A Tcaron -210;
+    pos uni044A Tbar -210;
+    pos uni044A Ycircumflex -210;
+    pos uni044A Ydieresis -210;
+    pos uni044A Ygrave -210;
+    pos uni044C T -210;
+    pos uni044C V -210;
+    pos uni044C Y -210;
+    pos uni044C Yacute -210;
+    pos uni044C Tcaron -210;
+    pos uni044C Tbar -210;
+    pos uni044C Ycircumflex -210;
+    pos uni044C Ydieresis -210;
+    pos uni044C Ygrave -210;
+    pos uni044E T -210;
+    pos uni044E V -210;
+    pos uni044E Y -210;
+    pos uni044E Yacute -210;
+    pos uni044E Tcaron -210;
+    pos uni044E Tbar -210;
+    pos uni044E Ycircumflex -210;
+    pos uni044E Ydieresis -210;
+    pos uni044E Ygrave -210;
+    pos uni0467 T -210;
+    pos uni0467 V -210;
+    pos uni0467 Y -210;
+    pos uni0467 Yacute -210;
+    pos uni0467 Tcaron -210;
+    pos uni0467 Tbar -210;
+    pos uni0467 Ycircumflex -210;
+    pos uni0467 Ydieresis -210;
+    pos uni0467 Ygrave -210;
+    pos uni0469 T -210;
+    pos uni0469 V -210;
+    pos uni0469 Y -210;
+    pos uni0469 Yacute -210;
+    pos uni0469 Tcaron -210;
+    pos uni0469 Tbar -210;
+    pos uni0469 Ycircumflex -210;
+    pos uni0469 Ydieresis -210;
+    pos uni0469 Ygrave -210;
+    pos quoteright a -146;
+    pos quoteright c -146;
+    pos quoteright d -146;
+    pos quoteright e -146;
+    pos quoteright f -146;
+    pos quoteright g -146;
+    pos quoteright i -146;
+    pos quoteright j -146;
+    pos quoteright l -146;
+    pos quoteright o -146;
+    pos quoteright q -146;
+    pos quoteright s -146;
+    pos quoteright u -146;
+    pos quoteright cent -146;
+    pos quoteright ae -146;
+    pos quoteright ccedilla -146;
+    pos quoteright egrave -146;
+    pos quoteright eacute -146;
+    pos quoteright ecircumflex -146;
+    pos quoteright edieresis -146;
+    pos quoteright eth -146;
+    pos quoteright ograve -146;
+    pos quoteright oacute -146;
+    pos quoteright ocircumflex -146;
+    pos quoteright otilde -146;
+    pos quoteright odieresis -146;
+    pos quoteright oslash -146;
+    pos quoteright ugrave -146;
+    pos quoteright uacute -146;
+    pos quoteright ucircumflex -146;
+    pos quoteright udieresis -146;
+    pos quoteright cacute -146;
+    pos quoteright cdotaccent -146;
+    pos quoteright ccaron -146;
+    pos quoteright dcaron -146;
+    pos quoteright dcroat -146;
+    pos quoteright emacron -146;
+    pos quoteright edotaccent -146;
+    pos quoteright eogonek -146;
+    pos quoteright ecaron -146;
+    pos quoteright gbreve -146;
+    pos quoteright gdotaccent -146;
+    pos quoteright omacron -146;
+    pos quoteright ohungarumlaut -146;
+    pos quoteright oe -146;
+    pos quoteright umacron -146;
+    pos quoteright uhungarumlaut -146;
+    pos quoteright partialdiff -146;
+    pos quoteright infinity -146;
+    pos quoteright g.ss01 -146;
+    pos quoteright gbreve.ss01 -146;
+    pos quoteright gdotaccent.ss01 -146;
+    pos quotedblleft A -168;
+  subtable;
+    pos @_T @_T2 42;
+    pos @_T @_A2 -168;
+    pos @_T @_a -210;
+    pos @_T @_v -230;
+    pos @_A @_T2 -168;
+    pos @_A @_W2 -84;
+    pos @_A @_quoteright -168;
+    pos @_V @_A2 -146;
+    pos @_V @_a -126;
+    pos @_W @_A2 -84;
+    pos @_W @_a -62;
+  } KERN_LTR;
+
+} kern;
+feature mark {
+# GPOS feature: Mark Positioning
+# Lookups: 1
+
+
+  lookup mark {
+  # GPOS lookup 2, type 4 (MarkToBase attachment)
+    markClass uni0326 <anchor -177 0> @b.u0326;
+    markClass uni0327 <anchor -262 0> @b.u0326;
+    markClass gravecomb <anchor -145 999> @t.ringcmb_1;
+    markClass acutecomb <anchor -342 999> @t.ringcmb_1;
+    markClass uni0302 <anchor -325 999> @t.ringcmb_1;
+    markClass tildecomb <anchor -436 1020> @t.ringcmb_1;
+    markClass uni0304 <anchor -418 999> @t.ringcmb_1;
+    markClass uni0306 <anchor -405 999> @t.ringcmb_1;
+    markClass uni0307 <anchor -269 999> @t.ringcmb_1;
+    markClass uni0308 <anchor -420 999> @t.ringcmb_1;
+    markClass hookabovecomb <anchor -300 986> @t.ringcmb_1;
+    markClass uni030A <anchor -316 999> @t.ringcmb_1;
+    markClass uni030B <anchor -547 999> @t.ringcmb_1;
+    markClass uni030C <anchor -327 999> @t.ringcmb_1;
+    markClass uni030F <anchor -342 999> @t.ringcmb_1;
+    markClass uni0312 <anchor -291 999> @t.ringcmb_1;
+    markClass dotbelowcomb <anchor -269 -561> @t.ringcmb_1;
+    markClass uni0328 <anchor -169 0> @b.ogonekcmb_2;
+    pos base uni20B1
+        <anchor 655 0> mark @b.u0326
+        <anchor 655 1411> mark @t.ringcmb_1
+        <anchor 1 0> mark @b.ogonekcmb_2;
+    pos base uni20B3
+        <anchor 672 0> mark @b.u0326
+        <anchor 672 1411> mark @t.ringcmb_1
+        <anchor 1331 0> mark @b.ogonekcmb_2;
+    pos base uni20B4
+        <anchor 634 0> mark @b.u0326
+        <anchor 634 1411> mark @t.ringcmb_1
+        <anchor 1 0> mark @b.ogonekcmb_2;
+    pos base uni2116
+        <anchor 1873 348> mark @b.u0326
+        <anchor 1873 1170> mark @t.ringcmb_1
+        <anchor 2002 348> mark @b.ogonekcmb_2;
+  } mark;
+
+
+} mark;
+feature mkmk {
+# GPOS feature: Mark to Mark Positioning
+# Lookups: 1
+
+
+  lookup mkmk {
+  # GPOS lookup 3, type 6 (MarkToMark attachment)
+    markClass uni0326 <anchor -177 0> @b.u0326_2;
+    markClass uni0327 <anchor -262 0> @b.u0326_2;
+    pos mark cedilla
+        <anchor 277 -500> mark @b.u0326_2;
+    pos mark uni0326
+        <anchor -244 -459> mark @b.u0326_2;
+    pos mark uni0327
+        <anchor -285 -500> mark @b.u0326_2;
+  } mkmk;
+
+
+} mkmk;
+feature cv01 {
+# Character Variant 01—99
+
+#> feature
+  sub a by a.cv01;
+  sub uni0430 by uni0430.cv01;
+#< feature
+} cv01;

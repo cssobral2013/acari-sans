@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DD" format="2">
+  <advance width="1076"/>
+  <unicode hex="01DD"/>
+  <outline>
+    <contour>
+      <point x="634.68" y="1085.48" type="curve" smooth="yes"/>
+      <point x="484.024" y="1085.48"/>
+      <point x="332.024" y="1037.67"/>
+      <point x="214.968" y="937" type="curve"/>
+      <point x="283.576" y="877.8" type="line"/>
+      <point x="378.744" y="963.368"/>
+      <point x="503.672" y="992.872"/>
+      <point x="627.96" y="992.872" type="curve" smooth="yes"/>
+      <point x="796.536" y="992.872"/>
+      <point x="883.064" y="877.8"/>
+      <point x="883.064" y="706.536" type="curve" smooth="yes"/>
+      <point x="883.064" y="662.44"/>
+      <point x="875.512" y="615.784"/>
+      <point x="866.104" y="570.984" type="curve"/>
+      <point x="122.04" y="570.984" type="line"/>
+      <point x="98.424" y="486.888"/>
+      <point x="81.848" y="415.528"/>
+      <point x="81.848" y="321.448" type="curve" smooth="yes"/>
+      <point x="81.848" y="96.232"/>
+      <point x="203.192" y="-19.416"/>
+      <point x="424.888" y="-19.416" type="curve" smooth="yes"/>
+      <point x="781.496" y="-19.416"/>
+      <point x="993.4" y="388.008"/>
+      <point x="993.4" y="705.576" type="curve" smooth="yes"/>
+      <point x="993.4" y="932.328"/>
+      <point x="867.96" y="1085.48"/>
+    </contour>
+    <contour>
+      <point x="201.464" y="471.016" type="curve"/>
+      <point x="844.152" y="471.016" type="line"/>
+      <point x="795.576" y="274.6"/>
+      <point x="657.272" y="82.28"/>
+      <point x="438.264" y="82.28" type="curve" smooth="yes"/>
+      <point x="285.752" y="82.28"/>
+      <point x="174.072" y="151.208"/>
+      <point x="174.072" y="316.584" type="curve" smooth="yes"/>
+      <point x="174.072" y="370.472"/>
+      <point x="187.256" y="421.544"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|e</string>
+  </dict>
+  </lib>
+</glyph>

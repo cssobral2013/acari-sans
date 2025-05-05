@@ -1,24 +1,5 @@
 @font-face {
     font-family: 'Acari Sans';
-    src: url('AcariSans-Thin.woff2') format('woff2'),
-        url('AcariSans-Thin.woff') format('woff'),
-        url('AcariSans-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Acari Sans';
-    src: url('AcariSans-ThinItalic.woff2') format('woff2'),
-        url('AcariSans-ThinItalic.woff') format('woff'),
-        url('AcariSans-ThinItalic.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Acari Sans';
     src: url('AcariSans-ExtraLight.woff2') format('woff2'),
         url('AcariSans-ExtraLight.woff') format('woff'),
         url('AcariSans-ExtraLight.ttf') format('truetype');

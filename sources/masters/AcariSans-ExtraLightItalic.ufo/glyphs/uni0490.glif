@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0490" format="2">
+  <advance width="1113"/>
+  <unicode hex="0490"/>
+  <outline>
+    <component base="uni0413"/>
+    <contour>
+      <point x="1219.65" y="1352.9" type="line"/>
+      <point x="1314.96" y="1761.66" type="line"/>
+      <point x="1202" y="1761.66" type="line"/>
+      <point x="1116.02" y="1396.74" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.811" x="1185" y="1761"/>
+  <guideline angle="76.9374" x="1221" y="1330"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0413</string>
+  </dict>
+  </lib>
+</glyph>

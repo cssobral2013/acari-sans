@@ -2,8 +2,18 @@
 <glyph name="Imacron" format="2">
   <advance width="633"/>
   <unicode hex="012A"/>
+  <anchor x="330" y="0" name="ogonek"/>
+  <anchor x="169" y="-120" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="macroncomb" xOffset="787" yOffset="428"/>
+    <component base="uni0304" xOffset="787" yOffset="428"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.numr" format="2">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="430" y="500" type="line" name=".av01"/>
+      <point x="430" y="1468" type="line" name=".av02"/>
+      <point x="338" y="1468" type="line"/>
+      <point x="338" y="1454" type="line" smooth="yes" name=".av03"/>
+      <point x="338" y="1378"/>
+      <point x="298" y="1328"/>
+      <point x="214" y="1328" type="curve" smooth="yes"/>
+      <point x="68" y="1328" type="line" name=".dv02"/>
+      <point x="68" y="1247" type="line" name=".dv01"/>
+      <point x="328" y="1247" type="line" name=".dh01"/>
+      <point x="328" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,8 +2,17 @@
 <glyph name="aringacute" format="2">
   <advance width="1098"/>
   <unicode hex="01FB"/>
+  <anchor x="989" y="0" name="ogonek"/>
+  <anchor x="535" y="1192" name="top"/>
+  <anchor x="535" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb_acutecomb" xOffset="859" yOffset="107"/>
+    <component base="uni030A0301" xOffset="859" yOffset="107"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni030A0301</string>
+  </dict>
+  </lib>
 </glyph>

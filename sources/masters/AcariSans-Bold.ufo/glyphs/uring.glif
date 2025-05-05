@@ -2,8 +2,19 @@
 <glyph name="uring" format="2">
   <advance width="1211"/>
   <unicode hex="016F"/>
+  <anchor x="595" y="1192" name="top"/>
+  <anchor x="1068" y="0" name="ogonek"/>
+  <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="964"/>
+    <component base="uni030A" xOffset="964"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

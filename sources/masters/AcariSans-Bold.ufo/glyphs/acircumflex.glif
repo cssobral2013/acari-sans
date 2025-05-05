@@ -2,8 +2,19 @@
 <glyph name="acircumflex" format="2">
   <advance width="1103"/>
   <unicode hex="00E2"/>
+  <anchor x="988" y="0" name="ogonek"/>
+  <anchor x="535" y="1419" name="center"/>
+  <anchor x="535" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="931" yOffset="-20"/>
+    <component base="uni0302" xOffset="931" yOffset="-20"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

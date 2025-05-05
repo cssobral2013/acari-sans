@@ -8,12 +8,12 @@
       <point x="1232" y="371" type="line"/>
       <point x="534" y="744" type="line"/>
       <point x="1232" y="1120" type="line"/>
-      <point x="1115" y="1322" type="line"/>
+      <point x="1115" y="1322" type="line" name=".av01"/>
       <point x="79" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="1234" y="-211" type="line"/>
-      <point x="1234" y="0" type="line"/>
+      <point x="1234" y="-211" type="line" name=".dv01"/>
+      <point x="1234" y="0" type="line" name=".dv02"/>
       <point x="60" y="0" type="line"/>
       <point x="60" y="-211" type="line"/>
     </contour>

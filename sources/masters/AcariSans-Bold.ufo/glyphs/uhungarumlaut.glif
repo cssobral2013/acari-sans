@@ -2,8 +2,18 @@
 <glyph name="uhungarumlaut" format="2">
   <advance width="1211"/>
   <unicode hex="0171"/>
+  <anchor x="1068" y="0" name="ogonek"/>
+  <anchor x="1329" y="1064" name="horn"/>
   <outline>
     <component base="u"/>
-    <component base="hungarumlautcomb" xOffset="1166"/>
+    <component base="uni030B" xOffset="1166"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni030B</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

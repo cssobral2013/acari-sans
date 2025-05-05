@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="1468"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="198.721" y="772.033" type="line"/>
+      <point x="176.193" y="686.976" type="line"/>
+      <point x="813.633" y="686.976" type="line"/>
+      <point x="834.944" y="772.033" type="line"/>
+    </contour>
+    <contour>
+      <point x="483.099" y="0" type="line" smooth="yes"/>
+      <point x="1042.33" y="0"/>
+      <point x="1391.9" y="412.928"/>
+      <point x="1391.9" y="939.904" type="curve" smooth="yes"/>
+      <point x="1391.9" y="1351.62"/>
+      <point x="1089.12" y="1446.91"/>
+      <point x="754.396" y="1446.91" type="curve" smooth="yes"/>
+      <point x="468.379" y="1446.91" type="line"/>
+      <point x="134.364" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="473.755" y="106.049" type="curve" smooth="yes"/>
+      <point x="277.275" y="106.049" type="line"/>
+      <point x="563.548" y="1344.51" type="line"/>
+      <point x="791.004" y="1344.51" type="line" smooth="yes"/>
+      <point x="1068.38" y="1344.51"/>
+      <point x="1275.36" y="1230.66"/>
+      <point x="1275.36" y="927.104" type="curve" smooth="yes"/>
+      <point x="1275.36" y="477.44"/>
+      <point x="938.588" y="106.049"/>
+    </contour>
+  </outline>
+</glyph>

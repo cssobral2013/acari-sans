@@ -4,10 +4,18 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="751" y="545" type="line"/>
-      <point x="797" y="734" type="line"/>
-      <point x="199" y="734" type="line"/>
-      <point x="154" y="545" type="line"/>
+      <point x="750.592" y="544.768" type="line"/>
+      <point x="796.903" y="735.208" type="line"/>
+      <point x="198.887" y="735.208" type="line"/>
+      <point x="153.6" y="544.768" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=145</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

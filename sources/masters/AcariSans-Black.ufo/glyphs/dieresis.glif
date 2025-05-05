@@ -5,15 +5,23 @@
   <outline>
     <contour>
       <point x="40" y="1230" type="line"/>
-      <point x="260" y="1230" type="line"/>
-      <point x="260" y="1470" type="line"/>
-      <point x="40" y="1470" type="line"/>
+      <point x="260" y="1230" type="line" name=".dv00"/>
+      <point x="260" y="1470" type="line" name=".dv07"/>
+      <point x="40" y="1470" type="line" name=".sh00"/>
     </contour>
     <contour>
       <point x="410" y="1230" type="line"/>
-      <point x="630" y="1230" type="line"/>
-      <point x="630" y="1470" type="line"/>
-      <point x="410" y="1470" type="line"/>
+      <point x="630" y="1230" type="line" name=".dv00"/>
+      <point x="630" y="1470" type="line" name=".dv07"/>
+      <point x="410" y="1470" type="line" name=".sh00"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

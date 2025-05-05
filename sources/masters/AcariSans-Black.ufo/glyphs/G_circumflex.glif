@@ -4,6 +4,14 @@
   <unicode hex="011C"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb" xOffset="1084" yOffset="406"/>
+    <component base="uni0302" xOffset="1164" yOffset="406"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -4,14 +4,14 @@
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="1198" y="0" type="line"/>
-      <point x="1198" y="232" type="line"/>
+      <point x="1198" y="0" type="line" name=".dv01"/>
+      <point x="1198" y="232" type="line" name=".dv02"/>
       <point x="475" y="232" type="line"/>
       <point x="974" y="723" type="line"/>
-      <point x="475" y="1214" type="line"/>
+      <point x="475" y="1214" type="line" name=".dv03"/>
       <point x="1198" y="1214" type="line"/>
       <point x="1198" y="1447" type="line"/>
-      <point x="69" y="1447" type="line"/>
+      <point x="69" y="1447" type="line" name=".dv04"/>
       <point x="69" y="1325" type="line"/>
       <point x="644" y="724" type="line"/>
       <point x="69" y="122" type="line"/>

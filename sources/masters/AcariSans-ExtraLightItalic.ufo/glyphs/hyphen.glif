@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="882"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="706.935" y="598.384" type="line"/>
+      <point x="728.139" y="688.943" type="line"/>
+      <point x="235.915" y="688.943" type="line"/>
+      <point x="214.519" y="598.384" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.921" x="228" y="689"/>
+  <guideline angle="76.9209" x="714" y="590"/>
+  <guideline angle="0" x="0" y="590"/>
+  <guideline angle="0" x="0" y="696"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=194</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

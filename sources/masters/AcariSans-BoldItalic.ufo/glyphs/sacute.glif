@@ -2,8 +2,18 @@
 <glyph name="sacute" format="2">
   <advance width="947"/>
   <unicode hex="015B"/>
+  <anchor x="393" y="0" name="cedilla"/>
+  <anchor x="383" y="-120" name="bottom"/>
   <outline>
     <component base="s"/>
     <component base="acutecomb" xOffset="840"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

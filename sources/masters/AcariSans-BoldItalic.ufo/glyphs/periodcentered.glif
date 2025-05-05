@@ -2,32 +2,21 @@
 <glyph name="periodcentered" format="2">
   <advance width="631"/>
   <unicode hex="00B7"/>
+  <anchor x="386" y="814" name="_center"/>
   <outline>
     <contour>
-      <point x="362" y="667" type="curve" smooth="yes"/>
-      <point x="409" y="667"/>
-      <point x="452" y="686"/>
-      <point x="485" y="718" type="curve" smooth="yes"/>
-      <point x="517" y="749"/>
-      <point x="538" y="792"/>
-      <point x="538" y="839" type="curve" smooth="yes"/>
-      <point x="538" y="876"/>
-      <point x="525" y="910"/>
-      <point x="502" y="934" type="curve"/>
-      <point x="478" y="957"/>
-      <point x="446" y="971"/>
-      <point x="407" y="971" type="curve" smooth="yes"/>
-      <point x="360" y="971"/>
-      <point x="318" y="952"/>
-      <point x="286" y="922" type="curve" smooth="yes"/>
-      <point x="254" y="892"/>
-      <point x="234" y="849"/>
-      <point x="234" y="802" type="curve" smooth="yes"/>
-      <point x="234" y="765"/>
-      <point x="246" y="731"/>
-      <point x="268" y="707" type="curve" smooth="yes"/>
-      <point x="290" y="682"/>
-      <point x="322" y="667"/>
+      <point x="362.496" y="666.624" type="curve" smooth="yes"/>
+      <point x="454.656" y="666.624"/>
+      <point x="537.6" y="745.472"/>
+      <point x="537.6" y="838.656" type="curve" smooth="yes"/>
+      <point x="537.6" y="915.456"/>
+      <point x="484.352" y="970.752"/>
+      <point x="406.528" y="970.752" type="curve" smooth="yes"/>
+      <point x="314.368" y="970.752"/>
+      <point x="234.496" y="896"/>
+      <point x="234.496" y="801.792" type="curve" smooth="yes"/>
+      <point x="234.496" y="727.04"/>
+      <point x="280.576" y="666.624"/>
     </contour>
   </outline>
 </glyph>

@@ -4,13 +4,13 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="490" y="684" type="line"/>
-      <point x="490" y="977" type="line"/>
-      <point x="196" y="977" type="line"/>
+      <point x="490" y="684" type="line" name=".dv01"/>
+      <point x="490" y="977" type="line" name=".dv02"/>
+      <point x="196" y="977" type="line" name=".dh01"/>
       <point x="196" y="684" type="line"/>
     </contour>
     <contour>
-      <point x="293" y="-304" type="line"/>
+      <point x="293" y="-304" type="line" name=".av01"/>
       <point x="557" y="270" type="line"/>
       <point x="242" y="270" type="line"/>
       <point x="104" y="-304" type="line"/>

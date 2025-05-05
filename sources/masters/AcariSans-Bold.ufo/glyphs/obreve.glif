@@ -2,8 +2,15 @@
 <glyph name="obreve" format="2">
   <advance width="1172"/>
   <unicode hex="014F"/>
+  <anchor x="723" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="1026"/>
+    <component base="uni0306" xOffset="1026"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

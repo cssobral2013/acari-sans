@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0430.cv01" format="2">
+  <advance width="1207"/>
+  <anchor x="521" y="1192" name="top"/>
+  <anchor x="974" y="0" name="ogonek"/>
+  <anchor x="521" y="1419" name="center"/>
+  <anchor x="521" y="-150" name="bottom"/>
+  <outline>
+    <component base="a.cv01"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.cv01</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

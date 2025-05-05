@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-  <advance width="918"/>
+  <advance width="911"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="760" y="487" type="line"/>
-      <point x="829" y="757" type="line"/>
-      <point x="209" y="757" type="line"/>
-      <point x="140" y="487" type="line"/>
+      <point x="760.501" y="490.426" type="line"/>
+      <point x="820.824" y="749.736" type="line"/>
+      <point x="201.28" y="749.736" type="line"/>
+      <point x="140.981" y="490.426" type="line"/>
     </contour>
   </outline>
+  <guideline angle="256.866" x="204" y="760"/>
+  <guideline angle="77.0674" x="761" y="490"/>
+  <guideline angle="0" x="0" y="750"/>
+  <guideline angle="0" x="0" y="490"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=145</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

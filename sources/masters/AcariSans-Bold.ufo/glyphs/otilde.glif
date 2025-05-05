@@ -2,8 +2,18 @@
 <glyph name="otilde" format="2">
   <advance width="1171"/>
   <unicode hex="00F5"/>
+  <anchor x="723" y="0" name="ogonek"/>
+  <anchor x="1227" y="1064" name="horn"/>
   <outline>
     <component base="o"/>
     <component base="tildecomb" xOffset="1038"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

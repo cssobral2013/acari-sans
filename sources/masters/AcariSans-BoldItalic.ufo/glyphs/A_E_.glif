@@ -2,30 +2,32 @@
 <glyph name="AE" format="2">
   <advance width="1903"/>
   <unicode hex="00C6"/>
+  <anchor x="1334" y="1620" name="top"/>
   <outline>
     <contour>
-      <point x="1681" y="0" type="line"/>
-      <point x="1733" y="224" type="line"/>
-      <point x="967" y="224" type="line"/>
-      <point x="1057" y="614" type="line"/>
-      <point x="1733" y="614" type="line"/>
-      <point x="1783" y="833" type="line"/>
-      <point x="1107" y="833" type="line"/>
-      <point x="1199" y="1230" type="line"/>
-      <point x="1965" y="1230" type="line"/>
-      <point x="2015" y="1448" type="line"/>
-      <point x="799" y="1448" type="line"/>
-      <point x="-106" y="0" type="line"/>
-      <point x="160" y="0" type="line"/>
-      <point x="344" y="314" type="line"/>
-      <point x="749" y="314" type="line"/>
-      <point x="678" y="0" type="line"/>
+      <point x="1681.41" y="0" type="line"/>
+      <point x="1732.61" y="224.256" type="line"/>
+      <point x="966.656" y="224.256" type="line"/>
+      <point x="1056.77" y="614.4" type="line"/>
+      <point x="1732.61" y="614.4" type="line"/>
+      <point x="1782.78" y="832.512" type="line"/>
+      <point x="1106.94" y="832.512" type="line"/>
+      <point x="1199.1" y="1229.82" type="line"/>
+      <point x="1965.06" y="1229.82" type="line"/>
+      <point x="2015.23" y="1447.94" type="line"/>
+      <point x="798.72" y="1447.94" type="line"/>
+      <point x="-106.496" y="0" type="line"/>
+      <point x="159.744" y="0" type="line"/>
+      <point x="344.064" y="314.368" type="line"/>
+      <point x="748.544" y="314.368" type="line"/>
+      <point x="677.888" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="795" y="516" type="line"/>
-      <point x="472" y="516" type="line"/>
-      <point x="914" y="1230" type="line"/>
-      <point x="961" y="1230" type="line"/>
+      <point x="794.624" y="516.096" type="line"/>
+      <point x="472.064" y="516.096" type="line"/>
+      <point x="914.432" y="1229.82" type="line"/>
+      <point x="960.512" y="1229.82" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="1334" y="0"/>
 </glyph>

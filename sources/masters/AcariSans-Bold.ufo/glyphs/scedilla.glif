@@ -2,104 +2,17 @@
 <glyph name="scedilla" format="2">
   <advance width="950"/>
   <unicode hex="015F"/>
+  <anchor x="497" y="1192" name="top"/>
   <outline>
-    <contour>
-      <point x="38" y="263" type="line"/>
-      <point x="62" y="183"/>
-      <point x="115" y="117"/>
-      <point x="183" y="69" type="curve" smooth="yes"/>
-      <point x="251" y="21"/>
-      <point x="334" y="-10"/>
-      <point x="419" y="-18" type="curve"/>
-      <point x="333" y="-178" type="line"/>
-      <point x="344" y="-200" type="line"/>
-      <point x="375" y="-200" type="line" smooth="yes"/>
-      <point x="410" y="-200"/>
-      <point x="452" y="-207"/>
-      <point x="487" y="-224" type="curve" smooth="yes"/>
-      <point x="522" y="-241"/>
-      <point x="547" y="-269"/>
-      <point x="547" y="-312" type="curve" smooth="yes"/>
-      <point x="547" y="-359"/>
-      <point x="513" y="-392"/>
-      <point x="465" y="-392" type="curve" smooth="yes"/>
-      <point x="432" y="-392"/>
-      <point x="403" y="-370"/>
-      <point x="392" y="-342" type="curve"/>
-      <point x="257" y="-402" type="line"/>
-      <point x="276" y="-442"/>
-      <point x="304" y="-475"/>
-      <point x="339" y="-499" type="curve" smooth="yes"/>
-      <point x="374" y="-522"/>
-      <point x="415" y="-535"/>
-      <point x="459" y="-535" type="curve" smooth="yes"/>
-      <point x="526" y="-535"/>
-      <point x="583" y="-511"/>
-      <point x="626" y="-470" type="curve" smooth="yes"/>
-      <point x="669" y="-429"/>
-      <point x="694" y="-371"/>
-      <point x="694" y="-304" type="curve" smooth="yes"/>
-      <point x="694" y="-252"/>
-      <point x="677" y="-207"/>
-      <point x="646" y="-172" type="curve" smooth="yes"/>
-      <point x="615" y="-136"/>
-      <point x="570" y="-112"/>
-      <point x="515" y="-103" type="curve"/>
-      <point x="565" y="-11" type="line"/>
-      <point x="645" y="5"/>
-      <point x="720" y="40"/>
-      <point x="774" y="93" type="curve" smooth="yes"/>
-      <point x="828" y="146"/>
-      <point x="862" y="218"/>
-      <point x="862" y="309" type="curve" smooth="yes"/>
-      <point x="863" y="462"/>
-      <point x="788" y="553"/>
-      <point x="643" y="601" type="curve" smooth="yes"/>
-      <point x="516" y="642" type="line" smooth="yes"/>
-      <point x="448" y="665"/>
-      <point x="404" y="685"/>
-      <point x="377" y="708" type="curve" smooth="yes"/>
-      <point x="350" y="731"/>
-      <point x="340" y="756"/>
-      <point x="340" y="785" type="curve" smooth="yes"/>
-      <point x="340" y="841"/>
-      <point x="385" y="890"/>
-      <point x="474" y="890" type="curve" smooth="yes"/>
-      <point x="578" y="890"/>
-      <point x="642" y="842"/>
-      <point x="683" y="766" type="curve"/>
-      <point x="869" y="868" type="line"/>
-      <point x="786" y="1013"/>
-      <point x="659" y="1084"/>
-      <point x="479" y="1084" type="curve" smooth="yes"/>
-      <point x="363" y="1084"/>
-      <point x="270" y="1052"/>
-      <point x="206" y="994" type="curve" smooth="yes"/>
-      <point x="142" y="936"/>
-      <point x="106" y="851"/>
-      <point x="106" y="747" type="curve" smooth="yes"/>
-      <point x="106" y="666"/>
-      <point x="133" y="601"/>
-      <point x="185" y="552" type="curve" smooth="yes"/>
-      <point x="236" y="503"/>
-      <point x="309" y="467"/>
-      <point x="401" y="440" type="curve" smooth="yes"/>
-      <point x="510" y="408" type="line" smooth="yes"/>
-      <point x="582" y="387"/>
-      <point x="624" y="351"/>
-      <point x="624" y="288" type="curve" smooth="yes"/>
-      <point x="624" y="253"/>
-      <point x="609" y="226"/>
-      <point x="582" y="207" type="curve" smooth="yes"/>
-      <point x="555" y="188"/>
-      <point x="518" y="178"/>
-      <point x="471" y="178" type="curve" smooth="yes"/>
-      <point x="411" y="178"/>
-      <point x="360" y="196"/>
-      <point x="320" y="227" type="curve" smooth="yes"/>
-      <point x="279" y="258"/>
-      <point x="248" y="301"/>
-      <point x="229" y="352" type="curve"/>
-    </contour>
+    <component base="s"/>
+    <component base="uni0327" xOffset="804"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s+uni0327</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

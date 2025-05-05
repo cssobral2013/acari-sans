@@ -3,6 +3,18 @@
   <advance width="1218"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="brevecomb" xOffset="1050"/>
+    <component base="uni0306" xOffset="1050"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=q</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|l</string>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss01+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
