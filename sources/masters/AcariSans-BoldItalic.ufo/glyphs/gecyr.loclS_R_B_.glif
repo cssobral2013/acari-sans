@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr.loclSRB" format="2">
+  <advance width="955"/>
+  <outline>
+    <component base="gecyr"/>
+    <component base="macroncomb" xOffset="875"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>gecyr+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

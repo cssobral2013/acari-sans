@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ngrave" format="2">
+  <advance width="1211"/>
+  <unicode hex="01F9"/>
+  <anchor x="616" y="1191.94" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="grave" xOffset="344"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+grave</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

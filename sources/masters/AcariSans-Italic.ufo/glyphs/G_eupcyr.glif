@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="1105"/>
+  <unicode hex="0490"/>
+  <outline>
+    <component base="Gecyr"/>
+    <contour>
+      <point x="1223.02" y="1299.98" type="line"/>
+      <point x="1328.9" y="1760.77" type="line"/>
+      <point x="1161.73" y="1760.77" type="line"/>
+      <point x="1075.29" y="1386.03" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.394" x="1172" y="1759"/>
+  <guideline angle="77.3666" x="1302" y="1179"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Gecyr</string>
+  </dict>
+  </lib>
+</glyph>

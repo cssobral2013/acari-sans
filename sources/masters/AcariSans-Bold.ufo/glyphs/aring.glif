@@ -7,14 +7,14 @@
   <anchor x="535" y="-150" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="894" yOffset="118"/>
+    <component base="ringcomb" xOffset="894" yOffset="118"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>a+uni030A</string>
+  <string>a+ringcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr.loclSRB" format="2">
+  <advance width="1188"/>
+  <anchor x="892.75" y="0" name="ogonek"/>
+  <anchor x="1383.25" y="1064" name="pos"/>
+  <anchor x="419.5" y="-120" name="bottom"/>
+  <outline>
+    <component base="icyr"/>
+    <component base="macroncomb" xOffset="986.75"/>
+  </outline>
+  <guideline angle="0" x="0" y="1252"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>icyr+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

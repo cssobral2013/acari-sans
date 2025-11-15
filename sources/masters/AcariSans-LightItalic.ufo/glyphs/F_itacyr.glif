@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fitacyr" format="2">
+  <advance width="1508"/>
+  <unicode hex="0472"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="244.959" y="694.784" type="line"/>
+      <point x="1361.63" y="694.784" type="line"/>
+      <point x="1383.14" y="791.552" type="line"/>
+      <point x="268.511" y="791.552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

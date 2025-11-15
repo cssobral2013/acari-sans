@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1876"/>
+  <unicode hex="00C6"/>
+  <anchor x="1331.75" y="1620" name="top"/>
+  <outline>
+    <contour>
+      <point x="1641.47" y="0" type="line"/>
+      <point x="1674.24" y="145.152" type="line"/>
+      <point x="907.52" y="145.152" type="line"/>
+      <point x="1023.74" y="651.264" type="line"/>
+      <point x="1701.12" y="651.264" type="line"/>
+      <point x="1733.63" y="794.88" type="line"/>
+      <point x="1057.79" y="794.88" type="line"/>
+      <point x="1176.06" y="1309.7" type="line"/>
+      <point x="1942.78" y="1309.7" type="line"/>
+      <point x="1974.53" y="1447.94" type="line"/>
+      <point x="821.76" y="1447.94" type="line"/>
+      <point x="-53.504" y="0" type="line"/>
+      <point x="124.416" y="0" type="line"/>
+      <point x="310.272" y="314.368" type="line"/>
+      <point x="781.568" y="314.368" type="line"/>
+      <point x="710.144" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="816.128" y="462.336" type="line"/>
+      <point x="396.032" y="462.336" type="line"/>
+      <point x="902.912" y="1309.7" type="line"/>
+      <point x="1011.97" y="1309.7" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="1325" y="0"/>
+</glyph>

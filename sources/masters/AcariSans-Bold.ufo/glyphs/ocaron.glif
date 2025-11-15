@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocaron" format="2">
+  <advance width="1171"/>
+  <unicode hex="01D2"/>
+  <anchor x="723" y="0" name="ogonek"/>
+  <anchor x="1227" y="1064" name="horn"/>
+  <outline>
+    <component base="o"/>
+    <component base="caroncomb" xOffset="981"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

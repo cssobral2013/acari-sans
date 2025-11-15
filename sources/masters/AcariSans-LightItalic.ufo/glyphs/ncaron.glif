@@ -5,12 +5,12 @@
   <anchor x="454" y="-120" name="bottom"/>
   <outline>
     <component base="n"/>
-    <component base="uni030C" xOffset="1006"/>
+    <component base="caroncomb" xOffset="1006"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>n+uni030C</string>
+  <string>n+caroncomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

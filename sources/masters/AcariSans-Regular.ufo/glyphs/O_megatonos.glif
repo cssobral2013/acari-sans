@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="2">
+  <advance width="1757"/>
+  <unicode hex="038F"/>
+  <outline>
+    <component base="tonos"/>
+    <component base="Omega" xOffset="118"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tonos_Omega</string>
+  </dict>
+  </lib>
+</glyph>

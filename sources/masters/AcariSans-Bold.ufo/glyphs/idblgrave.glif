@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idblgrave" format="2">
+  <advance width="550"/>
+  <unicode hex="0209"/>
+  <anchor x="275" y="1191.94" name="top"/>
+  <anchor x="400" y="0" name="ogonek"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dblgravecomb" xOffset="748"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

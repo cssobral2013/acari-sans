@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
+  <anchor x="-250" y="1192" name="_top"/>
   <outline>
-    <component base="tilde" xOffset="-848"/>
+    <contour>
+      <point x="-121.064" y="1184.77" type="curve" smooth="yes"/>
+      <point x="8.98399" y="1184.77"/>
+      <point x="101.144" y="1287.17"/>
+      <point x="145.176" y="1478.66" type="curve"/>
+      <point x="-20.712" y="1478.66" type="line"/>
+      <point x="-42.216" y="1396.74"/>
+      <point x="-87.272" y="1340.42"/>
+      <point x="-131.304" y="1340.42" type="curve" smooth="yes"/>
+      <point x="-196.84" y="1340.42"/>
+      <point x="-182.504" y="1484.8"/>
+      <point x="-337.128" y="1484.8" type="curve"/>
+      <point x="-470.248" y="1484.8"/>
+      <point x="-563.432" y="1382.4"/>
+      <point x="-605.416" y="1191.94" type="curve"/>
+      <point x="-447.72" y="1191.94" type="line"/>
+      <point x="-426.216" y="1275.9"/>
+      <point x="-380.136" y="1332.22"/>
+      <point x="-333.032" y="1332.22" type="curve" smooth="yes"/>
+      <point x="-262.376" y="1332.22"/>
+      <point x="-290.024" y="1184.77"/>
+    </contour>
   </outline>
 </glyph>

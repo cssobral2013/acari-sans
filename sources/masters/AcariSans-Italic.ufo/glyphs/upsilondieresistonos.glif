@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresistonos" format="2">
+  <advance width="1189"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresisacute" xOffset="259.25"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>upsilon</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>upsilon</string>
+  </dict>
+  </lib>
+</glyph>

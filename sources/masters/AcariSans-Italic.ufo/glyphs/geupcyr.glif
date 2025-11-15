@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="geupcyr" format="2">
+  <advance width="828"/>
+  <unicode hex="0491"/>
+  <outline>
+    <component base="dotlessi" xOffset="-1"/>
+    <contour>
+      <point x="411.817" y="932.508" type="line"/>
+      <point x="901.774" y="932.508" type="line"/>
+      <point x="783.329" y="1063.94" type="line"/>
+      <point x="442.317" y="1063.94" type="line"/>
+    </contour>
+    <contour>
+      <point x="901.39" y="932.142" type="line"/>
+      <point x="995.78" y="1338.37" type="line"/>
+      <point x="832.374" y="1338.37" type="line"/>
+      <point x="757.605" y="1033.59" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="77.0236" x="929" y="878"/>
+  <guideline angle="256.983" x="506" y="1064"/>
+</glyph>

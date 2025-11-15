@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adblgrave" format="2">
+  <advance width="1103"/>
+  <unicode hex="0201"/>
+  <anchor x="535" y="1191.94" name="top"/>
+  <anchor x="988" y="0" name="ogonek"/>
+  <anchor x="535" y="1419" name="center"/>
+  <anchor x="535" y="-150" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="dblgravecomb" xOffset="1025"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

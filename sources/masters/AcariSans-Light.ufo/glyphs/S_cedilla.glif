@@ -5,12 +5,12 @@
   <anchor x="560" y="1618" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="uni0327" xOffset="874"/>
+    <component base="cedillacomb" xOffset="874"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>S+uni0327</string>
+  <string>S+cedillacomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pecyr" format="2">
+  <advance width="1506"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="1212" y="0" type="line"/>
+      <point x="1546" y="1448" type="line"/>
+      <point x="610" y="1448" type="line"/>
+      <point x="553" y="1178" type="line"/>
+      <point x="1193" y="1178" type="line"/>
+      <point x="922" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="349.184" y="0" type="line"/>
+      <point x="681.984" y="1447.94" type="line"/>
+      <point x="392.192" y="1447.94" type="line"/>
+      <point x="59.392" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="2058"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="1134.25" y="0" type="line"/>
+      <point x="1467.25" y="1448" type="line"/>
+      <point x="572.5" y="1448" type="line"/>
+      <point x="541" y="1302" type="line"/>
+      <point x="1265" y="1302" type="line"/>
+      <point x="966.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="96.25" y="-20" type="curve" smooth="yes"/>
+      <point x="306" y="-20"/>
+      <point x="394" y="241.5"/>
+      <point x="492" y="604.75" type="curve" smooth="yes"/>
+      <point x="680.5" y="1302" type="line"/>
+      <point x="779.25" y="1302" type="line"/>
+      <point x="779.25" y="1448" type="line"/>
+      <point x="545.25" y="1448" type="line"/>
+      <point x="325" y="619.5" type="line" smooth="yes"/>
+      <point x="231.75" y="270.5"/>
+      <point x="167" y="148.5"/>
+      <point x="82.75" y="148.5" type="curve" smooth="yes"/>
+      <point x="63.75" y="148.5"/>
+      <point x="46.25" y="153.75"/>
+      <point x="26.75" y="167.25" type="curve"/>
+      <point x="-52.5" y="26.25" type="line"/>
+      <point x="-10.5" y="-1.5"/>
+      <point x="44.25" y="-20"/>
+    </contour>
+    <contour>
+      <point x="1375" y="0" type="line" smooth="yes"/>
+      <point x="1672.75" y="0"/>
+      <point x="1919" y="178.75"/>
+      <point x="1919" y="480.75" type="curve" smooth="yes"/>
+      <point x="1919" y="691.75"/>
+      <point x="1747.75" y="779.25"/>
+      <point x="1536.75" y="779.25" type="curve" smooth="yes"/>
+      <point x="1208" y="779.25" type="line"/>
+      <point x="1208" y="631.5" type="line"/>
+      <point x="1513.25" y="631.5" type="line" smooth="yes"/>
+      <point x="1639.25" y="631.5"/>
+      <point x="1757.5" y="594"/>
+      <point x="1757.5" y="460.25" type="curve" smooth="yes"/>
+      <point x="1757.5" y="268"/>
+      <point x="1589.75" y="148.75"/>
+      <point x="1390.75" y="148.75" type="curve" smooth="yes"/>
+      <point x="1074.5" y="148.75" type="line"/>
+      <point x="1074.5" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Elcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Softcyr</string>
+  </dict>
+  </lib>
+</glyph>

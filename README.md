@@ -92,6 +92,9 @@ When you update your font (new version or new release), please report all notabl
   - MAJOR: 0-9 figures now have horizontal terminals by default
   - MINOR: Improved Cyrillic in Light/LightItalic masters
 
+* November 14, 2025 Version 1.092
+  - Synced font from Stefan Peev's fork
+  - Added some more Latin support
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

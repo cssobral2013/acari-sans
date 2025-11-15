@@ -5,12 +5,12 @@
   <anchor x="1156" y="0" name="ogonek"/>
   <outline>
     <component base="E"/>
-    <component base="uni0306" xOffset="1119" yOffset="426"/>
+    <component base="brevecomb" xOffset="1119" yOffset="426"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>E+uni0306</string>
+  <string>E+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

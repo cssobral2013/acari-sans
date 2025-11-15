@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ylongcyr" format="2">
+  <advance width="1828"/>
+  <unicode hex="042B"/>
+  <anchor x="1511" y="1618" name="top"/>
+  <anchor x="1641" y="0" name="ogonek"/>
+  <outline>
+    <component base="Softcyr"/>
+    <component base="I" xOffset="1195"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Softcyr_I</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

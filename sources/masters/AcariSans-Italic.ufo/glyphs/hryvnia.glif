@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hryvnia" format="2">
+  <advance width="1207"/>
+  <unicode hex="20B4"/>
+  <outline>
+    <contour>
+      <point x="72.166" y="318.464" type="curve" smooth="yes"/>
+      <point x="72.166" y="113.718"/>
+      <point x="219.743" y="-16.384"/>
+      <point x="451.814" y="-16.384" type="curve" smooth="yes"/>
+      <point x="711.94" y="-16.384"/>
+      <point x="939.401" y="126.556"/>
+      <point x="1034.47" y="365.312" type="curve"/>
+      <point x="885.734" y="425.984" type="line"/>
+      <point x="823.341" y="245.907"/>
+      <point x="651.402" y="136.704"/>
+      <point x="463.59" y="136.704" type="curve" smooth="yes"/>
+      <point x="340.184" y="136.704"/>
+      <point x="235.828" y="193.547"/>
+      <point x="235.83" y="325.12" type="curve" smooth="yes"/>
+      <point x="235.841" y="814.17"/>
+      <point x="1113.57" y="631.856"/>
+      <point x="1113.57" y="1166.59" type="curve" smooth="yes"/>
+      <point x="1113.57" y="1355.47"/>
+      <point x="977.103" y="1468.42"/>
+      <point x="783.846" y="1468.42" type="curve" smooth="yes"/>
+      <point x="600.64" y="1468.42"/>
+      <point x="453.76" y="1390.71"/>
+      <point x="335.078" y="1248.51" type="curve"/>
+      <point x="449.766" y="1148.16" type="line"/>
+      <point x="526.801" y="1254.78"/>
+      <point x="650.66" y="1321.47"/>
+      <point x="773.862" y="1321.47" type="curve" smooth="yes"/>
+      <point x="868.785" y="1321.47"/>
+      <point x="952.806" y="1268.02"/>
+      <point x="952.806" y="1171.71" type="curve" smooth="yes"/>
+      <point x="952.806" y="773.594"/>
+      <point x="72.166" y="883.863"/>
+    </contour>
+    <contour>
+      <point x="57.518" y="571.648" type="line"/>
+      <point x="1032.88" y="571.648" type="line"/>
+      <point x="1056.68" y="674.048" type="line"/>
+      <point x="81.193" y="674.048" type="line"/>
+    </contour>
+    <contour>
+      <point x="122.276" y="837.69" type="line"/>
+      <point x="1096.49" y="837.69" type="line"/>
+      <point x="1120.05" y="940.09" type="line"/>
+      <point x="144.804" y="940.09" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="76.917" x="1202" y="881"/>
+  <guideline angle="256.917" x="100" y="702"/>
+</glyph>

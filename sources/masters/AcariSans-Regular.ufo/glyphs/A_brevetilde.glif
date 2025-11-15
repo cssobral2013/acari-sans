@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="1342"/>
+  <unicode hex="1EB4"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb" xOffset="1107" yOffset="428"/>
+    <contour>
+      <point x="365.864" y="1956.63" type="line"/>
+      <point x="471.336" y="1956.63" type="line"/>
+      <point x="471.336" y="2012.95" type="line" smooth="yes"/>
+      <point x="471.336" y="2067.22"/>
+      <point x="493.864" y="2096.92"/>
+      <point x="538.92" y="2096.92" type="curve" smooth="yes"/>
+      <point x="574.76" y="2096.92"/>
+      <point x="603.432" y="2075.42"/>
+      <point x="638.248" y="2039.58" type="curve" smooth="yes"/>
+      <point x="648.488" y="2029.34" type="line"/>
+      <point x="719.144" y="2118.42" type="line"/>
+      <point x="708.904" y="2128.66" type="line" smooth="yes"/>
+      <point x="649.512" y="2189.08"/>
+      <point x="602.408" y="2214.68"/>
+      <point x="531.752" y="2214.68" type="curve" smooth="yes"/>
+      <point x="433.448" y="2214.68"/>
+      <point x="365.864" y="2145.05"/>
+      <point x="365.864" y="2034.46" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="991.136" y="2200.37" type="line"/>
+      <point x="885.664" y="2200.37" type="line"/>
+      <point x="885.664" y="2144.05" type="line" smooth="yes"/>
+      <point x="885.664" y="2089.78"/>
+      <point x="863.136" y="2060.08"/>
+      <point x="818.08" y="2060.08" type="curve" smooth="yes"/>
+      <point x="782.24" y="2060.08"/>
+      <point x="753.568" y="2081.58"/>
+      <point x="718.752" y="2117.42" type="curve" smooth="yes"/>
+      <point x="708.512" y="2127.66" type="line"/>
+      <point x="637.856" y="2038.58" type="line"/>
+      <point x="648.096" y="2028.34" type="line" smooth="yes"/>
+      <point x="707.488" y="1967.92"/>
+      <point x="754.592" y="1942.32"/>
+      <point x="825.248" y="1942.32" type="curve" smooth="yes"/>
+      <point x="923.552" y="1942.32"/>
+      <point x="991.136" y="2011.95"/>
+      <point x="991.136" y="2122.54" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Abreve+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

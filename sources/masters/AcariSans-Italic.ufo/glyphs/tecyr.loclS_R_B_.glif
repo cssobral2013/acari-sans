@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr.loclSRB" format="2">
+  <advance width="1832"/>
+  <outline>
+    <component base="shacyr"/>
+    <contour>
+      <point x="536.204" y="1252" type="line"/>
+      <point x="1644.7" y="1252" type="line"/>
+      <point x="1673.69" y="1379" type="line"/>
+      <point x="565.193" y="1379" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1252"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=shacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=shacyr</string>
+  </dict>
+  </lib>
+</glyph>

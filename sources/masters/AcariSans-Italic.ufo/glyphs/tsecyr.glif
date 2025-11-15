@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr" format="2">
+  <advance width="1206"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="399.25" y="-24" type="curve" smooth="yes"/>
+      <point x="552" y="-24"/>
+      <point x="705.5" y="66.75"/>
+      <point x="795.5" y="207" type="curve"/>
+      <point x="780.75" y="207" type="line"/>
+      <point x="775.5" y="177.5"/>
+      <point x="772.25" y="153.25"/>
+      <point x="772.25" y="126" type="curve" smooth="yes"/>
+      <point x="772.25" y="42.75"/>
+      <point x="818" y="-24"/>
+      <point x="877.25" y="-24" type="curve"/>
+      <point x="802.75" y="-314.75" type="line"/>
+      <point x="929" y="-314.75" type="line"/>
+      <point x="1052.75" y="64" type="line"/>
+      <point x="975.5" y="64"/>
+      <point x="933" y="79.75"/>
+      <point x="933" y="154.75" type="curve" smooth="yes"/>
+      <point x="933" y="180.75"/>
+      <point x="937.75" y="239"/>
+      <point x="971.75" y="381.5" type="curve" smooth="yes"/>
+      <point x="1133" y="1064" type="line"/>
+      <point x="963.5" y="1064" type="line"/>
+      <point x="826.75" y="458.5" type="line" smooth="yes"/>
+      <point x="788.75" y="290"/>
+      <point x="594.75" y="116.5"/>
+      <point x="419.25" y="116.5" type="curve" smooth="yes"/>
+      <point x="309" y="116.5"/>
+      <point x="267.25" y="182.75"/>
+      <point x="267.25" y="284" type="curve" smooth="yes"/>
+      <point x="267.25" y="328"/>
+      <point x="274.75" y="373.5"/>
+      <point x="285.25" y="419.75" type="curve" smooth="yes"/>
+      <point x="432.25" y="1064" type="line"/>
+      <point x="264.5" y="1064" type="line"/>
+      <point x="126" y="439.5" type="line" smooth="yes"/>
+      <point x="115.25" y="388.75"/>
+      <point x="107.25" y="336.5"/>
+      <point x="107.25" y="283.5" type="curve" smooth="yes"/>
+      <point x="107.25" y="92"/>
+      <point x="202.5" y="-24"/>
+    </contour>
+  </outline>
+  <guideline angle="77.0557" x="1032" y="233"/>
+  <guideline angle="71.5651" x="1019" y="-314"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tsecyr.1</string>
+  </dict>
+  </lib>
+</glyph>

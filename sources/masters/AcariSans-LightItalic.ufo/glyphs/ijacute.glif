@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ijacute" format="2">
+  <advance width="1021"/>
+  <outline>
+    <component base="iacute"/>
+    <component base="dotlessj" xOffset="489"/>
+    <component base="acutecomb" xOffset="1118"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iacute_jdotless+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1626"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="1381.17" y="0" type="line"/>
+      <point x="1438.01" y="245.76" type="line"/>
+      <point x="1468.98" y="369.92"/>
+      <point x="1500.98" y="513.792"/>
+      <point x="1500.98" y="622.592" type="curve" smooth="yes"/>
+      <point x="1500.98" y="877.056"/>
+      <point x="1369.91" y="1024.26"/>
+      <point x="1093.94" y="1024.26" type="curve" smooth="yes"/>
+      <point x="927.03" y="1024.26"/>
+      <point x="782.39" y="975.36"/>
+      <point x="633.654" y="881.408" type="curve"/>
+      <point x="633.654" y="706.56" type="line"/>
+      <point x="787.254" y="816.384"/>
+      <point x="923.958" y="863.232"/>
+      <point x="1080.63" y="863.232" type="curve" smooth="yes"/>
+      <point x="1253.94" y="863.232"/>
+      <point x="1333.81" y="785.408"/>
+      <point x="1333.81" y="617.984" type="curve" smooth="yes"/>
+      <point x="1333.81" y="548.352"/>
+      <point x="1314.1" y="445.44"/>
+      <point x="1293.37" y="355.072" type="curve" smooth="yes"/>
+      <point x="1210.93" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="833.25" y="1308" type="line"/>
+      <point x="1318.75" y="1308" type="line"/>
+      <point x="1351" y="1448" type="line"/>
+      <point x="209" y="1448" type="line"/>
+      <point x="175" y="1308" type="line"/>
+      <point x="662.75" y="1308" type="line"/>
+      <point x="362.5" y="0" type="line"/>
+      <point x="531.75" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  </dict>
+  </lib>
+</glyph>

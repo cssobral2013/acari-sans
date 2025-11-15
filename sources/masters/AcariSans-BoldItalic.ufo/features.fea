@@ -1,26 +1,14 @@
-#/> classes
+#> classes
 #/> otclasses
-@loclCYR_ss02 = [uni0414 uni041B uni0432 uni0436 uni0437 uni043A uni043B uni044E];
-@loclBGR_ss02 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043B.loclBGR uni044E.loclBGR];
-@ccmp = [gravecomb acutecomb uni0302 uni0306 uni0308 uni0304 uni0307 uni030B tildecomb uni030A uni030C uni0312];
+@ccmp = [gravecomb acutecomb circumflexcomb brevecomb dieresiscomb macroncomb dotaccentcomb hungarumlautcomb tildecomb ringcomb caroncomb commaturnedabovecomb];
+@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Ugrave Yatcyr Eiotifiedcyr Yuslittlecyr Yuslittleiotifiedcyr Yusbigcyr Yusbigiotifiedcyr Fitacyr Ukcyr Geupcyr Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gdotaccent Gcommaaccent Hbar Itilde Imacron Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Eng Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scedilla Scaron Tcedilla Tcaron Tbar Utilde Umacron Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron DZcaron Dzcaron LJ Lj NJ Nj Acaron Icaron Ocaron Ucaron Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave DZ Dz Scommaaccent Tcommaaccent Gestrokecyr Zhetailcyr Katailcyr Entailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Shhacyr Palochkacyr Schwacyr Imacroncyr Obarcyr Umacroncyr Wgrave Wacute Wdieresis Acircumflexacute Acircumflexgrave Acircumflextilde Abreveacute Abrevegrave Abrevetilde Etilde Ecircumflexacute Ecircumflexgrave Ecircumflextilde Ocircumflexacute Ocircumflexgrave Ocircumflextilde Ygrave Ytilde];
+@loclBGR_ss02 = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR elcyr.loclBGR yucyr.loclBGR];
+@loclCYR_ss02 = [Decyr Elcyr vecyr zhecyr zecyr kacyr elcyr yucyr];
+@loclCYR_ss03 = [becyr gecyr decyr pecyr tecyr];
+@loclSRB_ss03 = [becyr.loclSRB gecyr.loclSRB decyr.loclSRB pecyr.loclSRB tecyr.loclSRB];
 @ordn_sinf_subs_sups_numr_dnom = [zero one two three four five six seven eight nine];
-@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0400 uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040D uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F Ugrave uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni0472 uni0478 uni0490 Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gdotaccent uni0122 Hbar Itilde Imacron Iogonek Idotaccent IJ uni0136 Lacute uni013B Lcaron Lslash Nacute uni0145 Ncaron Eng Omacron Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron uni01C4 uni01C5 uni01C7 uni01C8 uni01CA uni01CB uni01CD uni01CF uni01D1 uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni01F1 uni01F2 uni0218 uni021A uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE Wgrave Wacute Wdieresis uni1EA4 uni1EA6 uni1EAA uni1EAE uni1EB0 uni1EB4 uni1EBC uni1EBE uni1EC0 uni1EC4 uni1ED0 uni1ED2 uni1ED6 Ygrave uni1EF8];
-@loclCYR_ss03 = [uni0431 uni0433 uni0434 uni043F uni0442];
-@loclSRB_ss03 = [uni0431.loclSRB uni0433.loclSRB uni0434.loclSRB uni043F.loclSRB uni0442.loclSRB];
 #/< otclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@loclCYR_ss02 = [uni0414 uni041B uni0432 uni0436 uni0437 uni043A uni043B uni044E];
-@loclBGR_ss02 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043B.loclBGR uni044E.loclBGR];
-@ccmp = [gravecomb acutecomb uni0302 uni0306 uni0308 uni0304 uni0307 uni030B tildecomb uni030A uni030C uni0312];
-@ordn_sinf_subs_sups_numr_dnom = [zero one two three four five six seven eight nine];
-@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0400 uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040D uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F Ugrave uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni0472 uni0478 uni0490 Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gdotaccent uni0122 Hbar Itilde Imacron Iogonek Idotaccent IJ uni0136 Lacute uni013B Lcaron Lslash Nacute uni0145 Ncaron Eng Omacron Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron uni01C4 uni01C5 uni01C7 uni01C8 uni01CA uni01CB uni01CD uni01CF uni01D1 uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni01F1 uni01F2 uni0218 uni021A uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE Wgrave Wacute Wdieresis uni1EA4 uni1EA6 uni1EAA uni1EAE uni1EB0 uni1EB4 uni1EBC uni1EBE uni1EC0 uni1EC4 uni1ED0 uni1ED2 uni1ED6 Ygrave uni1EF8];
-@loclCYR_ss03 = [uni0431 uni0433 uni0434 uni043F uni0442];
-@loclSRB_ss03 = [uni0431.loclSRB uni0433.loclSRB uni0434.loclSRB uni043F.loclSRB uni0442.loclSRB];
-#/< otclasses
-#/< classes
+#< classes
 
 ###
 # OpenType Layout feature definitions
@@ -63,7 +51,7 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 lookup ccmp_2 {
 # GSUB lookup 3, type 11 (Single)
   sub [A O a i] by [ordfeminine ordmasculine ordfeminine dotlessi];
-  sub [j o] by [uni0237 ordmasculine];
+  sub [j o] by [dotlessj ordmasculine];
 } ccmp_2;
 
 lookup ordn_2 {
@@ -82,73 +70,89 @@ lookup loclCYR_ss03_loclSRB_ss03 {
 #
 # Feature definitions
 #
+
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
 
   sub i by i.loclTRK;
   sub s by longs;
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub zero from [uni2070 uni2080];
-  sub one from [onesuperior uni2081];
-  sub two from [twosuperior uni2082];
-  sub three from [threesuperior uni2083];
-  sub four from [uni2074 uni2084];
-  sub five from [uni2075 uni2085];
-  sub six from [uni2076 uni2086];
-  sub seven from [uni2077 uni2087];
-  sub eight from [uni2078 uni2088];
-  sub nine from [uni2079 uni2089];
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub zero from [zero.superior zero.inferior];
+  sub one from [onesuperior one.inferior];
+  sub two from [twosuperior two.inferior];
+  sub three from [threesuperior three.inferior];
+  sub four from [four.superior four.inferior];
+  sub five from [five.superior five.inferior];
+  sub six from [six.superior six.inferior];
+  sub seven from [seven.superior seven.inferior];
+  sub eight from [eight.superior eight.inferior];
+  sub nine from [nine.superior nine.inferior];
 
 } aalt;
+
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
 
   sub [i j]' lookup ccmp_2 @ccmp;
-  sub [i j]' lookup ccmp_2 [uni031B uni0327 uni0328] @ccmp;
+  sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
+
+
 feature locl {
 # Localized Forms
 
 #> feature
   script cyrl; # Cyrillic
   language BGR; # Bulgarian
-  sub uni0414 by uni0414.loclBGR;
-  sub uni041B by uni041B.loclBGR;
-  sub uni0432 by uni0432.loclBGR;
-  sub uni0436 by uni0436.loclBGR;
-  sub uni0437 by uni0437.loclBGR;
-  sub uni043A by uni043A.loclBGR;
-  sub uni043B by uni043B.loclBGR;
-  sub uni044E by uni044E.loclBGR;
+  lookup loclCYR_ss02_loclBGR_ss02;
 
   language SRB; # Serbian
-  sub uni0431 by uni0431.loclSRB;
-  sub uni0433 by uni0433.loclSRB;
-  sub uni0434 by uni0434.loclSRB;
-  sub uni043F by uni043F.loclSRB;
-  sub uni0442 by uni0442.loclSRB;
+  lookup loclCYR_ss03_loclSRB_ss03;
 
   script latn; # Latin
   language MOL; # Moldavian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub tcedilla by tcommaaccent;
 
   language ROM; # Romanian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub tcedilla by tcommaaccent;
 
-  language TRK; # Turkish
-  sub i by i.loclTRK;
+    language CAT;
+    sub l' periodcentered' l by ldot;
+    sub L' periodcentered' L by Ldot;
+
+    language NLD;
+    sub I J by IJ;
+    sub Iacute J by IJacute;
+    sub i j by ij;
+    sub iacute j by ijacute;
+
+    language TRK ; # Turkish
+    sub i by i.loclTRK;
+    language CRT ; # Turkish
+    sub i by i.loclTRK;
+    language TAT ; # Turkish
+    sub i by i.loclTRK;
+    language KAZ ; # Turkish
+    sub i by i.loclTRK;
+    language AZE ; # Turkish
+    sub i by i.loclTRK;
+
 #< feature
 } locl;
+
+
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -159,6 +163,8 @@ feature ss01 {
 
 #< feature
 } ss01;
+
+
 feature ss02 {
 # Stylistic Set 01–20
 
@@ -184,15 +190,19 @@ feature hist {
   sub s by longs;
 
 } hist;
+
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
 
   sub @ordn_sinf_subs_sups_numr_dnom [A a]' lookup ordn_2;
   sub @ordn_sinf_subs_sups_numr_dnom [O o]' lookup ordn_2;
-  sub N o period by uni2116;
+  sub N o period by numero;
 
 } ordn;
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -204,22 +214,26 @@ feature liga {
   sub f l by fl;
 
 } liga;
+
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
 
-  sub zero by uni2070;
+  sub zero by zero.superior;
   sub one by onesuperior;
   sub two by twosuperior;
   sub three by threesuperior;
-  sub four by uni2074;
-  sub five by uni2075;
-  sub six by uni2076;
-  sub seven by uni2077;
-  sub eight by uni2078;
-  sub nine by uni2079;
+  sub four by four.superior;
+  sub five by five.superior;
+  sub six by six.superior;
+  sub seven by seven.superior;
+  sub eight by eight.superior;
+  sub nine by nine.superior;
 
 } sups;
+
+
 feature pnum {
 # Proportional Figures
 
@@ -236,6 +250,8 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
+
+
 feature tnum {
 # Tabular Figures
 
@@ -252,38 +268,44 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
+
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
 
-  sub zero by uni2080;
-  sub one by uni2081;
-  sub two by uni2082;
-  sub three by uni2083;
-  sub four by uni2084;
-  sub five by uni2085;
-  sub six by uni2086;
-  sub seven by uni2087;
-  sub eight by uni2088;
-  sub nine by uni2089;
+  sub zero by zero.inferior;
+  sub one by one.inferior;
+  sub two by two.inferior;
+  sub three by three.inferior;
+  sub four by four.inferior;
+  sub five by five.inferior;
+  sub six by six.inferior;
+  sub seven by seven.inferior;
+  sub eight by eight.inferior;
+  sub nine by nine.inferior;
 
 } sinf;
+
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
 
-  sub zero by uni2080;
-  sub one by uni2081;
-  sub two by uni2082;
-  sub three by uni2083;
-  sub four by uni2084;
-  sub five by uni2085;
-  sub six by uni2086;
-  sub seven by uni2087;
-  sub eight by uni2088;
-  sub nine by uni2089;
+  sub zero by zero.inferior;
+  sub one by one.inferior;
+  sub two by two.inferior;
+  sub three by three.inferior;
+  sub four by four.inferior;
+  sub five by five.inferior;
+  sub six by six.inferior;
+  sub seven by seven.inferior;
+  sub eight by eight.inferior;
+  sub nine by nine.inferior;
 
 } subs;
+
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -291,6 +313,8 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
+
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -298,37 +322,37 @@ feature mark {
 
   lookup mark {
   # GPOS lookup 2, type 4 (MarkToBase attachment)
-    markClass uni0326 <anchor -291 0> @b.cedillacomb;
-    markClass uni0327 <anchor -375 0> @b.cedillacomb;
+    markClass commaaccentcomb <anchor -291 0> @b.cedillacomb;
+    markClass cedillacomb <anchor -375 0> @b.cedillacomb;
     markClass gravecomb <anchor -30 999> @t.ringcomb_1;
     markClass acutecomb <anchor -228 999> @t.ringcomb_1;
-    markClass uni0302 <anchor -211 999> @t.ringcomb_1;
+    markClass circumflexcomb <anchor -211 999> @t.ringcomb_1;
     markClass tildecomb <anchor -277 1020> @t.ringcomb_1;
-    markClass uni0304 <anchor -303 999> @t.ringcomb_1;
-    markClass uni0306 <anchor -291 999> @t.ringcomb_1;
-    markClass uni0307 <anchor -141 999> @t.ringcomb_1;
-    markClass uni0308 <anchor -305 999> @t.ringcomb_1;
+    markClass macroncomb <anchor -303 999> @t.ringcomb_1;
+    markClass brevecomb <anchor -291 999> @t.ringcomb_1;
+    markClass dotaccentcomb <anchor -141 999> @t.ringcomb_1;
+    markClass dieresiscomb <anchor -305 999> @t.ringcomb_1;
     markClass hookabovecomb <anchor -204 986> @t.ringcomb_1;
-    markClass uni030A <anchor -201 999> @t.ringcomb_1;
-    markClass uni030B <anchor -432 999> @t.ringcomb_1;
-    markClass uni030C <anchor -213 999> @t.ringcomb_1;
-    markClass uni030F <anchor -227 999> @t.ringcomb_1;
-    markClass uni0312 <anchor -177 999> @t.ringcomb_1;
+    markClass ringcomb <anchor -201 999> @t.ringcomb_1;
+    markClass hungarumlautcomb <anchor -432 999> @t.ringcomb_1;
+    markClass caroncomb <anchor -213 999> @t.ringcomb_1;
+    markClass dblgravecomb <anchor -227 999> @t.ringcomb_1;
+    markClass commaturnedabovecomb <anchor -177 999> @t.ringcomb_1;
     markClass dotbelowcomb <anchor -471 -471> @t.ringcomb_1;
-    markClass uni0328 <anchor -263 0> @b.ogonekcomb_2;
-    pos base uni20B1
+    markClass ogonekcomb <anchor -263 0> @b.ogonekcomb_2;
+    pos base peso
         <anchor 469 0> mark @b.cedillacomb
         <anchor 795 1411> mark @t.ringcomb_1
         <anchor 0 0> mark @b.ogonekcomb_2;
-    pos base uni20B3
+    pos base austral
         <anchor 557 0> mark @b.cedillacomb
         <anchor 883 1411> mark @t.ringcomb_1
         <anchor 1217 0> mark @b.ogonekcomb_2;
-    pos base uni20B4
+    pos base hryvnia
         <anchor 457 0> mark @b.cedillacomb
         <anchor 782 1411> mark @t.ringcomb_1
         <anchor 0 0> mark @b.ogonekcomb_2;
-    pos base uni2116
+    pos base numero
         <anchor 1778 348> mark @b.cedillacomb
         <anchor 1967 1170> mark @t.ringcomb_1
         <anchor 1906 348> mark @b.ogonekcomb_2;
@@ -336,6 +360,8 @@ feature mark {
 
 
 } mark;
+
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -343,15 +369,17 @@ feature mkmk {
 
   lookup mkmk {
   # GPOS lookup 3, type 6 (MarkToMark attachment)
-    markClass uni0326 <anchor -291 0> @b.cedillacomb_2;
-    markClass uni0327 <anchor -375 0> @b.cedillacomb_2;
+    markClass commaaccentcomb <anchor -291 0> @b.cedillacomb_2;
+    markClass cedillacomb <anchor -375 0> @b.cedillacomb_2;
     pos mark cedilla
         <anchor 37 -500> mark @b.cedillacomb_2;
-    pos mark uni0326
+    pos mark commaaccentcomb
         <anchor -465 -459> mark @b.cedillacomb_2;
-    pos mark uni0327
+    pos mark cedillacomb
         <anchor -514 -500> mark @b.cedillacomb_2;
   } mkmk;
 
 
 } mkmk;
+
+

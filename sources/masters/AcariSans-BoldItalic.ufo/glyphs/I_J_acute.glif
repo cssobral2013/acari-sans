@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute" format="2">
+  <advance width="1799"/>
+  <anchor x="330" y="0" name="ogonek"/>
+  <anchor x="169" y="-120" name="bottom"/>
+  <outline>
+    <component base="Iacute"/>
+    <component base="J" xOffset="633"/>
+    <component base="acutecomb" xOffset="1989" yOffset="428"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iacute_J+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palochkacyr" format="2">
+  <advance width="551"/>
+  <unicode hex="04CF"/>
+  <anchor x="449.75" y="1620" name="top"/>
+  <anchor x="179" y="-120" name="bottom"/>
+  <anchor x="660.5" y="774" name="center"/>
+  <outline>
+    <contour>
+      <point x="198.068" y="0" type="line"/>
+      <point x="543.5" y="1447.94" type="line"/>
+      <point x="374.052" y="1447.94" type="line"/>
+      <point x="32.847" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="515" y="0"/>
+  <guideline angle="256.484" x="364" y="1448"/>
+  <guideline angle="76.5099" x="373" y="285"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l</string>
+  </dict>
+  </lib>
+</glyph>

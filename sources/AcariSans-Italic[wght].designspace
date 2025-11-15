@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" default="400" tag="wght" maximum="900" minimum="300">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source name="Black Italic" familyname="Acari Sans" filename="masters/AcariSans-BlackItalic.ufo" stylename="Black Italic">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source name="Bold Italic" familyname="Acari Sans" filename="masters/AcariSans-BoldItalic.ufo" stylename="Bold Italic">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source name="Italic" familyname="Acari Sans" filename="masters/AcariSans-Italic.ufo" stylename="Italic">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source name="Light Italic" familyname="Acari Sans" filename="masters/AcariSans-LightItalic.ufo" stylename="Light Italic">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="LightItalic" familyname="Acari Sans" filename="instances/AcariSans-LightItalic.ufo" stylename="Light Italic">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance name="Italic" familyname="Acari Sans" filename="instances/AcariSans-Italic.ufo" stylename="Italic">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="MediumItalic" familyname="Acari Sans" filename="instances/AcariSans-MediumItalic.ufo" stylename="Medium Italic">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBoldItalic" familyname="Acari Sans" filename="instances/AcariSans-SemiBoldItalic.ufo" stylename="SemiBold Italic">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance name="BoldItalic" familyname="Acari Sans" filename="instances/AcariSans-BoldItalic.ufo" stylename="Bold Italic">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance name="ExtraBoldItalic" familyname="Acari Sans" filename="instances/AcariSans-ExtraBoldItalic.ufo" stylename="ExtraBold Italic">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance name="BlackItalic" familyname="Acari Sans" filename="instances/AcariSans-BlackItalic.ufo" stylename="Black Italic">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

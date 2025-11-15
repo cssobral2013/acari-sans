@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="1542"/>
+  <outline>
+    <component base="kacyr.loclBGR" xOffset="508.75"/>
+    <contour>
+      <point x="750.991" y="668.16" type="line"/>
+      <point x="585.984" y="668.16" type="line"/>
+      <point x="393.964" y="1063.94" type="line"/>
+      <point x="196.588" y="1063.94" type="line"/>
+      <point x="426.222" y="607.437" type="line"/>
+      <point x="436.085" y="635.308" type="line"/>
+      <point x="339.822" y="628.054"/>
+      <point x="243.383" y="550.796"/>
+      <point x="189.616" y="457.098" type="curve" smooth="yes"/>
+      <point x="-74.24" y="0" type="line"/>
+      <point x="123.392" y="0" type="line"/>
+      <point x="342.016" y="375.296" type="line" smooth="yes"/>
+      <point x="409.33" y="490.843"/>
+      <point x="468.692" y="535.296"/>
+      <point x="551.936" y="535.296" type="curve" smooth="yes"/>
+      <point x="719.841" y="535.296" type="line"/>
+    </contour>
+  </outline>
+</glyph>

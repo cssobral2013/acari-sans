@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="820"/>
+  <unicode hex="0140"/>
+  <anchor x="449.75" y="1620" name="top"/>
+  <anchor x="179" y="-120" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="213.76" y="-20.48" type="curve" smooth="yes"/>
+      <point x="259.328" y="-20.48"/>
+      <point x="306.688" y="-14.336"/>
+      <point x="355.328" y="-2.048" type="curve"/>
+      <point x="380.16" y="132.096" type="line"/>
+      <point x="344.832" y="123.136"/>
+      <point x="312.32" y="118.528"/>
+      <point x="282.624" y="118.528" type="curve" smooth="yes"/>
+      <point x="255.488" y="118.528"/>
+      <point x="235.264" y="132.352"/>
+      <point x="235.264" y="156.928" type="curve"/>
+      <point x="543.5" y="1447.94" type="line"/>
+      <point x="374.052" y="1447.94" type="line"/>
+      <point x="76.89" y="187.136" type="line" smooth="yes"/>
+      <point x="69.74" y="158.204"/>
+      <point x="63.322" y="130.048"/>
+      <point x="63.322" y="101.632" type="curve" smooth="yes"/>
+      <point x="63.322" y="8.704"/>
+      <point x="122.351" y="-20.48"/>
+    </contour>
+    <contour>
+      <point x="640.608" y="646.436" type="curve" smooth="yes"/>
+      <point x="718.944" y="646.436"/>
+      <point x="789.6" y="716.068"/>
+      <point x="789.6" y="794.66" type="curve" smooth="yes"/>
+      <point x="789.6" y="860.708"/>
+      <point x="743.264" y="904.484"/>
+      <point x="677.728" y="904.484" type="curve" smooth="yes"/>
+      <point x="596.32" y="904.484"/>
+      <point x="530.272" y="838.18"/>
+      <point x="530.272" y="757.028" type="curve" smooth="yes"/>
+      <point x="530.272" y="692.26"/>
+      <point x="574.048" y="646.436"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_periodcentered</string>
+  </dict>
+  </lib>
+</glyph>

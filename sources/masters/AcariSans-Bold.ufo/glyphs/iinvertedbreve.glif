@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="550"/>
+  <unicode hex="020B"/>
+  <anchor x="275" y="1191.94" name="top"/>
+  <anchor x="400" y="0" name="ogonek"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="breveinvertedcomb" xOffset="275"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

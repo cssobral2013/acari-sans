@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-  <advance width="2912"/>
+  <advance width="2243"/>
   <unicode hex="2030"/>
   <outline>
     <contour>
@@ -93,41 +93,5 @@
       <point x="1968" y="247"/>
       <point x="1925" y="180"/>
     </contour>
-    <contour>
-      <point x="2543" y="-19" type="curve" smooth="yes" name=".dv05"/>
-      <point x="2722" y="-19"/>
-      <point x="2842" y="123"/>
-      <point x="2842" y="335" type="curve" smooth="yes" name=".dh04"/>
-      <point x="2842" y="525"/>
-      <point x="2710" y="676"/>
-      <point x="2543" y="676" type="curve" smooth="yes" name=".dv02"/>
-      <point x="2370" y="676"/>
-      <point x="2246" y="532"/>
-      <point x="2246" y="329" type="curve" smooth="yes" name=".dh01"/>
-      <point x="2246" y="126"/>
-      <point x="2370" y="-19"/>
-    </contour>
-    <contour>
-      <point x="2543" y="180" type="curve" smooth="yes" name=".dv06"/>
-      <point x="2489" y="180"/>
-      <point x="2449" y="243"/>
-      <point x="2449" y="329" type="curve" smooth="yes" name=".dh02"/>
-      <point x="2449" y="416"/>
-      <point x="2487" y="475"/>
-      <point x="2543" y="475" type="curve" smooth="yes" name=".dv01"/>
-      <point x="2601" y="475"/>
-      <point x="2637" y="419"/>
-      <point x="2637" y="328" type="curve" smooth="yes" name=".dh03"/>
-      <point x="2637" y="247"/>
-      <point x="2594" y="180"/>
-    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=percent</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=percent</string>
-  </dict>
-  </lib>
 </glyph>

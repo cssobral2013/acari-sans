@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softhyphen" format="2">
+  <advance width="1034"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="896.652" y="545.192" type="line"/>
+      <point x="940.915" y="734.608" type="line"/>
+      <point x="196.467" y="734.608" type="line"/>
+      <point x="152.204" y="545.192" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.895" x="190" y="709"/>
+  <guideline angle="76.8947" x="891" y="520"/>
+  <guideline angle="0" x="0" y="545"/>
+  <guideline angle="0" x="0" y="735"/>
+</glyph>

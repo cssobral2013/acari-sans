@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="einvertedbreve" format="2">
+  <advance width="1081"/>
+  <unicode hex="0207"/>
+  <anchor x="550" y="0" name="ogonek"/>
+  <anchor x="455" y="-120" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="breveinvertedcomb" xOffset="674.464" yOffset="-274.304"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="704" y="0"/>
+  <guideline angle="136.081" x="882" y="131"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

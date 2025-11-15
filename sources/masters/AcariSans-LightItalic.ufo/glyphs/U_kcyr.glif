@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ukcyr" format="2">
+  <advance width="2549"/>
+  <unicode hex="0478"/>
+  <anchor x="2133" y="1192" name="top"/>
+  <anchor x="722" y="0" name="ogonek"/>
+  <anchor x="1708" y="1447" name="pos"/>
+  <anchor x="2038" y="-258" name="bottom"/>
+  <outline>
+    <component base="Ocyr"/>
+    <component base="ucyr" xOffset="1508"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=ucyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>Ocyr_ucyr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

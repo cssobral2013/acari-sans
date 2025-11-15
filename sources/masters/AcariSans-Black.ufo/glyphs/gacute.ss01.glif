@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gacute.ss01" format="2">
+  <advance width="1201"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="acutecomb" xOffset="862"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss01+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

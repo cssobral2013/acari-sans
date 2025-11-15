@@ -6,12 +6,12 @@
   <anchor x="1227" y="1064" name="horn"/>
   <outline>
     <component base="o"/>
-    <component base="uni0308" xOffset="1016"/>
+    <component base="dieresiscomb" xOffset="1016"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>o+uni0308</string>
+  <string>o+dieresiscomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

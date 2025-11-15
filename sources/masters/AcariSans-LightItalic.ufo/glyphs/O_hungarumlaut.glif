@@ -7,12 +7,12 @@
   <anchor x="581" y="-120" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni030B" xOffset="1380" yOffset="428"/>
+    <component base="hungarumlautcomb" xOffset="1380" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>O+uni030B</string>
+  <string>O+hungarumlautcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

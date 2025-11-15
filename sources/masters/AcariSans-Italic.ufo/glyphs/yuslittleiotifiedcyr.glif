@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittleiotifiedcyr" format="2">
+  <advance width="1421"/>
+  <unicode hex="0469"/>
+  <outline>
+    <component base="elcyr.loclBGR" xOffset="409.794" yOffset="1.15335e-05"/>
+    <component base="dotlessi" xOffset="-1"/>
+    <contour>
+      <point x="725.556" y="547.072" type="line"/>
+      <point x="278.4" y="547.072" type="line"/>
+      <point x="249.984" y="421.12" type="line"/>
+      <point x="647.476" y="421.12" type="line"/>
+    </contour>
+    <contour>
+      <point x="1109.51" y="397.498" type="line"/>
+      <point x="703.43" y="397.498" type="line"/>
+      <point x="631.75" y="279.892" type="line"/>
+      <point x="1123.56" y="279.892" type="line"/>
+    </contour>
+    <contour>
+      <point x="794.648" y="302.378" type="line"/>
+      <point x="726.395" y="-1.49246" type="line"/>
+      <point x="870.25" y="-1.49246" type="line"/>
+      <point x="938.272" y="302.335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=yuslittlecyr</string>
+  </dict>
+  </lib>
+</glyph>

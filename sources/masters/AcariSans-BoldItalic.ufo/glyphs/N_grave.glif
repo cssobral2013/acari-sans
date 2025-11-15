@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ngrave" format="2">
+  <advance width="1489"/>
+  <unicode hex="01F8"/>
+  <anchor x="662" y="-120" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="gravecomb" xOffset="994" yOffset="429"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="974" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

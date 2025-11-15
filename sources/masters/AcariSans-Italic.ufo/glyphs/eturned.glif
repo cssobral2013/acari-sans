@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eturned" format="2">
+  <advance width="1089"/>
+  <unicode hex="01DD"/>
+  <outline>
+    <contour>
+      <point x="638.45" y="1085.48" type="curve" smooth="yes"/>
+      <point x="476.146" y="1085.48"/>
+      <point x="322.802" y="1034.54"/>
+      <point x="201.714" y="929.832" type="curve"/>
+      <point x="298.994" y="827.176" type="line"/>
+      <point x="391.922" y="911.4"/>
+      <point x="502.514" y="941.352"/>
+      <point x="625.906" y="941.352" type="curve" smooth="yes"/>
+      <point x="781.042" y="941.352"/>
+      <point x="863.986" y="848.68"/>
+      <point x="863.986" y="704.296" type="curve" smooth="yes"/>
+      <point x="863.986" y="665.128"/>
+      <point x="857.33" y="626.984"/>
+      <point x="848.37" y="591.144" type="curve"/>
+      <point x="110.578" y="591.144" type="line"/>
+      <point x="84.722" y="509.736"/>
+      <point x="68.594" y="428.072"/>
+      <point x="68.594" y="338.472" type="curve" smooth="yes"/>
+      <point x="68.594" y="101.16"/>
+      <point x="200.69" y="-19.416"/>
+      <point x="433.138" y="-19.416" type="curve" smooth="yes"/>
+      <point x="791.538" y="-19.416"/>
+      <point x="1022.71" y="362.024"/>
+      <point x="1022.71" y="691.24" type="curve" smooth="yes"/>
+      <point x="1022.71" y="933.672"/>
+      <point x="879.346" y="1085.48"/>
+    </contour>
+    <contour>
+      <point x="231.666" y="461.608" type="curve"/>
+      <point x="817.906" y="461.608" type="line"/>
+      <point x="767.986" y="286.248"/>
+      <point x="641.778" y="122.152"/>
+      <point x="448.754" y="122.152" type="curve" smooth="yes"/>
+      <point x="305.65" y="122.152"/>
+      <point x="213.234" y="187.944"/>
+      <point x="213.234" y="342.568" type="curve" smooth="yes"/>
+      <point x="213.234" y="383.016"/>
+      <point x="221.938" y="422.44"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|e</string>
+  </dict>
+  </lib>
+</glyph>

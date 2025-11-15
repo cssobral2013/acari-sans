@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittlecyr" format="2">
+  <advance width="1011"/>
+  <unicode hex="0467"/>
+  <outline>
+    <component base="elcyr.loclBGR"/>
+    <contour>
+      <point x="701.26" y="398.99" type="line"/>
+      <point x="295.176" y="398.99" type="line"/>
+      <point x="223.496" y="281.384" type="line"/>
+      <point x="715.311" y="281.384" type="line"/>
+    </contour>
+    <contour>
+      <point x="386.394" y="303.87" type="line"/>
+      <point x="318.141" y="0" type="line"/>
+      <point x="461.996" y="0" type="line"/>
+      <point x="530.018" y="303.827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=elcyr.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=elcyr.loclBGR</string>
+  </dict>
+  </lib>
+</glyph>

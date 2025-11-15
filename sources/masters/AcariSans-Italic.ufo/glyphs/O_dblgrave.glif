@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odblgrave" format="2">
+  <advance width="1522"/>
+  <unicode hex="020C"/>
+  <anchor x="736.75" y="0" name="ogonek"/>
+  <anchor x="1726.25" y="1447" name="pos"/>
+  <anchor x="604" y="-120" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="dblgravecomb" xOffset="1130.25" yOffset="428"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="1080" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbigcyr" format="2">
+  <advance width="1243"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="1086.42" y="0" type="line"/>
+      <point x="1020.88" y="362.116" type="line" smooth="yes"/>
+      <point x="996.03" y="495.997"/>
+      <point x="914.317" y="549.242"/>
+      <point x="799.938" y="549.242" type="curve"/>
+      <point x="1162.47" y="938.24" type="line"/>
+      <point x="1190.63" y="1063.94" type="line"/>
+      <point x="308.202" y="1063.94" type="line"/>
+      <point x="281.834" y="937.472" type="line"/>
+      <point x="481.98" y="549.242" type="line"/>
+      <point x="327.062" y="549.242"/>
+      <point x="218.826" y="510.186"/>
+      <point x="141.713" y="376.565" type="curve" smooth="yes"/>
+      <point x="-74.509" y="0" type="line"/>
+      <point x="122.355" y="0" type="line"/>
+      <point x="286.094" y="291.438" type="line" smooth="yes"/>
+      <point x="334.476" y="377.47"/>
+      <point x="412.395" y="421.241"/>
+      <point x="480.201" y="421.241" type="curve" smooth="yes"/>
+      <point x="517.493" y="421.241" type="line"/>
+      <point x="420.224" y="0" type="line"/>
+      <point x="594.516" y="0" type="line"/>
+      <point x="692.392" y="422.637" type="line"/>
+      <point x="723.529" y="422.646" type="line" smooth="yes"/>
+      <point x="800.233" y="422.671"/>
+      <point x="851.279" y="387.083"/>
+      <point x="861.02" y="307.72" type="curve" smooth="yes"/>
+      <point x="897.744" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="682.249" y="528.802" type="line"/>
+      <point x="485.098" y="939.008" type="line"/>
+      <point x="955.882" y="939.008" type="line"/>
+      <point x="589.163" y="528.802" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=kacyr</string>
+  </dict>
+  </lib>
+</glyph>

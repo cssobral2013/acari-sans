@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odblgrave" format="2">
+  <advance width="1171"/>
+  <unicode hex="020D"/>
+  <anchor x="586" y="1191.94" name="top"/>
+  <anchor x="723" y="0" name="ogonek"/>
+  <anchor x="1227" y="1064" name="horn"/>
+  <outline>
+    <component base="o"/>
+    <component base="dblgravecomb" xOffset="1059"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

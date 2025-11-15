@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="717"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="429.25" y="1192.75" type="line"/>
+      <point x="475.25" y="1390.75" type="line"/>
+      <point x="300.5" y="1390.75" type="line"/>
+      <point x="255.25" y="1192.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="776.75" y="1192.75" type="line"/>
+      <point x="822.75" y="1390.75" type="line"/>
+      <point x="648" y="1390.75" type="line"/>
+      <point x="602.75" y="1192.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=97</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

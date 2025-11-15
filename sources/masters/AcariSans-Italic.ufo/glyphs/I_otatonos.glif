@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotatonos" format="2">
+  <advance width="386"/>
+  <unicode hex="038A"/>
+  <anchor x="-56.5" y="-120" name="bottom"/>
+  <anchor x="52" y="0" name="ogonek"/>
+  <anchor x="301" y="1620" name="top"/>
+  <outline>
+    <component base="I" xOffset="-221"/>
+    <component base="tonos" xOffset="-399.75" yOffset="-18.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>tonos</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>I</string>
+  </dict>
+  </lib>
+</glyph>

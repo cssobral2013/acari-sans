@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rinvertedbreve" format="2">
+  <advance width="853"/>
+  <unicode hex="0213"/>
+  <outline>
+    <component base="r"/>
+    <component base="breveinvertedcomb" xOffset="427"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

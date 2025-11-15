@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ainvertedbreve" format="2">
+  <advance width="1388"/>
+  <unicode hex="0202"/>
+  <anchor x="696" y="1620" name="top"/>
+  <anchor x="1390" y="0" name="ogonek"/>
+  <anchor x="696" y="1550" name="center"/>
+  <anchor x="696" y="-150" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveinvertedcomb" xOffset="694" yOffset="384"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

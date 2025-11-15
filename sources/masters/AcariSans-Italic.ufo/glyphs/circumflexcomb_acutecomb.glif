@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="-372.5" y="1192" name="_top"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-42.5"/>
+    <contour>
+      <point x="92.245" y="1409.94" type="line"/>
+      <point x="371.425" y="1634.25" type="line"/>
+      <point x="166.369" y="1634.25" type="line"/>
+      <point x="-50.859" y="1409.94" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1642"/>
+  <guideline angle="226.207" x="46" y="1725"/>
+  <guideline angle="0" x="0" y="1410"/>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="2">
+  <advance width="1057"/>
+  <unicode hex="00FF"/>
+  <anchor x="559" y="-246" name="bottom"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="915.25"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

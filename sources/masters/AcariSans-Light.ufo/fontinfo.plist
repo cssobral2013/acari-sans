@@ -75,7 +75,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.096</string>
+  <string>Version 1.100</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -137,6 +137,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <integer>1</integer>
     <integer>2</integer>
     <integer>3</integer>
+    <integer>7</integer>
     <integer>9</integer>
     <integer>29</integer>
     <integer>32</integer>
@@ -193,7 +194,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>postscriptWeightName</key>
   <string>Light</string>
   <key>styleMapFamilyName</key>
-  <string>Acari Sans Light</string>
+  <string>Acari Sans</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -203,7 +204,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>96</integer>
+  <integer>100</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

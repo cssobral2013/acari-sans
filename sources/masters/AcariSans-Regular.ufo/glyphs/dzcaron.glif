@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcaron" format="2">
+  <advance width="2179"/>
+  <unicode hex="01C6"/>
+  <outline>
+    <component base="a.cv01" xOffset="20"/>
+    <component base="z" xOffset="1185"/>
+    <component base="caroncomb" xOffset="2084"/>
+    <contour>
+      <point x="854" y="1000" type="line"/>
+      <point x="1015" y="1000" type="line"/>
+      <point x="1015" y="1448" type="line"/>
+      <point x="854" y="1448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

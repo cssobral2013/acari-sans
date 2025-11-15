@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="1598"/>
+  <unicode hex="0149"/>
+  <anchor x="1358" y="1192" name="top"/>
+  <anchor x="1039" y="-120" name="bottom"/>
+  <outline>
+    <component base="quoteright"/>
+    <component base="n" xOffset="422"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>quoteright_n</string>
+  </dict>
+  </lib>
+</glyph>

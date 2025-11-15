@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fitacyr" format="2">
+  <advance width="1571"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="239" y="677" type="line"/>
+      <point x="1332" y="677" type="line"/>
+      <point x="1332" y="810" type="line"/>
+      <point x="239" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="-20" type="curve" smooth="yes" name=".dv01"/>
+      <point x="1191" y="-20"/>
+      <point x="1447" y="269"/>
+      <point x="1447" y="724" type="curve" smooth="yes" name=".dh04"/>
+      <point x="1447" y="1179"/>
+      <point x="1191" y="1468"/>
+      <point x="786" y="1468" type="curve" smooth="yes" name=".dv04"/>
+      <point x="380" y="1468"/>
+      <point x="124" y="1179"/>
+      <point x="124" y="724" type="curve" smooth="yes" name=".dh01"/>
+      <point x="124" y="270"/>
+      <point x="380" y="-20"/>
+    </contour>
+    <contour>
+      <point x="786" y="136" type="curve" smooth="yes" name=".dv02"/>
+      <point x="475" y="136"/>
+      <point x="299" y="368"/>
+      <point x="299" y="724" type="curve" smooth="yes" name=".dh02"/>
+      <point x="299" y="1082"/>
+      <point x="477" y="1312"/>
+      <point x="786" y="1312" type="curve" smooth="yes" name=".dv03"/>
+      <point x="1095" y="1312"/>
+      <point x="1272" y="1080"/>
+      <point x="1272" y="724" type="curve" smooth="yes" name=".dh03"/>
+      <point x="1272" y="366"/>
+      <point x="1094" y="136"/>
+    </contour>
+  </outline>
+</glyph>

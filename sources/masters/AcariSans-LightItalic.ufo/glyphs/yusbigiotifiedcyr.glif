@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbigiotifiedcyr" format="2">
+  <advance width="1593"/>
+  <unicode hex="046D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="yusbigcyr" xOffset="384"/>
+    <contour>
+      <point x="817.472" y="525.312" type="line"/>
+      <point x="261.776" y="525.312" type="line"/>
+      <point x="238.224" y="419.84" type="line"/>
+      <point x="752.96" y="419.84" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="256.986" x="903" y="424"/>
+  <guideline angle="76.9856" x="945" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=yusbigcyr</string>
+  </dict>
+  </lib>
+</glyph>
