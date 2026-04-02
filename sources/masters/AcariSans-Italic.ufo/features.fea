@@ -70,7 +70,6 @@ lookup loclCYR_ss03_loclSRB_ss03 {
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -91,7 +90,6 @@ feature aalt useExtension {
   sub nine from [nine.superior nine.inferior];
 
 } aalt;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -100,7 +98,6 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
-
 feature locl {
 # Localized Forms
 
@@ -148,18 +145,17 @@ feature locl {
 
 #< feature
 } locl;
-
 feature ss01 {
 # Stylistic Set 01–20
 
 #> feature
-
-	sub s s by germandbls;
-	sub S S by Germandbls;
-
+  sub g by g.ss01;
+  sub gbreve by gbreve.ss01;
+  sub gcircumflex by gcircumflex.ss01;
+  sub gcommaaccent by gcommaaccent.ss01;
+  sub gdotaccent by gdotaccent.ss01;
 #< feature
 } ss01;
-
 feature ss02 {
 # Stylistic Set 01–20
 
@@ -178,6 +174,29 @@ feature ss03 {
 
 #< feature
 } ss03;
+feature ss05 {
+# Stylistic Set 01–20
+
+#> feature
+  sub dzecyr by dzecyr.ss05;
+  sub s by s.ss05;
+  sub sacute by sacute.ss05;
+  sub scaron by scaron.ss05;
+  sub scedilla by scedilla.ss05;
+  sub scircumflex by scircumflex.ss05;
+  sub scommaaccent by scommaaccent.ss05;
+#< feature
+} ss05;
+feature ss06 {
+# Stylistic Set 01–20
+
+#> feature
+
+	sub s s by germandbls;
+	sub S S by Germandbls;
+
+#< feature
+} ss06;
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -185,7 +204,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -195,7 +213,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -207,7 +224,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -224,7 +240,6 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
-
 feature pnum {
 # Proportional Figures
 
@@ -241,7 +256,6 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
-
 feature tnum {
 # Tabular Figures
 
@@ -258,7 +272,6 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -275,7 +288,6 @@ feature sinf {
   sub nine by nine.inferior;
 
 } sinf;
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -292,7 +304,6 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -300,7 +311,6 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -346,7 +356,6 @@ feature mark {
 
 
 } mark;
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -366,4 +375,3 @@ feature mkmk {
 
 
 } mkmk;
-

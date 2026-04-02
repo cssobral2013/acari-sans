@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron.ss05" format="2">
+  <advance width="947"/>
+  <anchor x="393" y="0" name="cedilla"/>
+  <anchor x="383" y="-120" name="bottom"/>
+  <outline>
+    <component base="s.ss05"/>
+    <component base="caroncomb" xOffset="729"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s.ss05+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

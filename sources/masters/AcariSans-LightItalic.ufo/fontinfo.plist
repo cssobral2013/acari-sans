@@ -73,7 +73,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.103</string>
+  <string>Version 1.105</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -162,6 +162,10 @@
   <array>
     <integer>-20</integer>
     <integer>0</integer>
+    <integer>1064</integer>
+    <integer>1087</integer>
+    <integer>1448</integer>
+    <integer>1470</integer>
   </array>
   <key>postscriptFontName</key>
   <string>AcariSans-LightItalic</string>
@@ -171,6 +175,11 @@
   <string>Acari Sans Light Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-463</integer>
+    <integer>-450</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
@@ -188,7 +197,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>103</integer>
+  <integer>105</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

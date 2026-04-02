@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="2">
-  <advance width="1200"/>
+  <advance width="1133"/>
   <unicode hex="011F"/>
+  <anchor x="410.333" y="-427" name="m.uni0326"/>
+  <anchor x="0" y="43.333" name="m.uni0328_1"/>
+  <anchor x="705" y="1099" name="m.uni0308_2"/>
+  <anchor x="0" y="43.333" name="m.uni031B_3_2"/>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="1053"/>
+    <component base="brevecomb" xOffset="1093.88"/>
   </outline>
   <lib>
   <dict>

@@ -93,9 +93,6 @@ lookup g_g_ss01 {
 #
 # Feature definitions
 #
-
-
-
 feature aalt {
 # Access All Alternates
 
@@ -123,9 +120,6 @@ feature ccmp {
   sub [i j]' lookup ccmp_2 [horncomb cedillacomb ogonekcomb] @ccmp;
 
 } ccmp;
-
-
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 7
@@ -170,9 +164,6 @@ feature locl {
     lookup loclCYR_ss02_loclBGR_ss02;
 
 } locl;
-
-
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -182,9 +173,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -196,9 +184,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
-
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -207,9 +192,6 @@ feature salt {
   sub gbreve from [gbreve.ss01];
 
 } salt;
-
-
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -231,6 +213,30 @@ feature ss03 {
 	lookup loclCYR_ss03_loclSRB_ss03;
 #< feature
 } ss03;
+feature ss04 {
+# Stylistic Set 01–20
+
+#> feature
+  sub g by g.ss04;
+  sub gacute by gacute.ss04;
+  sub gbreve by gbreve.ss04;
+  sub gcircumflex by gcircumflex.ss04;
+  sub gcommaaccent by gcommaaccent.ss04;
+  sub gdotaccent by gdotaccent.ss04;
+#< feature
+} ss04;
+feature ss05 {
+# Stylistic Set 01–20
+
+#> feature
+  sub dzecyr by dzecyr.ss05;
+  sub s by s.ss05;
+  sub sacute by sacute.ss05;
+  sub scedilla by scedilla.ss05;
+  sub scircumflex by scircumflex.ss05;
+  sub scommaaccent by scommaaccent.ss05;
+#< feature
+} ss05;
 feature pnum {
 # Proportional Figures
 
@@ -247,9 +253,6 @@ feature pnum {
   sub zero by zero.pnum;
 #< feature
 } pnum;
-
-
-
 feature tnum {
 # Tabular Figures
 
@@ -266,9 +269,6 @@ feature tnum {
   sub zero.pnum by zero;
 #< feature
 } tnum;
-
-
-
 feature numr {
 # Numerator
 
@@ -285,9 +285,6 @@ feature numr {
   sub zero by zero.numr;
 #< feature
 } numr;
-
-
-
 feature dnom {
 # Denominator
 
@@ -304,9 +301,6 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
-
-
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -314,9 +308,6 @@ feature sups {
   sub @ordn_sinf_subs_sups_numr_dnom by @sups;
 
 } sups;
-
-
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -324,9 +315,6 @@ feature sinf {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } sinf;
-
-
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -334,9 +322,6 @@ feature subs {
   sub @ordn_sinf_subs_sups_numr_dnom by @sinf_subs;
 
 } subs;
-
-
-
 feature frac {
 # Fractions
 
@@ -420,9 +405,6 @@ lookup frac_dnom {
 
 #< feature
 } frac;
-
-
-
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -430,9 +412,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-
-
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -440,9 +419,6 @@ feature cpsp {
   pos @cpsp <5 0 10 0>;
 
 } cpsp;
-
-
-
 feature kern {
   @_T = [T Tbar Tcaron Y Yacute Ycircumflex Ydieresis Ygrave];
   @_A = [A L Acyr Yuslittlecyr Yuslittleiotifiedcyr];
@@ -650,9 +626,6 @@ feature kern {
   } KERN_LTR;
 
 } kern;
-
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -698,9 +671,6 @@ feature mark {
 
 
 } mark;
-
-
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -720,9 +690,6 @@ feature mkmk {
 
 
 } mkmk;
-
-
-
 feature cv01 {
 # Character Variant 01—99
 
@@ -731,6 +698,3 @@ feature cv01 {
   sub acyr by acyr.cv01;
 #< feature
 } cv01;
-
-
-
