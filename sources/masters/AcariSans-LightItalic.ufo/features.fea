@@ -216,13 +216,67 @@ feature ordn {
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
-
+  sub Eukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Iukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Yukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Acyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Iecyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Icyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Ocyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Ucyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Ylongcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Ereversedcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Yucyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Yacyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Iocyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Yatcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub eukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub iukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub yukrcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub acyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub iecyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub icyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub ocyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub ucyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub ylongcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub ereversedcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub yucyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub yacyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub iocyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub yatcyr [grave acute gravecomb acutecomb]' by [acute acute acute acute];
+  sub Iocyr acute by Iocyr_acutecomb;
+  sub Eukrcyr acute by Eukrcyr_acutecomb;
+  sub Iukrcyr acute by Iukrcyr_acutecomb;
+  sub Yukrcyr acute by Yukrcyr_acutecomb;
+  sub Acyr acute by Acyr_acutecomb;
+  sub Iecyr acute by Iecyr_acutecomb;
+  sub Icyr acute by Icyr_acutecomb;
+  sub Ocyr acute by Ocyr_acutecomb;
+  sub Ucyr acute by Ucyr_acutecomb;
+  sub Ylongcyr acute by Ylongcyr_acutecomb;
+  sub Yucyr acute by Yucyr_acutecomb;
+  sub Yacyr acute by Yacyr_acutecomb;
+  sub acyr acute by acyr_acutecomb;
+  sub iecyr acute by iecyr_acutecomb;
+  sub icyr acute by icyr_acutecomb;
+  sub ocyr acute by ocyr_acutecomb;
+  sub ucyr acute by ucyr_acutecomb;
+  sub ylongcyr acute by ylongcyr_acutecomb;
+  sub yucyr acute by yucyr_acutecomb;
+  sub yacyr acute by yacyr_acutecomb;
+  sub iocyr acute by iocyr_acutecomb;
+  sub eukrcyr acute by eukrcyr_acutecomb;
+  sub iukrcyr acute by iukrcyr_acutecomb;
+  sub yukrcyr acute by yukrcyr_acutecomb;
+  sub Yatcyr acute by Yatcyr_acutecomb;
+  sub yatcyr acute by yatcyr_acutecomb;
+lookup liga_1 {
   sub f f i by f_f_i;
   sub f f l by f_f_l;
   sub f f by f_f;
   sub f i by fi;
   sub f l by fl;
-
+} liga_1;
 } liga;
 feature sups {
 # GSUB feature: Superscript

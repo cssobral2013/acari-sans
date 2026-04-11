@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr_acutecomb" format="2">
+  <advance width="1522"/>
+  <anchor x="1342" y="0" name="ogonek"/>
+  <outline>
+    <component base="ylongcyr"/>
+    <component base="acutecomb" xOffset="1146"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ylongcyr+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

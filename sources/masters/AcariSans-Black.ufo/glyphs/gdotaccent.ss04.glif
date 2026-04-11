@@ -2,11 +2,13 @@
 <glyph name="gdotaccent.ss04" format="2">
   <advance width="1082"/>
   <outline>
-    <component base="g"/>
-    <component base="dotaccentcomb" xOffset="805"/>
+    <component base="g.ss04"/>
+    <component base="dotaccentcomb" xOffset="801"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss04+dotaccentcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

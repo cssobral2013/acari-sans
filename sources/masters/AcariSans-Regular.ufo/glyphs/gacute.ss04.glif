@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gacute.ss04" format="2">
   <advance width="1073"/>
-  <anchor x="518" y="1192" name="top"/>
   <outline>
-    <component base="g"/>
-    <component base="acute" xOffset="254"/>
+    <component base="g.ss04"/>
+    <component base="acutecomb" xOffset="917"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>g+acute</string>
+  <string>g.ss04+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

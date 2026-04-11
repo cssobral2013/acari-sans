@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iecyr_acutecomb" format="2">
+  <advance width="1089"/>
+  <anchor x="561.25" y="0" name="ogonek"/>
+  <anchor x="461" y="-120" name="bottom"/>
+  <outline>
+    <component base="eacute"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>eacute</string>
+  </dict>
+  </lib>
+</glyph>

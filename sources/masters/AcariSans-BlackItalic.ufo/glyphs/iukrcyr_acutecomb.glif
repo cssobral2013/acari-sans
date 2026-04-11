@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iukrcyr_acutecomb" format="2">
+  <advance width="558"/>
+  <anchor x="276" y="0" name="ogonek"/>
+  <anchor x="126" y="-120" name="bottom"/>
+  <outline>
+    <component base="i"/>
+    <component base="acutecomb" xOffset="750.763" yOffset="300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

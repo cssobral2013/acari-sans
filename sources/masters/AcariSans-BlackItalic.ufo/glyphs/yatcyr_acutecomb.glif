@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yatcyr_acutecomb" format="2">
+  <advance width="1097"/>
+  <outline>
+    <component base="yatcyr"/>
+    <component base="acutecomb" xOffset="1080.26" yOffset="150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yatcyr+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

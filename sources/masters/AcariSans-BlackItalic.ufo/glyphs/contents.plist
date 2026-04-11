@@ -40,6 +40,8 @@
   <string>A_circumflextilde.glif</string>
   <key>Acyr</key>
   <string>A_cyr.glif</string>
+  <key>Acyr_acutecomb</key>
+  <string>A_cyr_acutecomb.glif</string>
   <key>Adblgrave</key>
   <string>A_dblgrave.glif</string>
   <key>Adieresis</key>
@@ -248,6 +250,8 @@
   <string>I_circumflex.glif</string>
   <key>Icyr</key>
   <string>I_cyr.glif</string>
+  <key>Icyr_acutecomb</key>
+  <string>I_cyr_acutecomb.glif</string>
   <key>Idblgrave</key>
   <string>I_dblgrave.glif</string>
   <key>Idieresis</key>
@@ -258,6 +262,8 @@
   <string>I_dotbelow.glif</string>
   <key>Iecyr</key>
   <string>I_ecyr.glif</string>
+  <key>Iecyr_acutecomb</key>
+  <string>I_ecyr_acutecomb.glif</string>
   <key>Iegravecyr</key>
   <string>I_egravecyr.glif</string>
   <key>Igrave</key>
@@ -274,6 +280,8 @@
   <string>I_macroncyr.glif</string>
   <key>Iocyr</key>
   <string>I_ocyr.glif</string>
+  <key>Iocyr_acutecomb</key>
+  <string>I_ocyr_acutecomb.glif</string>
   <key>Iogonek</key>
   <string>I_ogonek.glif</string>
   <key>Iota</key>
@@ -380,6 +388,8 @@
   <string>O_circumflextilde.glif</string>
   <key>Ocyr</key>
   <string>O_cyr.glif</string>
+  <key>Ocyr_acutecomb</key>
+  <string>O_cyr_acutecomb.glif</string>
   <key>Odblgrave</key>
   <string>O_dblgrave.glif</string>
   <key>Odieresis</key>
@@ -514,6 +524,8 @@
   <string>U_circumflex.glif</string>
   <key>Ucyr</key>
   <string>U_cyr.glif</string>
+  <key>Ucyr_acutecomb</key>
+  <string>U_cyr_acutecomb.glif</string>
   <key>Udblgrave</key>
   <string>U_dblgrave.glif</string>
   <key>Udieresis</key>
@@ -598,8 +610,12 @@
   <string>Y_acute.glif</string>
   <key>Yacyr</key>
   <string>Y_acyr.glif</string>
+  <key>Yacyr_acutecomb</key>
+  <string>Y_acyr_acutecomb.glif</string>
   <key>Yatcyr</key>
   <string>Y_atcyr.glif</string>
+  <key>Yatcyr_acutecomb</key>
+  <string>Y_atcyr_acutecomb.glif</string>
   <key>Ycircumflex</key>
   <string>Y_circumflex.glif</string>
   <key>Ydieresis</key>
@@ -612,12 +628,18 @@
   <string>Y_hoi.glif</string>
   <key>Ylongcyr</key>
   <string>Y_longcyr.glif</string>
+  <key>Ylongcyr_acutecomb</key>
+  <string>Y_longcyr_acutecomb.glif</string>
   <key>Ytilde</key>
   <string>Y_tilde.glif</string>
   <key>Yucyr</key>
   <string>Y_ucyr.glif</string>
+  <key>Yucyr_acutecomb</key>
+  <string>Y_ucyr_acutecomb.glif</string>
   <key>Yukrcyr</key>
   <string>Y_ukrcyr.glif</string>
+  <key>Yukrcyr_acutecomb</key>
+  <string>Y_ukrcyr_acutecomb.glif</string>
   <key>Yusbigcyr</key>
   <string>Y_usbigcyr.glif</string>
   <key>Yusbigiotifiedcyr</key>
@@ -680,6 +702,8 @@
   <string>acutedblmiddlemod.glif</string>
   <key>acyr</key>
   <string>acyr.glif</string>
+  <key>acyr_acutecomb</key>
+  <string>acyr_acutecomb.glif</string>
   <key>adblgrave</key>
   <string>adblgrave.glif</string>
   <key>adieresis</key>
@@ -1014,6 +1038,8 @@
   <string>eturned.glif</string>
   <key>eukrcyr</key>
   <string>eukrcyr.glif</string>
+  <key>eukrcyr_acutecomb</key>
+  <string>eukrcyr_acutecomb.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
   <key>exclamdown</key>
@@ -1152,6 +1178,8 @@
   <string>icircumflex.glif</string>
   <key>icyr</key>
   <string>icyr.glif</string>
+  <key>icyr_acutecomb</key>
+  <string>icyr_acutecomb.glif</string>
   <key>idblgrave</key>
   <string>idblgrave.glif</string>
   <key>idieresis</key>
@@ -1160,6 +1188,8 @@
   <string>idotbelow.glif</string>
   <key>iecyr</key>
   <string>iecyr.glif</string>
+  <key>iecyr_acutecomb</key>
+  <string>iecyr_acutecomb.glif</string>
   <key>iegravecyr</key>
   <string>iegravecyr.glif</string>
   <key>igrave</key>
@@ -1186,6 +1216,8 @@
   <string>integral.glif</string>
   <key>iocyr</key>
   <string>iocyr.glif</string>
+  <key>iocyr_acutecomb</key>
+  <string>iocyr_acutecomb.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
   <key>iota</key>
@@ -1200,6 +1232,8 @@
   <string>itilde.glif</string>
   <key>iukrcyr</key>
   <string>iukrcyr.glif</string>
+  <key>iukrcyr_acutecomb</key>
+  <string>iukrcyr_acutecomb.glif</string>
   <key>izhitsacyr</key>
   <string>izhitsacyr.glif</string>
   <key>j</key>
@@ -1328,6 +1362,8 @@
   <string>ocircumflextilde.glif</string>
   <key>ocyr</key>
   <string>ocyr.glif</string>
+  <key>ocyr_acutecomb</key>
+  <string>ocyr_acutecomb.glif</string>
   <key>odblgrave</key>
   <string>odblgrave.glif</string>
   <key>odieresis</key>
@@ -1640,6 +1676,8 @@
   <string>ucircumflex.glif</string>
   <key>ucyr</key>
   <string>ucyr.glif</string>
+  <key>ucyr_acutecomb</key>
+  <string>ucyr_acutecomb.glif</string>
   <key>udblgrave</key>
   <string>udblgrave.glif</string>
   <key>udieresis</key>
@@ -1732,8 +1770,12 @@
   <string>yacute.glif</string>
   <key>yacyr</key>
   <string>yacyr.glif</string>
+  <key>yacyr_acutecomb</key>
+  <string>yacyr_acutecomb.glif</string>
   <key>yatcyr</key>
   <string>yatcyr.glif</string>
+  <key>yatcyr_acutecomb</key>
+  <string>yatcyr_acutecomb.glif</string>
   <key>ycircumflex</key>
   <string>ycircumflex.glif</string>
   <key>ydieresis</key>
@@ -1748,14 +1790,20 @@
   <string>yhoi.glif</string>
   <key>ylongcyr</key>
   <string>ylongcyr.glif</string>
+  <key>ylongcyr_acutecomb</key>
+  <string>ylongcyr_acutecomb.glif</string>
   <key>ytilde</key>
   <string>ytilde.glif</string>
   <key>yucyr</key>
   <string>yucyr.glif</string>
   <key>yucyr.loclBGR</key>
   <string>yucyr.loclB_G_R_.glif</string>
+  <key>yucyr_acutecomb</key>
+  <string>yucyr_acutecomb.glif</string>
   <key>yukrcyr</key>
   <string>yukrcyr.glif</string>
+  <key>yukrcyr_acutecomb</key>
+  <string>yukrcyr_acutecomb.glif</string>
   <key>yusbigcyr</key>
   <string>yusbigcyr.glif</string>
   <key>yusbigiotifiedcyr</key>

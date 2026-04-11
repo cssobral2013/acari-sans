@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr_acutecomb" format="2">
+  <advance width="534"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresiscomb_acutecomb" xOffset="749"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+'dieresiscomb_acutecomb'</string>
+  </dict>
+  </lib>
+</glyph>

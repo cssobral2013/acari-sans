@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iocyr_acutecomb" format="2">
+  <advance width="1089"/>
+  <anchor x="561.25" y="0" name="ogonek"/>
+  <anchor x="461" y="-120" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="dieresiscomb_acutecomb" xOffset="989.75"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+'dieresiscomb_acutecomb'</string>
+  </dict>
+  </lib>
+</glyph>

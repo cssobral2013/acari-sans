@@ -2,13 +2,13 @@
 <glyph name="gbreve.ss04" format="2">
   <advance width="1090"/>
   <outline>
-    <component base="g"/>
+    <component base="g.ss04"/>
     <component base="brevecomb" xOffset="981"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>g+brevecomb</string>
+  <string>g.ss04+brevecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>
