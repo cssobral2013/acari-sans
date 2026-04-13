@@ -95,6 +95,13 @@ When you update your font (new version or new release), please report all notabl
 * November 14, 2025 Version 1.092
   - Synced font from Stefan Peev's fork
   - Added some more Latin support
+
+* April 11-12, 2026 Version 1.108
+  - MAJOR: Acari Sans now uses a ligature system to build stress marks for Cyrillic
+           in Russian & Ukrainian (again)
+  - MAJOR: Lowercase 'a' is now tailed
+  
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
