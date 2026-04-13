@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="2">
-  <advance width="986"/>
+  <advance width="964"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
@@ -10,10 +10,20 @@
       <point x="400.384" y="876.544" type="line"/>
     </contour>
     <contour>
-      <point x="960.512" y="876.544" type="line"/>
-      <point x="952.32" y="1446.91" type="line"/>
-      <point x="672.768" y="1446.91" type="line"/>
-      <point x="798.72" y="876.544" type="line"/>
+      <point x="939.176" y="876.544" type="line"/>
+      <point x="930.984" y="1446.91" type="line"/>
+      <point x="651.432" y="1446.91" type="line"/>
+      <point x="777.384" y="876.544" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=58</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=109</string>
+  <key>com.fontlab.recipe</key>
+  <string>quoteleft_quoteleft</string>
+  </dict>
+  </lib>
 </glyph>

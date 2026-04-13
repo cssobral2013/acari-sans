@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="2">
-  <advance width="1015"/>
+  <advance width="988"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="1070.08" y="854.016" type="line"/>
-      <point x="1061.89" y="1446.91" type="line"/>
-      <point x="756.736" y="1446.91" type="line"/>
-      <point x="886.784" y="854.016" type="line"/>
+      <point x="572.416" y="854.016" type="line"/>
+      <point x="564.224" y="1446.91" type="line"/>
+      <point x="258.048" y="1446.91" type="line"/>
+      <point x="389.12" y="854.016" type="line"/>
     </contour>
     <contour>
-      <point x="498.688" y="854.016" type="line"/>
-      <point x="490.496" y="1446.91" type="line"/>
-      <point x="184.32" y="1446.91" type="line"/>
-      <point x="314.368" y="854.016" type="line"/>
+      <point x="971.416" y="854.016" type="line"/>
+      <point x="963.224" y="1446.91" type="line"/>
+      <point x="657.048" y="1446.91" type="line"/>
+      <point x="788.12" y="854.016" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=42</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=95</string>
+  <key>com.fontlab.recipe</key>
+  <string>quoteleft_quoteleft</string>
+  </dict>
+  </lib>
 </glyph>
