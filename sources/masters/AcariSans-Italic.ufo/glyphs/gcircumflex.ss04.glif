@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcircumflex.ss04" format="2">
+  <advance width="1070"/>
+  <outline>
+    <component base="g.ss04"/>
+    <component base="circumflexcomb" xOffset="950.795" yOffset="-11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss04+circumflexcomb</string>
+  </dict>
+  </lib>
+</glyph>

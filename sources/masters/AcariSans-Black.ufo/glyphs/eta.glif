@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="1294"/>
+  <advance width="1210"/>
   <unicode hex="03B7"/>
   <outline>
     <contour>
@@ -41,4 +41,12 @@
       <point x="141" y="1064" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>n</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve.ss04" format="2">
+  <advance width="1082"/>
+  <outline>
+    <component base="g.ss04"/>
+    <component base="brevecomb" xOffset="933.195"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss04+brevecomb</string>
+  </dict>
+  </lib>
+</glyph>

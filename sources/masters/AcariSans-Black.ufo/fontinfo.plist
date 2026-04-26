@@ -29,41 +29,21 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>diacritics.1913</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1913</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.1620</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1620</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>diacritics.1487</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1487</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>H-height: 1448</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>1448</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>b</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -89,11 +69,31 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>x-height: 1064</string>
+    <string>diacritics.1487</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>1064</integer>
+    <integer>1487</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1620</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1620</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>diacritics.1913</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1913</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -109,11 +109,11 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>b</string>
+    <string>x-height: 1064</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>0</integer>
+    <integer>1064</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -165,7 +165,7 @@ Copyright (c) 2018-2026 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.110</string>
+  <string>Version 1.112</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -302,7 +302,7 @@ Copyright (c) 2018-2026 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>110</integer>
+  <integer>112</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

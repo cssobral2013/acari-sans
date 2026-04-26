@@ -1094,16 +1094,28 @@
   <string>g.glif</string>
   <key>g.ss01</key>
   <string>g.ss01.glif</string>
+  <key>g.ss04</key>
+  <string>g.ss04.glif</string>
+  <key>gacute</key>
+  <string>gacute.glif</string>
+  <key>gacute.ss01</key>
+  <string>gacute.ss01.glif</string>
+  <key>gacute.ss04</key>
+  <string>gacute.ss04.glif</string>
   <key>gamma</key>
   <string>gamma.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
   <key>gbreve.ss01</key>
   <string>gbreve.ss01.glif</string>
+  <key>gbreve.ss04</key>
+  <string>gbreve.ss04.glif</string>
   <key>gcircumflex</key>
   <string>gcircumflex.glif</string>
   <key>gcircumflex.ss01</key>
   <string>gcircumflex.ss01.glif</string>
+  <key>gcircumflex.ss04</key>
+  <string>gcircumflex.ss04.glif</string>
   <key>gcommaaccent</key>
   <string>gcommaaccent.glif</string>
   <key>gcommaaccent.ss01</key>
@@ -1112,6 +1124,8 @@
   <string>gdotaccent.glif</string>
   <key>gdotaccent.ss01</key>
   <string>gdotaccent.ss01.glif</string>
+  <key>gdotaccent.ss04</key>
+  <string>gdotaccent.ss04.glif</string>
   <key>gecyr</key>
   <string>gecyr.glif</string>
   <key>gecyr.loclSRB</key>
@@ -1182,6 +1196,8 @@
   <string>icircumflex.glif</string>
   <key>icyr</key>
   <string>icyr.glif</string>
+  <key>icyr.loclBGR</key>
+  <string>icyr.loclB_G_R_.glif</string>
   <key>icyr_acutecomb</key>
   <string>icyr_acutecomb.glif</string>
   <key>idblgrave</key>
@@ -1200,6 +1216,8 @@
   <string>igrave.glif</string>
   <key>igravecyr</key>
   <string>igravecyr.glif</string>
+  <key>igravecyr.loclBGR</key>
+  <string>igravecyr.loclB_G_R_.glif</string>
   <key>ihoi</key>
   <string>ihoi.glif</string>
   <key>iinvertedbreve</key>
@@ -1232,6 +1250,8 @@
   <string>iotatonos.glif</string>
   <key>ishortcyr</key>
   <string>ishortcyr.glif</string>
+  <key>ishortcyr.loclBGR</key>
+  <string>ishortcyr.loclB_G_R_.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
   <key>iukrcyr</key>
@@ -1316,6 +1336,8 @@
   <string>ncaron.glif</string>
   <key>ncommaaccent</key>
   <string>ncommaaccent.glif</string>
+  <key>ngrave</key>
+  <string>ngrave.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.dnom</key>
