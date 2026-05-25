@@ -2,7 +2,7 @@
 <glyph name="aturned" format="2">
   <advance width="1072"/>
   <unicode hex="0250"/>
-  <anchor x="931" y="0" name="ogonek"/>
+  <anchor x="931" y="-0" name="ogonek"/>
   <anchor x="517" y="1192" name="top"/>
   <anchor x="517" y="1381" name="center"/>
   <anchor x="517" y="-150" name="bottom"/>
@@ -12,11 +12,14 @@
       <point x="482" y="1084"/>
       <point x="357" y="1011"/>
       <point x="280" y="861" type="curve" name=".iv01"/>
-      <point x="266" y="1064" type="line"/>
-      <point x="116" y="1064" type="line"/>
-      <point x="133" y="958"/>
-      <point x="141" y="844"/>
-      <point x="141" y="738" type="curve" smooth="yes"/>
+      <point x="291" y="850" type="line"/>
+      <point x="293" y="921"/>
+      <point x="288" y="999"/>
+      <point x="264" y="1064" type="curve"/>
+      <point x="107" y="1064" type="line"/>
+      <point x="130" y="972"/>
+      <point x="145" y="929"/>
+      <point x="141" y="827" type="curve"/>
       <point x="141" y="417" type="line" smooth="yes" name=".sh01"/>
       <point x="141" y="152"/>
       <point x="288" y="-20"/>
@@ -51,4 +54,10 @@
       <point x="435" y="950"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

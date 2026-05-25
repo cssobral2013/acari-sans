@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcircumflex.ss01" format="2">
-  <advance width="1200"/>
+  <advance width="1135"/>
+  <anchor x="410.2" y="-425.4" name="m.uni0326"/>
+  <anchor x="0" y="43.6" name="m.uni0328_1"/>
+  <anchor x="709" y="1099" name="m.uni0308_2"/>
+  <anchor x="0" y="43.6" name="m.uni031B_3_2"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="circumflexcomb" xOffset="975"/>
+    <component base="circumflexcomb" xOffset="903.832"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>g.ss01+circumflexcomb</string>
   <key>public.markColor</key>

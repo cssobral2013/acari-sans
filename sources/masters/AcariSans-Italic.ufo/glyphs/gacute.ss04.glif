@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gacute.ss04" format="2">
-  <advance width="1127"/>
-  <anchor x="410.8" y="-432.6" name="m.uni0326"/>
-  <anchor x="0" y="42.4" name="m.uni0328_1"/>
-  <anchor x="691" y="1099" name="m.uni0308_2"/>
-  <anchor x="0" y="42.4" name="m.uni031B_3_2"/>
+  <advance width="1070"/>
   <outline>
-    <component base="g"/>
-    <component base="acute" xOffset="416.674"/>
+    <component base="g.ss04"/>
+    <component base="acutecomb" xOffset="919.045"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>gacute</string>
+  <string>g.ss04+acutecomb</string>
   </dict>
   </lib>
 </glyph>
