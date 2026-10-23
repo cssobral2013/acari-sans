@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-  <advance width="1090"/>
+  <advance width="1121"/>
   <unicode hex="03BA"/>
+  <anchor x="568" y="0" name="bottom"/>
+  <anchor x="237" y="1064" name="top"/>
   <outline>
     <contour>
-      <point x="186" y="0" type="line"/>
-      <point x="317" y="0" type="line"/>
-      <point x="317" y="310" type="line"/>
-      <point x="554" y="568" type="line"/>
-      <point x="885" y="0" type="line"/>
-      <point x="1049" y="0" type="line"/>
-      <point x="641" y="673" type="line"/>
-      <point x="979" y="1064" type="line"/>
-      <point x="810" y="1064" type="line"/>
-      <point x="317" y="490" type="line"/>
-      <point x="317" y="1064" type="line"/>
-      <point x="186" y="1064" type="line"/>
+      <point x="1062" y="0" type="line"/>
+      <point x="619" y="673" type="line"/>
+      <point x="999" y="1064" type="line"/>
+      <point x="818" y="1064" type="line"/>
+      <point x="286" y="517" type="line"/>
+      <point x="286" y="335" type="line"/>
+      <point x="517" y="578" type="line"/>
+      <point x="894" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="0" type="line"/>
+      <point x="307" y="1064" type="line"/>
+      <point x="166" y="1064" type="line"/>
+      <point x="166" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

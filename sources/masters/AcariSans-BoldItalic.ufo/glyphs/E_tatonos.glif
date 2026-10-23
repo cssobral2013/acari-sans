@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1747"/>
+  <advance width="1418"/>
   <unicode hex="0389"/>
+  <anchor x="585" y="0" name="bottom"/>
+  <anchor x="846" y="1147" name="center"/>
+  <anchor x="205" y="1448" name="topleft"/>
   <outline>
-    <component base="H" xOffset="220"/>
-    <component base="tonos" xOffset="-3" yOffset="-16"/>
+    <component base="Eta"/>
+    <component base="tonos.case" xOffset="-370"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>tonos</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>H</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="1154"/>
+  <advance width="1232"/>
   <unicode hex="03CC"/>
+  <anchor x="621" y="0" name="bottom"/>
+  <anchor x="621" y="533" name="center"/>
+  <anchor x="777" y="0" name="ogonek"/>
+  <anchor x="1100" y="721" name="topright"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="555" yOffset="190"/>
+    <component base="tonos" xOffset="452" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>omicron+tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

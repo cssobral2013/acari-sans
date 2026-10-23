@@ -2,7 +2,14 @@
 <glyph name="Upsilon" format="2">
   <advance width="1349"/>
   <unicode hex="03A5"/>
+  <anchor x="674" y="1618" name="top"/>
   <outline>
     <component base="Y"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,16 +2,17 @@
 <glyph name="Upsilondieresis" format="2">
   <advance width="1446"/>
   <unicode hex="03AB"/>
+  <anchor x="581" y="-120" name="bottom"/>
   <outline>
-    <component base="Upsilon" xOffset="99"/>
-    <component base="dieresiscomb" xOffset="1197" yOffset="384"/>
+    <component base="Upsilon"/>
+    <component base="dieresiscomb" xOffset="1191" yOffset="428"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>Y</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

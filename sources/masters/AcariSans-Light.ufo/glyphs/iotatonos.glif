@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotatonos" format="2">
-  <advance width="507"/>
+  <advance width="557"/>
   <unicode hex="03AF"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="274" y="838" name="center"/>
+  <anchor x="572" y="1064" name="topright"/>
   <outline>
     <component base="iota"/>
-    <component base="tonos" xOffset="221" yOffset="121"/>
+    <component base="tonos.case" xOffset="82" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iota+tonos.case</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

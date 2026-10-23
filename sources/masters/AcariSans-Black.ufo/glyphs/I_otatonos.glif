@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="644"/>
+  <advance width="556"/>
   <unicode hex="038A"/>
   <outline>
-    <component base="I"/>
-    <component base="tonos" xOffset="-114"/>
+    <contour>
+      <point x="-137" y="1152" type="line"/>
+      <point x="68" y="1448" type="line"/>
+      <point x="-195" y="1448" type="line"/>
+      <point x="-339" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="0" type="line" name=".av02"/>
+      <point x="467" y="1448" type="line" name=".av01"/>
+      <point x="177" y="1448" type="line" name=".dh01"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

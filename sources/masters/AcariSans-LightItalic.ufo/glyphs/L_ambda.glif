@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lambda" format="2">
-  <advance width="1353"/>
+  <advance width="1331"/>
   <unicode hex="039B"/>
   <outline>
-    <component base="Elcyr.loclBGR" xOffset="-101"/>
+    <component base="Elcyr.loclBGR"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Elcyr.loclBGR</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

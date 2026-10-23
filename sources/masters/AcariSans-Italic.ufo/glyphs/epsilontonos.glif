@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
-  <advance width="1128"/>
+  <advance width="1054"/>
   <unicode hex="03AD"/>
+  <anchor x="832" y="1198" name="_top left"/>
+  <anchor x="492" y="0" name="bottom"/>
   <outline>
     <component base="epsilon"/>
-    <component base="tonos" xOffset="549" yOffset="180.5"/>
+    <component base="tonos.case" xOffset="383"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>epsilon</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>epsilon</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,7 +2,16 @@
 <glyph name="Omicron" format="2">
   <advance width="1568"/>
   <unicode hex="039F"/>
+  <anchor x="784" y="1618" name="top"/>
+  <anchor x="1545" y="1448" name="horn"/>
+  <anchor x="955" y="0" name="ogonek"/>
   <outline>
     <component base="O"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

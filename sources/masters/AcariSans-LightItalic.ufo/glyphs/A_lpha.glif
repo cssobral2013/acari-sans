@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
-  <advance width="1329"/>
+  <advance width="1331"/>
   <unicode hex="0391"/>
+  <anchor x="841" y="1620" name="top"/>
+  <anchor x="1135" y="0" name="ogonek"/>
+  <anchor x="546" y="-120" name="bottom"/>
   <outline>
-    <component base="A" xOffset="-101"/>
+    <component base="A"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

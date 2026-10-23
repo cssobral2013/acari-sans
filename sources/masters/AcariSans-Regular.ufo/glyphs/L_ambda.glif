@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lambda" format="2">
-  <advance width="1355"/>
+  <advance width="1273"/>
   <unicode hex="039B"/>
+  <anchor x="637" y="0" name="bottom"/>
+  <anchor x="1210" y="0" name="ogonek"/>
+  <anchor x="637" y="1448" name="top"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="680" y="1215" type="line"/>
-      <point x="1123" y="0" type="line"/>
-      <point x="1299" y="0" type="line"/>
-      <point x="753" y="1448" type="line"/>
-      <point x="608" y="1448" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="637" y="1202" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="1231" y="0" type="line"/>
+      <point x="704" y="1448" type="line"/>
+      <point x="566" y="1448" type="line"/>
+      <point x="39" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

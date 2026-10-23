@@ -2,7 +2,15 @@
 <glyph name="Iota" format="2">
   <advance width="632"/>
   <unicode hex="0399"/>
+  <anchor x="316" y="1618" name="top"/>
+  <anchor x="446" y="0" name="ogonek"/>
   <outline>
     <component base="I"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

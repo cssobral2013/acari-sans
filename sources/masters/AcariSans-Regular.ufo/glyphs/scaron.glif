@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="2">
-  <advance width="913"/>
+  <advance width="924"/>
   <unicode hex="0161"/>
+  <anchor x="496" y="0" name="m.uni0326"/>
+  <anchor x="0" y="0" name="m.uni0328_1"/>
+  <anchor x="455" y="1062" name="m.uni0308_2"/>
+  <anchor x="0" y="0" name="m.uni031B_3_2"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="844"/>
+    <component base="caroncomb" xOffset="857"/>
   </outline>
   <lib>
   <dict>

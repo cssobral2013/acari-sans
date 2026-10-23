@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphatonos" format="2">
-  <advance width="1388"/>
+  <advance width="1419"/>
   <unicode hex="0386"/>
   <outline>
-    <component base="Alpha"/>
-    <component base="tonos" xOffset="149" yOffset="-30"/>
+    <contour>
+      <point x="176" y="1152" type="line"/>
+      <point x="381" y="1448" type="line"/>
+      <point x="119" y="1448" type="line"/>
+      <point x="-26" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="-4" y="0" type="line" name=".av02"/>
+      <point x="312" y="0" type="line"/>
+      <point x="717" y="1050" type="line"/>
+      <point x="655" y="1050" type="line"/>
+      <point x="1057" y="0" type="line"/>
+      <point x="1391" y="0" type="line" name=".av01"/>
+      <point x="803" y="1448" type="line" name=".av03"/>
+      <point x="587" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="314" type="line"/>
+      <point x="1027" y="314" type="line"/>
+      <point x="927" y="559" type="line"/>
+      <point x="463" y="559" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -22,10 +22,6 @@
     <integer>-168</integer>
     <key>Ygrave</key>
     <integer>-168</integer>
-    <key>four.pnum</key>
-    <integer>-170</integer>
-    <key>one.pnum</key>
-    <integer>-250</integer>
     <key>quotedblright</key>
     <integer>-168</integer>
     <key>quoteright</key>
@@ -34,6 +30,10 @@
     <integer>-220</integer>
     <key>public.kern2.W</key>
     <integer>-84</integer>
+    <key>public.kern2.four</key>
+    <integer>-170</integer>
+    <key>public.kern2.one</key>
+    <integer>-250</integer>
   </dict>
   <key>Acyr</key>
   <dict>
@@ -55,10 +55,6 @@
     <integer>-140</integer>
     <key>Ygrave</key>
     <integer>-140</integer>
-    <key>four.pnum</key>
-    <integer>-170</integer>
-    <key>one.pnum</key>
-    <integer>-250</integer>
     <key>quotedblright</key>
     <integer>-140</integer>
     <key>quoteright</key>
@@ -67,6 +63,10 @@
     <integer>-220</integer>
     <key>public.kern2.W</key>
     <integer>-70</integer>
+    <key>public.kern2.four</key>
+    <integer>-170</integer>
+    <key>public.kern2.one</key>
+    <integer>-250</integer>
   </dict>
   <key>Acyr_acutecomb</key>
   <dict>
@@ -373,16 +373,12 @@
     <integer>-11</integer>
     <key>decyr</key>
     <integer>-22</integer>
-    <key>slash</key>
-    <integer>-116</integer>
     <key>public.kern2.Elcyr</key>
     <integer>-35</integer>
     <key>public.kern2.Tecyr</key>
     <integer>-69</integer>
     <key>public.kern2.Ucyr</key>
     <integer>-16</integer>
-    <key>public.kern2.Yacyr</key>
-    <integer>-10</integer>
   </dict>
   <key>Escyr</key>
   <dict>
@@ -414,7 +410,7 @@
   </dict>
   <key>Euro</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-50</integer>
   </dict>
   <key>F</key>
@@ -478,6 +474,22 @@
     <key>public.kern2.eta</key>
     <integer>-374</integer>
   </dict>
+  <key>Gecyr</key>
+  <dict>
+    <key>iocyr</key>
+    <integer>-209</integer>
+    <key>iukrcyr</key>
+    <integer>-184</integer>
+    <key>palochkacyr</key>
+    <integer>-184</integer>
+    <key>umacroncyr</key>
+    <integer>-286</integer>
+  </dict>
+  <key>Geupcyr</key>
+  <dict>
+    <key>iukrcyr</key>
+    <integer>-184</integer>
+  </dict>
   <key>Hacyr</key>
   <dict>
     <key>acyr</key>
@@ -519,6 +531,13 @@
     <key>public.kern2.Acyr</key>
     <integer>-7</integer>
   </dict>
+  <key>Kappa</key>
+  <dict>
+    <key>public.kern2.alpha</key>
+    <integer>-183</integer>
+    <key>public.kern2.iota</key>
+    <integer>-93</integer>
+  </dict>
   <key>L</key>
   <dict>
     <key>T</key>
@@ -539,10 +558,6 @@
     <integer>-168</integer>
     <key>Ygrave</key>
     <integer>-168</integer>
-    <key>four.pnum</key>
-    <integer>-170</integer>
-    <key>one.pnum</key>
-    <integer>-250</integer>
     <key>quotedblright</key>
     <integer>-168</integer>
     <key>quoteright</key>
@@ -551,6 +566,10 @@
     <integer>-220</integer>
     <key>public.kern2.W</key>
     <integer>-84</integer>
+    <key>public.kern2.four</key>
+    <integer>-170</integer>
+    <key>public.kern2.one</key>
+    <integer>-250</integer>
   </dict>
   <key>Lacute</key>
   <dict>
@@ -646,6 +665,48 @@
   <dict>
     <key>Hardcyr</key>
     <integer>-7</integer>
+  </dict>
+  <key>Ohorn</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
+  </dict>
+  <key>Ohornacute</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
+  </dict>
+  <key>Ohorndotbelow</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
+  </dict>
+  <key>Ohorngrave</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
+  </dict>
+  <key>Ohornhoi</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
+  </dict>
+  <key>Ohorntilde</key>
+  <dict>
+    <key>V</key>
+    <integer>-35</integer>
+    <key>X</key>
+    <integer>-19</integer>
   </dict>
   <key>P</key>
   <dict>
@@ -883,6 +944,11 @@
     <key>public.kern2.ucyr</key>
     <integer>-22</integer>
   </dict>
+  <key>Sigma</key>
+  <dict>
+    <key>tau</key>
+    <integer>-245</integer>
+  </dict>
   <key>T</key>
   <dict>
     <key>A</key>
@@ -955,8 +1021,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -987,8 +1051,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -1017,6 +1079,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -1105,8 +1171,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -1137,8 +1201,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -1167,6 +1229,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -1242,8 +1308,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -1274,8 +1338,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -1304,6 +1366,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -1375,14 +1441,28 @@
     <integer>-43</integer>
     <key>hardcyr</key>
     <integer>-198</integer>
+    <key>iukrcyr</key>
+    <integer>-95</integer>
     <key>minus</key>
     <integer>-11</integer>
+    <key>palochkacyr</key>
+    <integer>-95</integer>
     <key>semicolon</key>
     <integer>-163</integer>
+    <key>shhacyr</key>
+    <integer>-95</integer>
     <key>slash</key>
     <integer>-267</integer>
+    <key>ucyr</key>
+    <integer>-208</integer>
+    <key>umacroncyr</key>
+    <integer>-208</integer>
+    <key>ushortcyr</key>
+    <integer>-208</integer>
     <key>yacyr</key>
     <integer>-160</integer>
+    <key>yukrcyr</key>
+    <integer>-95</integer>
     <key>public.kern2.Acyr</key>
     <integer>-187</integer>
     <key>public.kern2.Elcyr</key>
@@ -1405,8 +1485,6 @@
     <integer>-138</integer>
     <key>public.kern2.period</key>
     <integer>-14</integer>
-    <key>public.kern2.ucyr</key>
-    <integer>-208</integer>
   </dict>
   <key>Tsecyr</key>
   <dict>
@@ -1439,6 +1517,16 @@
     <integer>-139</integer>
     <key>public.kern2.Ucyr</key>
     <integer>-74</integer>
+  </dict>
+  <key>Ucyr</key>
+  <dict>
+    <key>yukrcyr</key>
+    <integer>-49</integer>
+  </dict>
+  <key>Ucyr_acutecomb</key>
+  <dict>
+    <key>yukrcyr</key>
+    <integer>-49</integer>
   </dict>
   <key>V</key>
   <dict>
@@ -1528,8 +1616,6 @@
     <integer>-75</integer>
     <key>f</key>
     <integer>-29</integer>
-    <key>four.pnum</key>
-    <integer>-300</integer>
     <key>g</key>
     <integer>-126</integer>
     <key>gacute</key>
@@ -1568,8 +1654,6 @@
     <integer>-126</integer>
     <key>omacron</key>
     <integer>-126</integer>
-    <key>one.pnum</key>
-    <integer>-70</integer>
     <key>oslash</key>
     <integer>-126</integer>
     <key>otilde</key>
@@ -1622,12 +1706,16 @@
     <integer>-126</integer>
     <key>public.kern2.f_f</key>
     <integer>-10</integer>
+    <key>public.kern2.four</key>
+    <integer>-300</integer>
     <key>public.kern2.guillemotright</key>
     <integer>-19</integer>
     <key>public.kern2.minus</key>
     <integer>-4</integer>
     <key>public.kern2.o</key>
     <integer>-75</integer>
+    <key>public.kern2.one</key>
+    <integer>-70</integer>
     <key>public.kern2.period</key>
     <integer>-19</integer>
     <key>public.kern2.s</key>
@@ -1658,9 +1746,9 @@
   </dict>
   <key>W</key>
   <dict>
-    <key>four.pnum</key>
+    <key>public.kern2.four</key>
     <integer>-270</integer>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-70</integer>
   </dict>
   <key>X</key>
@@ -1677,8 +1765,6 @@
     <integer>-38</integer>
     <key>f</key>
     <integer>-69</integer>
-    <key>four.pnum</key>
-    <integer>-250</integer>
     <key>gcommaaccent</key>
     <integer>-7</integer>
     <key>minus</key>
@@ -1705,6 +1791,8 @@
     <integer>-56</integer>
     <key>public.kern2.f_f</key>
     <integer>-17</integer>
+    <key>public.kern2.four</key>
+    <integer>-250</integer>
     <key>public.kern2.g1</key>
     <integer>-7</integer>
     <key>public.kern2.j</key>
@@ -1796,8 +1884,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -1828,8 +1914,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -1858,6 +1942,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -1933,8 +2021,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -1965,8 +2051,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -1995,6 +2079,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -2070,8 +2158,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -2102,8 +2188,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -2132,6 +2216,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -2207,8 +2295,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -2239,8 +2325,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -2269,6 +2353,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -2375,8 +2463,6 @@
     <integer>-210</integer>
     <key>f</key>
     <integer>-210</integer>
-    <key>four.pnum</key>
-    <integer>-400</integer>
     <key>g</key>
     <integer>-210</integer>
     <key>gbreve</key>
@@ -2407,8 +2493,6 @@
     <integer>-210</integer>
     <key>omacron</key>
     <integer>-210</integer>
-    <key>one.pnum</key>
-    <integer>-150</integer>
     <key>oslash</key>
     <integer>-210</integer>
     <key>otilde</key>
@@ -2437,6 +2521,10 @@
     <integer>-230</integer>
     <key>y</key>
     <integer>-230</integer>
+    <key>public.kern2.four</key>
+    <integer>-400</integer>
+    <key>public.kern2.one</key>
+    <integer>-150</integer>
     <key>public.kern2.w</key>
     <integer>-230</integer>
   </dict>
@@ -2532,10 +2620,6 @@
     <integer>-140</integer>
     <key>Ygrave</key>
     <integer>-140</integer>
-    <key>four.pnum</key>
-    <integer>-170</integer>
-    <key>one.pnum</key>
-    <integer>-250</integer>
     <key>quotedblright</key>
     <integer>-140</integer>
     <key>quoteright</key>
@@ -2544,6 +2628,10 @@
     <integer>-220</integer>
     <key>public.kern2.W</key>
     <integer>-70</integer>
+    <key>public.kern2.four</key>
+    <integer>-170</integer>
+    <key>public.kern2.one</key>
+    <integer>-250</integer>
   </dict>
   <key>Yuslittleiotifiedcyr</key>
   <dict>
@@ -2565,10 +2653,6 @@
     <integer>-140</integer>
     <key>Ygrave</key>
     <integer>-140</integer>
-    <key>four.pnum</key>
-    <integer>-170</integer>
-    <key>one.pnum</key>
-    <integer>-250</integer>
     <key>quotedblright</key>
     <integer>-140</integer>
     <key>quoteright</key>
@@ -2577,6 +2661,10 @@
     <integer>-220</integer>
     <key>public.kern2.W</key>
     <integer>-70</integer>
+    <key>public.kern2.four</key>
+    <integer>-170</integer>
+    <key>public.kern2.one</key>
+    <integer>-250</integer>
   </dict>
   <key>Z</key>
   <dict>
@@ -2750,7 +2838,7 @@
   </dict>
   <key>austral</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-180</integer>
   </dict>
   <key>b</key>
@@ -2787,10 +2875,23 @@
     <key>public.kern2.ucyr</key>
     <integer>-49</integer>
   </dict>
+  <key>beta</key>
+  <dict>
+    <key>rho</key>
+    <integer>-50</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-50</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-83</integer>
+  </dict>
   <key>chi</key>
   <dict>
     <key>public.kern2.alpha</key>
     <integer>-126</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-142</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-147</integer>
   </dict>
   <key>colon</key>
   <dict>
@@ -2821,14 +2922,14 @@
     <integer>-159</integer>
     <key>hardcyr</key>
     <integer>-14</integer>
-    <key>one.pnum</key>
-    <integer>-300</integer>
     <key>tecyr</key>
     <integer>-43</integer>
     <key>public.kern2.Ocyr</key>
     <integer>-6</integer>
     <key>public.kern2.Ucyr</key>
     <integer>-4</integer>
+    <key>public.kern2.one</key>
+    <integer>-300</integer>
     <key>public.kern2.ucyr</key>
     <integer>-43</integer>
   </dict>
@@ -2848,6 +2949,17 @@
     <key>public.kern2.quoteright</key>
     <integer>-5</integer>
   </dict>
+  <key>delta</key>
+  <dict>
+    <key>public.kern2.epsilon</key>
+    <integer>-67</integer>
+    <key>public.kern2.iota</key>
+    <integer>-17</integer>
+    <key>public.kern2.omega</key>
+    <integer>-60</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-67</integer>
+  </dict>
   <key>djecyr</key>
   <dict>
     <key>public.kern2.ucyr</key>
@@ -2855,7 +2967,7 @@
   </dict>
   <key>dollar</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-140</integer>
   </dict>
   <key>efcyr</key>
@@ -2890,6 +3002,16 @@
     <integer>-27</integer>
     <key>public.kern2.ucyr</key>
     <integer>-43</integer>
+  </dict>
+  <key>epsilon</key>
+  <dict>
+    <key>alphatonos</key>
+    <integer>-112</integer>
+  </dict>
+  <key>epsilontonos</key>
+  <dict>
+    <key>alphatonos</key>
+    <integer>-112</integer>
   </dict>
   <key>ercyr</key>
   <dict>
@@ -3591,10 +3713,20 @@
   </dict>
   <key>gamma</key>
   <dict>
+    <key>kappa</key>
+    <integer>-50</integer>
     <key>public.kern2.alpha</key>
     <integer>-80</integer>
     <key>public.kern2.epsilon</key>
     <integer>-80</integer>
+    <key>public.kern2.iota</key>
+    <integer>-50</integer>
+    <key>public.kern2.omega</key>
+    <integer>-142</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-25</integer>
+    <key>public.kern2.upsilon</key>
+    <integer>-50</integer>
   </dict>
   <key>guillemotleft</key>
   <dict>
@@ -3612,8 +3744,6 @@
     <integer>-11</integer>
     <key>public.kern2.Y</key>
     <integer>-95</integer>
-    <key>public.kern2.Yacyr</key>
-    <integer>-6</integer>
   </dict>
   <key>guilsinglleft</key>
   <dict>
@@ -3633,8 +3763,6 @@
     <integer>-10</integer>
     <key>public.kern2.Y</key>
     <integer>-95</integer>
-    <key>public.kern2.Yacyr</key>
-    <integer>-6</integer>
   </dict>
   <key>hacyr</key>
   <dict>
@@ -3651,22 +3779,30 @@
   </dict>
   <key>hyphen</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-270</integer>
   </dict>
   <key>kappa</key>
   <dict>
     <key>public.kern2.alpha</key>
     <integer>-108</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-100</integer>
+    <key>public.kern2.iota</key>
+    <integer>-83</integer>
     <key>public.kern2.omicron</key>
     <integer>-64</integer>
   </dict>
   <key>lambda</key>
   <dict>
+    <key>phi</key>
+    <integer>-83</integer>
     <key>public.kern2.alpha</key>
     <integer>-88</integer>
     <key>public.kern2.epsilon</key>
     <integer>-64</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-97</integer>
   </dict>
   <key>ljecyr</key>
   <dict>
@@ -3711,8 +3847,6 @@
     <integer>-7</integer>
     <key>hardcyr</key>
     <integer>-5</integer>
-    <key>tecyr</key>
-    <integer>-10</integer>
     <key>x</key>
     <integer>-7</integer>
     <key>zhecyr</key>
@@ -3724,11 +3858,30 @@
     <key>public.kern2.Y</key>
     <integer>-17</integer>
   </dict>
+  <key>mu</key>
+  <dict>
+    <key>nu</key>
+    <integer>-83</integer>
+    <key>phi</key>
+    <integer>-83</integer>
+    <key>pi</key>
+    <integer>-17</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-100</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-83</integer>
+    <key>public.kern2.eta</key>
+    <integer>-60</integer>
+    <key>public.kern2.iota</key>
+    <integer>-10</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-100</integer>
+  </dict>
   <key>nine.pnum</key>
   <dict>
     <key>seven.pnum</key>
     <integer>-90</integer>
-    <key>two.pnum</key>
+    <key>public.kern2.two</key>
     <integer>-120</integer>
   </dict>
   <key>njecyr</key>
@@ -3740,6 +3893,12 @@
   <dict>
     <key>public.kern2.alpha</key>
     <integer>-56</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-142</integer>
+    <key>public.kern2.iota</key>
+    <integer>-50</integer>
+    <key>public.kern2.omega</key>
+    <integer>-125</integer>
     <key>public.kern2.omicron</key>
     <integer>-12</integer>
   </dict>
@@ -3763,6 +3922,48 @@
     <integer>-175</integer>
     <key>Ygrave</key>
     <integer>-175</integer>
+  </dict>
+  <key>ohorn</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
+  </dict>
+  <key>ohornacute</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
+  </dict>
+  <key>ohorndotbelow</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
+  </dict>
+  <key>ohorngrave</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
+  </dict>
+  <key>ohornhoi</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
+  </dict>
+  <key>ohorntilde</key>
+  <dict>
+    <key>v</key>
+    <integer>-27</integer>
+    <key>x</key>
+    <integer>-27</integer>
   </dict>
   <key>oopen</key>
   <dict>
@@ -3809,18 +4010,31 @@
   </dict>
   <key>percent</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-300</integer>
   </dict>
   <key>period</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-300</integer>
+  </dict>
+  <key>phi</key>
+  <dict>
+    <key>public.kern2.epsilon</key>
+    <integer>-50</integer>
+    <key>public.kern2.eta</key>
+    <integer>-50</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-50</integer>
   </dict>
   <key>pi</key>
   <dict>
     <key>public.kern2.alpha</key>
     <integer>-88</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-50</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-100</integer>
   </dict>
   <key>question</key>
   <dict>
@@ -4163,6 +4377,27 @@
     <key>umacron</key>
     <integer>-42</integer>
   </dict>
+  <key>rho</key>
+  <dict>
+    <key>chi</key>
+    <integer>-93</integer>
+    <key>gamma</key>
+    <integer>-83</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-50</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-83</integer>
+    <key>public.kern2.eta</key>
+    <integer>-50</integer>
+    <key>public.kern2.iota</key>
+    <integer>-50</integer>
+    <key>public.kern2.omega</key>
+    <integer>-10</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-58</integer>
+    <key>public.kern2.upsilon</key>
+    <integer>-50</integer>
+  </dict>
   <key>semicolon</key>
   <dict>
     <key>Hardcyr</key>
@@ -4172,30 +4407,18 @@
     <key>Tshecyr</key>
     <integer>-139</integer>
   </dict>
-  <key>seven.pnum</key>
-  <dict>
-    <key>A</key>
-    <integer>-400</integer>
-    <key>Acyr</key>
-    <integer>-400</integer>
-    <key>Yuslittlecyr</key>
-    <integer>-400</integer>
-    <key>nine.pnum</key>
-    <integer>-90</integer>
-    <key>three.pnum</key>
-    <integer>-130</integer>
-    <key>two.pnum</key>
-    <integer>-120</integer>
-  </dict>
   <key>sigma</key>
   <dict>
+    <key>mu</key>
+    <integer>-10</integer>
     <key>public.kern2.alpha</key>
     <integer>-12</integer>
-  </dict>
-  <key>six.pnum</key>
-  <dict>
-    <key>nine.pnum</key>
-    <integer>-150</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-67</integer>
+    <key>public.kern2.omega</key>
+    <integer>-10</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-67</integer>
   </dict>
   <key>slash</key>
   <dict>
@@ -4223,6 +4446,12 @@
     <integer>-116</integer>
     <key>eukrcyr</key>
     <integer>-116</integer>
+    <key>iecyr</key>
+    <integer>-116</integer>
+    <key>iegravecyr</key>
+    <integer>-116</integer>
+    <key>iocyr</key>
+    <integer>-116</integer>
     <key>shchacyr</key>
     <integer>-59</integer>
     <key>tsecyr</key>
@@ -4230,6 +4459,8 @@
     <key>yacyr</key>
     <integer>-118</integer>
     <key>yucyr</key>
+    <integer>-59</integer>
+    <key>yukrcyr</key>
     <integer>-59</integer>
     <key>zecyr</key>
     <integer>-108</integer>
@@ -4243,24 +4474,35 @@
     <integer>-178</integer>
     <key>public.kern2.icyr</key>
     <integer>-59</integer>
-    <key>public.kern2.iecyr</key>
-    <integer>-116</integer>
     <key>public.kern2.ocyr</key>
     <integer>-116</integer>
   </dict>
   <key>sterling</key>
   <dict>
-    <key>one.pnum</key>
+    <key>public.kern2.one</key>
     <integer>-100</integer>
   </dict>
   <key>tau</key>
   <dict>
+    <key>rho</key>
+    <integer>-100</integer>
+    <key>sigma</key>
+    <integer>-17</integer>
     <key>public.kern2.alpha</key>
     <integer>-80</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-102</integer>
+    <key>public.kern2.iota</key>
+    <integer>-50</integer>
     <key>public.kern2.omega</key>
     <integer>-64</integer>
     <key>public.kern2.omicron</key>
     <integer>-40</integer>
+  </dict>
+  <key>tcaron</key>
+  <dict>
+    <key>j</key>
+    <integer>-109</integer>
   </dict>
   <key>tecyr</key>
   <dict>
@@ -4285,22 +4527,22 @@
     <key>public.kern2.period</key>
     <integer>-10</integer>
   </dict>
-  <key>three.pnum</key>
+  <key>theta</key>
   <dict>
-    <key>seven.pnum</key>
-    <integer>-130</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-50</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-100</integer>
   </dict>
   <key>tshecyr</key>
   <dict>
     <key>public.kern2.ucyr</key>
     <integer>-7</integer>
   </dict>
-  <key>two.pnum</key>
+  <key>uogonek</key>
   <dict>
-    <key>nine.pnum</key>
-    <integer>-120</integer>
-    <key>seven.pnum</key>
-    <integer>-80</integer>
+    <key>j</key>
+    <integer>-27</integer>
   </dict>
   <key>v</key>
   <dict>
@@ -4354,6 +4596,13 @@
     <integer>-7</integer>
     <key>public.kern2.o</key>
     <integer>-27</integer>
+  </dict>
+  <key>xi</key>
+  <dict>
+    <key>public.kern2.epsilon</key>
+    <integer>-83</integer>
+    <key>public.kern2.omega</key>
+    <integer>-17</integer>
   </dict>
   <key>yucyr</key>
   <dict>
@@ -5016,10 +5265,16 @@
   </dict>
   <key>zeta</key>
   <dict>
+    <key>iota</key>
+    <integer>14</integer>
+    <key>iotadieresis</key>
+    <integer>14</integer>
+    <key>iotatonos</key>
+    <integer>14</integer>
     <key>public.kern2.alpha</key>
     <integer>-104</integer>
-    <key>public.kern2.iota</key>
-    <integer>14</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-83</integer>
     <key>public.kern2.omega</key>
     <integer>-58</integer>
   </dict>
@@ -5127,6 +5382,11 @@
     <key>public.kern2.ucyr</key>
     <integer>-75</integer>
   </dict>
+  <key>public.kern1.Alpha1</key>
+  <dict>
+    <key>nu</key>
+    <integer>-192</integer>
+  </dict>
   <key>public.kern1.C1</key>
   <dict>
     <key>v</key>
@@ -5174,6 +5434,11 @@
     <integer>-39</integer>
     <key>public.kern2.y</key>
     <integer>-49</integer>
+  </dict>
+  <key>public.kern1.Epsilon</key>
+  <dict>
+    <key>gamma</key>
+    <integer>-183</integer>
   </dict>
   <key>public.kern1.Eukrcyr</key>
   <dict>
@@ -5430,6 +5695,11 @@
     <key>public.kern2.j</key>
     <integer>-10</integer>
   </dict>
+  <key>public.kern1.Mu1</key>
+  <dict>
+    <key>public.kern2.omicron</key>
+    <integer>-83</integer>
+  </dict>
   <key>public.kern1.O</key>
   <dict>
     <key>V</key>
@@ -5630,6 +5900,13 @@
     <key>public.kern2.z</key>
     <integer>-198</integer>
   </dict>
+  <key>public.kern1.Theta1</key>
+  <dict>
+    <key>lambda</key>
+    <integer>-83</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-83</integer>
+  </dict>
   <key>public.kern1.U1</key>
   <dict>
     <key>comma</key>
@@ -5784,8 +6061,6 @@
     <integer>-22</integer>
     <key>f</key>
     <integer>-62</integer>
-    <key>four.pnum</key>
-    <integer>-270</integer>
     <key>g</key>
     <integer>-62</integer>
     <key>gacute</key>
@@ -5824,8 +6099,6 @@
     <integer>-62</integer>
     <key>omacron</key>
     <integer>-62</integer>
-    <key>one.pnum</key>
-    <integer>-70</integer>
     <key>oslash</key>
     <integer>-62</integer>
     <key>otilde</key>
@@ -5868,10 +6141,14 @@
     <integer>-59</integer>
     <key>public.kern2.c</key>
     <integer>-62</integer>
+    <key>public.kern2.four</key>
+    <integer>-270</integer>
     <key>public.kern2.guillemotright</key>
     <integer>-6</integer>
     <key>public.kern2.o</key>
     <integer>-22</integer>
+    <key>public.kern2.one</key>
+    <integer>-70</integer>
     <key>public.kern2.period</key>
     <integer>-10</integer>
     <key>public.kern2.s</key>
@@ -5985,8 +6262,32 @@
   </dict>
   <key>public.kern1.alpha1</key>
   <dict>
+    <key>chi</key>
+    <integer>-17</integer>
+    <key>delta</key>
+    <integer>-100</integer>
     <key>gamma</key>
     <integer>-72</integer>
+    <key>nu</key>
+    <integer>-100</integer>
+    <key>phi</key>
+    <integer>-83</integer>
+    <key>pi</key>
+    <integer>-67</integer>
+    <key>sigma</key>
+    <integer>-100</integer>
+    <key>sigmafinal</key>
+    <integer>-100</integer>
+    <key>tau</key>
+    <integer>-100</integer>
+    <key>theta</key>
+    <integer>-100</integer>
+    <key>zeta</key>
+    <integer>-17</integer>
+    <key>public.kern2.iota</key>
+    <integer>-100</integer>
+    <key>public.kern2.upsilon</key>
+    <integer>-17</integer>
   </dict>
   <key>public.kern1.e1</key>
   <dict>
@@ -5995,27 +6296,59 @@
   </dict>
   <key>public.kern1.epsilon1</key>
   <dict>
+    <key>alpha</key>
+    <integer>-112</integer>
+    <key>chi</key>
+    <integer>-50</integer>
+    <key>gamma</key>
+    <integer>-83</integer>
+    <key>kappa</key>
+    <integer>-50</integer>
     <key>lambda</key>
     <integer>-64</integer>
+    <key>mu</key>
+    <integer>-50</integer>
     <key>nu</key>
     <integer>-72</integer>
     <key>phi</key>
     <integer>-88</integer>
+    <key>pi</key>
+    <integer>-50</integer>
     <key>psi</key>
     <integer>-120</integer>
     <key>rho</key>
     <integer>-64</integer>
+    <key>sigma</key>
+    <integer>-50</integer>
+    <key>sigmafinal</key>
+    <integer>-83</integer>
+    <key>tau</key>
+    <integer>-50</integer>
     <key>xi</key>
     <integer>-80</integer>
     <key>zeta</key>
     <integer>-80</integer>
-    <key>public.kern2.alpha</key>
-    <integer>-112</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-83</integer>
+    <key>public.kern2.iota</key>
+    <integer>-83</integer>
+    <key>public.kern2.omega</key>
+    <integer>-93</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-83</integer>
   </dict>
   <key>public.kern1.eta1</key>
   <dict>
+    <key>gamma</key>
+    <integer>-83</integer>
+    <key>nu</key>
+    <integer>-125</integer>
     <key>pi</key>
     <integer>-166</integer>
+    <key>sigma</key>
+    <integer>-50</integer>
+    <key>sigmafinal</key>
+    <integer>-83</integer>
     <key>tau</key>
     <integer>-24</integer>
   </dict>
@@ -6056,6 +6389,11 @@
     <integer>-39</integer>
     <key>public.kern2.period</key>
     <integer>-27</integer>
+  </dict>
+  <key>public.kern1.guillemotleft</key>
+  <dict>
+    <key>public.kern2.Yacyr</key>
+    <integer>-6</integer>
   </dict>
   <key>public.kern1.h1</key>
   <dict>
@@ -6100,6 +6438,25 @@
     <integer>-148</integer>
     <key>zhecyr</key>
     <integer>-29</integer>
+  </dict>
+  <key>public.kern1.iota1</key>
+  <dict>
+    <key>delta</key>
+    <integer>-83</integer>
+    <key>kappa</key>
+    <integer>-50</integer>
+    <key>nu</key>
+    <integer>-100</integer>
+    <key>sigma</key>
+    <integer>-83</integer>
+    <key>sigmafinal</key>
+    <integer>-100</integer>
+    <key>tau</key>
+    <integer>-142</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-100</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-67</integer>
   </dict>
   <key>public.kern1.k</key>
   <dict>
@@ -6235,6 +6592,40 @@
     <integer>-27</integer>
     <key>public.kern2.ucyr</key>
     <integer>-27</integer>
+  </dict>
+  <key>public.kern1.omega1</key>
+  <dict>
+    <key>nu</key>
+    <integer>-142</integer>
+    <key>pi</key>
+    <integer>-17</integer>
+    <key>rho</key>
+    <integer>-60</integer>
+    <key>sigma</key>
+    <integer>-50</integer>
+    <key>sigmafinal</key>
+    <integer>-50</integer>
+  </dict>
+  <key>public.kern1.omicron1</key>
+  <dict>
+    <key>lambda</key>
+    <integer>-25</integer>
+    <key>mu</key>
+    <integer>-50</integer>
+    <key>nu</key>
+    <integer>-93</integer>
+    <key>rho</key>
+    <integer>-67</integer>
+    <key>sigma</key>
+    <integer>-50</integer>
+    <key>sigmafinal</key>
+    <integer>-50</integer>
+    <key>tau</key>
+    <integer>-100</integer>
+    <key>public.kern2.iota</key>
+    <integer>-60</integer>
+    <key>public.kern2.upsilon</key>
+    <integer>-60</integer>
   </dict>
   <key>public.kern1.oslash1</key>
   <dict>
@@ -6372,6 +6763,26 @@
     <key>public.kern2.j</key>
     <integer>-96</integer>
   </dict>
+  <key>public.kern1.seven</key>
+  <dict>
+    <key>A</key>
+    <integer>-400</integer>
+    <key>Acyr</key>
+    <integer>-400</integer>
+    <key>Yuslittlecyr</key>
+    <integer>-400</integer>
+    <key>nine.pnum</key>
+    <integer>-90</integer>
+    <key>public.kern2.three</key>
+    <integer>-130</integer>
+    <key>public.kern2.two</key>
+    <integer>-120</integer>
+  </dict>
+  <key>public.kern1.six1</key>
+  <dict>
+    <key>nine.pnum</key>
+    <integer>-150</integer>
+  </dict>
   <key>public.kern1.t1</key>
   <dict>
     <key>public.kern2.c</key>
@@ -6389,12 +6800,24 @@
     <key>public.kern2.oslash</key>
     <integer>-39</integer>
   </dict>
+  <key>public.kern1.three1</key>
+  <dict>
+    <key>seven.pnum</key>
+    <integer>-130</integer>
+  </dict>
   <key>public.kern1.tsecyr</key>
   <dict>
     <key>tecyr</key>
     <integer>-39</integer>
     <key>public.kern2.quoteright</key>
     <integer>-7</integer>
+  </dict>
+  <key>public.kern1.two1</key>
+  <dict>
+    <key>nine.pnum</key>
+    <integer>-120</integer>
+    <key>seven.pnum</key>
+    <integer>-80</integer>
   </dict>
   <key>public.kern1.u1</key>
   <dict>
@@ -6430,8 +6853,22 @@
   </dict>
   <key>public.kern1.upsilon1</key>
   <dict>
+    <key>chi</key>
+    <integer>-50</integer>
+    <key>kappa</key>
+    <integer>-50</integer>
     <key>lambda</key>
     <integer>-32</integer>
+    <key>mu</key>
+    <integer>-50</integer>
+    <key>nu</key>
+    <integer>-50</integer>
+    <key>sigma</key>
+    <integer>-67</integer>
+    <key>sigmafinal</key>
+    <integer>-83</integer>
+    <key>public.kern2.omicron</key>
+    <integer>-50</integer>
   </dict>
   <key>public.kern1.w1</key>
   <dict>

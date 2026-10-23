@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="1277"/>
+  <advance width="1275"/>
   <unicode hex="0395"/>
+  <anchor x="831" y="1620" name="top"/>
+  <anchor x="1032" y="0" name="ogonek"/>
+  <anchor x="597" y="-120" name="bottom"/>
   <outline>
-    <component base="E" xOffset="-100"/>
+    <component base="E"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

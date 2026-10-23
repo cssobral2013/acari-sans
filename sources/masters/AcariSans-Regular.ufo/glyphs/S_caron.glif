@@ -2,9 +2,10 @@
 <glyph name="Scaron" format="2">
   <advance width="1144"/>
   <unicode hex="0160"/>
+  <anchor x="569" y="1618" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="964" yOffset="426"/>
+    <component base="caroncomb" xOffset="967" yOffset="384"/>
   </outline>
   <lib>
   <dict>

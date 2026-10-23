@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zeta" format="2">
-  <advance width="1302"/>
+  <advance width="1298"/>
   <unicode hex="0396"/>
+  <anchor x="854" y="1620" name="top"/>
   <outline>
-    <component base="Z" xOffset="-100"/>
+    <component base="Z"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

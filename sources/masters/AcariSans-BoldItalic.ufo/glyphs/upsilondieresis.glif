@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresis" format="2">
-  <advance width="1273"/>
+  <advance width="1227"/>
   <unicode hex="03CB"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="956" y="0" name="ogonek"/>
+  <anchor x="1153" y="889" name="topright"/>
   <outline>
-    <component base="upsilon" xOffset="-102"/>
-    <component base="dieresiscomb" xOffset="964"/>
+    <component base="upsilon"/>
+    <component base="dieresiscomb" xOffset="1005.43" yOffset="-32.9231"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

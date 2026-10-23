@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="644"/>
+  <advance width="642"/>
   <unicode hex="03AA"/>
+  <anchor x="349" y="0" name="ogonek"/>
+  <anchor x="184" y="-120" name="bottom"/>
   <outline>
-    <component base="Iota" xOffset="-40"/>
-    <component base="dieresiscomb" xOffset="753" yOffset="426"/>
+    <component base="Iota"/>
+    <component base="dieresiscomb" xOffset="868" yOffset="428"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

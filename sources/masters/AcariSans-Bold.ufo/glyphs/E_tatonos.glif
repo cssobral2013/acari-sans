@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1527"/>
+  <advance width="1437"/>
   <unicode hex="0389"/>
   <outline>
-    <component base="H"/>
-    <component base="tonos" xOffset="-119" yOffset="-16"/>
+    <contour>
+      <point x="-127" y="1153" type="line"/>
+      <point x="65" y="1448" type="line"/>
+      <point x="-171" y="1448" type="line"/>
+      <point x="-309" y="1153" type="line"/>
+    </contour>
+    <contour>
+      <point x="1340" y="0" type="line"/>
+      <point x="1340" y="1448" type="line"/>
+      <point x="1080" y="1448" type="line"/>
+      <point x="1080" y="843" type="line"/>
+      <point x="446" y="843" type="line"/>
+      <point x="446" y="1448" type="line"/>
+      <point x="186" y="1448" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="604" type="line"/>
+      <point x="1080" y="604" type="line"/>
+      <point x="1080" y="0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

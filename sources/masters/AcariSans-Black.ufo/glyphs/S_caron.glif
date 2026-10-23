@@ -2,12 +2,15 @@
 <glyph name="Scaron" format="2">
   <advance width="1172"/>
   <unicode hex="0160"/>
+  <anchor x="588" y="1618" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="902" yOffset="421"/>
+    <component base="caroncomb" xOffset="908" yOffset="384"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>S+caroncomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

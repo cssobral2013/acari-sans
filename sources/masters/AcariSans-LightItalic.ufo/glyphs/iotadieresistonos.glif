@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="560"/>
+  <unicode hex="0390"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="344" y="836" name="center"/>
+  <anchor x="696" y="1064" name="topright"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresistonos" xOffset="-152.641" yOffset="-39.2241"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iota+dieresistonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

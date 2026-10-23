@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1178"/>
+  <advance width="1199"/>
   <unicode hex="0388"/>
+  <anchor x="508" y="0" name="bottom"/>
+  <anchor x="983" y="0" name="ogonek"/>
+  <anchor x="189" y="1448" name="topleft"/>
   <outline>
-    <component base="Epsilon" xOffset="-121.75"/>
-    <component base="tonos" xOffset="-375.75" yOffset="-4"/>
+    <component base="Epsilon"/>
+    <component base="tonos.case" xOffset="-284"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

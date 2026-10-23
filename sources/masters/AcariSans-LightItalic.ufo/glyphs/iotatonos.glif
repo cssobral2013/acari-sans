@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotatonos" format="2">
-  <advance width="511"/>
+  <advance width="532"/>
   <unicode hex="03AF"/>
+  <anchor x="493" y="1198" name="_top left"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="344" y="836" name="center"/>
+  <anchor x="696" y="1064" name="topright"/>
   <outline>
-    <component base="iota" xOffset="-100"/>
-    <component base="tonos" xOffset="151" yOffset="121"/>
+    <component base="iota"/>
+    <component base="tonos.case" xOffset="62"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

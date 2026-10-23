@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="967"/>
+  <unicode hex="0385"/>
+  <anchor x="483" y="1010" name="_top"/>
+  <outline>
+    <contour>
+      <point x="301.056" y="1169.41" type="line"/>
+      <point x="301.056" y="1427.46" type="line"/>
+      <point x="79.872" y="1427.46" type="line"/>
+      <point x="79.872" y="1169.41" type="line"/>
+    </contour>
+    <contour>
+      <point x="886.784" y="1169.41" type="line"/>
+      <point x="886.784" y="1427.46" type="line"/>
+      <point x="665.6" y="1427.46" type="line"/>
+      <point x="665.6" y="1169.41" type="line"/>
+    </contour>
+    <contour>
+      <point x="669.696" y="1622.02" type="line"/>
+      <point x="479.232" y="1660.93" type="line"/>
+      <point x="397.312" y="1218.56" type="line"/>
+      <point x="518.144" y="1189.89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

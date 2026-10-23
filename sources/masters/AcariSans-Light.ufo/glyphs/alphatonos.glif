@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="1156"/>
+  <advance width="1340"/>
   <unicode hex="03AC"/>
+  <anchor x="635" y="0" name="bottom"/>
+  <anchor x="635" y="533" name="center"/>
+  <anchor x="762" y="0" name="ogonek"/>
+  <anchor x="1126" y="789" name="topright"/>
   <outline>
-    <component base="alpha" xOffset="-21"/>
-    <component base="tonos" xOffset="483" yOffset="190"/>
+    <component base="alpha"/>
+    <component base="tonos" xOffset="484" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alpha+tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

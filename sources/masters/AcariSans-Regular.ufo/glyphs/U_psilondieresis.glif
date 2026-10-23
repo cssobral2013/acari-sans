@@ -2,8 +2,15 @@
 <glyph name="Upsilondieresis" format="2">
   <advance width="1350"/>
   <unicode hex="03AB"/>
+  <anchor x="674" y="1618" name="top"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="dieresis" xOffset="344" yOffset="300"/>
+    <component base="dieresis" xOffset="343" yOffset="384"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

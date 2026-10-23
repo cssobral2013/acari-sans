@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilontonos" format="2">
-  <advance width="1162"/>
+  <advance width="1101"/>
   <unicode hex="03CD"/>
+  <anchor x="813" y="1198" name="_top left"/>
+  <anchor x="463" y="0" name="bottom"/>
+  <anchor x="870" y="0" name="ogonek"/>
+  <anchor x="1140" y="958" name="topright"/>
   <outline>
-    <component base="upsilon" xOffset="-99"/>
-    <component base="tonos" xOffset="489" yOffset="181"/>
+    <component base="upsilon"/>
+    <component base="tonos.case" xOffset="381"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

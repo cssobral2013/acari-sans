@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="2">
-  <advance width="1728"/>
+  <advance width="1548"/>
   <unicode hex="038F"/>
+  <anchor x="97" y="1010" name="_top"/>
+  <anchor x="633" y="0" name="bottom"/>
+  <anchor x="799" y="726" name="center"/>
+  <anchor x="780" y="0" name="ogonek"/>
+  <anchor x="206" y="1448" name="topleft"/>
+  <anchor x="1434" y="1448" name="topright"/>
   <outline>
-    <component base="tonos"/>
-    <component base="Omega" xOffset="130"/>
+    <component base="Omega"/>
+    <component base="tonos.case" xOffset="-134"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=1</string>
-  <key>com.fontlab.recipe</key>
-  <string>tonos_Omega</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

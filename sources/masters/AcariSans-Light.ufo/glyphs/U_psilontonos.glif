@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="1680"/>
+  <advance width="1233"/>
   <unicode hex="038E"/>
   <outline>
-    <component base="tonos"/>
-    <component base="Upsilon" xOffset="331"/>
+    <contour>
+      <point x="-163" y="1157" type="line"/>
+      <point x="-21" y="1448" type="line"/>
+      <point x="-150" y="1448" type="line"/>
+      <point x="-264" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="742" y="0" type="line"/>
+      <point x="742" y="566" type="line"/>
+      <point x="1282" y="1448" type="line"/>
+      <point x="1121" y="1448" type="line"/>
+      <point x="674" y="711" type="line"/>
+      <point x="228" y="1448" type="line"/>
+      <point x="67" y="1448" type="line"/>
+      <point x="608" y="566" type="line"/>
+      <point x="608" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>tonos_Upsilon</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

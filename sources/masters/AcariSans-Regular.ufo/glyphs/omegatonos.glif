@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos" format="2">
-  <advance width="1488"/>
+  <advance width="1565"/>
   <unicode hex="03CE"/>
+  <anchor x="795" y="0" name="bottom"/>
+  <anchor x="795" y="533" name="center"/>
+  <anchor x="928" y="0" name="ogonek"/>
+  <anchor x="1283" y="776" name="topright"/>
   <outline>
     <component base="omega"/>
-    <component base="tonos" xOffset="692" yOffset="193"/>
+    <component base="tonos" xOffset="642" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>omega+tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

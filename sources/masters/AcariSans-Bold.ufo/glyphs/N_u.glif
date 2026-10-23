@@ -2,7 +2,14 @@
 <glyph name="Nu" format="2">
   <advance width="1489"/>
   <unicode hex="039D"/>
+  <anchor x="754" y="1618" name="top"/>
   <outline>
     <component base="N"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

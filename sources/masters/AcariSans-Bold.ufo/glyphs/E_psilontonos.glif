@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1275"/>
+  <advance width="1203"/>
   <unicode hex="0388"/>
   <outline>
-    <component base="Epsilon"/>
-    <component base="tonos" xOffset="-115" yOffset="-16"/>
+    <contour>
+      <point x="-129" y="1153" type="line"/>
+      <point x="63" y="1448" type="line"/>
+      <point x="-173" y="1448" type="line"/>
+      <point x="-311" y="1153" type="line"/>
+    </contour>
+    <contour>
+      <point x="1149" y="0" type="line"/>
+      <point x="1149" y="246" type="line"/>
+      <point x="446" y="246" type="line"/>
+      <point x="446" y="605" type="line"/>
+      <point x="1101" y="605" type="line"/>
+      <point x="1101" y="844" type="line"/>
+      <point x="446" y="844" type="line"/>
+      <point x="446" y="1209" type="line"/>
+      <point x="1149" y="1209" type="line"/>
+      <point x="1149" y="1448" type="line"/>
+      <point x="186" y="1448" type="line"/>
+      <point x="186" y="0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

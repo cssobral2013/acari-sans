@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-  <advance width="1191"/>
+  <advance width="1208"/>
   <unicode hex="03A4"/>
+  <anchor x="837" y="1620" name="top"/>
+  <anchor x="488" y="0" name="cedilla"/>
+  <anchor x="448" y="-120" name="bottom"/>
   <outline>
-    <component base="T" xOffset="-100"/>
+    <component base="T"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

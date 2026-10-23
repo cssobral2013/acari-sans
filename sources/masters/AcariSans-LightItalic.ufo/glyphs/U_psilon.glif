@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
-  <advance width="1352"/>
+  <advance width="1363"/>
   <unicode hex="03A5"/>
+  <anchor x="848" y="1620" name="top"/>
+  <anchor x="534" y="-120" name="bottom"/>
   <outline>
-    <component base="Y" xOffset="-99"/>
+    <component base="Y"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="1197"/>
+  <advance width="1230"/>
   <unicode hex="03AC"/>
+  <anchor x="964" y="1198" name="_top left"/>
+  <anchor x="495" y="0" name="bottom"/>
+  <anchor x="616" y="533" name="center"/>
+  <anchor x="654" y="0" name="ogonek"/>
+  <anchor x="1138" y="719" name="topright"/>
   <outline>
-    <component base="alpha" xOffset="-113"/>
-    <component base="tonos" xOffset="408" yOffset="170"/>
+    <component base="alpha"/>
+    <component base="tonos.case" xOffset="413"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

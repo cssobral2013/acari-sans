@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="1276"/>
+  <advance width="1202"/>
   <unicode hex="03A7"/>
   <outline>
-    <component base="X" xOffset="-100"/>
+    <component base="X"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

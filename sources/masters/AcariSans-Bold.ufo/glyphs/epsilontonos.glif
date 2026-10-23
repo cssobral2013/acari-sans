@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
-  <advance width="974"/>
+  <advance width="1125"/>
   <unicode hex="03AD"/>
+  <anchor x="622" y="0" name="bottom"/>
   <outline>
     <component base="epsilon"/>
-    <component base="tonos" xOffset="445" yOffset="182"/>
+    <component base="tonos" xOffset="405" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon+tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

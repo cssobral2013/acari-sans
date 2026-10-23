@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="etatonos" format="2">
-  <advance width="1245"/>
+  <advance width="1222"/>
   <unicode hex="03AE"/>
+  <anchor x="639" y="0" name="bottom"/>
   <outline>
     <component base="eta"/>
-    <component base="tonos" xOffset="542" yOffset="181"/>
+    <component base="tonos" xOffset="480" yOffset="54"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>eta+tonos</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

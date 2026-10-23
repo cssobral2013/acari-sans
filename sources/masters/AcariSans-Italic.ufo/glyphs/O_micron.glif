@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-  <advance width="1570"/>
+  <advance width="1522"/>
   <unicode hex="039F"/>
-  <anchor x="503" y="-120" name="bottom"/>
-  <anchor x="635.75" y="0" name="ogonek"/>
-  <anchor x="1625.25" y="1447" name="pos"/>
-  <anchor x="853" y="1620" name="top"/>
+  <anchor x="954" y="1620" name="top"/>
+  <anchor x="736.75" y="0" name="ogonek"/>
+  <anchor x="1726.25" y="1447" name="pos"/>
+  <anchor x="604" y="-120" name="bottom"/>
   <outline>
-    <component base="O" xOffset="-101"/>
+    <component base="O"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

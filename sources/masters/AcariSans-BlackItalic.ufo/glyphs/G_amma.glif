@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="2">
-  <advance width="1088"/>
+  <advance width="1170"/>
   <unicode hex="0393"/>
+  <anchor x="871" y="1620" name="top"/>
   <outline>
-    <component base="Gecyr" xOffset="-101"/>
+    <component base="Gecyr"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Gecyr</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="386"/>
+  <advance width="499"/>
   <unicode hex="038A"/>
-  <anchor x="-56.5" y="-120" name="bottom"/>
-  <anchor x="52" y="0" name="ogonek"/>
-  <anchor x="301" y="1620" name="top"/>
+  <anchor x="-49" y="1010" name="_top"/>
+  <anchor x="119" y="0" name="bottom"/>
+  <anchor x="204" y="0" name="ogonek"/>
+  <anchor x="446" y="1448" name="top_die"/>
+  <anchor x="189" y="1448" name="topleft"/>
   <outline>
-    <component base="I" xOffset="-221"/>
-    <component base="tonos" xOffset="-399.75" yOffset="-18.5"/>
+    <component base="Iota"/>
+    <component base="tonos.case" xOffset="-282"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>tonos</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>I</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

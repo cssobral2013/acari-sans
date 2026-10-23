@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresistonos" format="2">
-  <advance width="1159"/>
+  <advance width="1101"/>
   <unicode hex="03B0"/>
+  <anchor x="463" y="0" name="bottom"/>
+  <anchor x="870" y="0" name="ogonek"/>
+  <anchor x="1140" y="958" name="topright"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresisacute" xOffset="249"/>
+    <component base="dieresistonos" xOffset="184"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>upsilon</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>upsilon</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>
